@@ -6,14 +6,14 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🌲林中小屋🏠",
+            "name": "🌴林中小屋🏠公众号:林中的小屋",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "神荼",
-            "name": "vx小程序纷传丨搜索软件分享阁",
+            "name": "vx小程序“纷传”丨搜索“软件分享阁”",
             "type": 3,
             "api": "csp_WebIV",
             "searchable": 0,
@@ -33,7 +33,7 @@
         },
         {
             "key": "配置中心",
-            "name": "📚配置中心",
+            "name": "🌐配置中心",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -62,16 +62,6 @@
             "searchable": 1,
             "changeable": 0,
             "jar": "./danmu.jar"
-        },
-        {
-            "key": "采集之王",
-            "name": "🥗采集丨之王",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "order_num": 142,
-            "ext": "./JS/采集之王.js?type=url&params=./lib/采集静态.json"
         },
         {
             "key": "南瓜影视",
