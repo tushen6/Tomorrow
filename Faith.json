@@ -44,6 +44,22 @@
             },
             "jar": "./danmu.jar"
         },
+            {
+      "key": "玩偶",
+      "name": "🌐饭佬玩偶┃增加UC网盘",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar": "./jar/fty.jar",
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.link/",
+        "danMu": "弹"
+      }
+    },
         {
             "key": "韩小圈",
             "name": "⭕韩小圈🔘",
