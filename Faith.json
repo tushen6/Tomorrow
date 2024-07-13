@@ -11,14 +11,7 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-         {
-            "key": "影视",
-            "name": "vx小程序“纷传”丨搜索“软件分享阁”",
-            "type": 3,
-            "api": "csp_WexNmys",
-            "searchable": 0,
-            "changeable": 0
-        },
+
         {
             "key": "云盘登录",
             "name": "🌐云盘登录",
