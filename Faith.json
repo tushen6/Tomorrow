@@ -108,6 +108,27 @@
             "filterable": 1,
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
+	     {
+            "key": "timizy",
+            "name": "🌞官源|解析",
+            "type": 1,
+            "api": "https://vipcj.timizy.com/api.php/provide/vod",
+            "categories": [
+                "国产剧",
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "电影",
+                "连续剧",
+                "综艺",
+                "动漫",
+                "其他剧",
+                "资讯",
+                "儿童",
+                "公告",
+                "头条"
+            ]
+        },
         {
             "key": "热播影视",
             "name": "🔥热播丨影视",
@@ -1341,7 +1362,7 @@
         },
         {
             "name": "推荐3",
-            "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
+            "url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=",
             "type": "1",
             "status": "normal",
             "type_text": "Type 1",
