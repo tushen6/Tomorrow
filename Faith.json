@@ -1384,6 +1384,14 @@
             "type_text": "Type 1",
             "status_text": "正常"
         },
+	     {
+            "name": "推荐6",
+            "url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=",
+            "type": "1",
+            "status": "normal",
+            "type_text": "Type 1",
+            "status_text": "正常"
+        },
         {
             "name": "线路1",
             "type": 0,
