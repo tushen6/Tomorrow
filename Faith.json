@@ -64,16 +64,7 @@
             "jar": "./danmu.jar"
         },
        
-        {
-            "key": "采集之王",
-            "name": "🌈采集丨之王",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "order_num": 142,
-            "ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json$1$1"
-        },
+        
         {
             "key": "南瓜影视",
             "name": "🎃南瓜丨影视",
@@ -537,7 +528,16 @@
                 "欧美动漫"
             ]
         },
-       
+       {
+            "key": "采集之王",
+            "name": "🌈采集丨之王",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "order_num": 142,
+            "ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json$1$1"
+        },
      
         {
             "key": "58动漫",
