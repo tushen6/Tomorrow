@@ -88,6 +88,26 @@
             "quickSearch": 1,
             "filterable": 0
         },
+	    {
+            "key": "QQ",
+            "name": "🔴扣扣丨官源",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://122.228.84.103:5825/api.php/app/"
+        },
+   {
+	   "key": "酷影",
+            "name": "😊酷影丨影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.tvkuys.xyz/api.php/app/"
+        },
         {
             "key": "热播影视",
             "name": "🔥热播丨影视",
