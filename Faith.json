@@ -157,14 +157,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-          {
-    "key":"奇遇影视",
-    "name":"👿奇遇┃影视",
-    "type":1,
-    "api":"http://qy.wangwangwang.xyz/api.php/provide/vod/",
-    "searchable":1,
-    "quickSearch":1
-    },
+          
         {
 		     "key":"牛牛资源",
 		     "name":"👿老牛丨影视",
@@ -180,15 +173,7 @@
             
                             
                         
-        {
-            "key": "可可影视",
-            "name": "🍇KK丨影视",
-            "type": 3,
-            "api": "csp_Keke",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        
       
         {
             "key": "疯狗影视",
@@ -241,14 +226,7 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "啾啾影视",
-            "name": "🧡啾啾丨影视",
-            "type": 3,
-            "api": "csp_Wexjiohub",
-            "searchable": 1,
-            "changeable": 1
-        },
+       
         {
             "key": "星辰影视",
             "name": "💛星辰丨影视",
@@ -291,14 +269,7 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "花蕊影视",
-            "name": "🌸花蕊丨影视",
-            "type": 3,
-            "api": "csp_Wexhuaruitv",
-            "searchable": 1,
-            "changeable": 1
-        },
+     
         {
             "key": "精品短剧",
             "name": "🌼精品丨短剧",
@@ -333,15 +304,7 @@
             "quickSearch": 0,
             "filterable": 0
         },
-        {
-            "key": "看看影视",
-            "name": "💋看看丨影视",
-            "type": 3,
-            "api": "csp_WebIV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+     
         {
             "key": "大米星球",
             "name": "🧧大米丨星球",
@@ -437,14 +400,7 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/追剧迷.js"
-        },
-        {
-            "key": "看了么",
-            "name": "👿看了么👿",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/看了么.js"
-        },
+	}，
        
         {
             "key": "茶杯狐",
@@ -748,19 +704,7 @@
             },
             "jar": "./danmu.jar"
         },
-        {
-            "key": "小苹果弹幕",
-            "name": "📃弹幕｜小苹果",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
+
         {
             "key": "一起看弹幕",
             "name": "📃弹幕｜一起看",
@@ -774,19 +718,7 @@
             },
             "jar": "./danmu.jar"
         },
-        {
-            "key": "JOJO弹幕",
-            "name": "📃弹幕｜JOJO",
-            "type": 3,
-            "api": "csp_Jiohub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
+        
         {
             "key": "荐片弹幕",
             "name": "📃弹幕｜荐片",
