@@ -363,16 +363,7 @@
             "filterable": 1,
             "ext": "./lib/新视觉.json"
         },
-        {
-            "key": "电影牛",
-            "name": "👿电影牛👿",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/电影牛.json"
-        },
+
         {
             "key": "爱奇艺",
             "name": "👿爱奇艺👿",
