@@ -1424,33 +1424,7 @@
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
         },
-	    {
-			"key": "JustLive",
-			"name": "⛽主播丨Live",
-			"type": 3,
-			"jar": "./lib/pg.jar",
-			"api": "csp_JustLive",
-			"searchable": 1,
-			"changeable": 0
-		},
-            {
-			"key": "酷狗",
-			"name": "🐶酷狗丨音乐",
-			"type": 3,
-			"jar": "./lib/pg.jar",
-			"api": "csp_Kugou",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{
-			"key": "Iktv",
-			"name": "🎵音乐丨MV",
-			"type": 3,
-			"jar": "./lib/pg.jar",
-			"api": "csp_Iktv",
-			"searchable": 1,
-			"changeable": 0
-		},
+	    
         {
             "key": "push_agent",
             "name": "🌐推送",
