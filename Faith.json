@@ -836,18 +836,18 @@
             },
             "jar": "./danmu.jar"
         },
-        {
-            "key": "玩偶弹幕",
-            "name": "📝4K玩偶丨弹幕",
+          {
+            "key": "夸克玩偶弹幕",
+            "name": "📝4K弹幕｜玩偶",
             "type": 3,
-            "api": "csp_Wogg",
+            "api": "csp_Wobg",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "site": "https://www.wogg.net",
                 "danmu": true
             },
             "jar": "./danmu.jar"
@@ -869,17 +869,18 @@
             "jar": "./danmu.jar"
         },
         {
-            "key": "夸克玩偶弹幕",
-            "name": "📝4K玩偶｜夸克",
+            "key": "玩偶弹幕",
+            "name": "📝4K玩偶丨弹幕",
             "type": 3,
-            "api": "csp_Wobg",
+            "api": "csp_Wogg",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://www.wogg.link",
                 "danmu": true
             },
             "jar": "./danmu.jar"
@@ -1042,7 +1043,7 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt"
             },
-            "jar": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/danmu.jar"
+            "jar": "./danmu.jar"
         },
         {
             "key": "夸克趣盘搜弹幕",
@@ -1247,6 +1248,22 @@
             },
             "jar": "./danmu.jar"
         },
+	    {
+            "key": "我的UC",
+            "name": "🌀我的｜UC",
+            "type": 3,
+            "api": "csp_MyUc",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
+            },
+            "style": {
+                "type": "list"
+            },
+            "jar": "./danmu.jar"
+        },
         {
             "key": "阿里合集",
             "name": "🌀4K阿里｜合集",
@@ -1266,7 +1283,7 @@
         },
         {
             "key": "玩偶哥哥",
-            "name": "🌀4K云盘｜玩偶",
+            "name": "4K云盘玩偶",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -1276,7 +1293,7 @@
         },
         {
             "key": "云盘六趣",
-            "name": "🌀4K云盘｜六趣",
+            "name": "4K云盘六趣",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -1286,7 +1303,7 @@
         },
         {
             "key": "天天开心",
-            "name": "🌀4K云盘｜开心",
+            "name": "4K云盘开心",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -1296,7 +1313,7 @@
         },
         {
             "key": "土豆网盘",
-            "name": "🌀4K云盘｜土豆",
+            "name": "4K云盘土豆",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -1306,7 +1323,7 @@
         },
 	    {
             "key": "云盘蜡笔",
-            "name": "🌀4K云盘｜蜡笔",
+            "name": "4K云盘蜡笔",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -1316,7 +1333,7 @@
         },
         {
             "key": "多多影音",
-            "name": "🌀4K云盘｜多多",
+            "name": "4K云盘多多",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -1326,7 +1343,7 @@
         },
         {
             "key": "云盘搜索",
-            "name": "🌀4K云盘｜搜索",
+            "name": "4K云盘搜索",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -1336,7 +1353,7 @@
         },
         {
             "key": "影搜",
-            "name": "🌀4K云盘｜影搜",
+            "name": "4K云盘影搜",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -1346,7 +1363,7 @@
         },
         {
             "key": "Upyunso",
-            "name": "🌀4K云盘｜云搜",
+            "name": "4K云盘云搜",
             "type": 3,
             "api": "csp_Upyunso",
             "searchable": 1,
@@ -1356,7 +1373,7 @@
         },
         {
             "key": "AliPS",
-            "name": "🌀4K云盘｜盘搜",
+            "name": "4K云盘盘搜",
             "type": 3,
             "api": "csp_AliPS",
             "searchable": 1,
@@ -1366,7 +1383,7 @@
         },
         {
             "key": "Yisou",
-            "name": "🌀4K云盘｜易搜",
+            "name": "4K云盘易搜",
             "type": 3,
             "api": "csp_Yisou",
             "searchable": 1,
@@ -1376,7 +1393,7 @@
         },
         {
             "key": "阿里苏苏",
-            "name": "🌀4K云盘｜苏苏",
+            "name": "4K云盘苏苏",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -1386,7 +1403,7 @@
         },
         {
             "key": "云盘论坛",
-            "name": "🌀4K云盘｜论坛",
+            "name": "4K云盘论坛",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -1396,7 +1413,7 @@
         },
         {
             "key": "云盘资源",
-            "name": "🌀4K云盘｜资源",
+            "name": "4K云盘资源",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -1406,7 +1423,7 @@
         },
         {
             "key": "我的小站",
-            "name": "🌀4K云盘｜小站",
+            "name": "4K云盘小站",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "searchable": 1,
@@ -1416,7 +1433,7 @@
         },
         {
             "key": "Gitcafe",
-            "name": "🌀4K云盘｜小纸条",
+            "name": "4K云盘小纸条",
             "type": 3,
             "api": "csp_Gitcafe",
             "searchable": 1,
@@ -1435,7 +1452,8 @@
             "changeable": 0,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
             },
             "jar": "./danmu.jar"
         }
@@ -1447,7 +1465,7 @@
             "url": "Demo"
         },
 	    {
-            "name": "推荐1",
+            "name": "解析1",
             "url": "http://jx.li0580.com/home/api?type=ys&uid=2712055&key=ehknxBCFGIKLMUVXZ5&url=",
             "type": "1",
             "status": "normal",
@@ -1455,7 +1473,7 @@
             "status_text": "正常"
         },
         {
-            "name": "推荐2",
+            "name": "解析2",
             "url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=",
             "type": "1",
             "status": "normal",
@@ -1463,7 +1481,7 @@
             "status_text": "正常"
         },
         {
-            "name": "推荐3",
+            "name": "解析3",
             "url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=",
             "type": "1",
             "status": "normal",
@@ -1471,7 +1489,7 @@
             "status_text": "正常"
         },
         {
-            "name": "推荐4",
+            "name": "解析4",
             "url": "http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=",
             "type": "1",
             "status": "normal",
@@ -1479,7 +1497,7 @@
             "status_text": "正常"
         },
         {
-            "name": "推荐5",
+            "name": "解析5",
             "url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=",
             "type": "1",
             "status": "normal",
@@ -1487,12 +1505,29 @@
             "status_text": "正常"
         },
 	     {
-            "name": "推荐6",
-            "url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
+            "name": "解析6",
+            "url": "http://115.231.220.36:8801/jx/tvbox/zyy.php?url=",
+            "type": 1,
+            "ext": {
+                "flag": [
+                    "youku",
+                    "qq",
+                    "qiyi",
+                    "bilibili",
+                    "mgtv",
+                    "pptv",
+                    "xigua",
+                    "xiguatv",
+                    "mytv",
+                    "dsj",
+                    "FYNB",
+                    "NBY",
+                    "BTJSON"
+                ],
+                "header": {
+                    "User-Agent": "Dalvik/2.1.0"
+                }
+            }
         },
         {
             "name": "线路1",
