@@ -868,9 +868,9 @@
             },
             "jar": "./danmu.jar"
         },
-        {
+         {
             "key": "玩偶弹幕",
-            "name": "📝4K玩偶丨弹幕",
+            "name": "📝弹幕｜玩偶",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -879,8 +879,8 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://www.wogg.link",
+               "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+		    "site": "https://www.wogg.net",
                 "danmu": true
             },
             "jar": "./danmu.jar"
