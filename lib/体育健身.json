@@ -1,0 +1,90 @@
+{
+  "classes": [
+    {
+      "type_name": "UFC",
+      "type_id": "UFC"
+    },
+    {
+      "type_name": "田径",
+      "type_id": "田径"
+    },
+    {
+      "type_name": "赛艇",
+      "type_id": "赛艇"
+    },
+   {
+      "type_name": "拳击",
+      "type_id": "拳击"
+    },
+
+    {
+      "type_name": "皮划艇",
+      "type_id": "皮划艇赛事"
+    },
+
+{
+      "type_name": "自行车",
+      "type_id": "自行车赛事"
+    },
+{
+      "type_name": "击剑",
+      "type_id": "击剑"
+    },
+    {
+      "type_name": "体操",
+      "type_id": "体操"
+    },
+    {
+      "type_name": "举重",
+      "type_id": "举重"
+    },
+    {
+      "type_name": "柔道",
+      "type_id": "柔道"
+    },
+    {
+      "type_name": "藤球",
+      "type_id": "藤球"
+    },
+    {
+      "type_name": "摔跤",
+      "type_id": "摔跤"
+    },
+    {
+      "type_name": "水上项目",
+      "type_id": "水上项目"
+    },
+
+    {
+      "type_name": "现代五项",
+      "type_id": "现代五项"
+    },
+    {
+      "type_name": "马术",
+      "type_id": "马术"
+    },
+   {
+      "type_name": "跆拳道",
+      "type_id": "跆拳道"
+    },
+{
+      "type_name": "射击",
+      "type_id": "射击"
+    },
+    {
+      "type_name": "射箭",
+      "type_id": "射箭"
+    },
+   {
+      "type_name": "铁人三项",
+      "type_id": "铁人三项"
+    },
+{
+      "type_name": "帆船帆板",
+      "type_id": "帆船帆板"
+    }
+
+
+  ],
+  "cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7"
+}

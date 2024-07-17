@@ -1,0 +1,65 @@
+{
+  "classes": [
+    {
+	  "type_name": "中医药",
+      "type_id": "中医药"
+    },
+    {
+      "type_name": "中医基础",
+      "type_id": "中医基础"
+    },
+    {
+      "type_name": "中药基础",
+      "type_id": "中药基础"
+    },
+    {
+      "type_name": "伤寒论",
+      "type_id": "伤寒论"
+    },
+    {
+      "type_name": "难论",
+      "type_id": "难论"
+    },
+   {
+      "type_name": "神农本草经",
+      "type_id": "神农本草经"
+    },
+    
+    {
+      "type_name": "金匮要略",
+      "type_id": "金匮要略"
+    },
+ {
+      "type_name": "脉经",
+      "type_id": "脉经"
+    },
+     {
+      "type_name": "中藏经",
+      "type_id": "中藏经"
+    },
+    
+    {
+      "type_name": "针灸甲乙经",
+      "type_id": "针灸甲乙经"
+    },
+ {
+      "type_name": "濒湖脉学",
+      "type_id": "濒湖脉学"
+    },
+
+     {
+      "type_name": "本草纲目",
+      "type_id": "本草纲目"
+    },
+    
+    {
+      "type_name": "汤头歌诀",
+      "type_id": "汤头歌诀"
+    },
+ {
+      "type_name": "药性赋",
+      "type_id": "药性赋"
+    }
+  ],
+ "cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7"  
+}

@@ -1,0 +1,103 @@
+{
+  "classes": [
+    {
+      "type_name": "单口相声",
+      "type_id": "单口相声"
+    },
+    {
+      "type_name": "群口相声",
+      "type_id": "群口相声"
+    },
+    {
+      "type_name": "德云社",
+      "type_id": "德云社"
+    },
+    {
+      "type_name": "青曲社",
+      "type_id": "青曲社"
+    },
+    {
+      "type_name": "郭德纲",
+      "type_id": "郭德纲"
+    },
+   {
+      "type_name": "岳云鹏",
+      "type_id": "岳云鹏"
+    },
+    
+    {
+      "type_name": "曹云金",
+      "type_id": "曹云金"
+    },
+ {
+      "type_name": "评书",
+      "type_id": "评书"
+    },
+     {
+      "type_name": "小曲",
+      "type_id": "小区"
+    },
+    
+    {
+      "type_name": "二人转",
+      "type_id": "二人转"
+    },
+ {
+      "type_name": "春晚小品",
+      "type_id": "春晚小品"
+    },
+          {
+            "type_name": "赵本山",
+            "type_id": "赵本山"
+          },
+          {
+            "type_name": "陈佩斯",
+            "type_id": "陈佩斯"
+          },
+          {
+            "type_name": "冯巩",
+            "type_id": "冯巩"
+          },
+          {
+            "type_name": "宋小宝",
+            "type_id": "宋小宝"
+          },
+          {
+            "type_name": "赵丽蓉",
+            "type_id": "赵丽蓉"
+          },
+          {
+            "type_name": "郭达",
+            "type_id": "郭达"
+          },
+          {
+            "type_name": "潘长江",
+            "type_id": "潘长江"
+          },
+          {
+            "type_name": "郭冬临",
+            "type_id": "郭冬临"
+          },
+          {
+            "type_name": "严顺开",
+            "type_id": "严顺开"
+          },
+          {
+            "type_name": "文松",
+            "type_id": "文松"
+          },
+          {
+            "type_name": "开心麻花",
+            "type_id": "开心麻花"
+          },
+          {
+            "type_name": "屌丝男士",
+            "type_id": "屌丝男士"
+          },
+          {
+            "type_name": "喜剧综艺",
+            "type_id": "喜剧综艺"
+          }	
+  ],
+  "cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7" 
+}

@@ -1,0 +1,73 @@
+{
+	"classes": [{
+			"type_name": "经典无损音乐合集",
+			"type_id": "经典无损音乐合集"
+		},
+		{
+			"type_name": "2023年热榜",
+			"type_id": "2023年热门歌曲"
+		},		
+		{
+			"type_name": "宝华音乐台",
+			"type_id": "宝华音乐台"
+		},	
+		{
+			"type_name": "KTV热门",
+			"type_id": "KTV热门MV"
+		},	
+		{
+			"type_name": "MV",
+			"type_id": "MV"
+		},		
+		{
+			"type_name": "经典老歌",
+			"type_id": "经典老歌"
+		},		
+		{
+			"type_name": "经典粤语",
+			"type_id": "粤语歌曲超清"
+		},	
+		{
+			"type_name": "滚石经典",
+			"type_id": "滚石MV"
+		},
+		{
+			"type_name": "古风歌曲",
+			"type_id": "古风歌曲"
+		},
+		{
+			"type_name": "闽南语歌曲",
+			"type_id": "闽南语歌曲"
+		},
+		{
+			"type_name": "欧美金曲",
+			"type_id": "欧美金曲"
+		},
+		{
+			"type_name": "日韩MV",
+			"type_id": "日韩MV"
+		},				
+		{
+			"type_name": "印度歌舞",
+			"type_id": "印度歌舞"
+		},
+		{
+			"type_name": "黑胶",
+			"type_id": "黑胶"
+		},
+		{
+			"type_name": "翻唱",
+			"type_id": "网红翻唱"
+		},
+		{
+			"type_name": "韩国女团",
+			"type_id": "韩国女团MV"
+		},
+		{
+			"type_name": "DJ",
+			"type_id": "DJ"
+		}
+	],
+	"cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7"
+
+}
