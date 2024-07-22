@@ -1425,14 +1425,14 @@
     },
      {
       "key": "c",
-      "name": "请勿相信片中广告，小心上当受骗！",
+      "name": "请勿相信片中广告小心上当受骗！",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1,
-      "jar": "./jar/duo.jar",
-      "ext": "./lib/体育健身.json"
+      "filterable": 0,
+      "jar": "",
+      "ext": ""
     },
         {
             "key": "push_agent",
