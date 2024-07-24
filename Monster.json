@@ -2,7 +2,7 @@
     "spider": "./spider.jar",
     "wallpaper": "http://127.0.0.1:9978/file/TVBox/wallpaper.jpg",
     "logo": "https://p0.meituan.net/csc/2a37e8f8c0e188948b5ddb81868e2c80224570.gif",
-    
+    "homeLogo": "https://vip.123pan.cn/1829447248/fx/homelogo.jpg",
     "sites": [
         {
             "key": "豆瓣",
@@ -32,7 +32,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 2.597
+                "ratio": 1.987
             },
             "jar": "./danmu.jar"
         },
@@ -95,6 +95,19 @@
             "name": "天天弹幕📑蓝光",
             "type": 3,
             "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+         {
+            "key": "小苹果弹幕",
+            "name": "苹果弹幕📑蓝光",
+            "type": 3,
+            "api": "csp_Xpg",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -225,8 +238,17 @@
                 "分类": "剧集$1#电影$2#动漫$3#综艺$4"
             }
         },
-   {
-	   "key": "酷影",
+         {
+            "key": "看看影视",
+            "name": "看看✨蓝光秒播",
+            "type": 3,
+            "api": "csp_WebIV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+         {
+	        "key": "酷影",
             "name": "酷影✨蓝光影视",
             "type": 3,
             "api": "csp_AppYsV2",
@@ -256,7 +278,24 @@
                 "头条"
             ]
         },
-	     
+	       {
+            "key": "可可影视",
+            "name": "可可✨蓝光影视",
+            "type": 3,
+            "api": "csp_Keke",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+          {
+            "key": "最新影视",
+            "name": "兔兔✨蓝光影视",
+            "type": 3,
+            "api": "csp_Zx1080",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "热播影视",
             "name": "热播✨蓝光影视",
@@ -949,6 +988,39 @@
             },
             "jar": "./danmu.jar"
         },
+         {
+            "key": "夸克奥秘弹幕",
+            "name": "💯4K奥秘丨臻享画质",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://vip.omii.top",
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+         {
+            "key": "立播弹幕",
+            "name": "💯4K立播丨极致畅享",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
         {
             "key": "夸克影搜弹幕",
             "name": "💯4K影搜丨网盘搜索",
@@ -1139,135 +1211,7 @@
             "jar": "./danmu.jar"
         },
         
-        {
-            "key": "荐片",
-            "name": "荐片🧲磁力资源",
-            "type": 3,
-            "api": "csp_JianPian",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://api2.rinhome.com"
-        },
-        {
-            "key": "New6v",
-            "name": "New6V🧲磁力资源",
-            "type": 3,
-            "api": "csp_New6v",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.xb6v.com"
-        },
-        {
-            "key": "SeedHub",
-            "name": "SeedHub🧲磁力资源",
-            "type": 3,
-            "api": "csp_SeedHub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-       
-        {
-            "key": "磁力熊",
-            "name": "磁力熊🧲磁力资源",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/磁力熊.js"
-        },
-        {
-            "key": "美剧迷",
-            "name": "美剧迷🧲磁力资源",
-            "type": 3,
-            "api": "csp_MeijuMi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "迅雷吧",
-            "name": "迅雷吧🧲磁力资源",
-            "type": 3,
-            "api": "csp_Xunlei8",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "电影港",
-            "name": "电影港🧲磁力资源",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/电影港.json"
-        },
-        {
-            "key": "好恐怖",
-            "name": "好恐怖🧲磁力资源",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/好恐怖.json"
-        },
-        {
-            "key": "小白网",
-            "name": "小白网🧲磁力资源",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/小白网.json"
-        },
-
-        {
-            "key": "BT天堂",
-            "name": "BT天堂🧲磁力资源",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/BT天堂.json"
-        },
-        {
-            "key": "Mp4电影",
-            "name": "Mp4电影🧲磁力资源",
-            "type": 3,
-            "api": "csp_Mp4Mov",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        
-      
-        {
-            "key": "酷吧电影",
-            "name": "酷吧🧲磁力资源",
-            "type": 3,
-            "api": "csp_KubaCL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "美剧天堂",
-            "name": "磁力🧲美剧天堂",
-            "type": 3,
-            "api": "csp_MeijuTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-       
-       
+     
      
 	     {
             "key": "斗鱼直播",
@@ -1292,7 +1236,7 @@
         },
          {
       "key": "csp_Bili_Meinvw",
-      "name": "女团💖歌舞金曲",
+      "name": "🅱️女团💖歌舞金曲",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1303,7 +1247,7 @@
     },
     {
       "key": "csp_Bili_Nvtuan",
-      "name": "美女💖跳舞diss",
+      "name": "🅱️美女💖跳舞diss",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1314,7 +1258,7 @@
     },
     {
       "key": "csp_Bili_MTV",
-      "name": "哔哩🎵MTV汇总",
+      "name": "🅱️哔哩🎵MTV汇总",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1325,7 +1269,7 @@
     },
     {
       "key": "csp_Bili_Yinl2",
-      "name": "音乐🎵平台合集",
+      "name": "🅱️音乐🎵平台合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1337,7 +1281,7 @@
 
     {
       "key": "csp_Bili_dashan",
-      "name": "搭讪💖教程讲解",
+      "name": "🅱️搭讪💖教程讲解",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1348,7 +1292,7 @@
     },
     {
       "key": "csp_Bili__dapei",
-      "name": "搭配💖教程讲解",
+      "name": "🅱️搭配💖教程讲解",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
