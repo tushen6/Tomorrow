@@ -206,7 +206,25 @@
         "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
     },  
-	   
+	    {
+            "key": "皮皮虾影视",
+            "name": "皮皮虾✨蓝光影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "ext": {
+                "主页url": "http://www.ppxys.vip/",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "class=\"module-item-note\">&&</div>",
+                "链接": "href=\"&&\"",
+                "简介": "视频剧情简介:,&&",
+                "线路数组": "class=\"swiper-slide module-tab-item tab-item&&</small>",
+                "线路标题": ">&&<small",
+                "分类url": "http://www.ppxys.vip/s/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/2024.html",
+                "分类": "剧集$1#电影$2#动漫$3#综艺$4"
+            }
+        },
    {
 	   "key": "酷影",
             "name": "酷影✨蓝光影视",
@@ -726,7 +744,24 @@
             "ext": "./JS/Anime1.js"
         },
       
-       
+        {
+            "key": "动漫巴士",
+            "name": "动漫巴士🪅蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "ext": {
+                "主页url": "https://dm84.tv/",
+                "数组": "class=\"item\"&&</div>",
+                "图片": "data-bg=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "class=\"desc\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "<p>剧情：&&</p>",
+                "分类url": "https://dm84.tv/show-{cateId}--{by}-{class}--{year}-{catePg}.html",
+                "分类": "国产动漫$1#日本动漫$2#欧美动漫$3#电影$4"
+            }
+        },
         {
             "key": "动漫岛",
             "name": "动漫岛岛🪅蓝光",
@@ -1456,58 +1491,22 @@
             "type": 3,
             "url": "Demo"
         },
-	    {
-      "name": "🌴林中小屋🏡",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
         {
       "name": "Json轮询",
       "type": 2,
       "url": "Sequence"
     },
-	    {
-            "name": "解析1",
-            "url": "http://jx.li0580.com/home/api?type=ys&uid=2712055&key=ehknxBCFGIKLMUVXZ5&url=",
+    
+        {
+            "name": "🌴林中小屋🏡",
+            "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
             "type": "1",
             "status": "normal",
             "type_text": "Type 1",
             "status_text": "正常"
         },
         {
-            "name": "解析2",
-            "url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {
-            "name": "解析3",
-            "url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {
-            "name": "解析4",
-            "url": "http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {
-            "name": "解析5",
-            "url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-	     {
-            "name": "解析6",
+            "name": "🌴林中小屋🏡线路1",
             "url": "http://115.231.220.36:8801/jx/tvbox/zyy.php?url=",
             "type": 1,
             "ext": {
@@ -1532,7 +1531,7 @@
             }
         },
         {
-            "name": "线路1",
+            "name": "🌴林中小屋🏡线路2",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
@@ -1542,7 +1541,7 @@
             }
         },
         {
-            "name": "线路2",
+            "name": "🌴林中小屋🏡线路3",
             "type": 0,
             "url": "https://jx.quankan.app/?url=",
             "ext": {
@@ -1552,7 +1551,7 @@
             }
         },
         {
-            "name": "线路3",
+            "name": "🌴林中小屋🏡线路4",
             "type": 0,
             "url": "https://jx.yparse.com/index.php?url=",
             "ext": {
@@ -1562,7 +1561,7 @@
             }
         },
         {
-            "name": "线路4",
+            "name": "🌴林中小屋🏡线路5",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url=",
             "ext": {
@@ -1572,7 +1571,7 @@
             }
         },
         {
-            "name": "线路5",
+            "name": "🌴林中小屋🏡线路6",
             "type": 0,
             "url": "https://jx.aidouer.net/?url=",
             "ext": {
@@ -1583,30 +1582,16 @@
             }
         },
         {
-            "name": "线路6",
+            "name": "🌴林中小屋🏡线路7",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url="
         },
         {
-            "name": "线路7",
+            "name": "🌴林中小屋🏡线路8",
             "type": 0,
             "url": "https://www.8090g.cn/?url="
-        },
-        {
-            "name": "线路8",
-            "type": 0,
-            "url": "https://jx.yangtu.top?url="
-        },
-        {
-            "name": "线路9",
-            "type": 0,
-            "url": "https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
-            "name": "线路10",
-            "type": 0,
-            "url": "https://www.ckplayer.vip/jiexi/?url="
         }
+       
     ],
     "rules": [
         {
