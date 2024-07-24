@@ -1456,6 +1456,11 @@
             "type": 3,
             "url": "Demo"
         },
+	    {
+      "name": "🌴林中小屋🏡",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
         {
       "name": "Json轮询",
       "type": 2,
