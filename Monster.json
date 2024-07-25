@@ -11,18 +11,6 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-
-        {
-            "key": "云盘登录",
-            "name": "云盘📥登录中心",
-            "type": 3,
-            "api": "csp_AliYunPan",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-        },
         {
             "key": "配置中心",
             "name": "网盘📥配置中心",
@@ -50,124 +38,23 @@
                 "cookie": ""
             }
         },
-         
-            {
-            "key": "南瓜弹幕",
-            "name": "南瓜弹幕📑蓝光",
+          {
+            "key": "南瓜影视",
+            "name": "南瓜✨蓝光影视",
             "type": 3,
-            "api": "csp_Nangua",
+            "api": "csp_WexNgys",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
+            "filterable": 1
         },
         {
-            "key": "酷看弹幕",
-            "name": "酷看弹幕📑蓝光",
+            "key": "天天影视",
+            "name": "天天✨蓝光影视",
             "type": 3,
-            "api": "csp_Kkys",
+            "api": "csp_AppTT",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "厂长弹幕",
-            "name": "厂长弹幕📑蓝光",
-            "type": 3,
-            "api": "csp_Czzy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "天天弹幕",
-            "name": "天天弹幕📑蓝光",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-         {
-            "key": "小苹果弹幕",
-            "name": "苹果弹幕📑蓝光",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        {
-            "key": "三六零弹幕",
-            "name": "三六零弹幕📑蓝光",
-            "type": 3,
-            "api": "csp_Sp360",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-
-        {
-            "key": "一起看弹幕",
-            "name": "一起看弹幕📑蓝光",
-            "type": 3,
-            "api": "csp_Yqk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-        
-        {
-            "key": "荐片弹幕",
-            "name": "荐片弹幕📑蓝光",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
-	   
-        {
-            "key": "韩小圈",
-            "name": "韩小圈✨资源大全",
-            "type": 3,
-            "api": "csp_HanXiaoQuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./danmu.jar"
+            "filterable": 1
         },
         {
             "key": "农民影视",
@@ -177,8 +64,248 @@
             "searchable": 1,
             "changeable": 1
         },
-	   
+	   {
+            "key": "酷看影视",
+            "name": "酷看✨蓝光秒播",
+            "type": 3,
+            "api": "csp_Wexkukantv",
+            "searchable": 1,
+            "changeable": 1
+        },
+      
+        
          {
+            "key": "看看影视",
+            "name": "看看✨蓝光秒播",
+            "type": 3,
+            "api": "csp_WebIV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+         {
+	        "key": "酷影",
+            "name": "酷影✨蓝光影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.tvkuys.xyz/api.php/app/"
+        },
+	     {
+            "key": "timizy",
+            "name": "官源✨资源解析",
+            "type": 1,
+            "api": "https://vipcj.timizy.com/api.php/provide/vod",
+            "categories": [
+                "国产剧",
+                "港台剧",
+                "日韩剧",
+                "欧美剧",
+                "电影",
+                "连续剧",
+                "综艺",
+                "动漫",
+                "其他剧",
+                "资讯",
+                "儿童",
+                "公告",
+                "头条"
+            ]
+        },
+	       {
+            "key": "可可影视",
+            "name": "可可✨蓝光影视",
+            "type": 3,
+            "api": "csp_Keke",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+          {
+            "key": "最新影视",
+            "name": "兔兔✨蓝光影视",
+            "type": 3,
+            "api": "csp_Zx1080",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+       
+        {
+            "key": "热播影视",
+            "name": "热播✨蓝光影视",
+            "type": 3,
+            "api": "csp_AppRB",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "追剧影视",
+            "name": "追剧✨蓝光影视",
+            "type": 3,
+            "api": "csp_AppZJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+       
+        {
+            "key": "低端影视",
+            "name": "低端✨蓝光影视",
+            "type": 3,
+            "api": "csp_Ddys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "快看影视",
+            "name": "快看✨蓝光影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "苹果影视",
+            "name": "苹果✨蓝光影视",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "剧圈影视",
+            "name": "剧圈✨蓝光影视",
+            "type": 3,
+            "api": "csp_Juqq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+       
+        {
+            "key": "疯狗影视",
+            "name": "疯狗✨蓝光影视",
+            "type": 3,
+            "api": "csp_FengGo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "FreeOK",
+            "name": "FreeOK✨影视资源",
+            "type": 3,
+            "api": "csp_FreeOK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "兄弟影视",
+            "name": "兄弟✨蓝光影视",
+            "type": 3,
+            "api": "csp_Wexxiongdiys",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "明日影视",
+            "name": "明日✨蓝光影视",
+            "type": 3,
+            "api": "csp_WexMingriys",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "腐剧视频",
+            "name": "腐剧✨蓝光视频",
+            "type": 3,
+            "api": "csp_WexFujutv",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "星辰影视",
+            "name": "星辰✨流畅影视",
+            "type": 3,
+            "api": "csp_WexXingchen",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "利播影视",
+            "name": "利播✨蓝光影视",
+            "type": 3,
+            "api": "csp_Wexlibhd",
+            "searchable": 1,
+            "changeable": 1
+        },
+      
+        {
+            "key": "愉悦影视",
+            "name": "愉悦✨4K影视",
+            "type": 3,
+            "api": "csp_Wexyuyueys",
+            "searchable": 1,
+            "changeable": 1
+        },
+       
+        {
+            "key": "大米星球",
+            "name": "大米✨星球影视",
+            "type": 3,
+            "api": "csp_AppDaMi",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "铁剧影视",
+            "name": "铁剧✨蓝光影视",
+            "type": 3,
+            "api": "csp_AppBr",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "笙歌影视",
+            "name": "笙歌✨蓝光影视",
+            "type": 3,
+            "api": "csp_AppYY",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+          {
+            "key": "采集之王",
+            "name": "神荼✨采集之王",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json$1$1"
+        },
+          {
+      "key": "sliu_spider",
+      "name": "石榴✨蓝光直连",
+      "api": "csp_ShiLiuDY",
+      "type": 3,
+      "filterable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "searchable": 1,
+      "jar": "./jar/0719.jar",
+      "ext": ""
+    },
+           {
       "key": "柠檬",
       "name": "柠檬✨蓝光秒播",
       "type": 3,
@@ -239,125 +366,12 @@
             }
         },
          {
-            "key": "看看影视",
-            "name": "看看✨蓝光秒播",
-            "type": 3,
-            "api": "csp_WebIV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-         {
-	        "key": "酷影",
-            "name": "酷影✨蓝光影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.tvkuys.xyz/api.php/app/"
-        },
-	     {
-            "key": "timizy",
-            "name": "官源✨资源解析",
-            "type": 1,
-            "api": "https://vipcj.timizy.com/api.php/provide/vod",
-            "categories": [
-                "国产剧",
-                "港台剧",
-                "日韩剧",
-                "欧美剧",
-                "电影",
-                "连续剧",
-                "综艺",
-                "动漫",
-                "其他剧",
-                "资讯",
-                "儿童",
-                "公告",
-                "头条"
-            ]
-        },
-	       {
-            "key": "可可影视",
-            "name": "可可✨蓝光影视",
-            "type": 3,
-            "api": "csp_Keke",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-          {
-            "key": "最新影视",
-            "name": "兔兔✨蓝光影视",
-            "type": 3,
-            "api": "csp_Zx1080",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "热播影视",
-            "name": "热播✨蓝光影视",
-            "type": 3,
-            "api": "csp_AppRB",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "追剧影视",
-            "name": "追剧✨蓝光影视",
-            "type": 3,
-            "api": "csp_AppZJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-       
-        {
-            "key": "低端影视",
-            "name": "低端✨蓝光影视",
-            "type": 3,
-            "api": "csp_Ddys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "快看影视",
-            "name": "快看✨蓝光影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "苹果影视",
-            "name": "苹果✨蓝光影视",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "剧圈影视",
-            "name": "剧圈✨蓝光影视",
-            "type": 3,
-            "api": "csp_Juqq",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
 		     "key":"牛牛资源",
 		     "name":"老牛✨影视采集",
 		     "type":1,
 		     "api":"https://niuniuzy6.com/api.php/provide/vod/",
-		     "searchable":0,
-		     "quickSearch":0,
+		     "searchable":1,
+		     "quickSearch":1,
 		     "playurl":"https://jiexi.niuniuzy.org/m3u8/?url=",
 		     "categories":[
 			     "有声动漫","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","爽文短剧","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","演唱会","篮球","足球","预告片"
@@ -433,135 +447,17 @@
 				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
 			}
 		},
-        {
-            "key": "疯狗影视",
-            "name": "疯狗✨蓝光影视",
+		
+	     {
+            "key": "韩小圈",
+            "name": "韩小圈✨资源大全",
             "type": 3,
-            "api": "csp_FengGo",
+            "api": "csp_HanXiaoQuan",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "FreeOK",
-            "name": "FreeOK✨影视资源",
-            "type": 3,
-            "api": "csp_FreeOK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "兄弟影视",
-            "name": "兄弟✨蓝光影视",
-            "type": 3,
-            "api": "csp_Wexxiongdiys",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "明日影视",
-            "name": "明日✨蓝光影视",
-            "type": 3,
-            "api": "csp_WexMingriys",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "腐剧视频",
-            "name": "腐剧✨蓝光视频",
-            "type": 3,
-            "api": "csp_WexFujutv",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "星辰影视",
-            "name": "星辰✨流畅影视",
-            "type": 3,
-            "api": "csp_WexXingchen",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "利播影视",
-            "name": "利播✨蓝光影视",
-            "type": 3,
-            "api": "csp_Wexlibhd",
-            "searchable": 1,
-            "changeable": 1
-        },
-      
-        {
-            "key": "愉悦影视",
-            "name": "愉悦✨4K影视",
-            "type": 3,
-            "api": "csp_Wexyuyueys",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "精品短剧",
-            "name": "精品⚗️短剧大全",
-            "type": 3,
-            "api": "csp_Wexvipduanju",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "良品短剧",
-            "name": "良品⚗️短剧大全",
-            "type": 3,
-            "api": "csp_Wexduanjuvip",
-            "searchable": 1,
-            "changeable": 1
-        },
-         {
-            "key": "无忧短剧",
-            "name": "无忧⚗️短剧大全",
-            "type": 3,
-            "api": "csp_Duanj",
-            "searchable": 1,
-            "changeable": 0,
+            "filterable": 1,
             "jar": "./danmu.jar"
         },
-          {
-            "key": "星芽短剧",
-            "name": "星芽⚗️短剧大全",
-            "type": 3,
-            "api": "csp_AppXY",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "大米星球",
-            "name": "大米✨星球影视",
-            "type": 3,
-            "api": "csp_AppDaMi",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "铁剧影视",
-            "name": "铁剧✨蓝光影视",
-            "type": 3,
-            "api": "csp_AppBr",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "笙歌影视",
-            "name": "笙歌✨蓝光影视",
-            "type": 3,
-            "api": "csp_AppYY",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-	    
         {
             "key": "视频库",
             "name": "视频库👿影视资源",
@@ -620,7 +516,20 @@
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/魔力高清.js"
         },
-       
+       {
+      "key": "小马",
+      "name": "小马👿蓝光采集",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://mas.szyyds.cn/api.php/app/"
+    },
+    {
+      "key": "银河",
+      "name": "银河👿蓝光采集",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://134.175.219.46/mogai_api.php/v1.vod"
+    },
         {
             "key": "蚂蚁资源",
             "name": "蚂蚁👿资源采集",
@@ -768,6 +677,40 @@
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/哔哩视频.js"
 	},
+	 {
+            "key": "精品短剧",
+            "name": "精品⚗️短剧大全",
+            "type": 3,
+            "api": "csp_Wexvipduanju",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "良品短剧",
+            "name": "良品⚗️短剧大全",
+            "type": 3,
+            "api": "csp_Wexduanjuvip",
+            "searchable": 1,
+            "changeable": 1
+        },
+         {
+            "key": "无忧短剧",
+            "name": "无忧⚗️短剧大全",
+            "type": 3,
+            "api": "csp_Duanj",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "./danmu.jar"
+        },
+          {
+            "key": "星芽短剧",
+            "name": "星芽⚗️短剧大全",
+            "type": 3,
+            "api": "csp_AppXY",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
         {
             "key": "58动漫",
             "name": "58动漫🪅蓝光",
@@ -841,23 +784,115 @@
             "filterable": 0,
             "ext": "https://www.mutean.com"
         },
-       
+         {
+            "key": "南瓜弹幕",
+            "name": "🌠南瓜弹幕丨蓝光",
+            "type": 3,
+            "api": "csp_Nangua",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
         {
-      "key": "玩偶",
-      "name": "💯玩偶哥哥┃4K臻享",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "./jar/fty.jar",
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.link/",
-        "danMu": "关"
-      }
-    },
+            "key": "酷看弹幕",
+            "name": "🌠酷看弹幕丨蓝光",
+            "type": 3,
+            "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "厂长弹幕",
+            "name": "🌠厂长弹幕丨蓝光",
+            "type": 3,
+            "api": "csp_Czzy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "天天弹幕",
+            "name": "🌠天天弹幕丨蓝光",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+         {
+            "key": "小苹果弹幕",
+            "name": "🌠苹果弹幕丨蓝光",
+            "type": 3,
+            "api": "csp_Xpg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        {
+            "key": "三六零弹幕",
+            "name": "🌠三六零弹幕丨蓝光",
+            "type": 3,
+            "api": "csp_Sp360",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+
+        {
+            "key": "一起看弹幕",
+            "name": "🌠一起看弹幕丨蓝光",
+            "type": 3,
+            "api": "csp_Yqk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+        
+        {
+            "key": "荐片弹幕",
+            "name": "🌠荐片弹幕丨蓝光",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+	   
+     
             {
             "key": "玩偶弹幕",
             "name": "💯4K玩偶丨极致HDR",
@@ -1179,6 +1214,26 @@
             "jar": "./danmu.jar"
         },
          {
+            "key": "云盘资源",
+            "name": "💯4K云盘｜阿里资源",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/云盘资源.json"
+        },
+        {
+            "key": "影搜",
+            "name": "💯4K影搜丨阿里资源",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/影搜.json"
+        },
+         {
             "key": "我的夸克",
             "name": "🌐我的｜夸克网盘",
             "type": 3,
@@ -1210,7 +1265,23 @@
             },
             "jar": "./danmu.jar"
         },
-        
+          {
+            "key": "我的阿里",
+            "name": "🌐我的｜阿里网盘",
+            "type": 3,
+            "api": "csp_MyAli",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt"
+            },
+            "style": {
+                "type": "list"
+            },
+            "jar": "./danmu.jar"
+        },
      
      
 	     {
