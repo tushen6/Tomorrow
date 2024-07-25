@@ -1473,6 +1473,18 @@
       "jar": "./jar/duo.jar",
       "ext": "./lib/体育健身.json"
     },
+	     {
+      "ext": "eyJhcGkiOiJodHRwOi8vMTI5LjE1NC4xOTQuMTc1OjQ1NjciLCJ0b2tlbiI6InhteGpkb3dPZGp3cHFMeG5zak5iSUhHViJ9",
+      "filterable": 1,
+      "quickSearch": 1,
+      "name": "丫仙女🌐alist",
+      "changeable": 0,
+      "jar": "./jar/alist.jar",
+      "api": "csp_XiaoYa",
+      "type": 3,
+      "key": "csp_XiaoYa",
+      "searchable": 1
+    },
      {
       "key": "c",
       "name": "请勿相信片中广告小心上当受骗！",
