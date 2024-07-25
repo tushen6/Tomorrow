@@ -291,7 +291,7 @@
             "api": "./JS/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json$1$1"
+            "ext": "./JS/采集之王.js?type=url&params=./JS/采集静态.json$1$1"
         },
           {
       "key": "sliu_spider",
