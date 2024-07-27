@@ -7,8 +7,7 @@ export
 function gbkTool() {
     var data = function(zipData) {
         var re = zipData.replace(/#(\d+)\$/g, function(a, b) {
-            return Array(+b + 3)
-                .join('#');
+            return Array(+b + 3).join('#');
         })
             .replace(/#/g, '####')
             .replace(/(\w\w):([\w#]+)(?:,|$)/g, function(a, hd, dt) {
@@ -49,8 +48,7 @@ function gbkTool() {
                     return encodeURIComponent(a);
                 } else {
                     var key = code.toString(16);
-                    if (key.length != 4) key = ('000' + key)
-                        .match(/....$/)[0];
+                    if (key.length != 4) key = ('000' + key).match(/....$/)[0];
                     return U2Ghash[key] || a;
                 }
             });
@@ -62,8 +60,7 @@ function gbkTool() {
                 } else {
                     return a;
                 }
-            })
-                .replace(/%[\w]{2}/g, function(a) {
+            }).replace(/%[\w]{2}/g, function(a) {
                 return decodeURIComponent(a);
 
             });

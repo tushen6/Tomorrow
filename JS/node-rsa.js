@@ -23,11 +23,9 @@
         },
         3319: (t, e, r) => {
             var n = r(4529),
-                i = r(4774)
-                    .Buffer,
+                i = r(4774).Buffer,
                 o = r(6299),
-                s = r(6395)
-                    .newInvalidAsn1Error;
+                s = r(6395).newInvalidAsn1Error;
 
             function a(t) {
                 if (!t || !i.isBuffer(t)) throw new TypeError("data must be a node Buffer");
@@ -153,11 +151,9 @@
         },
         1431: (t, e, r) => {
             var n = r(4529),
-                i = r(4774)
-                    .Buffer,
+                i = r(4774).Buffer,
                 o = r(6299),
-                s = r(6395)
-                    .newInvalidAsn1Error,
+                s = r(6395).newInvalidAsn1Error,
                 a = {
                     size: 1024,
                     growthFactor: 8
@@ -165,8 +161,7 @@
 
             function f(t) {
                 var e, r;
-                e = a, r = t || {}, n.ok(e), n.equal(typeof e, "object"), n.ok(r), n.equal(typeof r, "object"), Object.getOwnPropertyNames(e)
-                    .forEach((function(t) {
+                e = a, r = t || {}, n.ok(e), n.equal(typeof e, "object"), n.ok(r), n.equal(typeof r, "object"), Object.getOwnPropertyNames(e).forEach((function(t) {
                     if (!r[t]) {
                         var n = Object.getOwnPropertyDescriptor(e, t);
                         Object.defineProperty(r, t, n)
@@ -216,8 +211,7 @@
                 if ("number" != typeof e && (e = o.OID), !/^([0-9]+\.){3,}[0-9]+$/.test(t)) throw new Error("argument is not a valid OID string");
                 var r = t.split("."),
                     n = [];
-                n.push(40 * parseInt(r[0], 10) + parseInt(r[1], 10)), r.slice(2)
-                    .forEach((function(t) {
+                n.push(40 * parseInt(r[0], 10) + parseInt(r[1], 10)), r.slice(2).forEach((function(t) {
                     ! function(t, e) {
                         e < 128 ? t.push(e) : e < 16384 ? (t.push(e >>> 7 | 128), t.push(127 & e)) : e < 2097152 ? (t.push(e >>> 14 | 128), t.push(e >>> 7 & 255 | 128), t.push(127 & e)) : e < 268435456 ? (t.push(e >>> 21 | 128), t.push(e >>> 14 & 255 | 128), t.push(e >>> 7 & 255 | 128), t.push(127 & e)) : (t.push(e >>> 28 & 255 | 128), t.push(e >>> 21 & 255 | 128), t.push(e >>> 14 & 255 | 128), t.push(e >>> 7 & 255 | 128), t.push(127 & e))
                     }(n, parseInt(t, 10))
@@ -299,8 +293,7 @@
             function y(t) {
                 if (s.isFunction(t)) {
                     if (u) return t.name;
-                    var e = t.toString()
-                        .match(l);
+                    var e = t.toString().match(l);
                     return e && e[1]
                 }
             }
@@ -335,8 +328,7 @@
                     var a = (n = n || {
                         actual: [],
                         expected: []
-                    })
-                        .actual.indexOf(t);
+                    }).actual.indexOf(t);
                     return -1 !== a && a === n.expected.indexOf(e) || (n.actual.push(t), n.expected.push(e), function(t, e, r, n) {
                         if (null == t || null == e) return !1;
                         if (s.isPrimitive(t) || s.isPrimitive(e)) return t === e;
@@ -465,8 +457,7 @@
                     return e.join(" ")
                 }
                 r = 1;
-                for (var n = arguments, o = n.length, s = String(t)
-                    .replace(i, (function(t) {
+                for (var n = arguments, o = n.length, s = String(t).replace(i, (function(t) {
                     if ("%%" === t) return "%";
                     if (r >= o) return t;
                     switch (t) {
@@ -487,8 +478,7 @@
                 return s
             }, e.deprecate = function(t, i) {
                 if (m(r.g.process)) return function() {
-                    return e.deprecate(t, i)
-                        .apply(this, arguments)
+                    return e.deprecate(t, i).apply(this, arguments)
                 };
                 if (!0 === n.noDeprecation) return t;
                 var o = !1;
@@ -524,10 +514,7 @@
                 var o = function(t, e) {
                     if (m(e)) return t.stylize("undefined", "undefined");
                     if (v(e)) {
-                        var r = "'" + JSON.stringify(e)
-                            .replace(/^"|"$/g, "")
-                            .replace(/'/g, "\\'")
-                            .replace(/\\"/g, '"') + "'";
+                        var r = "'" + JSON.stringify(e).replace(/^"|"$/g, "").replace(/'/g, "\\'").replace(/\\"/g, '"') + "'";
                         return t.stylize(r, "string")
                     }
                     return d(e) ? t.stylize("" + e, "number") : y(e) ? t.stylize("" + e, "boolean") : g(e) ? t.stylize("null", "null") : void 0
@@ -562,8 +549,7 @@
                     return p(t, r, n, a, e, O)
                 })), t.seen.pop(), function(t, e, r) {
                     return t.reduce((function(t, e) {
-                        return e.indexOf("\n"), t + e.replace(/\u001b\[\d\d?m/g, "")
-                            .length + 1
+                        return e.indexOf("\n"), t + e.replace(/\u001b\[\d\d?m/g, "").length + 1
                     }), 0) > 60 ? r[0] + ("" === e ? "" : e + "\n ") + " " + t.join(",\n  ") + " " + r[1] : r[0] + e + " " + t.join(", ") + " " + r[1]
                 }(u, _, B)) : B[0] + _ + B[1]
             }
@@ -574,23 +560,13 @@
                 var s, a, f;
                 if ((f = Object.getOwnPropertyDescriptor(e, i) || {
                     value: e[i]
-                })
-                    .get ? a = f.set ? t.stylize("[Getter/Setter]", "special") : t.stylize("[Getter]", "special") : f.set && (a = t.stylize("[Setter]", "special")), x(n, i) || (s = "[" + i + "]"), a || (t.seen.indexOf(f.value) < 0 ? (a = g(r) ? c(t, f.value, null) : c(t, f.value, r - 1))
-                    .indexOf("\n") > -1 && (a = o ? a.split("\n")
-                    .map((function(t) {
+                }).get ? a = f.set ? t.stylize("[Getter/Setter]", "special") : t.stylize("[Getter]", "special") : f.set && (a = t.stylize("[Setter]", "special")), x(n, i) || (s = "[" + i + "]"), a || (t.seen.indexOf(f.value) < 0 ? (a = g(r) ? c(t, f.value, null) : c(t, f.value, r - 1)).indexOf("\n") > -1 && (a = o ? a.split("\n").map((function(t) {
                     return "  " + t
-                }))
-                    .join("\n")
-                    .substr(2) : "\n" + a.split("\n")
-                    .map((function(t) {
+                })).join("\n").substr(2) : "\n" + a.split("\n").map((function(t) {
                     return "   " + t
-                }))
-                    .join("\n")) : a = t.stylize("[Circular]", "special")), m(s)) {
+                })).join("\n")) : a = t.stylize("[Circular]", "special")), m(s)) {
                     if (o && i.match(/^\d+$/)) return a;
-                    (s = JSON.stringify("" + i))
-                        .match(/^"([a-zA-Z_][a-zA-Z_0-9]*)"$/) ? (s = s.substr(1, s.length - 2), s = t.stylize(s, "name")) : (s = s.replace(/'/g, "\\'")
-                        .replace(/\\"/g, '"')
-                        .replace(/(^"|"$)/g, "'"), s = t.stylize(s, "string"))
+                    (s = JSON.stringify("" + i)).match(/^"([a-zA-Z_][a-zA-Z_0-9]*)"$/) ? (s = s.substr(1, s.length - 2), s = t.stylize(s, "name")) : (s = s.replace(/'/g, "\\'").replace(/\\"/g, '"').replace(/(^"|"$)/g, "'"), s = t.stylize(s, "string"))
                 }
                 return s + ": " + a
             }
@@ -634,8 +610,7 @@
                 return t < 10 ? "0" + t.toString(10) : t.toString(10)
             }
             e.debuglog = function(t) {
-                if (m(o) && (o = n.env.NODE_DEBUG || ""), t = t.toUpperCase(), !s[t]) if (new RegExp("\\b" + t + "\\b", "i")
-                    .test(o)) {
+                if (m(o) && (o = n.env.NODE_DEBUG || ""), t = t.toUpperCase(), !s[t]) if (new RegExp("\\b" + t + "\\b", "i").test(o)) {
                     var r = n.pid;
                     s[t] = function() {
                         var n = e.format.apply(e, arguments);
@@ -680,8 +655,7 @@
             }
             e.log = function() {
                 var t, r;
-                console.log("%s - %s", (r = [B((t = new Date)
-                    .getHours()), B(t.getMinutes()), B(t.getSeconds())].join(":"), [t.getDate(), A[t.getMonth()], r].join(" ")), e.format.apply(e, arguments))
+                console.log("%s - %s", (r = [B((t = new Date).getHours()), B(t.getMinutes()), B(t.getSeconds())].join(":"), [t.getDate(), A[t.getMonth()], r].join(" ")), e.format.apply(e, arguments))
             }, e.inherits = r(6100), e._extend = function(t, e) {
                 if (!e || !_(e)) return t;
                 for (var r = Object.keys(e), n = r.length; n--;) t[r[n]] = e[r[n]];
@@ -759,8 +733,7 @@
                     if (e < 0 || t.byteLength < e) throw new RangeError('"offset" is outside of buffer bounds');
                     if (t.byteLength < e + (r || 0)) throw new RangeError('"length" is outside of buffer bounds');
                     var n;
-                    return (n = void 0 === e && void 0 === r ? new Uint8Array(t) : void 0 === r ? new Uint8Array(t, e) : new Uint8Array(t, e, r))
-                        .__proto__ = a.prototype, n
+                    return (n = void 0 === e && void 0 === r ? new Uint8Array(t) : void 0 === r ? new Uint8Array(t, e) : new Uint8Array(t, e, r)).__proto__ = a.prototype, n
                 }(t, e, r);
                 if ("number" == typeof t) throw new TypeError('The "value" argument must not be of type number. Received type number');
                 var n = t.valueOf && t.valueOf();
@@ -806,8 +779,7 @@
                         return r;
                     case "utf8":
                     case "utf-8":
-                        return U(t)
-                            .length;
+                        return U(t).length;
                     case "ucs2":
                     case "ucs-2":
                     case "utf16le":
@@ -816,13 +788,10 @@
                     case "hex":
                         return r >>> 1;
                     case "base64":
-                        return M(t)
-                            .length;
+                        return M(t).length;
                     default:
-                        if (i) return n ? -1 : U(t)
-                            .length;
-                        e = ("" + e)
-                            .toLowerCase(), i = !0
+                        if (i) return n ? -1 : U(t).length;
+                        e = ("" + e).toLowerCase(), i = !0
                 }
             }
             function y(t, e, r) {
@@ -850,8 +819,7 @@
                         return I(this, e, r);
                     default:
                         if (n) throw new TypeError("Unknown encoding: " + t);
-                        t = (t + "")
-                            .toLowerCase(), n = !0
+                        t = (t + "").toLowerCase(), n = !0
                 }
             }
             function g(t, e, r) {
@@ -875,8 +843,7 @@
                 var o, s = 1,
                     a = t.length,
                     f = e.length;
-                if (void 0 !== n && ("ucs2" === (n = String(n)
-                    .toLowerCase()) || "ucs-2" === n || "utf16le" === n || "utf-16le" === n)) {
+                if (void 0 !== n && ("ucs2" === (n = String(n).toLowerCase()) || "ucs-2" === n || "utf16le" === n || "utf-16le" === n)) {
                     if (t.length < 2 || e.length < 2) return -1;
                     s = 2, a /= 2, f /= 2, r /= 2
                 }
@@ -993,9 +960,7 @@
                 return f(t, e, r)
             }, a.prototype.__proto__ = Uint8Array.prototype, a.__proto__ = Uint8Array, a.alloc = function(t, e, r) {
                 return function(t, e, r) {
-                    return u(t), t <= 0 ? s(t) : void 0 !== e ? "string" == typeof r ? s(t)
-                        .fill(e, r) : s(t)
-                        .fill(e) : s(t)
+                    return u(t), t <= 0 ? s(t) : void 0 !== e ? "string" == typeof r ? s(t).fill(e, r) : s(t).fill(e) : s(t)
                 }(t, e, r)
             }, a.allocUnsafe = function(t) {
                 return c(t)
@@ -1012,8 +977,7 @@
                 }
                 return r < n ? -1 : n < r ? 1 : 0
             }, a.isEncoding = function(t) {
-                switch (String(t)
-                    .toLowerCase()) {
+                switch (String(t).toLowerCase()) {
                     case "hex":
                     case "utf8":
                     case "utf-8":
@@ -1066,9 +1030,7 @@
             }, a.prototype.inspect = function() {
                 var t = "",
                     r = e.INSPECT_MAX_BYTES;
-                return t = this.toString("hex", 0, r)
-                    .replace(/(.{2})/g, "$1 ")
-                    .trim(), this.length > r && (t += " ... "), "<Buffer " + t + ">"
+                return t = this.toString("hex", 0, r).replace(/(.{2})/g, "$1 ").trim(), this.length > r && (t += " ... "), "<Buffer " + t + ">"
             }, a.prototype.compare = function(t, e, r, n, i) {
                 if (H(t, Uint8Array) && (t = a.from(t, t.offset, t.byteLength)), !a.isBuffer(t)) throw new TypeError('The "target" argument must be one of type Buffer or Uint8Array. Received type ' + typeof t);
                 if (void 0 === e && (e = 0), void 0 === r && (r = t ? t.length : 0), void 0 === n && (n = 0), void 0 === i && (i = this.length), e < 0 || r > t.length || n < 0 || i > this.length) throw new RangeError("out of range index");
@@ -1117,8 +1079,7 @@
                         return w(this, t, e, r);
                     default:
                         if (o) throw new TypeError("Unknown encoding: " + n);
-                        n = ("" + n)
-                            .toLowerCase(), o = !0
+                        n = ("" + n).toLowerCase(), o = !0
                 }
             }, a.prototype.toJSON = function() {
                 return {
@@ -1360,10 +1321,7 @@
             }
             function M(t) {
                 return n.toByteArray(function(t) {
-                    if ((t = (t = t.split("=")[0])
-                        .trim()
-                        .replace(C, ""))
-                        .length < 2) return "";
+                    if ((t = (t = t.split("=")[0]).trim().replace(C, "")).length < 2) return "";
                     for (; t.length % 4 != 0;) t += "=";
                     return t
                 }(t))
@@ -1509,12 +1467,10 @@
                     return function(e) {
                         return {
                             encrypt: function(r, n, i) {
-                                return t(n)
-                                    .encrypt(e, r, n, i)
+                                return t(n).encrypt(e, r, n, i)
                             },
                             decrypt: function(r, n, i) {
-                                return t(n)
-                                    .decrypt(e, r, n, i)
+                                return t(n).decrypt(e, r, n, i)
                             }
                         }
                     }
@@ -1559,8 +1515,7 @@
                         n.decryptBlock(t, r), e.call(this, t, r, i), this._prevBlock = o
                     }
                 }), t
-            }(), d = (i.pad = {})
-                .Pkcs7 = {
+            }(), d = (i.pad = {}).Pkcs7 = {
                 pad: function(t, e) {
                     for (var r = 4 * e, n = r - t.sigBytes % r, i = n << 24 | n << 16 | n << 8 | n, o = [], s = 0; s < n; s += 4) o.push(i);
                     var f = a.create(o, n);
@@ -1601,17 +1556,13 @@
                     this.mixIn(t)
                 },
                 toString: function(t) {
-                    return (t || this.formatter)
-                        .stringify(this)
+                    return (t || this.formatter).stringify(this)
                 }
-            }), m = (i.format = {})
-                .OpenSSL = {
+            }), m = (i.format = {}).OpenSSL = {
                 stringify: function(t) {
                     var e = t.ciphertext,
                         r = t.salt;
-                    if (r) var n = a.create([1398893684, 1701076831])
-                        .concat(r)
-                        .concat(e);
+                    if (r) var n = a.create([1398893684, 1701076831]).concat(r).concat(e);
                     else n = e;
                     return n.toString(c)
                 },
@@ -1648,20 +1599,17 @@
                     })
                 },
                 decrypt: function(t, e, r, n) {
-                    return n = this.cfg.extend(n), e = this._parse(e, n.format), t.createDecryptor(r, n)
-                        .finalize(e.ciphertext)
+                    return n = this.cfg.extend(n), e = this._parse(e, n.format), t.createDecryptor(r, n).finalize(e.ciphertext)
                 },
                 _parse: function(t, e) {
                     return "string" == typeof t ? e.parse(t, this) : t
                 }
-            }), _ = (i.kdf = {})
-                .OpenSSL = {
+            }), _ = (i.kdf = {}).OpenSSL = {
                 execute: function(t, e, r, n) {
                     n || (n = a.random(8));
                     var i = h.create({
                         keySize: e + r
-                    })
-                        .compute(t, n),
+                    }).compute(t, n),
                         o = a.create(i.words.slice(e), 4 * r);
                     return i.sigBytes = 4 * e, v.create({
                         key: i,
@@ -1674,8 +1622,7 @@
                     kdf: _
                 }),
                 encrypt: function(t, e, r, n) {
-                    var i = (n = this.cfg.extend(n))
-                        .kdf.execute(r, t.keySize, t.ivSize);
+                    var i = (n = this.cfg.extend(n)).kdf.execute(r, t.keySize, t.ivSize);
                     n.iv = i.iv;
                     var o = S.encrypt.call(this, t, e, i.key, n);
                     return o.mixIn(i), o
@@ -1721,8 +1668,7 @@
                             t = this.words = t || [], this.sigBytes = null != e ? e : 4 * t.length
                         },
                         toString: function(t) {
-                            return (t || f)
-                                .stringify(this)
+                            return (t || f).stringify(this)
                         },
                         concat: function(t) {
                             var e = this.words,
@@ -1763,9 +1709,7 @@
                         stringify: function(t) {
                             for (var e = t.words, r = t.sigBytes, n = [], i = 0; i < r; i++) {
                                 var o = e[i >>> 2] >>> 24 - i % 4 * 8 & 255;
-                                n.push((o >>> 4)
-                                    .toString(16)), n.push((15 & o)
-                                    .toString(16))
+                                n.push((o >>> 4).toString(16)), n.push((15 & o).toString(16))
                             }
                             return n.join("")
                         },
@@ -1841,14 +1785,12 @@
                         blockSize: 16,
                         _createHelper: function(t) {
                             return function(e, r) {
-                                return new t.init(r)
-                                    .finalize(e)
+                                return new t.init(r).finalize(e)
                             }
                         },
                         _createHmacHelper: function(t) {
                             return function(e, r) {
-                                return new p.HMAC.init(t, r)
-                                    .finalize(e)
+                                return new p.HMAC.init(t, r).finalize(e)
                             }
                         }
                     }), n.algo = {});
@@ -1857,8 +1799,7 @@
         },
         754: function(t, e, r) {
             var n, i, o;
-            t.exports = (n = r(9021), o = (i = n)
-                .lib.WordArray, i.enc.Base64 = {
+            t.exports = (n = r(9021), o = (i = n).lib.WordArray, i.enc.Base64 = {
                 stringify: function(t) {
                     var e = t.words,
                         r = t.sigBytes,
@@ -1932,10 +1873,7 @@
         },
         9506: function(t, e, r) {
             var n, i, o, s, a, f, u, c;
-            t.exports = (c = r(9021), r(5471), r(1025), o = (i = (n = c)
-                .lib)
-                .Base, s = i.WordArray, f = (a = n.algo)
-                .MD5, u = a.EvpKDF = o.extend({
+            t.exports = (c = r(9021), r(5471), r(1025), o = (i = (n = c).lib).Base, s = i.WordArray, f = (a = n.algo).MD5, u = a.EvpKDF = o.extend({
                 cfg: o.extend({
                     keySize: 4,
                     hasher: f,
@@ -1947,8 +1885,7 @@
                 compute: function(t, e) {
                     for (var r = this.cfg, n = r.hasher.create(), i = s.create(), o = i.words, a = r.keySize, f = r.iterations; o.length < a;) {
                         u && n.update(u);
-                        var u = n.update(t)
-                            .finalize(e);
+                        var u = n.update(t).finalize(e);
                         n.reset();
                         for (var c = 1; c < f; c++) u = n.finalize(u), n.reset();
                         i.concat(u)
@@ -1956,14 +1893,12 @@
                     return i.sigBytes = 4 * a, i
                 }
             }), n.EvpKDF = function(t, e, r) {
-                return u.create(r)
-                    .compute(t, e)
+                return u.create(r).compute(t, e)
             }, c.EvpKDF)
         },
         25: function(t, e, r) {
             var n, i, o, s;
-            t.exports = (s = r(9021), r(7165), i = (n = s)
-                .lib.CipherParams, o = n.enc.Hex, n.format.Hex = {
+            t.exports = (s = r(9021), r(7165), i = (n = s).lib.CipherParams, o = n.enc.Hex, n.format.Hex = {
                 stringify: function(t) {
                     return t.ciphertext.toString(o)
                 },
@@ -1977,8 +1912,7 @@
         },
         1025: function(t, e, r) {
             var n, i, o;
-            t.exports = (i = (n = r(9021))
-                .lib.Base, o = n.enc.Utf8, void(n.algo.HMAC = i.extend({
+            t.exports = (i = (n = r(9021)).lib.Base, o = n.enc.Utf8, void(n.algo.HMAC = i.extend({
                 init: function(t, e) {
                     t = this._hasher = new t.init, "string" == typeof e && (e = o.parse(e));
                     var r = t.blockSize,
@@ -1997,8 +1931,7 @@
                 finalize: function(t) {
                     var e = this._hasher,
                         r = e.finalize(t);
-                    return e.reset(), e.finalize(this._oKey.clone()
-                        .concat(r))
+                    return e.reset(), e.finalize(this._oKey.clone().concat(r))
                 }
             })))
         },
@@ -2172,8 +2105,7 @@
         },
         6939: function(t, e, r) {
             var n, i, o;
-            t.exports = (o = r(9021), r(7165), o.mode.CTR = (i = (n = o.lib.BlockCipherMode.extend())
-                .Encryptor = n.extend({
+            t.exports = (o = r(9021), r(7165), o.mode.CTR = (i = (n = o.lib.BlockCipherMode.extend()).Encryptor = n.extend({
                 processBlock: function(t, e) {
                     var r = this._cipher,
                         n = r.blockSize,
@@ -2188,8 +2120,7 @@
         },
         8454: function(t, e, r) {
             var n, i;
-            t.exports = (i = r(9021), r(7165), i.mode.ECB = ((n = i.lib.BlockCipherMode.extend())
-                .Encryptor = n.extend({
+            t.exports = (i = r(9021), r(7165), i.mode.ECB = ((n = i.lib.BlockCipherMode.extend()).Encryptor = n.extend({
                 processBlock: function(t, e) {
                     this._cipher.encryptBlock(t, e)
                 }
@@ -2201,8 +2132,7 @@
         },
         3797: function(t, e, r) {
             var n, i, o;
-            t.exports = (o = r(9021), r(7165), o.mode.OFB = (i = (n = o.lib.BlockCipherMode.extend())
-                .Encryptor = n.extend({
+            t.exports = (o = r(9021), r(7165), o.mode.OFB = (i = (n = o.lib.BlockCipherMode.extend()).Encryptor = n.extend({
                 processBlock: function(t, e) {
                     var r = this._cipher,
                         n = r.blockSize,
@@ -2235,8 +2165,7 @@
                 pad: function(t, e) {
                     var r = 4 * e,
                         i = r - t.sigBytes % r;
-                    t.concat(n.lib.WordArray.random(i - 1))
-                        .concat(n.lib.WordArray.create([i << 24], 1))
+                    t.concat(n.lib.WordArray.random(i - 1)).concat(n.lib.WordArray.create([i << 24], 1))
                 },
                 unpad: function(t) {
                     var e = 255 & t.words[t.sigBytes - 1 >>> 2];
@@ -2277,10 +2206,7 @@
         },
         19: function(t, e, r) {
             var n, i, o, s, a, f, u, c, h;
-            t.exports = (h = r(9021), r(5471), r(1025), o = (i = (n = h)
-                .lib)
-                .Base, s = i.WordArray, f = (a = n.algo)
-                .SHA1, u = a.HMAC, c = a.PBKDF2 = o.extend({
+            t.exports = (h = r(9021), r(5471), r(1025), o = (i = (n = h).lib).Base, s = i.WordArray, f = (a = n.algo).SHA1, u = a.HMAC, c = a.PBKDF2 = o.extend({
                 cfg: o.extend({
                     keySize: 4,
                     hasher: f,
@@ -2291,8 +2217,7 @@
                 },
                 compute: function(t, e) {
                     for (var r = this.cfg, n = u.create(r.hasher, t), i = s.create(), o = s.create([1]), a = i.words, f = o.words, c = r.keySize, h = r.iterations; a.length < c;) {
-                        var p = n.update(e)
-                            .finalize(o);
+                        var p = n.update(e).finalize(o);
                         n.reset();
                         for (var l = p.words, y = l.length, g = p, d = 1; d < h; d++) {
                             g = n.finalize(g), n.reset();
@@ -2303,8 +2228,7 @@
                     return i.sigBytes = 4 * c, i
                 }
             }), n.PBKDF2 = function(t, e, r) {
-                return c.create(r)
-                    .compute(t, e)
+                return c.create(r).compute(t, e)
             }, h.PBKDF2)
         },
         2696: function(t, e, r) {
@@ -2533,8 +2457,7 @@
         },
         5471: function(t, e, r) {
             var n, i, o, s, a, f, u, c;
-            t.exports = (i = (n = c = r(9021))
-                .lib, o = i.WordArray, s = i.Hasher, a = n.algo, f = [], u = a.SHA1 = s.extend({
+            t.exports = (i = (n = c = r(9021)).lib, o = i.WordArray, s = i.Hasher, a = n.algo, f = [], u = a.SHA1 = s.extend({
                 _doReset: function() {
                     this._hash = new o.init([1732584193, 4023233417, 2562383102, 271733878, 3285377520])
                 },
@@ -2565,8 +2488,7 @@
         },
         6308: function(t, e, r) {
             var n, i, o, s, a, f;
-            t.exports = (f = r(9021), r(3009), i = (n = f)
-                .lib.WordArray, o = n.algo, s = o.SHA256, a = o.SHA224 = s.extend({
+            t.exports = (f = r(9021), r(3009), i = (n = f).lib.WordArray, o = n.algo, s = o.SHA256, a = o.SHA224 = s.extend({
                 _doReset: function() {
                     this._hash = new i.init([3238371032, 914150663, 812702999, 4144912697, 4290775857, 1750603025, 1694076839, 3204075428])
                 },
@@ -2679,13 +2601,11 @@
                         for (var r = this._state, n = this.blockSize / 2, i = 0; i < n; i++) {
                             var o = t[e + 2 * i],
                                 s = t[e + 2 * i + 1];
-                            o = 16711935 & (o << 8 | o >>> 24) | 4278255360 & (o << 24 | o >>> 8), s = 16711935 & (s << 8 | s >>> 24) | 4278255360 & (s << 24 | s >>> 8), (P = r[i])
-                                .high ^= s, P.low ^= o
+                            o = 16711935 & (o << 8 | o >>> 24) | 4278255360 & (o << 24 | o >>> 8), s = 16711935 & (s << 8 | s >>> 24) | 4278255360 & (s << 24 | s >>> 8), (P = r[i]).high ^= s, P.low ^= o
                         }
                         for (var a = 0; a < 24; a++) {
                             for (var p = 0; p < 5; p++) {
-                                for (var l = 0, y = 0, g = 0; g < 5; g++) l ^= (P = r[p + 5 * g])
-                                    .high, y ^= P.low;
+                                for (var l = 0, y = 0, g = 0; g < 5; g++) l ^= (P = r[p + 5 * g]).high, y ^= P.low;
                                 var d = h[p];
                                 d.high = l, d.low = y
                             }
@@ -2694,12 +2614,10 @@
                                     m = h[(p + 1) % 5],
                                     S = m.high,
                                     _ = m.low;
-                                for (l = v.high ^ (S << 1 | _ >>> 31), y = v.low ^ (_ << 1 | S >>> 31), g = 0; g < 5; g++)(P = r[p + 5 * g])
-                                    .high ^= l, P.low ^= y
+                                for (l = v.high ^ (S << 1 | _ >>> 31), y = v.low ^ (_ << 1 | S >>> 31), g = 0; g < 5; g++)(P = r[p + 5 * g]).high ^= l, P.low ^= y
                             }
                             for (var b = 1; b < 25; b++) {
-                                var E = (P = r[b])
-                                    .high,
+                                var E = (P = r[b]).high,
                                     w = P.low,
                                     O = f[b];
                                 O < 32 ? (l = E << O | w >>> 32 - O, y = w << O | E >>> 32 - O) : (l = w << O - 32 | E >>> 64 - O, y = E << O - 32 | w >>> 64 - O);
@@ -2744,8 +2662,7 @@
         },
         9557: function(t, e, r) {
             var n, i, o, s, a, f, u, c;
-            t.exports = (c = r(9021), r(3240), r(1380), i = (n = c)
-                .x64, o = i.Word, s = i.WordArray, a = n.algo, f = a.SHA512, u = a.SHA384 = f.extend({
+            t.exports = (c = r(9021), r(3240), r(1380), i = (n = c).x64, o = i.Word, s = i.WordArray, a = n.algo, f = a.SHA512, u = a.SHA384 = f.extend({
                 _doReset: function() {
                     this._hash = new s.init([new o.init(3418070365, 3238371032), new o.init(1654270250, 914150663), new o.init(2438529370, 812702999), new o.init(355462360, 4144912697), new o.init(1731405415, 4290775857), new o.init(2394180231, 1750603025), new o.init(3675008525, 1694076839), new o.init(1203062813, 3204075428)])
                 },
@@ -3432,9 +3349,7 @@
         },
         3240: function(t, e, r) {
             var n, i, o, s, a, f;
-            t.exports = (n = r(9021), o = (i = n)
-                .lib, s = o.Base, a = o.WordArray, (f = i.x64 = {})
-                .Word = s.extend({
+            t.exports = (n = r(9021), o = (i = n).lib, s = o.Base, a = o.WordArray, (f = i.x64 = {}).Word = s.extend({
                 init: function(t, e) {
                     this.high = t, this.low = e
                 }
@@ -3589,8 +3504,7 @@
                         return y
                     } catch (t) {
                         try {
-                            return l(arguments, "callee")
-                                .get
+                            return l(arguments, "callee").get
                         } catch (t) {
                             return y
                         }
@@ -3828,8 +3742,7 @@
                 try {
                     return 1 !== n([], "length", {
                         value: 1
-                    })
-                        .length
+                    }).length
                 } catch (t) {
                     return !0
                 }
@@ -3866,10 +3779,8 @@
                 if ("[object Symbol]" !== Object.prototype.toString.call(e)) return !1;
                 if ("[object Symbol]" !== Object.prototype.toString.call(r)) return !1;
                 for (e in t[e] = 42, t) return !1;
-                if ("function" == typeof Object.keys && 0 !== Object.keys(t)
-                    .length) return !1;
-                if ("function" == typeof Object.getOwnPropertyNames && 0 !== Object.getOwnPropertyNames(t)
-                    .length) return !1;
+                if ("function" == typeof Object.keys && 0 !== Object.keys(t).length) return !1;
+                if ("function" == typeof Object.getOwnPropertyNames && 0 !== Object.getOwnPropertyNames(t).length) return !1;
                 var n = Object.getOwnPropertySymbols(t);
                 if (1 !== n.length || n[0] !== e) return !1;
                 if (!Object.prototype.propertyIsEnumerable.call(t, e)) return !1;
@@ -3918,13 +3829,10 @@
             }
         },
         3229: (t, e, r) => {
-            var n = r(8287)
-                .Buffer,
+            var n = r(8287).Buffer,
                 i = r(7449),
                 o = r(5682),
-                s = (r(3200), r(3100)
-                    .Ber, r(8226)
-                    ._),
+                s = (r(3200), r(3100).Ber, r(8226)._),
                 a = r(8226),
                 f = r(1768),
                 u = r(7460);
@@ -3961,11 +3869,9 @@
                     }, this.keyPair = new o.Key, this.$cache = {}, n.isBuffer(t) || s.isString(t) ? this.importKey(t, i) : s.isObject(t) && this.generateKeyPair(t.b, t.e), this.setOptions(f)
                 }
                 return c.prototype.setOptions = function(n) {
-                    if ((n = n || {})
-                        .environment && (this.$options.environment = n.environment), n.signingScheme) {
+                    if ((n = n || {}).environment && (this.$options.environment = n.environment), n.signingScheme) {
                         if (s.isString(n.signingScheme)) {
-                            var i = n.signingScheme.toLowerCase()
-                                .split("-");
+                            var i = n.signingScheme.toLowerCase().split("-");
                             1 == i.length ? t.node.indexOf(i[0]) > -1 ? (this.$options.signingSchemeOptions = {
                                 hash: i[0]
                             }, this.$options.signingScheme = r) : (this.$options.signingScheme = i[0], this.$options.signingSchemeOptions = {
@@ -4140,8 +4046,7 @@
             }
         },
         3374: (t, e, r) => {
-            r(8226)
-                ._, r(8226), t.exports = {
+            r(8226)._, r(8226), t.exports = {
                 privateExport: function(t, e) {
                     return {
                         n: t.n.toBuffer(),
@@ -4193,8 +4098,7 @@
                     keyOpt: r
                 }
             }
-            r(8226)
-                ._, t.exports = {
+            r(8226)._, t.exports = {
                 pkcs1: r(6566),
                 pkcs8: r(8573),
                 components: r(3374),
@@ -4238,10 +4142,8 @@
             }
         },
         3194: (t, e, r) => {
-            var n = r(8287)
-                .Buffer,
-                i = r(8226)
-                    ._,
+            var n = r(8287).Buffer,
+                i = r(8226)._,
                 o = r(8226),
                 s = r(1973);
             const a = "-----BEGIN OPENSSH PRIVATE KEY-----", f = "-----END OPENSSH PRIVATE KEY-----";
@@ -4277,11 +4179,9 @@
                 },
                 privateImport: function(t, e, r) {
                     var c;
-                    if ("der" !== (r = r || {})
-                        .type) {
+                    if ("der" !== (r = r || {}).type) {
                         if (n.isBuffer(e) && (e = e.toString("utf8")), !i.isString(e)) throw Error("Unsupported key format");
-                        var h = o.trimSurroundingText(e, a, f)
-                            .replace(/\s+|\n\r|\n|\r$/gm, "");
+                        var h = o.trimSurroundingText(e, a, f).replace(/\s+|\n\r|\n|\r$/gm, "");
                         c = n.from(h, "base64")
                     } else {
                         if (!n.isBuffer(e)) throw Error("Unsupported key format");
@@ -4291,21 +4191,14 @@
                         buf: c,
                         off: 0
                     };
-                    if ("openssh-key-v1" !== c.slice(0, 14)
-                        .toString("ascii")) throw "Invalid file format.";
-                    if (p.off += 15, "none" !== u(p)
-                        .toString("ascii")) throw Error("Unsupported key type");
-                    if ("none" !== u(p)
-                        .toString("ascii")) throw Error("Unsupported key type");
-                    if ("" !== u(p)
-                        .toString("ascii")) throw Error("Unsupported key type");
-                    if (p.off += 4, p.off += 4, "ssh-rsa" !== u(p)
-                        .toString("ascii")) throw Error("Unsupported key type");
-                    if (u(p), u(p), p.off += 12, "ssh-rsa" !== u(p)
-                        .toString("ascii")) throw Error("Unsupported key type");
+                    if ("openssh-key-v1" !== c.slice(0, 14).toString("ascii")) throw "Invalid file format.";
+                    if (p.off += 15, "none" !== u(p).toString("ascii")) throw Error("Unsupported key type");
+                    if ("none" !== u(p).toString("ascii")) throw Error("Unsupported key type");
+                    if ("" !== u(p).toString("ascii")) throw Error("Unsupported key type");
+                    if (p.off += 4, p.off += 4, "ssh-rsa" !== u(p).toString("ascii")) throw Error("Unsupported key type");
+                    if (u(p), u(p), p.off += 12, "ssh-rsa" !== u(p).toString("ascii")) throw Error("Unsupported key type");
                     const l = u(p), y = u(p), g = u(p), d = u(p), v = u(p), m = u(p), S = new s(g), _ = new s(m), b = new s(v), E = S.mod(b.subtract(s.ONE)), w = S.mod(_.subtract(s.ONE));
-                    t.setPrivate(l, y, g, v, m, E.toBuffer(), w.toBuffer(), d), t.sshcomment = u(p)
-                        .toString("ascii")
+                    t.setPrivate(l, y, g, v, m, E.toBuffer(), w.toBuffer(), d), t.sshcomment = u(p).toString("ascii")
                 },
                 publicExport: function(t, e) {
                     let r = n.alloc(4);
@@ -4320,14 +4213,11 @@
                 },
                 publicImport: function(t, e, r) {
                     var o;
-                    if ("der" !== (r = r || {})
-                        .type) {
+                    if ("der" !== (r = r || {}).type) {
                         if (n.isBuffer(e) && (e = e.toString("utf8")), !i.isString(e)) throw Error("Unsupported key format"); {
                             if ("ssh-rsa " !== e.substring(0, 8)) throw Error("Unsupported key format");
-                            let r = e.indexOf(" ", 8); - 1 === r ? r = e.length : t.sshcomment = e.substring(r + 1)
-                                .replace(/\s+|\n\r|\n|\r$/gm, "");
-                            const i = e.substring(8, r)
-                                .replace(/\s+|\n\r|\n|\r$/gm, "");
+                            let r = e.indexOf(" ", 8); - 1 === r ? r = e.length : t.sshcomment = e.substring(r + 1).replace(/\s+|\n\r|\n|\r$/gm, "");
+                            const i = e.substring(8, r).replace(/\s+|\n\r|\n|\r$/gm, "");
                             o = n.from(i, "base64")
                         }
                     } else {
@@ -4337,8 +4227,7 @@
                     const s = {
                         buf: o,
                         off: 0
-                    }, a = u(s)
-                        .toString("ascii");
+                    }, a = u(s).toString("ascii");
                     if ("ssh-rsa" !== a) throw Error("Invalid key type: " + a);
                     const f = u(s), c = u(s);
                     t.setPublic(c, f)
@@ -4349,12 +4238,9 @@
             }
         },
         6566: (t, e, r) => {
-            var n = r(8287)
-                .Buffer,
-                i = r(3100)
-                    .Ber,
-                o = r(8226)
-                    ._,
+            var n = r(8287).Buffer,
+                i = r(3100).Ber,
+                o = r(8226)._,
                 s = r(8226);
             const a = "-----BEGIN RSA PRIVATE KEY-----", f = "-----END RSA PRIVATE KEY-----", u = "-----BEGIN RSA PUBLIC KEY-----", c = "-----END RSA PUBLIC KEY-----";
             t.exports = {
@@ -4375,11 +4261,9 @@
                 },
                 privateImport: function(t, e, r) {
                     var u;
-                    if ("der" !== (r = r || {})
-                        .type) {
+                    if ("der" !== (r = r || {}).type) {
                         if (n.isBuffer(e) && (e = e.toString("utf8")), !o.isString(e)) throw Error("Unsupported key format");
-                        var c = s.trimSurroundingText(e, a, f)
-                            .replace(/\s+|\n\r|\n|\r$/gm, "");
+                        var c = s.trimSurroundingText(e, a, f).replace(/\s+|\n\r|\n|\r$/gm, "");
                         u = n.from(c, "base64")
                     } else {
                         if (!n.isBuffer(e)) throw Error("Unsupported key format");
@@ -4399,11 +4283,9 @@
                 },
                 publicImport: function(t, e, r) {
                     var a;
-                    if ("der" !== (r = r || {})
-                        .type) {
+                    if ("der" !== (r = r || {}).type) {
                         if (n.isBuffer(e) && (e = e.toString("utf8")), o.isString(e)) {
-                            var f = s.trimSurroundingText(e, u, c)
-                                .replace(/\s+|\n\r|\n|\r$/gm, "");
+                            var f = s.trimSurroundingText(e, u, c).replace(/\s+|\n\r|\n|\r$/gm, "");
                             a = n.from(f, "base64")
                         }
                     } else {
@@ -4419,12 +4301,9 @@
             }
         },
         8573: (t, e, r) => {
-            var n = r(8287)
-                .Buffer,
-                i = r(3100)
-                    .Ber,
-                o = r(8226)
-                    ._,
+            var n = r(8287).Buffer,
+                i = r(3100).Ber,
+                o = r(8226)._,
                 s = "1.2.840.113549.1.1.1",
                 a = r(8226);
             const f = "-----BEGIN PRIVATE KEY-----", u = "-----END PRIVATE KEY-----", c = "-----BEGIN PUBLIC KEY-----", h = "-----END PUBLIC KEY-----";
@@ -4450,20 +4329,16 @@
                 },
                 privateImport: function(t, e, r) {
                     var c;
-                    if ("der" !== (r = r || {})
-                        .type) {
+                    if ("der" !== (r = r || {}).type) {
                         if (n.isBuffer(e) && (e = e.toString("utf8")), !o.isString(e)) throw Error("Unsupported key format");
-                        var h = a.trimSurroundingText(e, f, u)
-                            .replace("-----END PRIVATE KEY-----", "")
-                            .replace(/\s+|\n\r|\n|\r$/gm, "");
+                        var h = a.trimSurroundingText(e, f, u).replace("-----END PRIVATE KEY-----", "").replace(/\s+|\n\r|\n|\r$/gm, "");
                         c = n.from(h, "base64")
                     } else {
                         if (!n.isBuffer(e)) throw Error("Unsupported key format");
                         c = e
                     }
                     var p = new i.Reader(c);
-                    if (p.readSequence(), p.readInt(0), new i.Reader(p.readString(48, !0))
-                        .readOID(6, !0) !== s) throw Error("Invalid Public key format");
+                    if (p.readSequence(), p.readInt(0), new i.Reader(p.readString(48, !0)).readOID(6, !0) !== s) throw Error("Invalid Public key format");
                     var l = new i.Reader(p.readString(4, !0));
                     l.readSequence(), l.readString(2, !0), t.setPrivate(l.readString(2, !0), l.readString(2, !0), l.readString(2, !0), l.readString(2, !0), l.readString(2, !0), l.readString(2, !0), l.readString(2, !0), l.readString(2, !0))
                 },
@@ -4482,11 +4357,9 @@
                 },
                 publicImport: function(t, e, r) {
                     var f;
-                    if ("der" !== (r = r || {})
-                        .type) {
+                    if ("der" !== (r = r || {}).type) {
                         if (n.isBuffer(e) && (e = e.toString("utf8")), o.isString(e)) {
-                            var u = a.trimSurroundingText(e, c, h)
-                                .replace(/\s+|\n\r|\n|\r$/gm, "");
+                            var u = a.trimSurroundingText(e, c, h).replace(/\s+|\n\r|\n|\r$/gm, "");
                             f = n.from(u, "base64")
                         }
                     } else {
@@ -4494,8 +4367,7 @@
                         f = e
                     }
                     var p = new i.Reader(f);
-                    if (p.readSequence(), new i.Reader(p.readString(48, !0))
-                        .readOID(6, !0) !== s) throw Error("Invalid Public key format");
+                    if (p.readSequence(), new i.Reader(p.readString(48, !0)).readOID(6, !0) !== s) throw Error("Invalid Public key format");
                     var l = new i.Reader(p.readString(3, !0));
                     l.readByte(), l.readSequence(), t.setPublic(l.readString(2, !0), l.readString(2, !0))
                 },
@@ -4505,11 +4377,9 @@
             }
         },
         1973: (t, e, r) => {
-            var n = r(8287)
-                .Buffer,
+            var n = r(8287).Buffer,
                 i = r(3200),
-                o = r(8226)
-                    ._;
+                o = r(8226)._;
 
             function s(t, e) {
                 null != t && ("number" == typeof t ? this.fromNumber(t, e) : n.isBuffer(t) ? this.fromBuffer(t) : null == e && "string" != typeof t ? this.fromByteArray(t) : this.fromString(t, e))
@@ -4592,8 +4462,7 @@
                 t.squareTo(e), this.reduce(e)
             }, d.prototype.convert = function(t) {
                 var e = a();
-                return t.abs()
-                    .dlShiftTo(this.m.t, e), e.divRemTo(this.m, null, e), t.s < 0 && e.compareTo(s.ZERO) > 0 && this.m.subTo(e, e), e
+                return t.abs().dlShiftTo(this.m.t, e), e.divRemTo(this.m, null, e), t.s < 0 && e.compareTo(s.ZERO) > 0 && this.m.subTo(e, e), e
             }, d.prototype.revert = function(t) {
                 var e = a();
                 return t.copyTo(e), this.reduce(e), e
@@ -4782,11 +4651,8 @@
                     i = a(),
                     o = a(),
                     s = "";
-                for (this.divRemTo(n, i, o); i.signum() > 0;) s = (r + o.intValue())
-                    .toString(t)
-                    .substr(1) + s, i.divRemTo(n, i, o);
-                return o.intValue()
-                    .toString(t) + s
+                for (this.divRemTo(n, i, o); i.signum() > 0;) s = (r + o.intValue()).toString(t).substr(1) + s, i.divRemTo(n, i, o);
+                return o.intValue().toString(t) + s
             }, s.prototype.fromRadix = function(t, e) {
                 this.fromInt(0), null == e && (e = 10);
                 for (var r = this.chunkSize(e), n = Math.pow(e, r), i = !1, o = 0, a = 0, f = 0; f < t.length; ++f) {
@@ -4862,15 +4728,13 @@
                     i.fromInt(A[Math.floor(Math.random() * A.length)]);
                     var f = i.modPow(n, this);
                     if (0 != f.compareTo(s.ONE) && 0 != f.compareTo(e)) {
-                        for (var u = 1; u++ < r && 0 != f.compareTo(e);) if (0 === (f = f.modPowInt(2, this))
-                            .compareTo(s.ONE)) return !1;
+                        for (var u = 1; u++ < r && 0 != f.compareTo(e);) if (0 === (f = f.modPowInt(2, this)).compareTo(s.ONE)) return !1;
                         if (0 != f.compareTo(e)) return !1
                     }
                 }
                 return !0
             }, s.prototype.toString = function(t) {
-                if (this.s < 0) return "-" + this.negate()
-                    .toString(t);
+                if (this.s < 0) return "-" + this.negate().toString(t);
                 var e;
                 if (16 == t) e = 4;
                 else if (8 == t) e = 3;
@@ -4903,8 +4767,7 @@
                 return this.t <= 0 ? 0 : this.DB * (this.t - 1) + y(this[this.t - 1] ^ this.s & this.DM)
             }, s.prototype.mod = function(t) {
                 var e = a();
-                return this.abs()
-                    .divRemTo(t, null, e), this.s < 0 && e.compareTo(s.ZERO) > 0 && t.subTo(e, e), e
+                return this.abs().divRemTo(t, null, e), this.s < 0 && e.compareTo(s.ZERO) > 0 && t.subTo(e, e), e
             }, s.prototype.modPowInt = function(t, e) {
                 var r;
                 return r = t < 256 || e.isEven() ? new g(e) : new d(e), this.exp(t, r)
@@ -5076,10 +4939,8 @@
             }, t.exports = s
         },
         5682: (t, e, r) => {
-            var n = r(8287)
-                .Buffer,
-                i = r(8226)
-                    ._,
+            var n = r(8287).Buffer,
+                i = r(8226)._,
                 o = (r(3200), r(1973)),
                 s = r(8226),
                 a = r(1768),
@@ -5096,12 +4957,8 @@
                     var r = t >> 1;
                     this.e = parseInt(e, 16);
                     for (var n = new o(e, 16);;) {
-                        for (; this.p = new o(t - r, 1), 0 !== this.p.subtract(o.ONE)
-                            .gcd(n)
-                            .compareTo(o.ONE) || !this.p.isProbablePrime(10););
-                        for (; this.q = new o(r, 1), 0 !== this.q.subtract(o.ONE)
-                            .gcd(n)
-                            .compareTo(o.ONE) || !this.q.isProbablePrime(10););
+                        for (; this.p = new o(t - r, 1), 0 !== this.p.subtract(o.ONE).gcd(n).compareTo(o.ONE) || !this.p.isProbablePrime(10););
+                        for (; this.q = new o(r, 1), 0 !== this.q.subtract(o.ONE).gcd(n).compareTo(o.ONE) || !this.q.isProbablePrime(10););
                         if (this.p.compareTo(this.q) <= 0) {
                             var i = this.p;
                             this.p = this.q, this.q = i
@@ -5109,8 +4966,7 @@
                         var s = this.p.subtract(o.ONE),
                             a = this.q.subtract(o.ONE),
                             f = s.multiply(a);
-                        if (0 === f.gcd(n)
-                            .compareTo(o.ONE)) {
+                        if (0 === f.gcd(n).compareTo(o.ONE)) {
                             if (this.n = this.p.multiply(this.q), this.n.bitLength() < t) continue;
                             this.d = n.modInverse(f), this.dmp1 = this.d.mod(s), this.dmq1 = this.d.mod(a), this.coeff = this.q.modInverse(this.p);
                             break
@@ -5125,14 +4981,8 @@
                     this.n = new o(t), this.e = i.isNumber(e) ? e : s.get32IntFromBuffer(e, 0), this.$$recalculateCache()
                 }, t.prototype.$doPrivate = function(t) {
                     if (this.p || this.q) return t.modPow(this.d, this.n);
-                    for (var e = t.mod(this.p)
-                        .modPow(this.dmp1, this.p), r = t.mod(this.q)
-                        .modPow(this.dmq1, this.q); e.compareTo(r) < 0;) e = e.add(this.p);
-                    return e.subtract(r)
-                        .multiply(this.coeff)
-                        .mod(this.p)
-                        .multiply(this.q)
-                        .add(r)
+                    for (var e = t.mod(this.p).modPow(this.dmp1, this.p), r = t.mod(this.q).modPow(this.dmq1, this.q); e.compareTo(r) < 0;) e = e.add(this.p);
+                    return e.subtract(r).multiply(this.coeff).mod(this.p).multiply(this.q).add(r)
                 }, t.prototype.$doPublic = function(t) {
                     return t.modPowInt(this.e, this.n)
                 }, t.prototype.encrypt = function(t, e) {
@@ -5175,8 +5025,7 @@
             }()
         },
         2487: (t, e, r) => {
-            var n = r(8287)
-                .Buffer,
+            var n = r(8287).Buffer,
                 i = (r(1973), r(3200));
             t.exports = {
                 isEncryption: !0,
@@ -5197,8 +5046,7 @@
                 s = s || o;
                 for (var a = t.exports.digestLength[s], f = Math.ceil(r / a), u = n.alloc(a * f), c = n.alloc(4), h = 0; h < f; ++h) {
                     var p = i.createHash(s);
-                    p.update(e), c.writeUInt32BE(h, 0), p.update(c), p.digest()
-                        .copy(u, h * a)
+                    p.update(e), c.writeUInt32BE(h, 0), p.update(c), p.digest().copy(u, h * a)
                 }
                 return u.slice(0, r)
             }, t.exports.makeScheme = function(e, r) {
@@ -5231,8 +5079,7 @@
                     for (var u = e.slice(1, f + 1), c = e.slice(1 + f), h = s(c, f, r), p = 0; p < u.length; p++) u[p] ^= h[p];
                     for (h = s(u, c.length, r), p = 0; p < c.length; p++) c[p] ^= h[p];
                     var l = i.createHash(r);
-                    if (l.update(a), l = l.digest(), c.slice(0, f)
-                        .toString("hex") != l.toString("hex")) throw new Error("Error decoding message, the lHash calculated from the label provided and the lHash in the encrypted data do not match.");
+                    if (l.update(a), l = l.digest(), c.slice(0, f).toString("hex") != l.toString("hex")) throw new Error("Error decoding message, the lHash calculated from the label provided and the lHash in the encrypted data do not match.");
                     for (p = f; 0 === c[p++] && p < c.length;);
                     if (1 != c[p - 1]) throw new Error("Error decoding message, there is no padding message separator byte");
                     return c.slice(p)
@@ -5240,8 +5087,7 @@
             }
         },
         8290: (t, e, r) => {
-            var n = r(8287)
-                .Buffer,
+            var n = r(8287).Buffer,
                 i = r(1973),
                 o = r(3200),
                 s = r(7449),
@@ -5270,10 +5116,8 @@
                 }, r.prototype.encPad = function(t, e) {
                     var r;
                     if (e = e || {}, t.length > this.key.maxMessageLength) throw new Error("Message too long for RSA (n=" + this.key.encryptedDataLength + ", l=" + t.length + ")");
-                    if (this.options.encryptionSchemeOptions && this.options.encryptionSchemeOptions.padding == s.RSA_NO_PADDING) return (r = n.alloc(this.key.maxMessageLength - t.length))
-                        .fill(0), n.concat([r, t]);
-                    if (1 === e.type) return (r = n.alloc(this.key.encryptedDataLength - t.length - 1))
-                        .fill(255, 0, r.length - 1), r[0] = 1, r[r.length - 1] = 0, n.concat([r, t]);
+                    if (this.options.encryptionSchemeOptions && this.options.encryptionSchemeOptions.padding == s.RSA_NO_PADDING) return (r = n.alloc(this.key.maxMessageLength - t.length)).fill(0), n.concat([r, t]);
+                    if (1 === e.type) return (r = n.alloc(this.key.encryptedDataLength - t.length - 1)).fill(255, 0, r.length - 1), r[0] = 1, r[r.length - 1] = 0, n.concat([r, t]);
                     (r = n.alloc(this.key.encryptedDataLength - t.length))[0] = 0, r[1] = 2;
                     for (var i = o.randomBytes(r.length - 3), a = 0; a < i.length; a++) {
                         for (var f = i[a]; 0 === f;) f = o.randomBytes(1)[0];
@@ -5300,8 +5144,7 @@
                         var r = o.createHash(e);
                         r.update(t);
                         var n = this.pkcs1pad(r.digest(), e);
-                        return this.key.$doPrivate(new i(n))
-                            .toBuffer(this.key.encryptedDataLength)
+                        return this.key.$doPrivate(new i(n)).toBuffer(this.key.encryptedDataLength)
                     }
                     var s = o.createSign("RSA-" + e.toUpperCase());
                     return s.update(t), s.sign(this.options.rsaUtils.exportKey("private"))
@@ -5313,9 +5156,7 @@
                         var c = o.createHash(a);
                         c.update(t);
                         var h = this.pkcs1pad(c.digest(), a);
-                        return this.key.$doPublic(new i(e))
-                            .toBuffer()
-                            .toString("hex") == h.toString("hex")
+                        return this.key.$doPublic(new i(e)).toBuffer().toString("hex") == h.toString("hex")
                     }
                     var p = o.createVerify("RSA-" + a.toUpperCase());
                     return p.update(t), p.verify(this.options.rsaUtils.exportKey("public"), e, r)
@@ -5335,8 +5176,7 @@
             }
         },
         4414: (t, e, r) => {
-            var n = r(8287)
-                .Buffer,
+            var n = r(8287).Buffer,
                 i = r(1973),
                 o = r(3200);
             t.exports = {
@@ -5345,8 +5185,7 @@
             };
             var s = "sha1";
             t.exports.makeScheme = function(t, e) {
-                var a = r(1768)
-                    .pkcs1_oaep;
+                var a = r(1768).pkcs1_oaep;
 
                 function f(t, e) {
                     this.key = t, this.options = e
@@ -5355,13 +5194,11 @@
                     var e = o.createHash(this.options.signingSchemeOptions.hash || s);
                     e.update(t);
                     var r = this.emsa_pss_encode(e.digest(), this.key.keySize - 1);
-                    return this.key.$doPrivate(new i(r))
-                        .toBuffer(this.key.encryptedDataLength)
+                    return this.key.$doPrivate(new i(r)).toBuffer(this.key.encryptedDataLength)
                 }, f.prototype.verify = function(t, e, r) {
                     r && (e = n.from(e, r)), e = new i(e);
                     var a = Math.ceil((this.key.keySize - 1) / 8),
-                        f = this.key.$doPublic(e)
-                            .toBuffer(a),
+                        f = this.key.$doPublic(e).toBuffer(a),
                         u = o.createHash(this.options.signingSchemeOptions.hash || s);
                     return u.update(t), this.emsa_pss_verify(u.digest(), f, this.key.keySize - 1)
                 }, f.prototype.emsa_pss_encode = function(t, e) {
@@ -5734,8 +5571,7 @@
                 var n = s(t);
                 return e && 0 !== e.length ? "string" == typeof r ? n.fill(e, r) : n.fill(e) : n.fill(0), n
             }), !a.kStringMaxLength) try {
-                a.kStringMaxLength = i.binding("buffer")
-                    .kStringMaxLength
+                a.kStringMaxLength = i.binding("buffer").kStringMaxLength
             } catch (t) {}
             a.constants || (a.constants = {
                 MAX_LENGTH: a.kMaxLength
@@ -5763,8 +5599,7 @@
             }
         },
         3200: (t, e, r) => {
-            var n = r(8287)
-                .Buffer,
+            var n = r(8287).Buffer,
                 i = r(1396),
                 o = {
                     randomBytes: function(t) {
@@ -5778,8 +5613,7 @@
                                 return e = n.concat([e, t]), this
                             },
                             digest: function() {
-                                let r = i[t.toUpperCase()](i.lib.WordArray.create(new Uint8Array(e)))
-                                    .toString();
+                                let r = i[t.toUpperCase()](i.lib.WordArray.create(new Uint8Array(e))).toString();
                                 return n.from(r, "hex")
                             }
                         }
@@ -5788,8 +5622,7 @@
             t.exports = o
         },
         7033: (t, e, r) => {
-            var n = r(8287)
-                .Buffer;
+            var n = r(8287).Buffer;
             const i = r(3229);
             let o = {
                 outputEncoding: "",
@@ -5803,28 +5636,22 @@
             t.exports = {
                 NodeRSA: i,
                 encryptRSAWithPublicKey: function(t, e, r = {}) {
-                    return r = Object.assign({}, o, r), new i(e, r.PublicFormat, r.options)
-                        .encrypt(t, r.outEncoding || "base64")
+                    return r = Object.assign({}, o, r), new i(e, r.PublicFormat, r.options).encrypt(t, r.outEncoding || "base64")
                 },
                 encryptRSAWithPrivateKey: function(t, e, r = {}) {
-                    return r = Object.assign({}, o, r), new i(e, r.PrivateFormat, r.options)
-                        .encryptPrivate(t, r.outputEncoding || "base64")
+                    return r = Object.assign({}, o, r), new i(e, r.PrivateFormat, r.options).encryptPrivate(t, r.outputEncoding || "base64")
                 },
                 decryptRSAWithPublicKey: function(t, e, r = {}) {
-                    return r = Object.assign({}, o, r), new i(e, r.PublicEncoding, r.options)
-                        .decryptPublic(t, r.outEncoding || "utf8")
+                    return r = Object.assign({}, o, r), new i(e, r.PublicEncoding, r.options).decryptPublic(t, r.outEncoding || "utf8")
                 },
                 decryptRSAWithPrivateKey: function(t, e, r = {}) {
-                    return r = Object.assign({}, o, r), new i(e, r.PrivateEncoding, r.options)
-                        .decrypt(t, r.outEncoding || "utf8")
+                    return r = Object.assign({}, o, r), new i(e, r.PrivateEncoding, r.options).decrypt(t, r.outEncoding || "utf8")
                 },
                 sign: function(t, e, r = {}) {
-                    return r = Object.assign({}, o, r), new i(e, r.PrivateEncoding, r.options)
-                        .sign(t, r.outEncoding || "base64")
+                    return r = Object.assign({}, o, r), new i(e, r.PrivateEncoding, r.options).sign(t, r.outEncoding || "base64")
                 },
                 verify: function(t, e, r, s = {}) {
-                    return "string" == typeof e && e.match(/^([0-9a-fA-F]{2})*$/) ? e = n.from(e, "hex") : "string" == typeof e && (e = n.from(e, "base64")), s = Object.assign({}, o, s), new i(r, s.PublicEncoding, s.options)
-                        .verify(t, e)
+                    return "string" == typeof e && e.match(/^([0-9a-fA-F]{2})*$/) ? e = n.from(e, "hex") : "string" == typeof e && (e = n.from(e, "base64")), s = Object.assign({}, o, s), new i(r, s.PublicEncoding, s.options).verify(t, e)
                 }
             }
         },

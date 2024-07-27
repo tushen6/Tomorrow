@@ -70,8 +70,7 @@
                 // Use randomBytes method (NodeJS)
                 if (typeof crypto.randomBytes === 'function') {
                     try {
-                        return crypto.randomBytes(4)
-                            .readInt32LE();
+                        return crypto.randomBytes(4).readInt32LE();
                     } catch (err) {}
                 }
             }
@@ -273,8 +272,7 @@
              *     var string = wordArray.toString(CryptoJS.enc.Utf8);
              */
             toString: function(encoder) {
-                return (encoder || Hex)
-                    .stringify(this);
+                return (encoder || Hex).stringify(this);
             },
 
             /**
@@ -405,10 +403,8 @@
                 var hexChars = [];
                 for (var i = 0; i < sigBytes; i++) {
                     var bite = (words[i >>> 2] >>> (24 - (i % 4) * 8)) & 0xff;
-                    hexChars.push((bite >>> 4)
-                        .toString(16));
-                    hexChars.push((bite & 0x0f)
-                        .toString(16));
+                    hexChars.push((bite >>> 4).toString(16));
+                    hexChars.push((bite & 0x0f).toString(16));
                 }
 
                 return hexChars.join('');
@@ -770,8 +766,7 @@
              */
             _createHelper: function(hasher) {
                 return function(message, cfg) {
-                    return new hasher.init(cfg)
-                        .finalize(message);
+                    return new hasher.init(cfg).finalize(message);
                 };
             },
 
@@ -790,8 +785,7 @@
              */
             _createHmacHelper: function(hasher) {
                 return function(message, key) {
-                    return new C_algo.HMAC.init(hasher, key)
-                        .finalize(message);
+                    return new C_algo.HMAC.init(hasher, key).finalize(message);
                 };
             }
         });
@@ -3160,8 +3154,7 @@
                 // Compute HMAC
                 var innerHash = hasher.finalize(messageUpdate);
                 hasher.reset();
-                var hmac = hasher.finalize(this._oKey.clone()
-                    .concat(innerHash));
+                var hmac = hasher.finalize(this._oKey.clone().concat(innerHash));
 
                 return hmac;
             }
@@ -3242,8 +3235,7 @@
 
                 // Generate key
                 while (derivedKeyWords.length < keySize) {
-                    var block = hmac.update(salt)
-                        .finalize(blockIndex);
+                    var block = hmac.update(salt).finalize(blockIndex);
                     hmac.reset();
 
                     // Shortcuts
@@ -3292,8 +3284,7 @@
          *     var key = CryptoJS.PBKDF2(password, salt, { keySize: 8, iterations: 1000 });
          */
         C.PBKDF2 = function(password, salt, cfg) {
-            return PBKDF2.create(cfg)
-                .compute(password, salt);
+            return PBKDF2.create(cfg).compute(password, salt);
         };
     }());
 
@@ -3374,8 +3365,7 @@
                     if (block) {
                         hasher.update(block);
                     }
-                    block = hasher.update(password)
-                        .finalize(salt);
+                    block = hasher.update(password).finalize(salt);
                     hasher.reset();
 
                     // Iterations
@@ -3410,8 +3400,7 @@
          *     var key = CryptoJS.EvpKDF(password, salt, { keySize: 8, iterations: 1000 });
          */
         C.EvpKDF = function(password, salt, cfg) {
-            return EvpKDF.create(cfg)
-                .compute(password, salt);
+            return EvpKDF.create(cfg).compute(password, salt);
         };
     }());
 
@@ -3601,13 +3590,11 @@
                 return function(cipher) {
                     return {
                         encrypt: function(message, key, cfg) {
-                            return selectCipherStrategy(key)
-                                .encrypt(cipher, message, key, cfg);
+                            return selectCipherStrategy(key).encrypt(cipher, message, key, cfg);
                         },
 
                         decrypt: function(ciphertext, key, cfg) {
-                            return selectCipherStrategy(key)
-                                .decrypt(cipher, ciphertext, key, cfg);
+                            return selectCipherStrategy(key).decrypt(cipher, ciphertext, key, cfg);
                         }
                     };
                 };
@@ -3971,8 +3958,7 @@
              *     var string = cipherParams.toString(CryptoJS.format.OpenSSL);
              */
             toString: function(formatter) {
-                return (formatter || this.formatter)
-                    .stringify(this);
+                return (formatter || this.formatter).stringify(this);
             }
         });
 
@@ -4007,9 +3993,7 @@
 
                 // Format
                 if (salt) {
-                    wordArray = WordArray.create([0x53616c74, 0x65645f5f])
-                        .concat(salt)
-                        .concat(ciphertext);
+                    wordArray = WordArray.create([0x53616c74, 0x65645f5f]).concat(salt).concat(ciphertext);
                 } else {
                     wordArray = ciphertext;
                 }
@@ -4136,8 +4120,7 @@
                 ciphertext = this._parse(ciphertext, cfg.format);
 
                 // Decrypt
-                var plaintext = cipher.createDecryptor(key, cfg)
-                    .finalize(ciphertext.ciphertext);
+                var plaintext = cipher.createDecryptor(key, cfg).finalize(ciphertext.ciphertext);
 
                 return plaintext;
             },
@@ -4201,8 +4184,7 @@
                 // Derive key and IV
                 var key = EvpKDF.create({
                     keySize: keySize + ivSize
-                })
-                    .compute(password, salt);
+                }).compute(password, salt);
 
                 // Separate key and IV
                 var iv = WordArray.create(key.words.slice(keySize), ivSize * 4);
@@ -4594,8 +4576,7 @@
             var nPaddingBytes = blockSizeBytes - data.sigBytes % blockSizeBytes;
 
             // Pad
-            data.concat(CryptoJS.lib.WordArray.random(nPaddingBytes - 1))
-                .
+            data.concat(CryptoJS.lib.WordArray.random(nPaddingBytes - 1)).
             concat(CryptoJS.lib.WordArray.create([nPaddingBytes << 24], 1));
         },
 
