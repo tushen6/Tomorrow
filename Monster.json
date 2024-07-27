@@ -30,7 +30,7 @@
             "type": 3,
             "api": "csp_Bili",
             "jar": "./lib/pg.jar",
-            "searchable": 0,
+            "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
@@ -893,9 +893,9 @@
         },
 	   
      
-            {
+           {
             "key": "玩偶弹幕",
-            "name": "💯4K玩偶丨极致HDR",
+            "name": "💯4K玩偶丨臻享HDR",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -904,8 +904,8 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-               "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-		    "site": "https://www.wogg.net",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "wogg": true,
                 "danmu": true
             },
             "jar": "./danmu.jar"
@@ -1473,7 +1473,6 @@
       "jar": "./jar/duo.jar",
       "ext": "./lib/体育健身.json"
     },
-	     
      {
       "key": "c",
       "name": "请勿相信片中广告小心上当受骗！",
@@ -1685,32 +1684,7 @@
                 "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
             ]
         },
-        {
-            "name": "磁力广告",
-            "hosts": [
-                "magnet"
-            ],
-            "regex": [
-                "更多",
-                "请访问",
-                "example",
-                "社 區",
-                "x u u",
-                "直 播",
-                "更 新",
-                "社 区",
-                "有趣",
-                "有 趣",
-                "英皇体育",
-                "全中文AV在线",
-                "澳门皇冠赌场",
-                "哥哥快来",
-                "美女荷官",
-                "裸聊",
-                "新片首发",
-                "UUE29"
-            ]
-        },
+       
         {
             "name": "火山嗅探",
             "hosts": [
