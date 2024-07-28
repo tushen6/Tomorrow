@@ -1,14 +1,14 @@
 [
     {
-        "name": "直播",
-        "url": "https://8815.kstore.space/TV/zby.txt"
+        "name": "IPTV直播",
+        "url": "./TV/zby.txt"
     },
     {
-        "name": "18➕",
+        "name": "18➕未成年勿看",
         "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/jyr/main/fly.txt"
     },
     {
-        "name": "移动采集",
-        "url": "https://8815.kstore.space/zbfx/ydcj.txt"
+        "name": "移动高清采集",
+        "url": "./TV/移动高清采集.txt"
     }
 ]
