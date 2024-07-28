@@ -1,7 +1,4 @@
-🌴林中小屋🏠,#genre#
-①公众号“林中的小屋”,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-②q群:14451629”,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-③接口免费勿上当受骗”,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+
 🌐央视频道,#genre#
 CCTV1 3M1080,http://ott.mobaibox.com/PLTV/3/224/3221227375/index.m3u8
 CCTV1 4.8M1080HEVC,http://ott.mobaibox.com/PLTV/3/224/3221227641/index.m3u8
