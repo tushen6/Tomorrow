@@ -1769,7 +1769,7 @@
         {
             "name": "神荼live",
             "type": 0,
-            "url": "./TV/zby.txt",
+            "url": "./zby.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
       "epg": "https://live.fanmingming.com/e.xml",
