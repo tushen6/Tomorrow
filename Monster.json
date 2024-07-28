@@ -294,38 +294,6 @@
             "quickSearch": 1,
             "ext": "./JS/采集之王.js?type=url&params=./JS/采集静态.json$1$1"
         },
-          {
-      "key": "sliu_spider",
-      "name": "石榴✨蓝光直连",
-      "api": "csp_ShiLiuDY",
-      "type": 3,
-      "filterable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "searchable": 1,
-      "jar": "./jar/0719.jar",
-      "ext": ""
-    },
-           {
-      "key": "柠檬",
-      "name": "柠檬✨蓝光秒播",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "./jar/0719.jar",
-      "ext": "https://api.cnmcom.com/webcloud/relay.php?url="
-    },
-     {
-      "key": "Lib",
-      "name": "Lib✨蓝光秒播",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "./jar/0719.jar",
-      "ext": "./JS/playerconfig.js"
-    },
      {
       "key": "七夕影视",
       "name": "七夕✨蓝光秒播",
