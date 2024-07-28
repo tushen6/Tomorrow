@@ -1,7 +1,7 @@
 [
     {
         "name": "IPTV直播",
-        "url": "./TV/zby.txt"
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/TV/zby.txt"
     },
     {
         "name": "18➕未成年勿看",
@@ -9,6 +9,6 @@
     },
     {
         "name": "移动高清采集",
-        "url": "./TV/移动高清采集.txt"
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/TV/移动高清采集.txt"
     }
 ]
