@@ -9,44 +9,314 @@ https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
 http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="郑铁有线" tvg-logo="" group-title="📺央视频道ipv4",郑铁有线
 http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="📺央视频道ipv4",CCTV-1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="" group-title="📺央视频道ipv4",CCTV-2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="" group-title="📺央视频道ipv4",CCTV-3
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="📺央视频道ipv4",CCTV-4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="📺央视频道ipv4",CCTV-5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="" group-title="📺央视频道ipv4",CCTV-5+
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="" group-title="📺央视频道ipv4",CCTV-6
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="" group-title="📺央视频道ipv4",CCTV-7
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="" group-title="📺央视频道ipv4",CCTV-8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="" group-title="📺央视频道ipv4",CCTV-9
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="" group-title="📺央视频道ipv4",CCTV-10
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="" group-title="📺央视频道ipv4",CCTV-11
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="" group-title="📺央视频道ipv4",CCTV-12
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV01" tvg-logo="" group-title="📺央视频道ipv4",CCTV-01
+http://dev.grayidea.com:4022/udp/239.3.1.129:8008
+#EXTINF:-1 tvg-id="" tvg-name="CCTV02" tvg-logo="" group-title="📺央视频道ipv4",CCTV-02
+http://dev.grayidea.com:4022/udp/239.3.1.60:8084
+#EXTINF:-1 tvg-id="" tvg-name="CCTV03" tvg-logo="" group-title="📺央视频道ipv4",CCTV-03
+http://dev.grayidea.com:4022/udp/239.3.1.172:8001
+#EXTINF:-1 tvg-id="" tvg-name="CCTV06" tvg-logo="" group-title="📺央视频道ipv4",CCTV-06
+http://dev.grayidea.com:4022/udp/239.3.1.174:8001
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="📺央视频道ipv4",CCTV-13
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="" group-title="📺央视频道ipv4",CCTV-14
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="" group-title="📺央视频道ipv4",CCTV-15
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="" group-title="📺央视频道ipv4",CCTV-16
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="" group-title="📺央视频道ipv4",CCTV-17
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="" group-title="📺央视频道ipv4",CCTV-4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+http://dev.grayidea.com:4022/udp/239.3.1.124:8128
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="📺央视频道ipv4",北京卫视
+http://dev.grayidea.com:4022/udp/239.3.1.241:8000
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="" group-title="📺央视频道ipv4",江苏卫视
+http://dev.grayidea.com:4022/udp/239.3.1.135:8028
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="" group-title="📺央视频道ipv4",江西卫视
+http://dev.grayidea.com:4022/udp/239.3.1.123:8164
+#EXTINF:-1 tvg-id="" tvg-name="乌鲁木齐综合" tvg-logo="" group-title="📺央视频道ipv4",乌鲁木齐综合
+http://hls-xjhsy.sobeylive.com/xjwlmqapp2019/xwzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="乌鲁木齐维语综合" tvg-logo="" group-title="📺央视频道ipv4",乌鲁木齐维语综合
+http://hls-xjhsy.sobeylive.com/xjwlmqapp2019/wy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-1HD
+http://dns.art2kn.win:7000/rtp/239.3.1.129:8008
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-2HD
+http://dns.art2kn.win:7000/rtp/239.3.1.60:8084
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-3HD
+http://dns.art2kn.win:7000/rtp/239.3.1.172:8001
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-4HD
+http://dns.art2kn.win:7000/rtp/239.3.1.105:8092
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-5HD
+http://dns.art2kn.win:7000/rtp/239.3.1.173:8001
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV5+HD
+http://dns.art2kn.win:7000/rtp/239.3.1.130:8004
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-6HD
+http://dns.art2kn.win:7000/rtp/239.3.1.174:8001
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-7HD
+http://dns.art2kn.win:7000/rtp/239.3.1.61:8104
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-8HD
+http://dns.art2kn.win:7000/rtp/239.3.1.175:8001
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-9HD
+http://dns.art2kn.win:7000/rtp/239.3.1.62:8112
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-10HD
+http://dns.art2kn.win:7000/rtp/239.3.1.63:8116
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-11HD
+http://dns.art2kn.win:7000/rtp/239.3.1.152:8120
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-12HD
+http://dns.art2kn.win:7000/rtp/239.3.1.64:8124
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-13HD
+http://dns.art2kn.win:7000/rtp/239.3.1.124:8128
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-14HD
+http://dns.art2kn.win:7000/rtp/239.3.1.65:8132
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-15HD
+http://dns.art2kn.win:7000/rtp/239.3.1.153:8136
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16HR" tvg-logo="" group-title="📺央视频道ipv4",CCTV-16HR
+http://dns.art2kn.win:7000/rtp/239.3.1.183:8001
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-16HD
+http://dns.art2kn.win:7000/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17HD" tvg-logo="" group-title="📺央视频道ipv4",CCTV-17HD
+http://dns.art2kn.win:7000/rtp/239.3.1.151:8144
+#EXTINF:-1 tvg-id="" tvg-name="BRTV新闻HD" tvg-logo="" group-title="📺央视频道ipv4",BRTV新闻HD
+http://dns.art2kn.win:7000/rtp/239.3.1.159:8000
+#EXTINF:-1 tvg-id="" tvg-name="BRTV影视HD" tvg-logo="" group-title="📺央视频道ipv4",BRTV影视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-id="" tvg-name="BRTV文艺HD" tvg-logo="" group-title="📺央视频道ipv4",BRTV文艺HD
+http://dns.art2kn.win:7000/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-id="" tvg-name="BRTV财经HD" tvg-logo="" group-title="📺央视频道ipv4",BRTV财经HD
+http://dns.art2kn.win:7000/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-id="" tvg-name="BRTV生活HD" tvg-logo="" group-title="📺央视频道ipv4",BRTV生活HD
+http://dns.art2kn.win:7000/rtp/239.3.1.117:8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺央视频道ipv4",BRTV青年HD
+http://dns.art2kn.win:7000/#rtp/239.3.1.118:8000
+#EXTINF:-1 tvg-id="" tvg-name="BRTV科教HD" tvg-logo="" group-title="📺央视频道ipv4",BRTV科教HD
+http://dns.art2kn.win:7000/rtp/239.3.1.115:8000
+#EXTINF:-1 tvg-id="" tvg-name="BRTV少儿HD" tvg-logo="" group-title="📺央视频道ipv4",BRTV少儿HD
+http://dns.art2kn.win:7000/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺央视频道ipv4",BRTV纪实HD
+http://dns.art2kn.win:7000/#rtp/239.3.1.243:8000#rtp/239.3.1.121:8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺央视频道ipv4",BRTV纪实
+http://dns.art2kn.win:7000/#rtp/239.3.1.120:8000
+#EXTINF:-1 tvg-id="" tvg-name="BRTV体育HD" tvg-logo="" group-title="📺央视频道ipv4",BRTV体育HD
+http://dns.art2kn.win:7000/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-id="" tvg-name="BRTV国际HD" tvg-logo="" group-title="📺央视频道ipv4",BRTV国际HD
+http://dns.art2kn.win:7000/rtp/239.3.1.235:8000
+#EXTINF:-1 tvg-id="" tvg-name="爱上4KHD" tvg-logo="" group-title="📺央视频道ipv4",爱上4KHD
+http://dns.art2kn.win:7000/rtp/239.3.1.236:2000
+#EXTINF:-1 tvg-id="" tvg-name="4K超清HD" tvg-logo="" group-title="📺央视频道ipv4",4K超清HD
+http://dns.art2kn.win:7000/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-id="" tvg-name="淘电影HD" tvg-logo="" group-title="📺央视频道ipv4",淘电影HD
+http://dns.art2kn.win:7000/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-id="" tvg-name="CGTN新闻HD" tvg-logo="" group-title="📺央视频道ipv4",CGTN新闻HD
+http://dns.art2kn.win:7000/rtp/239.3.1.215:4220
+#EXTINF:-1 tvg-id="" tvg-name="CGTN记录HD" tvg-logo="" group-title="📺央视频道ipv4",CGTN记录HD
+http://dns.art2kn.win:7000/rtp/239.3.1.216:4220
+#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语HD" tvg-logo="" group-title="📺央视频道ipv4",CGTN俄语HD
+http://dns.art2kn.win:7000/rtp/239.3.1.220:4220
+#EXTINF:-1 tvg-id="" tvg-name="CGTN法语HD" tvg-logo="" group-title="📺央视频道ipv4",CGTN法语HD
+http://dns.art2kn.win:7000/rtp/239.3.1.218:4220
+#EXTINF:-1 tvg-id="" tvg-name="CGTN西班牙语HD" tvg-logo="" group-title="📺央视频道ipv4",CGTN西班牙语HD
+http://dns.art2kn.win:7000/rtp/239.3.1.217:4220
+#EXTINF:-1 tvg-id="" tvg-name="CGTN阿拉伯语HD" tvg-logo="" group-title="📺央视频道ipv4",CGTN阿拉伯语HD
+http://dns.art2kn.win:7000/rtp/239.3.1.219:4220
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="📺央视频道ipv4",CCTV4国际欧洲HD
+http://dns.art2kn.win:7000/rtp/239.3.1.213:4220
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="📺央视频道ipv4",CCTV4国际美洲HD
+http://dns.art2kn.win:7000/rtp/239.3.1.214:4220
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视HD" tvg-logo="" group-title="📺央视频道ipv4",北京卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.241:8000
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视HD" tvg-logo="" group-title="📺央视频道ipv4",东方卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.136:8032
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视HD" tvg-logo="" group-title="📺央视频道ipv4",浙江卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.137:8036
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视HD" tvg-logo="" group-title="📺央视频道ipv4",江苏卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.135:8028
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视HD" tvg-logo="" group-title="📺央视频道ipv4",湖南卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.132:8012
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视HD" tvg-logo="" group-title="📺央视频道ipv4",深圳卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.134:8020
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视HD" tvg-logo="" group-title="📺央视频道ipv4",广东卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.142:8048
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视HD" tvg-logo="" group-title="📺央视频道ipv4",安徽卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.211:8064
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视HD" tvg-logo="" group-title="📺央视频道ipv4",天津卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.141:1234
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视HD" tvg-logo="" group-title="📺央视频道ipv4",重庆卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.122:8160
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视HD" tvg-logo="" group-title="📺央视频道ipv4",山东卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.209:8052
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江视HD" tvg-logo="" group-title="📺央视频道ipv4",黑龙江视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.133:8016
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视HD" tvg-logo="" group-title="📺央视频道ipv4",河北卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.148:8072
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视HD" tvg-logo="" group-title="📺央视频道ipv4",辽宁卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.210:8056
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视HD" tvg-logo="" group-title="📺央视频道ipv4",湖北卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.138:8044
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视HD" tvg-logo="" group-title="📺央视频道ipv4",吉林卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.240:8172
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视HD" tvg-logo="" group-title="📺央视频道ipv4",贵州卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.149:8076
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视HD" tvg-logo="" group-title="📺央视频道ipv4",东南卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.156:8148
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视HD" tvg-logo="" group-title="📺央视频道ipv4",江西卫视HD
+http://dns.art2kn.win:7000/rtp/239.3.1.123:8164
+#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="" group-title="📺央视频道ipv4",海南卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.45:8304
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="" group-title="📺央视频道ipv4",云南卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.26:8108
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="" group-title="📺央视频道ipv4",兵团卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.144:4120
+#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="" group-title="📺央视频道ipv4",厦门卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.143:4120
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="" group-title="📺央视频道ipv4",四川卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.29:8288
+#EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-logo="" group-title="📺央视频道ipv4",南方卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.161:8001
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="" group-title="📺央视频道ipv4",宁夏卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.46:8124
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="" group-title="📺央视频道ipv4",山西卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.42:8172
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="" group-title="📺央视频道ipv4",广西卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.39:8300
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="" group-title="📺央视频道ipv4",新疆卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.48:8160
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="" group-title="📺央视频道ipv4",河南卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.27:8128
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="" group-title="📺央视频道ipv4",甘肃卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.49:8188
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="" group-title="📺央视频道ipv4",西藏卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.47:8164
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="" group-title="📺央视频道ipv4",三沙卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.155:4120
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="" group-title="📺央视频道ipv4",陕西卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.41:8140
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="" group-title="📺央视频道ipv4",青海卫视
+http://dns.art2kn.win:7000/rtp/239.3.1.44:8184
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古视" tvg-logo="" group-title="📺央视频道ipv4",内蒙古视
+http://dns.art2kn.win:7000/rtp/239.3.1.43:8176
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺央视频道ipv4",每日影院HD
+http://dns.art2kn.win:7000/#rtp/239.3.1.111:8001
+#EXTINF:-1 tvg-id="" tvg-name="星影" tvg-logo="" group-title="📺央视频道ipv4",星影
+http://dns.art2kn.win:7000/rtp/239.3.1.94:4120
+#EXTINF:-1 tvg-id="" tvg-name="动作影院" tvg-logo="" group-title="📺央视频道ipv4",动作影院
+http://dns.art2kn.win:7000/rtp/239.3.1.92:4120
+#EXTINF:-1 tvg-id="" tvg-name="光影" tvg-logo="" group-title="📺央视频道ipv4",光影
+http://dns.art2kn.win:7000/rtp/239.3.1.84:4120
+#EXTINF:-1 tvg-id="" tvg-name="喜剧影院" tvg-logo="" group-title="📺央视频道ipv4",喜剧影院
+http://dns.art2kn.win:7000/rtp/239.3.1.91:4120
+#EXTINF:-1 tvg-id="" tvg-name="家庭影院" tvg-logo="" group-title="📺央视频道ipv4",家庭影院
+http://dns.art2kn.win:7000/rtp/239.3.1.93:4120
+#EXTINF:-1 tvg-id="" tvg-name="精选" tvg-logo="" group-title="📺央视频道ipv4",精选
+http://dns.art2kn.win:7000/rtp/239.3.1.74:4120
+#EXTINF:-1 tvg-id="" tvg-name="经典电影" tvg-logo="" group-title="📺央视频道ipv4",经典电影
+http://dns.art2kn.win:7000/rtp/239.3.1.195:9024
+#EXTINF:-1 tvg-id="" tvg-name="纪实人文HD" tvg-logo="" group-title="📺央视频道ipv4",纪实人文HD
+http://dns.art2kn.win:7000/rtp/239.3.1.212:8060
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实HD" tvg-logo="" group-title="📺央视频道ipv4",金鹰纪实HD
+http://dns.art2kn.win:7000/rtp/239.3.1.58:8156
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺央视频道ipv4",风尚生活HD
+http://dns.art2kn.win:7000/#rtp/239.3.1.114:8001
+#EXTINF:-1 tvg-id="" tvg-name="地理" tvg-logo="" group-title="📺央视频道ipv4",地理
+http://dns.art2kn.win:7000/rtp/239.3.1.71:4120
+#EXTINF:-1 tvg-id="" tvg-name="淘剧场HD" tvg-logo="" group-title="📺央视频道ipv4",淘剧场HD
+http://dns.art2kn.win:7000/rtp/239.3.1.95:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺央视频道ipv4",幸福剧场HD
+http://dns.art2kn.win:7000/#rtp/239.3.1.112:8001
+#EXTINF:-1 tvg-id="" tvg-name="淘娱乐HD" tvg-logo="" group-title="📺央视频道ipv4",淘娱乐HD
+http://dns.art2kn.win:7000/rtp/239.3.1.100:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺央视频道ipv4",幸福娱乐HD
+http://dns.art2kn.win:7000/#rtp/239.3.1.113:8001
+#EXTINF:-1 tvg-id="" tvg-name="淘BABYHD" tvg-logo="" group-title="📺央视频道ipv4",淘BABYHD
+http://dns.art2kn.win:7000/rtp/239.3.1.238:8001
+#EXTINF:-1 tvg-id="" tvg-name="萌宠TVHD" tvg-logo="" group-title="📺央视频道ipv4",萌宠TVHD
+http://dns.art2kn.win:7000/rtp/239.3.1.102:8001
+#EXTINF:-1 tvg-id="" tvg-name="中国交通HD" tvg-logo="" group-title="📺央视频道ipv4",中国交通HD
+http://dns.art2kn.win:7000/rtp/239.3.1.188:8001
+#EXTINF:-1 tvg-id="" tvg-name="朝阳融媒HD" tvg-logo="" group-title="📺央视频道ipv4",朝阳融媒HD
+http://dns.art2kn.win:7000/rtp/239.3.1.163:8001
+#EXTINF:-1 tvg-id="" tvg-name="通州融媒HD" tvg-logo="" group-title="📺央视频道ipv4",通州融媒HD
+http://dns.art2kn.win:7000/rtp/239.3.1.221:8001
+#EXTINF:-1 tvg-id="" tvg-name="密云电视台HD" tvg-logo="" group-title="📺央视频道ipv4",密云电视台HD
+http://dns.art2kn.win:7000/rtp/239.3.1.154:8001
+#EXTINF:-1 tvg-id="" tvg-name="延庆电视台" tvg-logo="" group-title="📺央视频道ipv4",延庆电视台
+http://dns.art2kn.win:7000/rtp/239.3.1.187:8001
+#EXTINF:-1 tvg-id="" tvg-name="房山电视台" tvg-logo="" group-title="📺央视频道ipv4",房山电视台
+http://dns.art2kn.win:7000/rtp/239.3.1.96:8001
+#EXTINF:-1 tvg-id="" tvg-name="睛彩竞技HD" tvg-logo="" group-title="📺央视频道ipv4",睛彩竞技HD
+http://dns.art2kn.win:7000/rtp/239.3.1.125:8001
+#EXTINF:-1 tvg-id="" tvg-name="睛彩篮球HD" tvg-logo="" group-title="📺央视频道ipv4",睛彩篮球HD
+http://dns.art2kn.win:7000/rtp/239.3.1.126:8001
+#EXTINF:-1 tvg-id="" tvg-name="睛彩羽毛球HD" tvg-logo="" group-title="📺央视频道ipv4",睛彩羽毛球HD
+http://dns.art2kn.win:7000/rtp/239.3.1.127:8001
+#EXTINF:-1 tvg-id="" tvg-name="睛彩广场舞HD" tvg-logo="" group-title="📺央视频道ipv4",睛彩广场舞HD
+http://dns.art2kn.win:7000/rtp/239.3.1.128:8001
+#EXTINF:-1 tvg-id="" tvg-name="茶频道HD" tvg-logo="" group-title="📺央视频道ipv4",茶频道HD
+http://dns.art2kn.win:7000/rtp/239.3.1.165:8001
+#EXTINF:-1 tvg-id="" tvg-name="体育赛事HD" tvg-logo="" group-title="📺央视频道ipv4",体育赛事HD
+http://dns.art2kn.win:7000/rtp/239.3.1.157:8176
+#EXTINF:-1 tvg-id="" tvg-name="淘精彩HD" tvg-logo="" group-title="📺央视频道ipv4",淘精彩HD
+http://dns.art2kn.win:7000/rtp/239.3.1.178:8001
+#EXTINF:-1 tvg-id="" tvg-name="快乐垂钓HD" tvg-logo="" group-title="📺央视频道ipv4",快乐垂钓HD
+http://dns.art2kn.win:7000/rtp/239.3.1.164:8001
+#EXTINF:-1 tvg-id="" tvg-name="大健康HD" tvg-logo="" group-title="📺央视频道ipv4",大健康HD
+http://dns.art2kn.win:7000/rtp/239.3.1.251:8001
+#EXTINF:-1 tvg-id="" tvg-name="CETV1HD" tvg-logo="" group-title="📺央视频道ipv4",CETV1HD
+http://dns.art2kn.win:7000/rtp/239.3.1.57:8152
+#EXTINF:-1 tvg-id="" tvg-name="CETV2" tvg-logo="" group-title="📺央视频道ipv4",CETV2
+http://dns.art2kn.win:7000/rtp/239.3.1.54:4120
+#EXTINF:-1 tvg-id="" tvg-name="CETV3" tvg-logo="" group-title="📺央视频道ipv4",CETV3
+http://dns.art2kn.win:7000/rtp/239.3.1.55:4120
+#EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="" group-title="📺央视频道ipv4",CETV4
+http://dns.art2kn.win:7000/rtp/239.3.1.56:4120
+#EXTINF:-1 tvg-id="" tvg-name="少儿动画" tvg-logo="" group-title="📺央视频道ipv4",少儿动画
+http://dns.art2kn.win:7000/rtp/239.3.1.199:9000
+#EXTINF:-1 tvg-id="" tvg-name="热播剧场" tvg-logo="" group-title="📺央视频道ipv4",热播剧场
+http://dns.art2kn.win:7000/rtp/239.3.1.194:9020
+#EXTINF:-1 tvg-id="" tvg-name="解密" tvg-logo="" group-title="📺央视频道ipv4",解密
+http://dns.art2kn.win:7000/rtp/239.3.1.75:4120
+#EXTINF:-1 tvg-id="" tvg-name="军事" tvg-logo="" group-title="📺央视频道ipv4",军事
+http://dns.art2kn.win:7000/rtp/239.3.1.76:4120
+#EXTINF:-1 tvg-id="" tvg-name="军旅剧场" tvg-logo="" group-title="📺央视频道ipv4",军旅剧场
+http://dns.art2kn.win:7000/rtp/239.3.1.68:4120
+#EXTINF:-1 tvg-id="" tvg-name="动画" tvg-logo="" group-title="📺央视频道ipv4",动画
+http://dns.art2kn.win:7000/rtp/239.3.1.80:4120
+#EXTINF:-1 tvg-id="" tvg-name="古装剧场" tvg-logo="" group-title="📺央视频道ipv4",古装剧场
+http://dns.art2kn.win:7000/rtp/239.3.1.69:4120
+#EXTINF:-1 tvg-id="" tvg-name="台球" tvg-logo="" group-title="📺央视频道ipv4",台球
+http://dns.art2kn.win:7000/rtp/239.3.1.85:4120
+#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="" group-title="📺央视频道ipv4",嘉佳卡通
+http://dns.art2kn.win:7000/rtp/239.3.1.147:9268
+#EXTINF:-1 tvg-id="" tvg-name="国学" tvg-logo="" group-title="📺央视频道ipv4",国学
+http://dns.art2kn.win:7000/rtp/239.3.1.77:4120
+#EXTINF:-1 tvg-id="" tvg-name="城市剧场" tvg-logo="" group-title="📺央视频道ipv4",城市剧场
+http://dns.art2kn.win:7000/rtp/239.3.1.67:4120
+#EXTINF:-1 tvg-id="" tvg-name="墨宝" tvg-logo="" group-title="📺央视频道ipv4",墨宝
+http://dns.art2kn.win:7000/rtp/239.3.1.83:4120
+#EXTINF:-1 tvg-id="" tvg-name="好学生" tvg-logo="" group-title="📺央视频道ipv4",好学生
+http://dns.art2kn.win:7000/rtp/239.3.1.81:4120
+#EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="" group-title="📺央视频道ipv4",山东教育
+http://dns.art2kn.win:7000/rtp/239.3.1.52:4120
+#EXTINF:-1 tvg-id="" tvg-name="戏曲" tvg-logo="" group-title="📺央视频道ipv4",戏曲
+http://dns.art2kn.win:7000/rtp/239.3.1.78:4120
+#EXTINF:-1 tvg-id="" tvg-name="收视指南" tvg-logo="" group-title="📺央视频道ipv4",收视指南
+http://dns.art2kn.win:7000/rtp/239.3.1.193:8012
+#EXTINF:-1 tvg-id="" tvg-name="早教" tvg-logo="" group-title="📺央视频道ipv4",早教
+http://dns.art2kn.win:7000/rtp/239.3.1.79:4120
+#EXTINF:-1 tvg-id="" tvg-name="武侠剧场" tvg-logo="" group-title="📺央视频道ipv4",武侠剧场
+http://dns.art2kn.win:7000/rtp/239.3.1.90:4120
+#EXTINF:-1 tvg-id="" tvg-name="武术" tvg-logo="" group-title="📺央视频道ipv4",武术
+http://dns.art2kn.win:7000/rtp/239.3.1.87:4120
+#EXTINF:-1 tvg-id="" tvg-name="爱生活" tvg-logo="" group-title="📺央视频道ipv4",爱生活
+http://dns.art2kn.win:7000/rtp/239.3.1.86:4120
+#EXTINF:-1 tvg-id="" tvg-name="美人" tvg-logo="" group-title="📺央视频道ipv4",美人
+http://dns.art2kn.win:7000/rtp/239.3.1.73:4120
+#EXTINF:-1 tvg-id="" tvg-name="美妆" tvg-logo="" group-title="📺央视频道ipv4",美妆
+http://dns.art2kn.win:7000/rtp/239.3.1.72:4120
+#EXTINF:-1 tvg-id="" tvg-name="财富天下" tvg-logo="" group-title="📺央视频道ipv4",财富天下
+http://dns.art2kn.win:7000/rtp/239.3.1.53:9136
+#EXTINF:-1 tvg-id="" tvg-name="足球" tvg-logo="" group-title="📺央视频道ipv4",足球
+http://dns.art2kn.win:7000/rtp/239.3.1.89:4120
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="" group-title="📺央视频道ipv4",金鹰卡通
+http://dns.art2kn.win:7000/rtp/239.3.1.51:9252
+#EXTINF:-1 tvg-id="" tvg-name="鉴赏" tvg-logo="" group-title="📺央视频道ipv4",鉴赏
+http://dns.art2kn.win:7000/rtp/239.3.1.82:4120
+#EXTINF:-1 tvg-id="" tvg-name="音乐现场" tvg-logo="" group-title="📺央视频道ipv4",音乐现场
+http://dns.art2kn.win:7000/rtp/239.3.1.70:4120
+#EXTINF:-1 tvg-id="" tvg-name="高网" tvg-logo="" group-title="📺央视频道ipv4",高网
+http://dns.art2kn.win:7000/rtp/239.3.1.88:4120
+#EXTINF:-1 tvg-id="" tvg-name="魅力时尚" tvg-logo="" group-title="📺央视频道ipv4",魅力时尚
+http://dns.art2kn.win:7000/rtp/239.3.1.196:9012
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺IPV6央视频道",CCTV1
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺IPV6央视频道",CCTV2
