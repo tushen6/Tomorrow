@@ -5,6 +5,48 @@ https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
 #EXTINF:-1 tvg-id="" tvg-name="接口免费勿上当受骗" tvg-logo="" group-title="🌴林中小屋🏡",接口免费勿上当受骗
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="人民铁道" tvg-logo="" group-title="📺央视频道ipv4",人民铁道
+http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="郑铁有线" tvg-logo="" group-title="📺央视频道ipv4",郑铁有线
+http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="📺央视频道ipv4",CCTV-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="" group-title="📺央视频道ipv4",CCTV-2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="" group-title="📺央视频道ipv4",CCTV-3
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="📺央视频道ipv4",CCTV-4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="📺央视频道ipv4",CCTV-5
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="" group-title="📺央视频道ipv4",CCTV-5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="" group-title="📺央视频道ipv4",CCTV-6
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="" group-title="📺央视频道ipv4",CCTV-7
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="" group-title="📺央视频道ipv4",CCTV-8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="" group-title="📺央视频道ipv4",CCTV-9
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="" group-title="📺央视频道ipv4",CCTV-10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="" group-title="📺央视频道ipv4",CCTV-11
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="" group-title="📺央视频道ipv4",CCTV-12
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="📺央视频道ipv4",CCTV-13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="" group-title="📺央视频道ipv4",CCTV-14
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="" group-title="📺央视频道ipv4",CCTV-15
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="" group-title="📺央视频道ipv4",CCTV-16
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="" group-title="📺央视频道ipv4",CCTV-17
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="" group-title="📺央视频道ipv4",CCTV-4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺IPV6央视频道",CCTV1
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y#http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8#http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺IPV6央视频道",CCTV2
@@ -773,7 +815,86 @@ http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWTV欢乐剧场" tvg-logo="" group-title="📺【ipv6】备用线路2",NEWTV欢乐剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🌐奥运频道",奥运频道5
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🌐奥运频道",奥运频道5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🌐奥运频道",奥运频道16
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运新闻台" tvg-logo="" group-title="🌐奥运频道",TVB奥运新闻台
+https://mytv.btjson.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运801台" tvg-logo="" group-title="🌐奥运频道",TVB奥运801台
+https://mytv.btjson.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运802台" tvg-logo="" group-title="🌐奥运频道",TVB奥运802台
+https://mytv.btjson.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运803台" tvg-logo="" group-title="🌐奥运频道",TVB奥运803台
+https://mytv.btjson.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运804台" tvg-logo="" group-title="🌐奥运频道",TVB奥运804台
+https://mytv.btjson.us.kg/stream/tvb/804/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运805台" tvg-logo="" group-title="🌐奥运频道",TVB奥运805台
+https://mytv.btjson.us.kg/stream/tvb/805/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运806台" tvg-logo="" group-title="🌐奥运频道",TVB奥运806台
+https://mytv.btjson.us.kg/stream/tvb/806/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运807台" tvg-logo="" group-title="🌐奥运频道",TVB奥运807台
+https://mytv.btjson.us.kg/stream/tvb/807/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运808台" tvg-logo="" group-title="🌐奥运频道",TVB奥运808台
+https://mytv.btjson.us.kg/stream/tvb/808/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运809台" tvg-logo="" group-title="🌐奥运频道",TVB奥运809台
+https://mytv.btjson.us.kg/stream/tvb/809/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运810台" tvg-logo="" group-title="🌐奥运频道",TVB奥运810台
+https://mytv.btjson.us.kg/stream/tvb/810/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运811台" tvg-logo="" group-title="🌐奥运频道",TVB奥运811台
+https://mytv.btjson.us.kg/stream/tvb/811/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运812台" tvg-logo="" group-title="🌐奥运频道",TVB奥运812台
+https://mytv.btjson.us.kg/stream/tvb/812/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运813台" tvg-logo="" group-title="🌐奥运频道",TVB奥运813台
+https://mytv.btjson.us.kg/stream/tvb/813/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运814台" tvg-logo="" group-title="🌐奥运频道",TVB奥运814台
+https://mytv.btjson.us.kg/stream/tvb/814/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运815台" tvg-logo="" group-title="🌐奥运频道",TVB奥运815台
+https://mytv.btjson.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运816台" tvg-logo="" group-title="🌐奥运频道",TVB奥运816台
+https://mytv.btjson.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运互动窗1" tvg-logo="" group-title="🌐奥运频道",TVB奥运互动窗1
+https://mytv.btjson.us.kg/stream/tvb/1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="TVB奥运互动窗2" tvg-logo="" group-title="🌐奥运频道",TVB奥运互动窗2
+https://mytv.btjson.us.kg/stream/tvb/2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🌐港澳频道",凤凰中文频道
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://117.114.153.1:8180/TV00000000000000000069@HHZT#http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8#http://lede.medahl.com:10098/udp/239.76.246.134:1234#http://103.95.24.37:880/fhws.m3u8#http://www.372583307.top:4022/udp/233.50.200.191:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🌐港澳频道",凤凰资讯频道
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://117.114.153.1:8180/TV00000000000000000068@HHZT#http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8#http://lede.medahl.com:10098/udp/239.76.246.135:1234#http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8#http://103.95.24.37:880/fhzx.m3u8#http://www.372583307.top:4022/udp/233.50.200.192:5140#http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台" tvg-logo="" group-title="🌐港澳频道",TVB翡翠台
+http://123.150.5.131:9000/tvb翡翠/香蕉哥专用-易發TV.live.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🌐港澳频道",TVB星河台
+http://117.114.153.12:8180/TV00000000000000000073@HHZT#http://xyt.186738613.xyz/Smartv.php?id=Xinhe
+#EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="" group-title="🌐港澳频道",千禧经典台
+http://xyt.186738613.xyz/Smartv.php?id=Tvbclassic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🌐港澳频道",无线新闻台
+http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv#http://xyt.186738613.xyz/Smartv.php?id=inews_twn#http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 tvg-id="" tvg-name="TVBPLUS" tvg-logo="" group-title="🌐港澳频道",TVB-PLUS
+http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
+#EXTINF:-1 tvg-id="" tvg-name="TVBJ1" tvg-logo="" group-title="🌐港澳频道",TVBJ1
+https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOW 星影" tvg-logo="" group-title="🌐港澳频道",NOW 星影
+http://123.150.5.131:9000/NOW星影/香蕉哥专用-易發TV.live.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOW 爆谷" tvg-logo="" group-title="🌐港澳频道",NOW 爆谷
+http://123.150.5.131:9000/NOW爆谷/香蕉哥专用-易發TV.live.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVB 翡翠台" tvg-logo="" group-title="🌐港澳频道",TVB 翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-id="" tvg-name="香港无线PLUS" tvg-logo="" group-title="🌐港澳频道",香港无线PLUS
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1 tvg-id="" tvg-name="无线明珠台" tvg-logo="" group-title="🌐港澳频道",无线明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 tvg-id="" tvg-name="VIUTV 频道" tvg-logo="" group-title="🌐港澳频道",VIUTV 频道
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 tvg-id="" tvg-name="TVB星河频道" tvg-logo="" group-title="🌐港澳频道",TVB星河频道
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 tvg-id="" tvg-name="RTHK32 频道" tvg-logo="" group-title="🌐港澳频道",RTHK32 频道
+http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+#EXTINF:-1 tvg-id="" tvg-name="RTHK31 频道" tvg-logo="" group-title="🌐港澳频道",RTHK31 频道
+http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+#EXTINF:-1 tvg-id="" tvg-name="凤凰 香港台" tvg-logo="" group-title="🌐港澳频道",凤凰 香港台
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬4K超高清频道",CCTV4K超高清
 http://159.75.85.63:5679/cctv4k.php#http://mtw.so/5VbDUV#https://tv.cry33.com/ys4k.php?id=4k#http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8#http://27.222.3.214/liveali-tp4K.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="自然4K" tvg-logo="" group-title="🎬4K超高清频道",自然4K
@@ -796,6 +917,64 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000014/index.m3u8?
 http://www.liam008.top:4022/rtp/225.1.2.190:5002$联通组播天津#http://xuys.top:8888/rtp/225.1.2.190:5002$滨海新区联通组播
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬4K超高清频道",欢笑剧场4K
 http://ipv4.sunjianwu.fun:8800/udp/239.49.8.106:8000$盐成电信组播#http://iptv.028028.xyz:8/udp/239.93.0.145:5140$锦江电信组播#http://qingcheng.pro:7890/udp/238.125.5.122:5140$新疆电信组播#http://171.217.81.143:8088/udp/239.93.0.145:5140$成都电信组播#http://117.66.254.131:2000/rtp/238.1.79.67:4672$淮南电信组播#http://gang.pecmd.cn:6000/rtp/232.0.0.98:1234$辽宁鞍山联通
+#EXTINF:-1 tvg-id="" tvg-name="纬来体育" tvg-logo="" group-title="🏆体育频道",纬来体育
+https://mytv.btjson.us.kg/stream/tvb/null-28/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏆体育频道",精品体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8#http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏆体育频道",超级体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏆体育频道",广东体育
+http://tv2.91tv.top:9901/hls/1039/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天津体育" tvg-logo="" group-title="🏆体育频道",天津体育
+http://nas.hssvm.com:8888/udp/225.1.1.122:5002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏆体育频道",五星体育
+http://22725y284r.yicp.fun:9902/tsfile/live/1003_1.m3u8#http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-
+#EXTINF:-1 tvg-id="" tvg-name="足球频道" tvg-logo="" group-title="🏆体育频道",足球频道
+https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏆体育频道",风云足球
+https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8#http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2#https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏆体育频道",晴彩竞技
+http://dns.art2kn.win:7000/rtp/239.3.1.125:8001#http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.125:8001#http://drive.mxmy.net:8888/rtp/239.3.1.125:8001#http://114.254.185.206:9999/rtp/239.3.1.125:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏆体育频道",晴彩篮球
+http://dns.art2kn.win:7000/rtp/239.3.1.126:8001#http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.126:8001#http://drive.mxmy.net:8888/rtp/239.3.1.126:8001#http://114.254.185.206:9999/rtp/239.3.1.126:8001
+#EXTINF:-1 tvg-id="" tvg-name="晴彩羽球" tvg-logo="" group-title="🏆体育频道",晴彩羽球
+http://dns.art2kn.win:7000/rtp/239.3.1.127:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏆体育频道",晴彩羽毛
+http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.127:8001#http://drive.mxmy.net:8888/rtp/239.3.1.127:8001#http://114.254.185.206:9999/rtp/239.3.1.127:8001
+#EXTINF:-1 tvg-id="" tvg-name="麻辣体育" tvg-logo="" group-title="🏆体育频道",麻辣体育
+http://118.112.148.228:58888/udp/239.93.42.2:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏆体育频道",先锋乒羽
+http://sunt.mycloudnas.com:18888/udp/239.21.2.98:5002#http://www.dsmcloud.top:8888/rtp/239.81.0.236:4056#http://nas.hssvm.com:8888/udp/225.1.1.219:5002#http://118.112.148.228:58888/udp/239.93.42.56:5140
+#EXTINF:-1 tvg-id="" tvg-name="CCTV05" tvg-logo="" group-title="🏆体育频道",CCTV-05
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV+5+" tvg-logo="" group-title="🏆体育频道",CCTV+5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏆体育频道",CCTV-台球
+https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8#http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2#http://doityoume.x3322.net:5100/rtp/239.69.1.98:10224
+#EXTINF:-1 tvg-id="" tvg-name="央视高网" tvg-logo="" group-title="🏆体育频道",央视高网
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="" tvg-name="美国摔跤" tvg-logo="" group-title="🏆体育频道",美国摔跤
+https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏆体育频道",JJ斗地主
+http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8#http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-
+#EXTINF:-1 tvg-id="" tvg-name="王者荣耀" tvg-logo="" group-title="🏆体育频道",王者荣耀
+http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏆体育频道",穿越火线
+http://tc-tct.douyucdn2.cn:80/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-#http://112.83.136.141:80/live/605964rzzgGEOZHr.flv?302_type=cold_aggr&_session_id=2376164747.n.cn-069f7p.14re_26504&cb_retry=0&did=d010b07dcb997ada9934081c873542f0&domain=tc-
+#EXTINF:-1 tvg-id="" tvg-name="雨燕篮球一" tvg-logo="" group-title="🏆体育频道",雨燕篮球一
+https://pull.dangaoka.com/live/stream-780421_lhd.flv?auth_key=1720343721-0-0-bfc6b8d4e9e5695acabf1e5c7697ff4a
+#EXTINF:-1 tvg-id="" tvg-name="雨燕篮球二" tvg-logo="" group-title="🏆体育频道",雨燕篮球二
+https://pull.dangaoka.com/live/stream-455861_lhd.flv?auth_key=1720343840-0-0-4c3d8fb5b9a8c02a5ea549f2c470c841
+#EXTINF:-1 tvg-id="" tvg-name="雨燕篮球三" tvg-logo="" group-title="🏆体育频道",雨燕篮球三
+https://pull.dangaoka.com/live/stream-593751_lhd.flv?auth_key=1720344320-0-0-5c029a65de7a80afa4d97c595f71de09
+#EXTINF:-1 tvg-id="" tvg-name="雨燕足球一" tvg-logo="" group-title="🏆体育频道",雨燕足球一
+https://pull.dangaoka.com/live/stream-658764_lhd.flv?auth_key=1720343900-0-0-00361f98a4a5cbc84801e65871fc6a50
+#EXTINF:-1 tvg-id="" tvg-name="雨燕足球二" tvg-logo="" group-title="🏆体育频道",雨燕足球二
+https://pull.dangaoka.com/live/stream-306929_lhd.flv?auth_key=1720344020-0-0-e7b8a42556975c73b53fba1d6aff8a87
+#EXTINF:-1 tvg-id="" tvg-name="雨燕足球三" tvg-logo="" group-title="🏆体育频道",雨燕足球三
+https://pull.dangaoka.com/live/stream-740636_lhd.flv?auth_key=1720344020-0-0-3530e8e0b51df502c37f903d1d752e62
+#EXTINF:-1 tvg-id="" tvg-name="雨燕足球四" tvg-logo="" group-title="🏆体育频道",雨燕足球四
+https://pull.dangaoka.com/live/stream-658764_lhd.flv?auth_key=1720344080-0-0-6c1fd0177f93e42ec822160f41a3fbdf
 #EXTINF:-1 tvg-id="" tvg-name="咪咕全民热练 (IPV6)" tvg-logo="" group-title="🏆咪咕体育频道",咪咕全民热练 (IPV6)
 https://stream1.freetv.fun/e58c39c146674076c7383dbb0cc52a3b727d297da480cfca7b154ead62af7245.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="咪咕直播 *「IPV6」 (IPV6)" tvg-logo="" group-title="🏆咪咕体育频道",咪咕直播 *「IPV6」 (IPV6)
@@ -1016,86 +1195,404 @@ http://159.75.85.63:35455/douyu/2793084#http://maomao.kandiantv.cn/douyu1.php?id
 http://159.75.85.63:35455/douyu/4332
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬影视频道",贝爷影厅✔原
 http://159.75.85.63:35455/douyu/252802#http://maomao.kandiantv.cn/douyu1.php?id=252802
-#EXTINF:-1 tvg-id="" tvg-name="春晚1983" tvg-logo="" group-title="💿历年春晚回放",春晚1983
-http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚1984" tvg-logo="" group-title="💿历年春晚回放",春晚1984
-https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚1985" tvg-logo="" group-title="💿历年春晚回放",春晚1985
-http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚1986" tvg-logo="" group-title="💿历年春晚回放",春晚1986
-https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚1987" tvg-logo="" group-title="💿历年春晚回放",春晚1987
-https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚1988" tvg-logo="" group-title="💿历年春晚回放",春晚1988
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚1989" tvg-logo="" group-title="💿历年春晚回放",春晚1989
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚1991" tvg-logo="" group-title="💿历年春晚回放",春晚1991
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚1992" tvg-logo="" group-title="💿历年春晚回放",春晚1992
-https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚1993" tvg-logo="" group-title="💿历年春晚回放",春晚1993
-https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚1994" tvg-logo="" group-title="💿历年春晚回放",春晚1994
-https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚1995" tvg-logo="" group-title="💿历年春晚回放",春晚1995
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚1996" tvg-logo="" group-title="💿历年春晚回放",春晚1996
-https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚1997" tvg-logo="" group-title="💿历年春晚回放",春晚1997
-https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚1998" tvg-logo="" group-title="💿历年春晚回放",春晚1998
-https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚1999" tvg-logo="" group-title="💿历年春晚回放",春晚1999
-https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2000" tvg-logo="" group-title="💿历年春晚回放",春晚2000
-https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2001" tvg-logo="" group-title="💿历年春晚回放",春晚2001
-https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2002" tvg-logo="" group-title="💿历年春晚回放",春晚2002
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2003" tvg-logo="" group-title="💿历年春晚回放",春晚2003
-https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2004" tvg-logo="" group-title="💿历年春晚回放",春晚2004
-https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2005" tvg-logo="" group-title="💿历年春晚回放",春晚2005
-https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2006" tvg-logo="" group-title="💿历年春晚回放",春晚2006
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2007" tvg-logo="" group-title="💿历年春晚回放",春晚2007
-https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2008" tvg-logo="" group-title="💿历年春晚回放",春晚2008
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2009" tvg-logo="" group-title="💿历年春晚回放",春晚2009
-https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2010" tvg-logo="" group-title="💿历年春晚回放",春晚2010
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2011" tvg-logo="" group-title="💿历年春晚回放",春晚2011
-https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2012" tvg-logo="" group-title="💿历年春晚回放",春晚2012
-https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2013" tvg-logo="" group-title="💿历年春晚回放",春晚2013
-https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2014" tvg-logo="" group-title="💿历年春晚回放",春晚2014
-https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2015" tvg-logo="" group-title="💿历年春晚回放",春晚2015
-https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚16" tvg-logo="" group-title="💿历年春晚回放",春晚16
-https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2017" tvg-logo="" group-title="💿历年春晚回放",春晚2017
-https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2018" tvg-logo="" group-title="💿历年春晚回放",春晚2018
-https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2019" tvg-logo="" group-title="💿历年春晚回放",春晚2019
-https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2020" tvg-logo="" group-title="💿历年春晚回放",春晚2020
-https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2021" tvg-logo="" group-title="💿历年春晚回放",春晚2021
-https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2022" tvg-logo="" group-title="💿历年春晚回放",春晚2022
-https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="春晚2023" tvg-logo="" group-title="💿历年春晚回放",春晚2023
-https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",邵氏影院台
+https://www.goodiptv.club/douyu/4246519#http://maomao.kandiantv.cn/douyu1.php?id=4246519
+#EXTINF:-1 tvg-id="" tvg-name="美亚电影国" tvg-logo="" group-title="🎬电影频道",美亚电影国
+http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-id="" tvg-name="星光视界台" tvg-logo="" group-title="🎬电影频道",星光视界台
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+#EXTINF:-1 tvg-id="" tvg-name="重温经典台" tvg-logo="" group-title="🎬电影频道",重温经典台
+http://117.114.153.1:8180/TV00000000000000000007@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="金马影院台" tvg-logo="" group-title="🎬电影频道",金马影院台
+http://pull.kktv8.com/livekktv/128600025.flv
+#EXTINF:-1 tvg-id="" tvg-name="CCTV" tvg-logo="" group-title="🎬电影频道",CCTV 电影台
+http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",CHC高清电影
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2#http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B#https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",CHC动作电影
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2#http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC#https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8#https://epg.pw/stream/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2#http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B#https://epg.pw/stream/d6c6dcdce08fdda05114649d8ceaa9c9fbf5e053724fa7b21a0b8e28bdeef696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑莓电影频道" tvg-logo="" group-title="🎬电影频道",黑莓电影频道
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="古装剧场频道" tvg-logo="" group-title="🎬电影频道",古装剧场频道
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="动作电影频道" tvg-logo="" group-title="🎬电影频道",动作电影频道
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="家庭剧场频道" tvg-logo="" group-title="🎬电影频道",家庭剧场频道
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="惊悚悬疑频道" tvg-logo="" group-title="🎬电影频道",惊悚悬疑频道
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="军旅剧场频道" tvg-logo="" group-title="🎬电影频道",军旅剧场频道
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="超级电影@代" tvg-logo="" group-title="🎬电影频道",超级电影@代
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",周星驰典@代
+http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8#https://www.goodiptv.club/douyu/3637778
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",超级电影IPV6
+http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8#http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="军旅剧场IPV6" tvg-logo="" group-title="🎬电影频道",军旅剧场IPV6
+http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="海外剧场IPV6" tvg-logo="" group-title="🎬电影频道",海外剧场IPV6
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",CCTV6影院代
+http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8#https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8#http://hikvision.city:880/CCTV-6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬电影频道",惊悚悬疑IPV6
+https://epg.pw/stream/e58b03bfd507e0a80eabeca0e7c42e0204fcc777ae692448daa4b2f9ce4fe01e.m3u8#http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="明星大片IPV6" tvg-logo="" group-title="🎬电影频道",明星大片IPV6
+http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="惊嫊悬疑电影" tvg-logo="" group-title="🎬电影频道",惊嫊悬疑电影
+http://[2409:8087:1a0b:df::4002]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="梨园卫视频道" tvg-logo="" group-title="🎬电影频道",梨园卫视频道
+http://222.223.118.222:2180/live/lypd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="梨园频道IPV6" tvg-logo="" group-title="🎬电影频道",梨园频道IPV6
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm
+#EXTINF:-1 tvg-id="" tvg-name="黑莓电影@代" tvg-logo="" group-title="🎬电影频道",黑莓电影@代
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑莓动画@代" tvg-logo="" group-title="🎬电影频道",黑莓动画@代
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="豆瓣高分@代" tvg-logo="" group-title="🎬电影频道",豆瓣高分@代
+https://www.goodiptv.club/douyu/8770422
+#EXTINF:-1 tvg-id="" tvg-name="下饭神剧@代" tvg-logo="" group-title="🎬电影频道",下饭神剧@代
+https://www.goodiptv.club/douyu/276200
+#EXTINF:-1 tvg-id="" tvg-name="超级电视IPV6" tvg-logo="" group-title="🎬电影频道",超级电视IPV6
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="大吉大利影院" tvg-logo="" group-title="🎬电影频道",大吉大利影院
+https://pull.kktv8.com/livekktv/128600025.flv
+#EXTINF:-1 tvg-id="" tvg-name="冰冰剧场✔版" tvg-logo="" group-title="🎬电影频道",冰冰剧场✔版
+http://159.75.85.63:35455/douyu/74374
+#EXTINF:-1 tvg-id="" tvg-name="瑶瑶恐怖✔版" tvg-logo="" group-title="🎬电影频道",瑶瑶恐怖✔版
+http://159.75.85.63:35455/douyu/2935323
+#EXTINF:-1 tvg-id="" tvg-name="怡寶影院✔版" tvg-logo="" group-title="🎬电影频道",怡寶影院✔版
+http://159.75.85.63:35455/douyu/434971
+#EXTINF:-1 tvg-id="" tvg-name="小黛兮影✔㊣版" tvg-logo="" group-title="🎬电影频道",小黛兮影✔㊣版
+http://159.75.85.63:35455/douyu/11553944
+#EXTINF:-1 tvg-id="" tvg-name="吃米滴虫✔原" tvg-logo="" group-title="🎬电影频道",吃米滴虫✔原
+https://www.goodiptv.club/douyu/315457
+#EXTINF:-1 tvg-id="" tvg-name="冰冰经典✔原" tvg-logo="" group-title="🎬电影频道",冰冰经典✔原
+https://www.goodiptv.club/douyu/74374
+#EXTINF:-1 tvg-id="" tvg-name="星爷影院✔原" tvg-logo="" group-title="🎬电影频道",星爷影院✔原
+https://www.goodiptv.club/douyu/508118
+#EXTINF:-1 tvg-id="" tvg-name="凌儿影院✔原" tvg-logo="" group-title="🎬电影频道",凌儿影院✔原
+https://www.goodiptv.club/douyu/1377142
+#EXTINF:-1 tvg-id="" tvg-name="瑶瑶恐怖✔原" tvg-logo="" group-title="🎬电影频道",瑶瑶恐怖✔原
+https://www.goodiptv.club/douyu/2935323
+#EXTINF:-1 tvg-id="" tvg-name="小黛兮影✔原" tvg-logo="" group-title="🎬电影频道",小黛兮影✔原
+https://www.goodiptv.club/douyu/11553944
+#EXTINF:-1 tvg-id="" tvg-name="萌小鬼片✔原" tvg-logo="" group-title="🎬电影频道",萌小鬼片✔原
+https://www.goodiptv.club/douyu/3928
+#EXTINF:-1 tvg-id="" tvg-name="神乐剧场✔原" tvg-logo="" group-title="🎬电影频道",神乐剧场✔原
+https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="神乐剧院✔原" tvg-logo="" group-title="🎬电影频道",神乐剧院✔原
+https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="神乐影剧✔原" tvg-logo="" group-title="🎬电影频道",神乐影剧✔原
+https://www.goodiptv.club/douyu/122402
+#EXTINF:-1 tvg-id="" tvg-name="可乐影院✔原" tvg-logo="" group-title="🎬电影频道",可乐影院✔原
+https://www.goodiptv.club/douyu/20415
+#EXTINF:-1 tvg-id="" tvg-name="小宇60帧✔原" tvg-logo="" group-title="🎬电影频道",小宇60帧✔原
+https://www.goodiptv.club/douyu/323876
+#EXTINF:-1 tvg-id="" tvg-name="恐怖惊悚✔原" tvg-logo="" group-title="🎬电影频道",恐怖惊悚✔原
+https://www.goodiptv.club/douyu/96577
+#EXTINF:-1 tvg-id="" tvg-name="電影劇場✔原" tvg-logo="" group-title="🎬电影频道",電影劇場✔原
+https://www.goodiptv.club/douyu/7575350
+#EXTINF:-1 tvg-id="" tvg-name="豆瓣高分✔原" tvg-logo="" group-title="🎬电影频道",豆瓣高分✔原
+https://www.goodiptv.club/douyu/8770422
+#EXTINF:-1 tvg-id="" tvg-name="花卷陪看✔原" tvg-logo="" group-title="🎬电影频道",花卷陪看✔原
+https://www.goodiptv.club/douyu/52787
+#EXTINF:-1 tvg-id="" tvg-name="漫威剧情✔原" tvg-logo="" group-title="🎬电影频道",漫威剧情✔原
+https://www.goodiptv.club/douyu/6140589
+#EXTINF:-1 tvg-id="" tvg-name="霍格沃茨✔原" tvg-logo="" group-title="🎬电影频道",霍格沃茨✔原
+https://www.goodiptv.club/douyu/8814650
+#EXTINF:-1 tvg-id="" tvg-name="鱼宝恐怖✔原" tvg-logo="" group-title="🎬电影频道",鱼宝恐怖✔原
+https://www.goodiptv.club/douyu/1165374
+#EXTINF:-1 tvg-id="" tvg-name="鬼片恐怖✔原" tvg-logo="" group-title="🎬电影频道",鬼片恐怖✔原
+https://www.goodiptv.club/douyu/2935323
+#EXTINF:-1 tvg-id="" tvg-name="小U*鬼片✔原" tvg-logo="" group-title="🎬电影频道",小U*鬼片✔原
+https://www.goodiptv.club/douyu/96577
+#EXTINF:-1 tvg-id="" tvg-name="吃奶滴虫✔原" tvg-logo="" group-title="🎬电影频道",吃奶滴虫✔原
+https://www.goodiptv.club/douyu/263824
+#EXTINF:-1 tvg-id="" tvg-name="喜剧电影✔原" tvg-logo="" group-title="🎬电影频道",喜剧电影✔原
+https://www.goodiptv.club/douyu/9292492
+#EXTINF:-1 tvg-id="" tvg-name="女神电影✔原" tvg-logo="" group-title="🎬电影频道",女神电影✔原
+https://www.goodiptv.club/douyu/747764
+#EXTINF:-1 tvg-id="" tvg-name="华语经典✔原" tvg-logo="" group-title="🎬电影频道",华语经典✔原
+https://www.goodiptv.club/douyu/434971
+#EXTINF:-1 tvg-id="" tvg-name="避风影院✔原" tvg-logo="" group-title="🎬电影频道",避风影院✔原
+https://www.goodiptv.club/douyu/9826611
+#EXTINF:-1 tvg-id="" tvg-name="欧美大片✔原" tvg-logo="" group-title="🎬电影频道",欧美大片✔原
+https://www.goodiptv.club/douyu/2793084
+#EXTINF:-1 tvg-id="" tvg-name="贝爷MAX ✔原" tvg-logo="" group-title="🎬电影频道",贝爷MAX ✔原
+https://www.goodiptv.club/douyu/4332
+#EXTINF:-1 tvg-id="" tvg-name="贝爷影厅✔原" tvg-logo="" group-title="🎬电影频道",贝爷影厅✔原
+https://www.goodiptv.club/douyu/252802
+#EXTINF:-1 tvg-id="" tvg-name="小猪优版剧院" tvg-logo="" group-title="🎬电影频道",小猪优版剧院
+https://www.goodiptv.club/douyu/10297898
+#EXTINF:-1 tvg-id="" tvg-name="绍兴影院频道" tvg-logo="" group-title="🎬电影频道",绍兴影院频道
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="平泉影院频道" tvg-logo="" group-title="🎬电影频道",平泉影院频道
+https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="新昌休闲影院" tvg-logo="" group-title="🎬电影频道",新昌休闲影院
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="赵本山经小品" tvg-logo="" group-title="🎬电影频道",赵本山经小品
+https://www.goodiptv.club/douyu/9817716
+#EXTINF:-1 tvg-id="" tvg-name="开心麻花小品" tvg-logo="" group-title="🎬电影频道",开心麻花小品
+https://www.goodiptv.club/douyu/10153463
+#EXTINF:-1 tvg-id="" tvg-name="宋小宝小品台" tvg-logo="" group-title="🎬电影频道",宋小宝小品台
+https://www.goodiptv.club/douyu/9817729
+#EXTINF:-1 tvg-id="" tvg-name="粤语集轮播台" tvg-logo="" group-title="🎬电影频道",粤语集轮播台
+https://www.goodiptv.club/douyu/10338873
+#EXTINF:-1 tvg-id="" tvg-name="粤语轮播港剧" tvg-logo="" group-title="🎬电影频道",粤语轮播港剧
+https://www.goodiptv.club/douyu/9019945
+#EXTINF:-1 tvg-id="" tvg-name="粤语经典综艺" tvg-logo="" group-title="🎬电影频道",粤语经典综艺
+https://www.goodiptv.club/douyu/7919720
+#EXTINF:-1 tvg-id="" tvg-name="粤语版电影一" tvg-logo="" group-title="🎬电影频道",粤语版电影一
+https://www.goodiptv.club/douyu/5033502
+#EXTINF:-1 tvg-id="" tvg-name="粤语版电影二" tvg-logo="" group-title="🎬电影频道",粤语版电影二
+https://www.goodiptv.club/douyu/6566671
+#EXTINF:-1 tvg-id="" tvg-name="粤语版电影三" tvg-logo="" group-title="🎬电影频道",粤语版电影三
+https://www.goodiptv.club/douyu/1226741
+#EXTINF:-1 tvg-id="" tvg-name="星光视界频道" tvg-logo="" group-title="🎬怀旧电影",星光视界频道
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+#EXTINF:-1 tvg-id="" tvg-name="经典神话频道" tvg-logo="" group-title="🎬怀旧电影",经典神话频道
+http://ali.hlspull.yximgs.com/live/asdfg32522.flv
+#EXTINF:-1 tvg-id="" tvg-name="重温经典卫星" tvg-logo="" group-title="🎬怀旧电影",重温经典卫星
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-id="" tvg-name="经典电影频道" tvg-logo="" group-title="🎬怀旧电影",经典电影频道
+https://ali.hlspull.yximgs.com/live/asdfg32522.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬怀旧电影",经典影院频道
+https://ali.hlspull.yximgs.com/live/asdfg32516.flv#http://live.dxms.top:80/dwy/jdyst.php
+#EXTINF:-1 tvg-id="" tvg-name="重温经典频道" tvg-logo="" group-title="🎬怀旧电影",重温经典频道
+http://live.dxms.top/dwy/cwjd1.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬怀旧电影",经典怀旧频道
+http://live.dxms.top:80/dwy/jdhj.php#http://live.dxms.top:80/dwy/hjjc.php
+#EXTINF:-1 tvg-id="" tvg-name="经典剧场频道" tvg-logo="" group-title="🎬怀旧电影",经典剧场频道
+http://live.dxms.top:80/dwy/jdjc.php
+#EXTINF:-1 tvg-id="" tvg-name="经典宫庭频道" tvg-logo="" group-title="🎬怀旧电影",经典宫庭频道
+http://live.dxms.top:80/dwy/gtjc.php
+#EXTINF:-1 tvg-id="" tvg-name="经典清剧频道" tvg-logo="" group-title="🎬怀旧电影",经典清剧频道
+http://live.dxms.top:80/dwy/jdqj.php
+#EXTINF:-1 tvg-id="" tvg-name="经典天龙频道" tvg-logo="" group-title="🎬怀旧电影",经典天龙频道
+http://live.dxms.top:80/dwy/jdtl.php
+#EXTINF:-1 tvg-id="" tvg-name="金庸剧场频道" tvg-logo="" group-title="🎬怀旧电影",金庸剧场频道
+http://cfss.cc/cdn/hy/11602082.flv
+#EXTINF:-1 tvg-id="" tvg-name="经典金庸频道" tvg-logo="" group-title="🎬怀旧电影",经典金庸频道
+http://live.dxms.top:80/dwy/jyjc.php
+#EXTINF:-1 tvg-id="" tvg-name="经典星光频道" tvg-logo="" group-title="🎬怀旧电影",经典星光频道
+http://live.dxms.top:80/dwy/xgsj.php
+#EXTINF:-1 tvg-id="" tvg-name="经典三国频道" tvg-logo="" group-title="🎬怀旧电影",经典三国频道
+http://live.dxms.top:80/dwy/jdsg.php
+#EXTINF:-1 tvg-id="" tvg-name="经典红楼频道" tvg-logo="" group-title="🎬怀旧电影",经典红楼频道
+http://live.dxms.top:80/dwy/jdhl.php
+#EXTINF:-1 tvg-id="" tvg-name="经典港片频道" tvg-logo="" group-title="🎬怀旧电影",经典港片频道
+http://live.dxms.top:80/dwy/jdgp.php
+#EXTINF:-1 tvg-id="" tvg-name="经典喜剧频道" tvg-logo="" group-title="🎬怀旧电影",经典喜剧频道
+http://live.dxms.top:80/dwy/jdxj.php
+#EXTINF:-1 tvg-id="" tvg-name="经典回忆频道" tvg-logo="" group-title="🎬怀旧电影",经典回忆频道
+http://live.dxms.top:80/dwy/hyyy.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬虎牙轮播",电影_贺岁
+http://cfss.cc/cdn/hy/11601971.flv#https://live.metshop.top/huya/11601971
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬虎牙轮播",电影_玄幻
+http://cfss.cc/cdn/hy/11342414.flv#https://live.metshop.top/huya/11342414
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬虎牙轮播",电影_谍战
+http://cfss.cc/cdn/hy/21059585.flv#https://live.metshop.top/huya/21059585
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬虎牙轮播",电影_战争
+http://cfss.cc/cdn/hy/21059592.flv#https://live.metshop.top/huya/21059592
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬虎牙轮播",电影_喜剧
+http://cfss.cc/cdn/hy/11352877.flv#https://live.metshop.top/huya/11352877
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬虎牙轮播",电影_国产
+http://cfss.cc/cdn/hy/11352973.flv#https://live.metshop.top/huya/11352973
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬虎牙轮播",电影_周星星
+http://cfss.cc/cdn/hy/11336587.flv#https://live.metshop.top/huya/11336587
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬虎牙轮播",电影_梁家辉
+http://cfss.cc/cdn/hy/11342429.flv#https://live.metshop.top/huya/11342429
+#EXTINF:-1 tvg-id="" tvg-name="电影_斯坦森" tvg-logo="" group-title="🎬虎牙轮播",电影_斯坦森
+http://cfss.cc/cdn/hy/21059588.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_八点档" tvg-logo="" group-title="🎬虎牙轮播",电影_八点档
+http://cfss.cc/cdn/hy/880261.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_蜘蛛侠" tvg-logo="" group-title="🎬虎牙轮播",电影_蜘蛛侠
+http://cfss.cc/cdn/hy/21059599.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_贺岁片" tvg-logo="" group-title="🎬虎牙轮播",电影_贺岁片
+http://cfss.cc/cdn/hy/11601986.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_功夫片" tvg-logo="" group-title="🎬虎牙轮播",电影_功夫片
+http://cfss.cc/cdn/hy/11352941.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_黑帮片" tvg-logo="" group-title="🎬虎牙轮播",电影_黑帮片
+http://cfss.cc/cdn/hy/11336719.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_丧尸片" tvg-logo="" group-title="🎬虎牙轮播",电影_丧尸片
+http://cfss.cc/cdn/hy//21059578.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_灾难片" tvg-logo="" group-title="🎬虎牙轮播",电影_灾难片
+http://cfss.cc/cdn/hy/11602075.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_谍战片" tvg-logo="" group-title="🎬虎牙轮播",电影_谍战片
+http://cfss.cc/cdn/hy/21059587.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_战争片" tvg-logo="" group-title="🎬虎牙轮播",电影_战争片
+http://cfss.cc/cdn/hy/21059574.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_犯罪片" tvg-logo="" group-title="🎬虎牙轮播",电影_犯罪片
+http://cfss.cc/cdn/hy/11352974.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_古装片" tvg-logo="" group-title="🎬虎牙轮播",电影_古装片
+http://cfss.cc/cdn/hy/11336590.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_高分动作" tvg-logo="" group-title="🎬虎牙轮播",电影_高分动作
+http://cfss.cc/cdn/hy/11352884.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_动作电影" tvg-logo="" group-title="🎬虎牙轮播",电影_动作电影
+http://cfss.cc/cdn/hy/11602077.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_搞笑喜剧" tvg-logo="" group-title="🎬虎牙轮播",电影_搞笑喜剧
+http://cfss.cc/cdn/hy/11342423.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_喜剧专场" tvg-logo="" group-title="🎬虎牙轮播",电影_喜剧专场
+http://cfss.cc/cdn/hy/11602044.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_欢笑影院" tvg-logo="" group-title="🎬虎牙轮播",电影_欢笑影院
+http://cfss.cc/cdn/hy/11352894.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_不挤影院" tvg-logo="" group-title="🎬虎牙轮播",电影_不挤影院
+http://cfss.cc/cdn/hy/11352897.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_国产悬疑" tvg-logo="" group-title="🎬虎牙轮播",电影_国产悬疑
+http://cfss.cc/cdn/hy/11342395.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_快意江湖" tvg-logo="" group-title="🎬虎牙轮播",电影_快意江湖
+http://cfss.cc/cdn/hy/11342435.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_黑帮斗争" tvg-logo="" group-title="🎬虎牙轮播",电影_黑帮斗争
+http://cfss.cc/cdn/hy/11342419.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_嫣然影厅" tvg-logo="" group-title="🎬虎牙轮播",电影_嫣然影厅
+http://cfss.cc/cdn/hy/11601977.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_经典港片" tvg-logo="" group-title="🎬虎牙轮播",电影_经典港片
+http://cfss.cc/cdn/hy/11352965.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_镖行天下" tvg-logo="" group-title="🎬虎牙轮播",电影_镖行天下
+http://cfss.cc/cdn/hy/11352969.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_高能反转" tvg-logo="" group-title="🎬虎牙轮播",电影_高能反转
+http://cfss.cc/cdn/hy/11352887.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_喜乐影院" tvg-logo="" group-title="🎬虎牙轮播",电影_喜乐影院
+http://cfss.cc/cdn/hy/21059580.flv
+#EXTINF:-1 tvg-id="" tvg-name="电影_英叔" tvg-logo="" group-title="🎬虎牙轮播",电影_英叔
+https://live.metshop.top/huya/11342421
+#EXTINF:-1 tvg-id="" tvg-name="电影_发哥" tvg-logo="" group-title="🎬虎牙轮播",电影_发哥
+https://live.metshop.top/huya/11342387
+#EXTINF:-1 tvg-id="" tvg-name="电影_成龙" tvg-logo="" group-title="🎬虎牙轮播",电影_成龙
+https://live.metshop.top/huya/11342386
+#EXTINF:-1 tvg-id="" tvg-name="电影_王晶" tvg-logo="" group-title="🎬虎牙轮播",电影_王晶
+https://live.metshop.top/huya/11602058
+#EXTINF:-1 tvg-id="" tvg-name="电影_沈腾" tvg-logo="" group-title="🎬虎牙轮播",电影_沈腾
+https://live.metshop.top/huya/11601968
+#EXTINF:-1 tvg-id="" tvg-name="电影_黄渤" tvg-logo="" group-title="🎬虎牙轮播",电影_黄渤
+https://live.metshop.top/huya/11352876
+#EXTINF:-1 tvg-id="" tvg-name="电影_强森" tvg-logo="" group-title="🎬虎牙轮播",电影_强森
+https://live.metshop.top/huya/21059581
+#EXTINF:-1 tvg-id="" tvg-name="电影_漫威" tvg-logo="" group-title="🎬虎牙轮播",电影_漫威
+https://live.metshop.top/huya/11602034
+#EXTINF:-1 tvg-id="" tvg-name="电影_宇宙" tvg-logo="" group-title="🎬虎牙轮播",电影_宇宙
+https://live.metshop.top/huya/11342428
+#EXTINF:-1 tvg-id="" tvg-name="电影_怪兽" tvg-logo="" group-title="🎬虎牙轮播",电影_怪兽
+https://live.metshop.top/huya/21059577
+#EXTINF:-1 tvg-id="" tvg-name="电影_武侠" tvg-logo="" group-title="🎬虎牙轮播",电影_武侠
+https://live.metshop.top/huya/11342427
+#EXTINF:-1 tvg-id="" tvg-name="电影_警匪" tvg-logo="" group-title="🎬虎牙轮播",电影_警匪
+https://live.metshop.top/huya/11352886
+#EXTINF:-1 tvg-id="" tvg-name="电影_罪犯" tvg-logo="" group-title="🎬虎牙轮播",电影_罪犯
+https://live.metshop.top/huya/11352962
+#EXTINF:-1 tvg-id="" tvg-name="电影_枪战" tvg-logo="" group-title="🎬虎牙轮播",电影_枪战
+https://live.metshop.top/huya/21059579
+#EXTINF:-1 tvg-id="" tvg-name="电影_海盗" tvg-logo="" group-title="🎬虎牙轮播",电影_海盗
+https://live.metshop.top/huya/21059595
+#EXTINF:-1 tvg-id="" tvg-name="电影_赛车" tvg-logo="" group-title="🎬虎牙轮播",电影_赛车
+https://live.metshop.top/huya/11279247
+#EXTINF:-1 tvg-id="" tvg-name="电影_推荐" tvg-logo="" group-title="🎬虎牙轮播",电影_推荐
+https://live.metshop.top/huya/11602041
+#EXTINF:-1 tvg-id="" tvg-name="电影_救援" tvg-logo="" group-title="🎬虎牙轮播",电影_救援
+https://live.metshop.top/huya/21059594
+#EXTINF:-1 tvg-id="" tvg-name="电影_热血" tvg-logo="" group-title="🎬虎牙轮播",电影_热血
+https://live.metshop.top/huya/11352934
+#EXTINF:-1 tvg-id="" tvg-name="电影_盗墓" tvg-logo="" group-title="🎬虎牙轮播",电影_盗墓
+https://live.metshop.top/huya/21059552
+#EXTINF:-1 tvg-id="" tvg-name="电影_港片" tvg-logo="" group-title="🎬虎牙轮播",电影_港片
+https://live.metshop.top/huya/11602043
+#EXTINF:-1 tvg-id="" tvg-name="电影_李连杰" tvg-logo="" group-title="🎬虎牙轮播",电影_李连杰
+https://live.metshop.top/huya/11342390
+#EXTINF:-1 tvg-id="" tvg-name="电影_洪金宝" tvg-logo="" group-title="🎬虎牙轮播",电影_洪金宝
+https://live.metshop.top/huya/11279251
+#EXTINF:-1 tvg-id="" tvg-name="电影_刘德华" tvg-logo="" group-title="🎬虎牙轮播",电影_刘德华
+https://live.metshop.top/huya/11342424
+#EXTINF:-1 tvg-id="" tvg-name="林正英 1" tvg-logo="" group-title="🎬斗鱼轮播",林正英 1
+http://zzy789.xyz/douyu1.php?id=7356023
+#EXTINF:-1 tvg-id="" tvg-name="林正英 2" tvg-logo="" group-title="🎬斗鱼轮播",林正英 2
+http://zzy789.xyz/douyu1.php?id=218859
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼频道
+http://zzy789.xyz/douyu1.php?id=8770422#http://zzy789.xyz/douyu1.php?id=218859#http://zzy789.xyz/douyu1.php?id=413573#http://zzy789.xyz/douyu1.php?id=9292492
+#EXTINF:-1 tvg-id="" tvg-name="鬼片恐怖" tvg-logo="" group-title="🎬斗鱼轮播",鬼片恐怖
+http://zzy789.xyz/douyu1.php?id=2935323
+#EXTINF:-1 tvg-id="" tvg-name="恐怖故事" tvg-logo="" group-title="🎬斗鱼轮播",恐怖故事
+http://zzy789.xyz/douyu1.php?id=2337939
+#EXTINF:-1 tvg-id="" tvg-name="怡寳影院" tvg-logo="" group-title="🎬斗鱼轮播",怡寳影院
+http://zzy789.xyz/douyu1.php?id=434971
+#EXTINF:-1 tvg-id="" tvg-name="粤语电影" tvg-logo="" group-title="🎬斗鱼轮播",粤语电影
+http://zzy789.xyz/douyu1.php?id=6566671
+#EXTINF:-1 tvg-id="" tvg-name="苹果影院" tvg-logo="" group-title="🎬斗鱼轮播",苹果影院
+http://zzy789.xyz/douyu1.php?id=2793084
+#EXTINF:-1 tvg-id="" tvg-name="午夜故事" tvg-logo="" group-title="🎬斗鱼轮播",午夜故事
+http://zzy789.xyz/douyu1.php?id=8722254
+#EXTINF:-1 tvg-id="" tvg-name="译制国语" tvg-logo="" group-title="🎬斗鱼轮播",译制国语
+http://zzy789.xyz/douyu1.php?id=2436390
+#EXTINF:-1 tvg-id="" tvg-name="蚂蚱影院" tvg-logo="" group-title="🎬斗鱼轮播",蚂蚱影院
+http://zzy789.xyz/douyu1.php?id=6079455
+#EXTINF:-1 tvg-id="" tvg-name="纪录片" tvg-logo="" group-title="🎬斗鱼轮播",纪录片
+http://zzy789.xyz/douyu1.php?id=4360438
+#EXTINF:-1 tvg-id="" tvg-name="贝爷求生" tvg-logo="" group-title="🎬斗鱼轮播",贝爷求生
+http://zzy789.xyz/douyu1.php?id=454867
+#EXTINF:-1 tvg-id="" tvg-name="恐怖丧尸鬼片" tvg-logo="" group-title="🎬斗鱼轮播",恐怖丧尸鬼片
+http://zzy789.xyz/douyu1.php?id=263824
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影10" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影10
+http://zzy789.xyz/douyu1.php?id=2935323
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影22" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影22
+http://zzy789.xyz/douyu1.php?id=1979257
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影26" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影26
+http://zzy789.xyz/douyu1.php?id=8413092
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影71" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影71
+http://zzy789.xyz/douyu1.php?id=2987100
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影81" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影81
+http://zzy789.xyz/douyu1.php?id=3870925
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影97" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影97
+http://zzy789.xyz/douyu1.php?id=8867878
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影105" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影105
+http://zzy789.xyz/douyu1.php?id=4290711
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影108" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影108
+http://zzy789.xyz/douyu1.php?id=6566671
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影110" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影110
+http://zzy789.xyz/douyu1.php?id=8415464
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影111" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影111
+http://zzy789.xyz/douyu1.php?id=8475821
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影113" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影113
+http://zzy789.xyz/douyu1.php?id=5522351
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影114" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影114
+http://zzy789.xyz/douyu1.php?id=562225
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影116" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影116
+http://zzy789.xyz/douyu1.php?id=8651489
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影117" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影117
+http://zzy789.xyz/douyu1.php?id=338759
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影120" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影120
+http://zzy789.xyz/douyu1.php?id=5354713
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影124" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影124
+http://zzy789.xyz/douyu1.php?id=2793084
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影125" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影125
+http://zzy789.xyz/douyu1.php?id=5067952
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影129" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影129
+http://zzy789.xyz/douyu1.php?id=413573
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影130" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影130
+http://zzy789.xyz/douyu1.php?id=8014467
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影134" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影134
+http://zzy789.xyz/douyu1.php?id=6725858
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影135" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影135
+http://zzy789.xyz/douyu1.php?id=7476264
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影137" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影137
+http://zzy789.xyz/douyu1.php?id=1274132
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影141" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影141
+http://zzy789.xyz/douyu1.php?id=7623292
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影145" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影145
+http://zzy789.xyz/douyu1.php?id=5033502
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影151" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影151
+http://zzy789.xyz/douyu1.php?id=426517
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影153" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影153
+http://zzy789.xyz/douyu1.php?id=8799435
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影155" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影155
+http://zzy789.xyz/douyu1.php?id=4258555
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影158" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影158
+http://zzy789.xyz/douyu1.php?id=8788687
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影165" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影165
+http://zzy789.xyz/douyu1.php?id=8705754
+#EXTINF:-1 tvg-id="" tvg-name="斗鱼电影169" tvg-logo="" group-title="🎬斗鱼轮播",斗鱼电影169
+http://zzy789.xyz/douyu1.php?id=7528160
 #EXTINF:-1 tvg-id="" tvg-name="国语译制电影" tvg-logo="" group-title="🎬影视系列轮播",国语译制电影
 http://159.75.85.63:35455/douyu/2436390
 #EXTINF:-1 tvg-id="" tvg-name="第一滴血全集" tvg-logo="" group-title="🎬影视系列轮播",第一滴血全集
@@ -1436,6 +1933,122 @@ https://vip.ffzy-play6.com/20221112/6431_ce84a705/index.m3u8
 https://vip.ffzy-play6.com/20221112/6127_d615f342/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="密宗威龙" tvg-logo="" group-title="🎬电影作品回放",密宗威龙
 https://vip.ffzy-play7.com/20221112/3607_e49d9e93/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆1" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆1
+http://cfss.cc/cdn/hy/23749096.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆2" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆2
+http://cfss.cc/cdn/hy/23735126.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆3" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆3
+http://cfss.cc/cdn/hy/23865152.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆4" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆4
+http://cfss.cc/cdn/hy/23903196.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆5" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆5
+http://cfss.cc/cdn/hy/23740156.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆6" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆6
+http://cfss.cc/cdn/hy/23728660.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆7" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆7
+http://cfss.cc/cdn/hy/23865058.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆8" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆8
+http://cfss.cc/cdn/hy/23734183.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆9" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆9
+http://cfss.cc/cdn/hy/23865036.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆10" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆10
+http://cfss.cc/cdn/hy/23734246.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆11" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆11
+http://cfss.cc/cdn/hy/23863796.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆12" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆12
+http://cfss.cc/cdn/hy/23749083.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆13" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆13
+http://cfss.cc/cdn/hy/23824164.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆14" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆14
+http://cfss.cc/cdn/hy/23863804.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆15" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆15
+http://cfss.cc/cdn/hy/23865142.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆16" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆16
+http://cfss.cc/cdn/hy/23903183.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆17" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆17
+http://cfss.cc/cdn/hy/23903130.flv
+#EXTINF:-1 tvg-id="" tvg-name="埋堆堆18" tvg-logo="" group-title="🎬堆堆轮播",埋堆堆18
+http://cfss.cc/cdn/hy/23734169.flv
+#EXTINF:-1 tvg-id="" tvg-name="春晚1983" tvg-logo="" group-title="💿历年春晚回放",春晚1983
+http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚1984" tvg-logo="" group-title="💿历年春晚回放",春晚1984
+https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚1985" tvg-logo="" group-title="💿历年春晚回放",春晚1985
+http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚1986" tvg-logo="" group-title="💿历年春晚回放",春晚1986
+https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚1987" tvg-logo="" group-title="💿历年春晚回放",春晚1987
+https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚1988" tvg-logo="" group-title="💿历年春晚回放",春晚1988
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚1989" tvg-logo="" group-title="💿历年春晚回放",春晚1989
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚1991" tvg-logo="" group-title="💿历年春晚回放",春晚1991
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚1992" tvg-logo="" group-title="💿历年春晚回放",春晚1992
+https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚1993" tvg-logo="" group-title="💿历年春晚回放",春晚1993
+https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚1994" tvg-logo="" group-title="💿历年春晚回放",春晚1994
+https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚1995" tvg-logo="" group-title="💿历年春晚回放",春晚1995
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚1996" tvg-logo="" group-title="💿历年春晚回放",春晚1996
+https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚1997" tvg-logo="" group-title="💿历年春晚回放",春晚1997
+https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚1998" tvg-logo="" group-title="💿历年春晚回放",春晚1998
+https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚1999" tvg-logo="" group-title="💿历年春晚回放",春晚1999
+https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2000" tvg-logo="" group-title="💿历年春晚回放",春晚2000
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2001" tvg-logo="" group-title="💿历年春晚回放",春晚2001
+https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2002" tvg-logo="" group-title="💿历年春晚回放",春晚2002
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2003" tvg-logo="" group-title="💿历年春晚回放",春晚2003
+https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2004" tvg-logo="" group-title="💿历年春晚回放",春晚2004
+https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2005" tvg-logo="" group-title="💿历年春晚回放",春晚2005
+https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2006" tvg-logo="" group-title="💿历年春晚回放",春晚2006
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2007" tvg-logo="" group-title="💿历年春晚回放",春晚2007
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2008" tvg-logo="" group-title="💿历年春晚回放",春晚2008
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2009" tvg-logo="" group-title="💿历年春晚回放",春晚2009
+https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2010" tvg-logo="" group-title="💿历年春晚回放",春晚2010
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2011" tvg-logo="" group-title="💿历年春晚回放",春晚2011
+https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2012" tvg-logo="" group-title="💿历年春晚回放",春晚2012
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2013" tvg-logo="" group-title="💿历年春晚回放",春晚2013
+https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2014" tvg-logo="" group-title="💿历年春晚回放",春晚2014
+https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2015" tvg-logo="" group-title="💿历年春晚回放",春晚2015
+https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚16" tvg-logo="" group-title="💿历年春晚回放",春晚16
+https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2017" tvg-logo="" group-title="💿历年春晚回放",春晚2017
+https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2018" tvg-logo="" group-title="💿历年春晚回放",春晚2018
+https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2019" tvg-logo="" group-title="💿历年春晚回放",春晚2019
+https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2020" tvg-logo="" group-title="💿历年春晚回放",春晚2020
+https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2021" tvg-logo="" group-title="💿历年春晚回放",春晚2021
+https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2022" tvg-logo="" group-title="💿历年春晚回放",春晚2022
+https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="春晚2023" tvg-logo="" group-title="💿历年春晚回放",春晚2023
+https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="穿越火线" tvg-logo="" group-title="🎮电竞游戏频道",穿越火线
 http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 #EXTINF:-1 tvg-id="" tvg-name="和平精英·手游" tvg-logo="" group-title="🎮电竞游戏频道",和平精英·手游
