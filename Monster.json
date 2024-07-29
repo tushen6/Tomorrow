@@ -1552,39 +1552,11 @@
             "type": 2,
             "url": "Sequence"
         },
-        {
-            "name": "🌴林中小屋🏡",
-            "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {
-            "name": "🌴林中小屋🏡线路1",
-            "url": "http://115.231.220.36:8801/jx/tvbox/zyy.php?url=",
-            "type": 1,
-            "ext": {
-                "flag": [
-                    "youku",
-                    "qq",
-                    "qiyi",
-                    "bilibili",
-                    "mgtv",
-                    "pptv",
-                    "xigua",
-                    "xiguatv",
-                    "mytv",
-                    "dsj",
-                    "FYNB",
-                    "NBY",
-                    "BTJSON"
-                ],
-                "header": {
-                    "User-Agent": "Dalvik/2.1.0"
-                }
-            }
-        },
+         {
+      "name": "🌴林中小屋🏡",
+      "type": 1,
+      "url": "https://svip.cygc.xyz/api/?key=cygctest&url="
+    }   ,
         {
             "name": "🌴林中小屋🏡线路2",
             "type": 0,
@@ -1796,16 +1768,37 @@
         }
     ],
     "lives": [
+   
         {
-            "name": "神荼live",
+            "name": "🌴林中小屋🏡①",
             "type": 0,
             "url": "./zby.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "https://live.fanmingming.com/e.xml",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
-        }
+        },
+        
+         {
+      "name": "🌴林中小屋🏡②",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://live.fanmingming.com/e.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "🌴林中小屋🏡③",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://live.fanmingming.com/e.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    }
     ],
+    
     "flags": [
         "youku",
         "优酷",
