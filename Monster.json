@@ -1781,7 +1781,7 @@
         {
       "name": "🌴林中小屋🏡②",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/TV/tiyu.m3u",
+      "url": "./TV/tiyu.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://live.fanmingming.com/e.xml",
