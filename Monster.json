@@ -39,6 +39,17 @@
             }
         },
         {
+            "key": "4K腾官",
+            "name": "👹4K自营丨极致画质",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/林中小屋.js"
+        },
+        {
             "key": "南瓜影视",
             "name": "南瓜✨蓝光影视",
             "type": 3,
@@ -1552,11 +1563,20 @@
             "type": 2,
             "url": "Sequence"
         },
+        {
+            "name": "🌴林中小屋🏡4K线路",
+            "url": "http://466.jxjx.8.ahrljk.cn:8663/api/?key=4qb8lbCsVF4M4V9ryt&url=",
+            "type": "1",
+            "status": "normal",
+            "type_text": "Type 1",
+            "status_text": "正常"
+        },
          {
-      "name": "🌴林中小屋🏡",
-      "type": 1,
+      "name": "🌴林中小屋🏡线路",
+      "type": 2,
       "url": "https://svip.cygc.xyz/api/?key=cygctest&url="
-    }   ,
+    },
+     
         {
             "name": "🌴林中小屋🏡线路2",
             "type": 0,
@@ -1600,8 +1620,9 @@
         {
             "name": "🌴林中小屋🏡线路6",
             "type": 0,
-            "url": "https://jx.aidouer.net/?url=",
+            "url": "http://466.jxjx.8.ahrljk.cn:8663/api/?key=4qb8lbCsVF4M4V9ryt&url=",
             "ext": {
+       
                 "header": {
                     "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
                     "referer": "https://jiejie.uk/"
@@ -1778,25 +1799,25 @@
             "epg": "https://live.fanmingming.com/e.xml",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
-        {
-      "name": "🌴林中小屋🏡②",
-      "type": 0,
-      "url": "./TV/tiyu.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "https://live.fanmingming.com/e.xml",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
+        
          {
-      "name": "🌴林中小屋🏡③",
+      "name": "🌴林中小屋🏡②",
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "🌴林中小屋🏡③",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://live.fanmingming.com/e.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
-    
     ],
     
     "flags": [
