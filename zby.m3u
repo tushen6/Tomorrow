@@ -835,80 +835,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#http://
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🌐奥运频道",奥运频道16
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运新闻台" tvg-logo="" group-title="🌐奥运频道",TVB奥运新闻台
-https://mytv.btjson.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运801台" tvg-logo="" group-title="🌐奥运频道",TVB奥运801台
-https://mytv.btjson.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运802台" tvg-logo="" group-title="🌐奥运频道",TVB奥运802台
-https://mytv.btjson.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运803台" tvg-logo="" group-title="🌐奥运频道",TVB奥运803台
-https://mytv.btjson.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运804台" tvg-logo="" group-title="🌐奥运频道",TVB奥运804台
-https://mytv.btjson.us.kg/stream/tvb/804/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运805台" tvg-logo="" group-title="🌐奥运频道",TVB奥运805台
-https://mytv.btjson.us.kg/stream/tvb/805/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运806台" tvg-logo="" group-title="🌐奥运频道",TVB奥运806台
-https://mytv.btjson.us.kg/stream/tvb/806/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运807台" tvg-logo="" group-title="🌐奥运频道",TVB奥运807台
-https://mytv.btjson.us.kg/stream/tvb/807/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运808台" tvg-logo="" group-title="🌐奥运频道",TVB奥运808台
-https://mytv.btjson.us.kg/stream/tvb/808/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运809台" tvg-logo="" group-title="🌐奥运频道",TVB奥运809台
-https://mytv.btjson.us.kg/stream/tvb/809/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运810台" tvg-logo="" group-title="🌐奥运频道",TVB奥运810台
-https://mytv.btjson.us.kg/stream/tvb/810/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运811台" tvg-logo="" group-title="🌐奥运频道",TVB奥运811台
-https://mytv.btjson.us.kg/stream/tvb/811/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运812台" tvg-logo="" group-title="🌐奥运频道",TVB奥运812台
-https://mytv.btjson.us.kg/stream/tvb/812/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运813台" tvg-logo="" group-title="🌐奥运频道",TVB奥运813台
-https://mytv.btjson.us.kg/stream/tvb/813/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运814台" tvg-logo="" group-title="🌐奥运频道",TVB奥运814台
-https://mytv.btjson.us.kg/stream/tvb/814/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运815台" tvg-logo="" group-title="🌐奥运频道",TVB奥运815台
-https://mytv.btjson.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运816台" tvg-logo="" group-title="🌐奥运频道",TVB奥运816台
-https://mytv.btjson.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运互动窗1" tvg-logo="" group-title="🌐奥运频道",TVB奥运互动窗1
-https://mytv.btjson.us.kg/stream/tvb/1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="TVB奥运互动窗2" tvg-logo="" group-title="🌐奥运频道",TVB奥运互动窗2
-https://mytv.btjson.us.kg/stream/tvb/2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🌐港澳频道",凤凰中文频道
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://117.114.153.1:8180/TV00000000000000000069@HHZT#http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8#http://lede.medahl.com:10098/udp/239.76.246.134:1234#http://103.95.24.37:880/fhws.m3u8#http://www.372583307.top:4022/udp/233.50.200.191:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🌐港澳频道",凤凰资讯频道
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://117.114.153.1:8180/TV00000000000000000068@HHZT#http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8#http://lede.medahl.com:10098/udp/239.76.246.135:1234#http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8#http://103.95.24.37:880/fhzx.m3u8#http://www.372583307.top:4022/udp/233.50.200.192:5140#http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台" tvg-logo="" group-title="🌐港澳频道",TVB翡翠台
-http://123.150.5.131:9000/tvb翡翠/香蕉哥专用-易發TV.live.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🌐港澳频道",TVB星河台
-http://117.114.153.12:8180/TV00000000000000000073@HHZT#http://xyt.186738613.xyz/Smartv.php?id=Xinhe
-#EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="" group-title="🌐港澳频道",千禧经典台
-http://xyt.186738613.xyz/Smartv.php?id=Tvbclassic
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🌐港澳频道",无线新闻台
-http://60.208.140.180:5544/tvb新闻/香蕉哥专用-易發TV.live.flv#http://xyt.186738613.xyz/Smartv.php?id=inews_twn#http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 tvg-id="" tvg-name="TVBPLUS" tvg-logo="" group-title="🌐港澳频道",TVB-PLUS
-http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
-#EXTINF:-1 tvg-id="" tvg-name="TVBJ1" tvg-logo="" group-title="🌐港澳频道",TVBJ1
-https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOW 星影" tvg-logo="" group-title="🌐港澳频道",NOW 星影
-http://123.150.5.131:9000/NOW星影/香蕉哥专用-易發TV.live.ts
-#EXTINF:-1 tvg-id="" tvg-name="NOW 爆谷" tvg-logo="" group-title="🌐港澳频道",NOW 爆谷
-http://123.150.5.131:9000/NOW爆谷/香蕉哥专用-易發TV.live.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVB 翡翠台" tvg-logo="" group-title="🌐港澳频道",TVB 翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 tvg-id="" tvg-name="香港无线PLUS" tvg-logo="" group-title="🌐港澳频道",香港无线PLUS
-http://php.jdshipin.com:8880/smt.php?id=j2_twn
-#EXTINF:-1 tvg-id="" tvg-name="无线明珠台" tvg-logo="" group-title="🌐港澳频道",无线明珠台
-http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-#EXTINF:-1 tvg-id="" tvg-name="VIUTV 频道" tvg-logo="" group-title="🌐港澳频道",VIUTV 频道
-http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-#EXTINF:-1 tvg-id="" tvg-name="TVB星河频道" tvg-logo="" group-title="🌐港澳频道",TVB星河频道
-http://php.jdshipin.com:8880/smt.php?id=Xinhe
-#EXTINF:-1 tvg-id="" tvg-name="RTHK32 频道" tvg-logo="" group-title="🌐港澳频道",RTHK32 频道
-http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-#EXTINF:-1 tvg-id="" tvg-name="RTHK31 频道" tvg-logo="" group-title="🌐港澳频道",RTHK31 频道
-http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
-#EXTINF:-1 tvg-id="" tvg-name="凤凰 香港台" tvg-logo="" group-title="🌐港澳频道",凤凰 香港台
-http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬4K超高清频道",CCTV4K超高清
 http://159.75.85.63:5679/cctv4k.php#http://mtw.so/5VbDUV#https://tv.cry33.com/ys4k.php?id=4k#http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8#http://27.222.3.214/liveali-tp4K.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="自然4K" tvg-logo="" group-title="🎬4K超高清频道",自然4K
