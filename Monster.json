@@ -83,15 +83,7 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "看看影视",
-            "name": "看看✨蓝光秒播",
-            "type": 3,
-            "api": "csp_WebIV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+        
         {
             "key": "酷影",
             "name": "酷影✨蓝光影视",
@@ -102,15 +94,7 @@
             "filterable": 1,
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
-        {
-            "key": "可可影视",
-            "name": "可可✨蓝光影视",
-            "type": 3,
-            "api": "csp_Keke",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+       
         {
             "key": "最新影视",
             "name": "兔兔✨蓝光影视",
@@ -297,16 +281,7 @@
             "filterable": 1,
             "ext": "./lib/98影视.json"
         },
-        {
-            "key": "csp_七新",
-            "name": "七新✨蓝光影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/七新影视.json"
-        },
+       
         {
             "key": "剧集",
             "name": "剧集✨蓝光影视",
@@ -327,16 +302,7 @@
             "filterable": 1,
             "ext": "./lib/七猫影视.json"
         },
-        {
-            "key": "子子影视",
-            "name": "子子✨蓝光采集",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/子子.json"
-        },
+       
         {
             "key": " 百姓 ",
             "name": "农民✨蓝光微广",
@@ -347,13 +313,7 @@
             "filterable": 1,
             "ext": "./lib/农民.json"
         },
-        {
-            "key": "白嫖者",
-            "name": "白嫖✨蓝光微广",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/baipiao.json"
-        },
+        
         {
             "key": "csp_星辰",
             "name": "星辰✨蓝光秒播",
@@ -384,16 +344,7 @@
             "filterable": 1,
             "ext": "./lib/cechi.json"
         },
-        {
-            "key": "七夕影视",
-            "name": "七夕✨蓝光秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/qixi.json"
-        },
+      
         {
             "key": "皮皮虾影视",
             "name": "皮皮虾✨蓝光影视",
@@ -487,13 +438,7 @@
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/魔力高清.js"
         },
-        {
-            "key": "小马",
-            "name": "小马👿蓝光采集",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "https://mas.szyyds.cn/api.php/app/"
-        },
+       
         {
             "key": "银河",
             "name": "银河👿蓝光采集",
@@ -868,19 +813,7 @@
             },
             "jar": "./danmu.jar"
         },
-        {
-            "key": "小苹果弹幕",
-            "name": "🌠苹果弹幕丨蓝光",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "./danmu.jar"
-        },
+       
         {
             "key": "三六零弹幕",
             "name": "🌠三六零弹幕丨蓝光",
