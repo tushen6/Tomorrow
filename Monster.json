@@ -1799,26 +1799,25 @@
             "epg": "https://live.fanmingming.com/e.xml",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
-        
-         {
+        {
       "name": "🌴林中小屋🏡②",
+      "type": 0,
+      "url": "./TV/tiyu.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://live.fanmingming.com/e.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+         {
+      "name": "🌴林中小屋🏡③",
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://live.fanmingming.com/e.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "🌴林中小屋🏡③",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "https://live.fanmingming.com/e.xml",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
-    ],
+   ],
     
     "flags": [
         "youku",
