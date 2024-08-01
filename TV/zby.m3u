@@ -274,27 +274,27 @@ https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4c
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://8815.kstore.space/tczy/4K.png"" group-title="🌐4K超高清频道🌐",CCTV4K超高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://8815.kstore.space/tczy/4K1.png" group-title="🌐4K超高清频道🌐",CCTV4K超高清
 http://159.75.85.63:5679/cctv4k.php#http://mtw.so/5VbDUV#https://tv.cry33.com/ys4k.php?id=4k#http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8#http://27.222.3.214/liveali-tp4K.cctv.cn/live/4K10M.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="自然4K" tvg-logo="https://8815.kstore.space/tczy/4K.png" group-title="🌐4K超高清频道🌐",自然4K
+#EXTINF:-1 tvg-id="" tvg-name="自然4K" tvg-logo="https://8815.kstore.space/tczy/4K1.png" group-title="🌐4K超高清频道🌐",自然4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://8815.kstore.space/tczy/4K.png" group-title="🌐4K超高清频道🌐",CCTV8K超高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://8815.kstore.space/tczy/4K1.png" group-title="🌐4K超高清频道🌐",CCTV8K超高清
 http://mtw.so/62HqYI#https://tv.cry33.com/ys4k.php?id=8k#https://tv.cry33.com/ys4k.php?id=8k25
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://8815.kstore.space/tczy/4K.png" group-title="🌐4K超高清频道🌐",CCTV16 4K
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://8815.kstore.space/tczy/4K1.png" group-title="🌐4K超高清频道🌐",CCTV16 4K
 https://tv.cry33.com/ys4k.php?id=16-4k
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://8815.kstore.space/tczy/4K.png" group-title="🌐4K超高清频道🌐",北京纪实8K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://8815.kstore.space/tczy/4K1.png" group-title="🌐4K超高清频道🌐",北京纪实8K
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8#http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://8815.kstore.space/tczy/4K.png" group-title="🌐4K超高清频道🌐",苏州4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://8815.kstore.space/tczy/4K1.png" group-title="🌐4K超高清频道🌐",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd#http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8#http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8#http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.flv#http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8?zjiangsd#http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="北京纪实科技8K" tvg-logo="https://8815.kstore.space/tczy/4K.png" group-title="🌐4K超高清频道🌐",北京纪实科技8K
+#EXTINF:-1 tvg-id="" tvg-name="北京纪实科技8K" tvg-logo="https://8815.kstore.space/tczy/4K1.png" group-title="🌐4K超高清频道🌐",北京纪实科技8K
 https://epg.pw/stream/f48875235ce63399ced8a8f27167ceea2fda31675f2b15a967a49f1ec6bba9f7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="绚影4K" tvg-logo="https://8815.kstore.space/tczy/4K.png" group-title="🌐4K超高清频道🌐",绚影4K
+#EXTINF:-1 tvg-id="" tvg-name="绚影4K" tvg-logo="https://8815.kstore.space/tczy/4K1.png" group-title="🌐4K超高清频道🌐",绚影4K
 http://183.222.206.14:8096/udp/239.93.42.33:5140
-#EXTINF:-1 tvg-id="" tvg-name="影视4K" tvg-logo="https://8815.kstore.space/tczy/4K.png" group-title="🌐4K超高清频道🌐",影视4K
+#EXTINF:-1 tvg-id="" tvg-name="影视4K" tvg-logo="https://8815.kstore.space/tczy/4K1.png" group-title="🌐4K超高清频道🌐",影视4K
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://8815.kstore.space/tczy/4K.png" group-title="🌐4K超高清频道🌐",搜狐4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://8815.kstore.space/tczy/4K1.png" group-title="🌐4K超高清频道🌐",搜狐4K
 http://www.liam008.top:4022/rtp/225.1.2.190:5002$联通组播天津#http://xuys.top:8888/rtp/225.1.2.190:5002$滨海新区联通组播
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://8815.kstore.space/tczy/4K.png" group-title="🌐4K超高清频道🌐",欢笑剧场4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://8815.kstore.space/tczy/4K1.png" group-title="🌐4K超高清频道🌐",欢笑剧场4K
 http://ipv4.sunjianwu.fun:8800/udp/239.49.8.106:8000$盐成电信组播#http://iptv.028028.xyz:8/udp/239.93.0.145:5140$锦江电信组播#http://qingcheng.pro:7890/udp/238.125.5.122:5140$新疆电信组播#http://171.217.81.143:8088/udp/239.93.0.145:5140$成都电信组播#http://117.66.254.131:2000/rtp/238.1.79.67:4672$淮南电信组播#http://gang.pecmd.cn:6000/rtp/232.0.0.98:1234$辽宁鞍山联通
 
 
