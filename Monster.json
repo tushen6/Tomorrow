@@ -40,7 +40,7 @@
         },
         {
             "key": "4K腾官",
-            "name": "👹4K秒播丨极致画质",
+            "name": "👑4K秒播丨极致画质",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -200,14 +200,7 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "星辰影视",
-            "name": "星辰✨流畅影视",
-            "type": 3,
-            "api": "csp_WexXingchen",
-            "searchable": 1,
-            "changeable": 1
-        },
+       
         {
             "key": "利播影视",
             "name": "利播✨蓝光影视",
@@ -253,7 +246,7 @@
         },
         {
             "key": "采集之王",
-            "name": "道长✨采集之王",
+            "name": "客观✨采集之王",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "searchable": 1,
@@ -1183,6 +1176,67 @@
             },
             "jar": "./danmu.jar"
         },
+          {
+            "key": "搜索弹幕",
+            "name": "💯4K搜索｜网盘搜索",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "danmu": true
+            },
+            "jar": "./danmu.jar"
+        },
+         {
+            "key": "米搜弹幕",
+            "name": "💯4K米搜｜网盘搜索",
+            "type": 3,
+            "api": "csp_Qkpanso",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "site": "https://www.misou.fun",
+                "danmu": true
+            },
+              "jar": "./danmu.jar"
+        },
+        {
+            "key": "夸搜弹幕",
+            "name": "💯夸克搜索丨4K高清",
+            "type": 3,
+            "api": "csp_Qkso",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "danmu": true
+            },
+              "jar": "./danmu.jar"
+        },
+         {
+            "key": "阿里合集",
+            "name": "💯阿里合集丨4K超清",
+            "type": 3,
+            "api": "csp_AliShare",
+            "searchable": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "share": "./JS/alishare.txt"
+            },
+            "style": {
+                "type": "list"
+            },
+             "jar": "./danmu.jar"
+        },
         {
             "key": "云盘资源",
             "name": "💯4K云盘｜阿里资源",
@@ -1487,7 +1541,7 @@
     ],
     "parses": [
         {
-            "name": "聚合",
+            "name": "超级并发",
             "type": 3,
             "url": "Demo"
         },
@@ -1726,7 +1780,7 @@
         {
             "name": "🌴林中小屋🏡①",
             "type": 0,
-            "url": "./TV/zby.txt",
+            "url": "./TV/zby.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "https://live.fanmingming.com/e.xml",
