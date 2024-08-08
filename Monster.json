@@ -2,11 +2,11 @@
     "spider": "./spider.jar",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "logo": "https://p0.meituan.net/csc/2a37e8f8c0e188948b5ddb81868e2c80224570.gif",
-    "homeLogo": "https://vip.123pan.cn/1829447248/fx/homelogo.jpg",
+    "homeLogo": ""
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🌴林中小屋🏠公众号:林中的小屋",
+            "name": "🌴林中小屋🏠",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
