@@ -31,8 +31,8 @@
             "type": 3,
             "api": "csp_Bili",
             "jar": "./lib/pg.jar",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
             "ext": {
                 "json": "./lib/B站.json",
