@@ -476,6 +476,9 @@ CCTV_4KUHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1
 新疆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010116/1.m3u8
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 CETV1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010103/1.m3u8
+
+
+
 🌐4K超高清频道🌐,#genre#
 CCTV4K超高清,http://159.75.85.63:5679/cctv4k.php#http://mtw.so/5VbDUV#https://tv.cry33.com/ys4k.php?id=4k#http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8#http://27.222.3.214/liveali-tp4K.cctv.cn/live/4K10M.stream/playlist.m3u8
 自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -488,6 +491,36 @@ CCTV16 4K,https://tv.cry33.com/ys4k.php?id=16-4k
 影视4K,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 搜狐4K,http://www.liam008.top:4022/rtp/225.1.2.190:5002$联通组播天津#http://xuys.top:8888/rtp/225.1.2.190:5002$滨海新区联通组播
 欢笑剧场4K,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.106:8000$盐成电信组播#http://iptv.028028.xyz:8/udp/239.93.0.145:5140$锦江电信组播#http://qingcheng.pro:7890/udp/238.125.5.122:5140$新疆电信组播#http://171.217.81.143:8088/udp/239.93.0.145:5140$成都电信组播#http://117.66.254.131:2000/rtp/238.1.79.67:4672$淮南电信组播#http://gang.pecmd.cn:6000/rtp/232.0.0.98:1234$辽宁鞍山联通
+
+
+👑电竞游戏频道👑,#genre#
+KPL王者荣耀,http://al-game.flv.huya.com/src/78941969-2558924260-10990496009641000960-3143878788-10057-A-0-1-imgplus.flv?wsSecret=ac0ae094d452bb12259990a18f43c704&wsTime=66bb8c39&seqid=2070863188504&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=0347317627177&uuid=2920210136&t=102&sv=2401310322&ratio=14000
+无畏契约,http://al.flv.huya.com/src/1099531728424-1099531728424-86331625788407808-2199063580304-10057-A-0-1-imgplus.flv?wsSecret=0a5c6b0115d32c20f6320b4d8ad1965f&wsTime=66bb8bff&seqid=9009150606581&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=7285605102854&uuid=1809567120&t=102&sv=2401310322&ratio=14000
+LPL英雄联盟,http://al-game.flv.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.flv?wsSecret=c7d4e84825b12f4587a5729a36bd12de&wsTime=66bb8b38&seqid=2669686364118&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=0946141060051&uuid=1263914828&t=102&sv=2401310322&ratio=14000
+CEST斗牌立直赛,http://al.flv.huya.com/src/1199635531117-1199635531117-5753776702140448768-2399271185690-10057-A-0-1.flv?wsSecret=a39b07afbc7010a26c3eaf9d107dca3a&wsTime=66bb8ac7&seqid=3438008909408&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=1714463718320&uuid=2523616502&t=102&sv=2401310322
+EWC电竞世界杯,http://al.flv.huya.com/src/78941969-2625050886-11274507705705824256-3143836162-10057-A-0-1-imgplus.flv?wsSecret=3dcb5b3920c6c9d9ce547d8eeec4d518&wsTime=66bb8a6a&seqid=6682400303150&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=4958855205030&uuid=3760394320&t=102&sv=2401310322
+PUBG,https://tc-tct.douyucdn2.cn/dyliveflv1a/100rPCLP.flv?wsAuth=4ae0dc13dfd8b00ee474ad9e6b0d93b9&token=web-h5-0-100-7280476511a877c20ccb4dadae8bd9d9673d81c28a205ac0&logo=0&expire=0&did=10000000000000000000000000001501&pt=2&st=0&sid=396397672&mcid2=0&origin=tct&mix=0&isp=
+CS2,https://tc-tct.douyucdn2.cn/dyliveflv1/601514rYyuBBDiJK.flv?wsAuth=ec4eea67a75a5dcfa0bf06e4dcd05760&token=web-h5-0-601514-ef59ba1cfb08936545284f611412966d576d42975cf7f3f7&logo=0&expire=0&did=10000000000000000000000000001501&pt=2&st=0&sid=397197819&mcid2=0&origin=tct&mix=0&isp=
+DOTA2,http://al.flv.huya.com/src/78941969-2709100820-11635499423466782720-3083205900-10057-A-0-1-imgplus.flv?wsSecret=ed5fb9bed2e7f66d535bae9154473df4&wsTime=66bb8d71&seqid=6489242362463&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=4765696489324&uuid=3803306172&t=102&sv=2401310322
+穿越火线,http://al.flv.huya.com/src/78941969-2543231004-10923093988353245184-2693349284-10057-A-0-1-imgplus.flv?wsSecret=fefdb3a8410f483d41aca972e4d5982d&wsTime=66bb9112&seqid=8124450796454&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=6400903993670&uuid=683058818&t=102&sv=2401310322&ratio=14000
+和平精英·手游,http://al.flv.huya.com/src/78941969-2757820485-11844748791313858560-3120471256-10057-A-0-1-imgplus.flv?wsSecret=5d212eb5d01ded7fb508eb40721b6e71&wsTime=66bb917c&seqid=4722154305442&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=2998607397042&uuid=3125005072&t=102&sv=2401310322
+梦幻西游·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1/7722576rWHyhVf6Z_2000.flv?wsAuth=05a690d94290609839e7c868f44fbc3d&token=cpn-androidmpro-0-7722576-6b878e1c279c4ee5468d3b8183a8170664764100093885bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.flv?wsAuth=ce3c0d32c960ce39c10717b795f7ddf9&token=cpn-androidmpro-0-522423-99737a9b5bf363c27f62ed65c0f1025bd1ccd3a301de7e93&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+QQ飞车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=0654cc930e81f0d2b58264196ded38af&token=cpn-androidmpro-0-5040227-432528579fe947129e217c8f3c39d0a94c81c1426c347bfb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+跑跑卡丁车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+永劫无间,http://al.flv.huya.com/src/0-0-0-3120471212-10057-A-0-1-imgplus.flv?wsSecret=884503ca8f94b821a92606ee3a2bbc60&wsTime=66bbd698&seqid=7191309491336&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=5467744891057&uuid=1616108148&t=102&sv=2401310322
+绝地求生,http://tc-tct.douyucdn2.cn/dyliveflv1a/100rPCLP_2000.m3u8
+DOTA2,http://tc-tct.douyucdn2.cn/dyliveflv1a/288016rlols5_2000.m3u8
+第五人格2,http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.m3u8
+狼人杀,http://tc-tct.douyucdn2.cn/dyliveflv1a/4615959rUFUtiJ3v.m3u8
+
+
+
+
 🏆奥运体育频道🏆,#genre#
 咪咕奥运会 4K,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 实时奥运金牌榜,http://159.75.85.63:35455/douyin/855933386558
@@ -537,6 +570,8 @@ CCTV16-4K (IPV6),http://[2409:8087:5e08:24::12]:6610/000000001001/50000000080000
 CCTV-5 体育,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8
 CCTV-5+ 体育赛事,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020505/1.m3u8
 CCTV-16 奥林匹克,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
+
+
 🏆体育运动频道🏆,#genre#
 緯來體育,https://tv.iill.top/tv/wlty#https://z02.ubtvfans.com/live/rx1/338/43f031a4c6cbafd2ed47919a4cb84631/index.m3u8#https://fm1077.serv00.net/anbo/index.php?id=118
 超级体育「IPV6」,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -558,6 +593,7 @@ CCTV-16 奥林匹克,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006
 先锋乒羽,http://sunt.mycloudnas.com:18888/udp/239.21.2.98:5002#http://www.dsmcloud.top:8888/rtp/239.81.0.236:4056#http://nas.hssvm.com:8888/udp/225.1.1.219:5002#http://118.112.148.228:58888/udp/239.93.42.56:5140
 🏀路人王篮球,http://al.flv.huya.com/src/1859752418-1859752418-7987575813966921728-3719628292-10057-A-0-1.flv?wsSecret=3e6cfea78825c4d14f4c19ae4e4af0a3&wsTime=66bb9405&seqid=10900690374644&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=9177142816937&uuid=781617623&t=102&sv=2401310322
 🏀体育直播http://al.flv.huya.com/src/1099531728545-1099531728545-86332145479450624-2199063580546-10057-A-0-1-imgplus.flv?wsSecret=3fda33473e70e182f733df45fc603eb3&wsTime=66bb8f0d&seqid=3806396618855&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=2082850333048&uuid=3123153452&t=102&sv=2401310322
+台球斯诺克,http://al.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.flv?wsSecret=8ac2ad277132e1d04f95571cfcc81e84&wsTime=66bbd390&seqid=3994667780297&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=2271103955593&uuid=1994348848&t=102&sv=2401310322
 虎牙中式台球,http://al.flv.huya.com/src/1099531627955-1099531627955-85900114719145984-2199063379366-10057-A-0-1.flv?wsSecret=57c865428da61c871b687b484f67de84&wsTime=66bb953a&seqid=11201275385192&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=9477727518724&uuid=2265499864&t=102&sv=2401310322
 CCTV-台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8#http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2#http://doityoume.x3322.net:5100/rtp/239.69.1.98:10224
 
@@ -898,29 +934,10 @@ player=2
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
 
-👑电竞游戏频道👑,#genre#
-KPL王者荣耀,http://al-game.flv.huya.com/src/78941969-2558924260-10990496009641000960-3143878788-10057-A-0-1-imgplus.flv?wsSecret=ac0ae094d452bb12259990a18f43c704&wsTime=66bb8c39&seqid=2070863188504&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=0347317627177&uuid=2920210136&t=102&sv=2401310322&ratio=14000
-无畏契约,http://al.flv.huya.com/src/1099531728424-1099531728424-86331625788407808-2199063580304-10057-A-0-1-imgplus.flv?wsSecret=0a5c6b0115d32c20f6320b4d8ad1965f&wsTime=66bb8bff&seqid=9009150606581&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=7285605102854&uuid=1809567120&t=102&sv=2401310322&ratio=14000
-LPL英雄联盟,http://al-game.flv.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.flv?wsSecret=c7d4e84825b12f4587a5729a36bd12de&wsTime=66bb8b38&seqid=2669686364118&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=0946141060051&uuid=1263914828&t=102&sv=2401310322&ratio=14000
-CEST斗牌立直赛,http://al.flv.huya.com/src/1199635531117-1199635531117-5753776702140448768-2399271185690-10057-A-0-1.flv?wsSecret=a39b07afbc7010a26c3eaf9d107dca3a&wsTime=66bb8ac7&seqid=3438008909408&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=1714463718320&uuid=2523616502&t=102&sv=2401310322
-EWC电竞世界杯,http://al.flv.huya.com/src/78941969-2625050886-11274507705705824256-3143836162-10057-A-0-1-imgplus.flv?wsSecret=3dcb5b3920c6c9d9ce547d8eeec4d518&wsTime=66bb8a6a&seqid=6682400303150&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=4958855205030&uuid=3760394320&t=102&sv=2401310322
 
-DOTA,http://al.flv.huya.com/src/78941969-2709100820-11635499423466782720-3083205900-10057-A-0-1-imgplus.flv?wsSecret=ed5fb9bed2e7f66d535bae9154473df4&wsTime=66bb8d71&seqid=6489242362463&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=4765696489324&uuid=3803306172&t=102&sv=2401310322
-穿越火线,http://al.flv.huya.com/src/78941969-2543231004-10923093988353245184-2693349284-10057-A-0-1-imgplus.flv?wsSecret=fefdb3a8410f483d41aca972e4d5982d&wsTime=66bb9112&seqid=8124450796454&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=6400903993670&uuid=683058818&t=102&sv=2401310322&ratio=14000
-和平精英·手游,http://al.flv.huya.com/src/78941969-2757820485-11844748791313858560-3120471256-10057-A-0-1-imgplus.flv?wsSecret=5d212eb5d01ded7fb508eb40721b6e71&wsTime=66bb917c&seqid=4722154305442&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=2998607397042&uuid=3125005072&t=102&sv=2401310322
-梦幻西游·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1/7722576rWHyhVf6Z_2000.flv?wsAuth=05a690d94290609839e7c868f44fbc3d&token=cpn-androidmpro-0-7722576-6b878e1c279c4ee5468d3b8183a8170664764100093885bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.flv?wsAuth=ce3c0d32c960ce39c10717b795f7ddf9&token=cpn-androidmpro-0-522423-99737a9b5bf363c27f62ed65c0f1025bd1ccd3a301de7e93&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-QQ飞车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=0654cc930e81f0d2b58264196ded38af&token=cpn-androidmpro-0-5040227-432528579fe947129e217c8f3c39d0a94c81c1426c347bfb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-跑跑卡丁车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-永劫无间,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-绝地求生,http://tc-tct.douyucdn2.cn/dyliveflv1a/100rPCLP_2000.m3u8
-DOTA2,http://tc-tct.douyucdn2.cn/dyliveflv1a/288016rlols5_2000.m3u8
-第五人格2,http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.m3u8
-狼人杀,http://tc-tct.douyucdn2.cn/dyliveflv1a/4615959rUFUtiJ3v.m3u8
+
+
+
 👘韩国女团歌舞👘,#genre#
 MTV|「韩」1,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 MTV|「韩」2,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
