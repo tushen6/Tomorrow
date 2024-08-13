@@ -1,7 +1,7 @@
 //以下资源仅做测试、学习使用，请勿用于不正当用途
 
 {
-    "spider": "https://8815.kstore.space/jar/shentu.txt;md5;20d2ee18388ea23295700d9cfb6648c8",
+    "spider": "./shentu.txt;md5;20d2ee18388ea23295700d9cfb6648c8",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "logo": "https://p0.meituan.net/csc/2a37e8f8c0e188948b5ddb81868e2c80224570.gif",
     "sites": [
