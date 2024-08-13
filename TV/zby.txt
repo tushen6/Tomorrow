@@ -2,6 +2,7 @@
 公众号:林中的小屋,https://vd3.bdstatic.com/mda-pcp5fx5bfrctx9pu/sc/cae_h264/1679635523924099179/mda-pcp5fx5bfrctx9pu.mp4
 Q群:14451629,http://mobi.kuwo.cn/tmevideo/tme1257697.mp4
 接口免费勿上当受骗,https://vd3.bdstatic.com/mda-pd369avvets19gch/sc/cae_h264/1680582897997490362/mda-pd369avvets19gch.mp4
+更新日期_20240813,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
 🌐IPV4央视频道🌐,#genre#
 CCTV1,http://unraid.jimin.codetech.top:8888/udp/239.3.1.129:8008
 CCTV1,http://unraid.jimin.codetech.top:8888/udp/239.3.1.1:8000
@@ -536,7 +537,7 @@ CCTV16-4K (IPV6),http://[2409:8087:5e08:24::12]:6610/000000001001/50000000080000
 CCTV-5 体育,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8
 CCTV-5+ 体育赛事,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020505/1.m3u8
 CCTV-16 奥林匹克,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
-🏆体育竞技频道🏆,#genre#
+🏆体育运动频道🏆,#genre#
 緯來體育,https://tv.iill.top/tv/wlty#https://z02.ubtvfans.com/live/rx1/338/43f031a4c6cbafd2ed47919a4cb84631/index.m3u8#https://fm1077.serv00.net/anbo/index.php?id=118
 超级体育「IPV6」,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -555,21 +556,18 @@ CCTV-16 奥林匹克,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006
 晴彩羽毛,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.127:8001#http://drive.mxmy.net:8888/rtp/239.3.1.127:8001#http://114.254.185.206:9999/rtp/239.3.1.127:8001
 麻辣体育,http://118.112.148.228:58888/udp/239.93.42.2:5140
 先锋乒羽,http://sunt.mycloudnas.com:18888/udp/239.21.2.98:5002#http://www.dsmcloud.top:8888/rtp/239.81.0.236:4056#http://nas.hssvm.com:8888/udp/225.1.1.219:5002#http://118.112.148.228:58888/udp/239.93.42.56:5140
-CCTV-05,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV+5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+🏀路人王篮球,http://al.flv.huya.com/src/1859752418-1859752418-7987575813966921728-3719628292-10057-A-0-1.flv?wsSecret=3e6cfea78825c4d14f4c19ae4e4af0a3&wsTime=66bb9405&seqid=10900690374644&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=9177142816937&uuid=781617623&t=102&sv=2401310322
+🏀体育直播http://al.flv.huya.com/src/1099531728545-1099531728545-86332145479450624-2199063580546-10057-A-0-1-imgplus.flv?wsSecret=3fda33473e70e182f733df45fc603eb3&wsTime=66bb8f0d&seqid=3806396618855&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=2082850333048&uuid=3123153452&t=102&sv=2401310322
+虎牙中式台球,http://al.flv.huya.com/src/1099531627955-1099531627955-85900114719145984-2199063379366-10057-A-0-1.flv?wsSecret=57c865428da61c871b687b484f67de84&wsTime=66bb953a&seqid=11201275385192&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=9477727518724&uuid=2265499864&t=102&sv=2401310322
 CCTV-台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8#http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2#http://doityoume.x3322.net:5100/rtp/239.69.1.98:10224
-央视高网,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
+
 美国摔跤,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
-JJ斗地主,http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8#http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-
-王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-
-穿越火线,http://tc-tct.douyucdn2.cn:80/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-#http://112.83.136.141:80/live/605964rzzgGEOZHr.flv?302_type=cold_aggr&_session_id=2376164747.n.cn-069f7p.14re_26504&cb_retry=0&did=d010b07dcb997ada9934081c873542f0&domain=tc-
-雨燕篮球一,https://pull.dangaoka.com/live/stream-780421_lhd.flv?auth_key=1720343721-0-0-bfc6b8d4e9e5695acabf1e5c7697ff4a
-雨燕篮球二,https://pull.dangaoka.com/live/stream-455861_lhd.flv?auth_key=1720343840-0-0-4c3d8fb5b9a8c02a5ea549f2c470c841
-雨燕篮球三,https://pull.dangaoka.com/live/stream-593751_lhd.flv?auth_key=1720344320-0-0-5c029a65de7a80afa4d97c595f71de09
-雨燕足球一,https://pull.dangaoka.com/live/stream-658764_lhd.flv?auth_key=1720343900-0-0-00361f98a4a5cbc84801e65871fc6a50
-雨燕足球二,https://pull.dangaoka.com/live/stream-306929_lhd.flv?auth_key=1720344020-0-0-e7b8a42556975c73b53fba1d6aff8a87
-雨燕足球三,https://pull.dangaoka.com/live/stream-740636_lhd.flv?auth_key=1720344020-0-0-3530e8e0b51df502c37f903d1d752e62
-雨燕足球四,https://pull.dangaoka.com/live/stream-658764_lhd.flv?auth_key=1720344080-0-0-6c1fd0177f93e42ec822160f41a3fbdf
+UFC终极格斗,http://al.flv.huya.com/src/1099531627799-1099531627799-85899444704247808-2199063379054-10057-A-0-1.flv?wsSecret=681cef4c322304aef1def85135e8050d&wsTime=66bb8e11&seqid=11199571613554&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=9476025580373&uuid=3942826413&t=102&sv=2401310322
+
+
+
+
+
 🏆咪咕体育频道🏆,#genre#
 咪咕直播4K Ⅰ,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕直播4K Ⅱ,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
@@ -730,7 +728,7 @@ player=2
 电影_战争,http://cfss.cc/cdn/hy/21059592.flv
 电影_喜剧,http://cfss.cc/cdn/hy/11352877.flv
 电影_国产,http://cfss.cc/cdn/hy/11352973.flv
-电影_周星星,http://cfss.cc/cdn/hy/11336587.flv
+电影_周星星,http://al.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?wsSecret=3b54df6342ab7d74d96274a17218e785&wsTime=66bb902d&seqid=3419396480939&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=1695849907146&uuid=1119843420&t=102&sv=2401310322&ratio=6000
 电影_梁家辉,http://cfss.cc/cdn/hy/11342429.flv
 电影_斯坦森,http://cfss.cc/cdn/hy/21059588.flv
 电影_八点档,http://cfss.cc/cdn/hy/880261.flv
@@ -898,9 +896,18 @@ player=2
 春晚2021,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
 春晚2022,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+
+
 👑电竞游戏频道👑,#genre#
-穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-和平精英·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+KPL王者荣耀,http://al-game.flv.huya.com/src/78941969-2558924260-10990496009641000960-3143878788-10057-A-0-1-imgplus.flv?wsSecret=ac0ae094d452bb12259990a18f43c704&wsTime=66bb8c39&seqid=2070863188504&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=0347317627177&uuid=2920210136&t=102&sv=2401310322&ratio=14000
+无畏契约,http://al.flv.huya.com/src/1099531728424-1099531728424-86331625788407808-2199063580304-10057-A-0-1-imgplus.flv?wsSecret=0a5c6b0115d32c20f6320b4d8ad1965f&wsTime=66bb8bff&seqid=9009150606581&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=7285605102854&uuid=1809567120&t=102&sv=2401310322&ratio=14000
+LPL英雄联盟,http://al-game.flv.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.flv?wsSecret=c7d4e84825b12f4587a5729a36bd12de&wsTime=66bb8b38&seqid=2669686364118&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=0946141060051&uuid=1263914828&t=102&sv=2401310322&ratio=14000
+CEST斗牌立直赛,http://al.flv.huya.com/src/1199635531117-1199635531117-5753776702140448768-2399271185690-10057-A-0-1.flv?wsSecret=a39b07afbc7010a26c3eaf9d107dca3a&wsTime=66bb8ac7&seqid=3438008909408&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=1714463718320&uuid=2523616502&t=102&sv=2401310322
+EWC电竞世界杯,http://al.flv.huya.com/src/78941969-2625050886-11274507705705824256-3143836162-10057-A-0-1-imgplus.flv?wsSecret=3dcb5b3920c6c9d9ce547d8eeec4d518&wsTime=66bb8a6a&seqid=6682400303150&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=4958855205030&uuid=3760394320&t=102&sv=2401310322
+
+DOTA,http://al.flv.huya.com/src/78941969-2709100820-11635499423466782720-3083205900-10057-A-0-1-imgplus.flv?wsSecret=ed5fb9bed2e7f66d535bae9154473df4&wsTime=66bb8d71&seqid=6489242362463&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=4765696489324&uuid=3803306172&t=102&sv=2401310322
+穿越火线,http://al.flv.huya.com/src/78941969-2543231004-10923093988353245184-2693349284-10057-A-0-1-imgplus.flv?wsSecret=fefdb3a8410f483d41aca972e4d5982d&wsTime=66bb9112&seqid=8124450796454&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=6400903993670&uuid=683058818&t=102&sv=2401310322&ratio=14000
+和平精英·手游,http://al.flv.huya.com/src/78941969-2757820485-11844748791313858560-3120471256-10057-A-0-1-imgplus.flv?wsSecret=5d212eb5d01ded7fb508eb40721b6e71&wsTime=66bb917c&seqid=4722154305442&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=2998607397042&uuid=3125005072&t=102&sv=2401310322
 梦幻西游·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1/7722576rWHyhVf6Z_2000.flv?wsAuth=05a690d94290609839e7c868f44fbc3d&token=cpn-androidmpro-0-7722576-6b878e1c279c4ee5468d3b8183a8170664764100093885bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
