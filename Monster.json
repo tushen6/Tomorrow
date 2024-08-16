@@ -7,7 +7,7 @@
     "sites": [
         {
             "key": "豆瓣评分",
-            "name": "🌴林中小屋🏡公众号:林中的小屋",
+            "name": "🌴林中小屋🏡",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -626,6 +626,7 @@
             "key": "芒果视频",
             "name": "芒果视频⚜️解析",
             "type": 3,
+            
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/芒果视频.js"
         },
@@ -1556,13 +1557,28 @@
             "url": "Sequence"
         },
         {
-            "name": "🌴林中小屋🏡4K线路",
+            "name": "🌴林中小屋🏡4K线路①",
             "url": "http://466.jxjx.8.ahrljk.cn:8663/api/?key=4qb8lbCsVF4M4V9ryt&url=",
             "type": "1",
             "status": "normal",
             "type_text": "Type 1",
             "status_text": "正常"
         },
+        {
+      "name": "🌴林中小屋🏡4K线路②",
+      "url": "http://122.228.85.203:6789/api/?key=78a0d45cbfb9b9e513065c696479b9c5&url=",
+      "type": "1"
+    },
+         {
+      "name": "🌴林中小屋🏡4K线路③",
+      "url": "http://122.228.85.203:7979/api/?key=4b1104642094bfe0fddbde18456cbf3b&url=",
+      "type": "1"
+    },
+     {
+      "name": "🌴林中小屋🏡",
+      "url": "https://api.ehub.im:2024/api/?key=49820eeddfd851a4f8f9154b26ace25e&url=",
+      "type": "1"
+    },
         {
             "name": "🌴林中小屋🏡线路",
             "type": 2,
@@ -1607,29 +1623,8 @@
                     "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
                 }
             }
-        },
-        {
-            "name": "🌴林中小屋🏡线路6",
-            "type": 0,
-            "url": "http://466.jxjx.8.ahrljk.cn:8663/api/?key=4qb8lbCsVF4M4V9ryt&url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-                    "referer": "https://jiejie.uk/"
-                }
-            }
-        },
-        {
-            "name": "🌴林中小屋🏡线路7",
-            "type": 0,
-            "url": "https://jx.777jiexi.com/player/?url="
-        },
-        {
-            "name": "🌴林中小屋🏡线路8",
-            "type": 0,
-            "url": "https://www.8090g.cn/?url="
         }
-    ],
+     ],
     "rules": [
         {
             "name": "暴风",
