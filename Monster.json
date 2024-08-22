@@ -40,36 +40,7 @@
             }
         },
 
-         {
-      "key": "玩偶",
-      "name": "👹玩偶哥哥┃4K臻享",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "./jar/0822.txt",
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "关"
-      }
-    },
-        {
-      "key": "抠搜",
-      "name": "💯4K抠搜丨极致画质",
-      "type": 3,
-      "api": "csp_KkSs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "./jar/0822.txt",
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
+   
      {
             "key": "華為8",
             "name": "hw8✨蓝光秒播",
