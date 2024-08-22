@@ -39,18 +39,46 @@
                 "cookie": ""
             }
         },
+
+         {
+      "key": "玩偶",
+      "name": "👹玩偶哥哥┃4K臻享",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar": "./jar/0822.txt",
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "关"
+      }
+    },
         {
-            "key": "4K腾官",
-            "name": "👑4K秒播丨极致画质",
+      "key": "抠搜",
+      "name": "💯4K抠搜丨极致画质",
+      "type": 3,
+      "api": "csp_KkSs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar": "./jar/0822.txt",
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+     {
+            "key": "華為8",
+            "name": "hw8✨蓝光秒播",
             "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/林中小屋.js"
+            "api": "csp_XBPQ",
+            "playUrl": "https://player.hw8.lol/player?url=",
+            "ext": "./lib/hw8.json",
+            "jar": "./lib/XBPQ.jar"
         },
-       
         {
             "key": "南瓜影视",
             "name": "南瓜✨蓝光影视",
@@ -243,15 +271,7 @@
             "quickSearch": 0,
             "changeable": 0
         },
-        {
-            "key": "采集之王",
-            "name": "客观✨采集之王",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "./JS/采集之王.js?type=url&params=./JS/采集静态.json$1$1"
-        },
+      
         {
             "key": "厂厂",
             "name": "长长✨蓝光纯净",
@@ -786,6 +806,19 @@
             "ext": {
                 "danmu": true
             }
+        },
+         {
+            "key": "小苹果弹幕",
+            "name": "🌠苹果弹幕丨蓝光",
+            "type": 3,
+            "api": "csp_Xpg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "jar": "./9527.txt;md5;c7a97840bcbfa400c5ae9fcf6bc49d8e"
         },
         {
             "key": "厂长弹幕",
