@@ -47,8 +47,8 @@
             "type": 3,
             "api": "csp_XBPQ",
             "playUrl": "https://player.hw8.lol/player?url=",
-            "ext": "./lib/hw8.json",
-            "jar": "./lib/XBPQ.jar"
+            "ext": "./lib/huawei8.json"
+            
         },
         {
             "key": "南瓜影视",
@@ -59,15 +59,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "天天影视",
-            "name": "天天✨蓝光影视",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+      
         {
             "key": "农民影视",
             "name": "农民✨影视秒播",
@@ -1560,36 +1552,8 @@
             "type": 2,
             "url": "Sequence"
         },
-        {
-            "name": "🌴林中小屋🏡4K线路①",
-            "url": "http://466.jxjx.8.ahrljk.cn:8663/api/?key=4qb8lbCsVF4M4V9ryt&url=",
-            "type": "1",
-            "status": "normal",
-            "type_text": "Type 1",
-            "status_text": "正常"
-        },
-        {
-      "name": "🌴林中小屋🏡4K线路②",
-      "url": "http://122.228.85.203:6789/api/?key=78a0d45cbfb9b9e513065c696479b9c5&url=",
-      "type": "1"
-    },
          {
-      "name": "🌴林中小屋🏡4K线路③",
-      "url": "http://122.228.85.203:7979/api/?key=4b1104642094bfe0fddbde18456cbf3b&url=",
-      "type": "1"
-    },
-     {
-      "name": "🌴林中小屋🏡",
-      "url": "https://api.ehub.im:2024/api/?key=49820eeddfd851a4f8f9154b26ace25e&url=",
-      "type": "1"
-    },
-        {
-            "name": "🌴林中小屋🏡线路",
-            "type": 2,
-            "url": "https://svip.cygc.xyz/api/?key=cygctest&url="
-        },
-        {
-            "name": "🌴林中小屋🏡线路2",
+            "name": "🌴林中小屋🏡线路1",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
@@ -1598,6 +1562,12 @@
                 }
             }
         },
+        {
+            "name": "🌴林中小屋🏡线路2",
+            "type": 2,
+            "url": "https://svip.cygc.xyz/api/?key=cygctest&url="
+        },
+       
         {
             "name": "🌴林中小屋🏡线路3",
             "type": 0,
