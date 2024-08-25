@@ -872,16 +872,7 @@
             },
             "jar": "./9527.txt;md5;c7a97840bcbfa400c5ae9fcf6bc49d8e"
         },
-        {
-            "key": "New6v",
-            "name": "🧲磁力｜New6V",
-            "type": 3,
-            "api": "csp_New6v",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.xb6v.com"
-        },
+        
         {
             "key": "玩偶弹幕",
             "name": "💯4K玩偶丨臻享HDR",
@@ -916,7 +907,7 @@
             "jar": "./9527.txt;md5;c7a97840bcbfa400c5ae9fcf6bc49d8e"
         },
         {
-            "key": "夸克土豆弹幕",
+            "key": "土豆",
             "name": "💯4K土豆丨极致HDR",
             "type": 3,
             "api": "csp_Wobg",
@@ -932,7 +923,7 @@
             "jar": "./9527.txt;md5;c7a97840bcbfa400c5ae9fcf6bc49d8e"
         },
         {
-            "key": "夸克玩偶弹幕",
+            "key": "玩偶哥哥",
             "name": "💯4K偶偶｜臻享视听",
             "type": 3,
             "api": "csp_Wobg",
@@ -948,7 +939,7 @@
             "jar": "./9527.txt;md5;c7a97840bcbfa400c5ae9fcf6bc49d8e"
         },
         {
-            "key": "夸克多多弹幕",
+            "key": "夸克多多",
             "name": "💯4K多多丨臻享HDR",
             "type": 3,
             "api": "csp_Wobg",
@@ -1012,7 +1003,41 @@
             "jar": "./9527.txt;md5;c7a97840bcbfa400c5ae9fcf6bc49d8e"
         },
         {
-            "key": "夸克奥秘弹幕",
+            "key": "木偶",
+            "name": "💯4K木偶丨极致畅享",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "http://mogg.top",
+                "danmu": true
+            },
+            "jar": "./9527.txt;md5;c7a97840bcbfa400c5ae9fcf6bc49d8e"
+        },
+        {
+            "key": "夸克云星",
+            "name": "💯4K云星丨臻享视听",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://4k.4u4.cn",
+                "danmu": true
+            },
+            "jar": "./9527.txt;md5;c7a97840bcbfa400c5ae9fcf6bc49d8e"
+        },
+        {
+            "key": "奥秘",
             "name": "💯4K奥秘丨臻享画质",
             "type": 3,
             "api": "csp_Wobg",
@@ -1045,7 +1070,7 @@
             "jar": "./9527.txt;md5;c7a97840bcbfa400c5ae9fcf6bc49d8e"
         },
         {
-            "key": "夸克影搜弹幕",
+            "key": "影搜",
             "name": "💯4K影搜丨网盘搜索",
             "type": 3,
             "api": "csp_Yingso",
@@ -1158,7 +1183,7 @@
             "jar": "./9527.txt;md5;c7a97840bcbfa400c5ae9fcf6bc49d8e"
         },
         {
-            "key": "夸克趣盘搜弹幕",
+            "key": "趣盘搜",
             "name": "💯4K趣盘搜丨网盘搜索",
             "type": 3,
             "api": "csp_QuPanSou",
@@ -1173,7 +1198,7 @@
             "jar": "./9527.txt;md5;c7a97840bcbfa400c5ae9fcf6bc49d8e"
         },
         {
-            "key": "夸克爱盘搜弹幕",
+            "key": "爱盘搜",
             "name": "💯4K爱盘搜丨网盘资源",
             "type": 3,
             "api": "csp_AiPanSou",
@@ -1188,7 +1213,7 @@
             "jar": "./9527.txt;md5;c7a97840bcbfa400c5ae9fcf6bc49d8e"
         },
         {
-            "key": "夸克盘搜弹幕",
+            "key": "盘搜",
             "name": "💯4K盘搜丨网盘资源",
             "type": 3,
             "api": "csp_Qkpanso",
@@ -1577,7 +1602,7 @@
         },
          {
             "name": "🌴林中小屋🏡线路1",
-            "type": 0,
+            "type": 1,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
                 "header": {
@@ -1585,15 +1610,21 @@
                 }
             }
         },
-        {
+        
+       {
             "name": "🌴林中小屋🏡线路2",
-            "type": 2,
-            "url": "https://svip.cygc.xyz/api/?key=cygctest&url="
+            "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
+            "flag": [
+                "mgtv"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
         },
-       
         {
             "name": "🌴林中小屋🏡线路3",
-            "type": 0,
+            "type": 1,
             "url": "https://jx.quankan.app/?url=",
             "ext": {
                 "header": {
@@ -1603,7 +1634,7 @@
         },
         {
             "name": "🌴林中小屋🏡线路4",
-            "type": 0,
+            "type": 1,
             "url": "https://jx.yparse.com/index.php?url=",
             "ext": {
                 "header": {
@@ -1613,7 +1644,7 @@
         },
         {
             "name": "🌴林中小屋🏡线路5",
-            "type": 0,
+            "type": 1,
             "url": "https://jx.jsonplayer.com/player/?url=",
             "ext": {
                 "header": {
