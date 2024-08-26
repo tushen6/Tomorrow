@@ -25,29 +25,7 @@
             },
             "jar": "./9527.txt;md5;c7a97840bcbfa400c5ae9fcf6bc49d8e"
         },
-         {
-            "key": "林中小屋",
-            "name": "预告片💫即将上映",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": 2,
-            "searchable": 0,
-            "ext": {
-                "首页": "正在热映",
-                "图片代理": "",
-                "分类url": "https://movie.douban.com/{cateId}/;;aRC",
-                "分类": "🌴林中小屋🏡预告片$cinema/later#正在热映$cinema/nowplaying",
-                "数组": "class=\"item mod &&</ul>||正在热映--class=\"list-item&&</ul>",
-                "图片": "src=\"&&\"",
-                "标题": "\"intro\">&&</a>",
-                "链接": "href=\"&&\"",
-                "副标题": "data-score=\"&&\"+class=\"release-date\">&&</li>",
-                "播放数组": "<li class=\"video&&</li>",
-                "播放列表": "<a&&</a>",
-                "播放标题": "alt=\"&&\"",
-                "播放链接": "https://m.douban.com+href=\"&&\""
-            }
-        },
+        
         {
             "key": "B站",
             "name": "🅱️哔哩哔哩✨资源大全",
@@ -299,16 +277,7 @@
             "filterable": 1,
             "ext": "./lib/七猫影视.json"
         },
-        {
-            "key": " 百姓 ",
-            "name": "农民✨蓝光微广",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/农民.json"
-        },
+       
         {
             "key": "csp_星辰",
             "name": "星辰✨蓝光秒播",
