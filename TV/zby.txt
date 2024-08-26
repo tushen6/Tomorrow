@@ -698,10 +698,32 @@ CGTN,http://unraid.jimin.codetech.top:8888/udp/239.3.1.16:8056
 
 
 
+
+🌐IPV6央视频道🌐,#genre#
+CCTV1「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV2「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV3「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV4「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV5「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5+「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV6「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV7「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV9「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+CCTV11「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+CCTV12「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
+CCTV13「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV14「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
+CCTV15「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV16「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+
+
+
 🌐IPV6卫视频道🌐,#genre#
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
@@ -885,6 +907,42 @@ CCTV16 4K,https://tv.cry33.com/ys4k.php?id=16-4k
 欢笑剧场4K,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.106:8000$盐成电信组播#http://iptv.028028.xyz:8/udp/239.93.0.145:5140$锦江电信组播#http://qingcheng.pro:7890/udp/238.125.5.122:5140$新疆电信组播#http://171.217.81.143:8088/udp/239.93.0.145:5140$成都电信组播#http://117.66.254.131:2000/rtp/238.1.79.67:4672$淮南电信组播#http://gang.pecmd.cn:6000/rtp/232.0.0.98:1234$辽宁鞍山联通
 
 
+
+
+🌐•NewTV-IPV6🌐,#genre#
+NEWTV 哒啵赛事「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+NEWTV 黑莓动画「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+NEWTV 黑莓电影「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+NEWTV 超级电影「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NEWTV 超级电视剧「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+NEWTV 超级体育「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+NEWTV 超级综艺「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+NEWTV 金牌综艺「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+NEWTV 东北热剧「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+NEWTV 古装剧场「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+NEWTV 欢乐剧场「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+NEWTV 怡伴健康「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+NEWTV 潮妈辣婆「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+NEWTV 军旅剧场「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+NEWTV 军事评论「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+NEWTV 中国功夫「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+NEWTV 农业致富「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+NEWTV 动作电影「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NEWTV 家庭剧场「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+NEWTV 惊悚悬疑「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+NEWTV 武博世界「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+NEWTV 炫舞未来「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+NEWTV 爱情喜剧「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+NEWTV 精品萌宠「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+NEWTV 精品体育「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+NEWTV 精品大剧「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+NEWTV 精品记录「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+
+
+
+
+
+
 👑电竞游戏频道👑,#genre#
 
 穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
@@ -902,7 +960,58 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 DOTA2,http://tc-tct.douyucdn2.cn/dyliveflv1a/288016rlols5_2000.m3u8
 第五人格2,http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.m3u8
 狼人杀,http://tc-tct.douyucdn2.cn/dyliveflv1a/4615959rUFUtiJ3v.m3u8
-
+「B站」CS 2,http://live.iill.top/bilibili.php?id=21622811
+「B站」英雄联盟,http://live.iill.top/bilibili.php?id=6
+「虎牙」英雄联盟 𝟙,http://live.iill.top/huya.php?id=660000
+「虎牙」英雄联盟 𝟚,http://live.iill.top/huya.php?id=660001
+「斗鱼」英雄联盟 𝟙,http://live.iill.top/douyu.php?id=288016
+「斗鱼」英雄联盟 𝟚,http://live.iill.top/douyu.php?id=424559
+「B站」英雄联盟•手游,http://live.iill.top/bilibili.php?id=23138275
+「B站」王者荣耀 𝟙,http://live.iill.top/bilibili.php?id=55
+「B站」王者荣耀 𝟚,http://live.iill.top/bilibili.php?id=21654762
+「虎牙」王者荣耀 𝟙,http://live.iill.top/huya.php?id=660002
+「虎牙」王者荣耀 𝟚,http://live.iill.top/huya.php?id=660164
+「斗鱼」王者荣耀 𝟙,http://live.iill.top/douyu.php?id=1863767
+「斗鱼」王者荣耀 𝟚,http://live.iill.top/douyu.php?id=1984839
+「B站」绝地求生,http://live.iill.top/bilibili.php?id=98
+「虎牙」绝地求生 𝟙,http://live.iill.top/huya.php?id=660004
+「虎牙」绝地求生 𝟚,http://live.iill.top/huya.php?id=660005
+「斗鱼」绝地求生,http://live.iill.top/douyu.php?id=100
+「虎牙」和平精英,http://live.iill.top/huya.php?id=660006
+「斗鱼」和平精英,http://live.iill.top/douyu.php?id=999
+「虎牙」金铲铲之战,http://live.iill.top/huya.php?id=660579
+「斗鱼」金铲铲之战,http://live.iill.top/douyu.php?id=9715241
+「虎牙」DOTA2,http://live.iill.top/huya.php?id=660118
+「斗鱼」DOTA2,http://live.iill.top/douyu.php?id=3811559
+「斗鱼」云顶之弈,http://live.iill.top/douyu.php?id=522423
+「虎牙」永劫无间,http://live.iill.top/huya.php?id=660115
+「斗鱼」永劫无间,http://live.iill.top/huya.php?id=9662891
+「B站」使命召唤•手游,http://live.iill.top/bilibili.php?id=22741849
+「虎牙」使命召唤•手游,http://live.iill.top/huya.php?id=11718629
+「斗鱼」使命召唤•手游,http://live.iill.top/douyu.php?id=9223245
+「虎牙」穿越火线,http://live.iill.top/huya.php?id=660101
+「斗鱼」穿越火线 𝟙,http://live.iill.top/douyu.php?id=605964
+「斗鱼」穿越火线 𝟚,http://live.iill.top/douyu.php?id=5388537
+「虎牙」穿越火线•手游,http://live.iill.top/huya.php?id=660102
+「B站」第五人格,http://live.iill.top/bilibili.php?id=5555
+「虎牙」第五人格,http://live.iill.top/huya.php?id=idvesports
+「斗鱼」第五人格,http://live.iill.top/douyu.php?id=3226194
+「虎牙」逆战,http://live.iill.top/huya.php?id=nsl2021
+「B站」无畏契约,http://live.iill.top/bilibili.php?id=22908869
+「虎牙」无畏契约,http://live.iill.top/huya.php?id=660679
+「斗鱼」无畏契约,http://live.iill.top/douyu.php?id=4585645
+「斗鱼」原神,http://live.iill.top/douyu.php?id=10853239
+「B站」QQ飞车•手游,http://live.iill.top/bilibili.php?id=21743919
+「斗鱼」QQ飞车•手游,http://live.iill.top/douyu.php?id=5040227
+「斗鱼」梦幻西游·手游,http://live.iill.top/huya.php?id=9163712
+「斗鱼」街霸,http://live.iill.top/huya.php?id=11437
+「B站」JJ斗地主,http://live.iill.top/bilibili.php?id=22021983
+「斗鱼」JJ斗地主,http://live.iill.top/douyu.php?id=488743
+「斗鱼」我的世界,http://live.iill.top/douyu.php?id=738878
+「斗鱼」FIFA,http://live.iill.top/douyu.php?id=7692166
+「斗鱼」火影忍者,http://live.iill.top/douyu.php?id=1997723
+「斗鱼」跑跑卡丁车,http://live.iill.top/douyu.php?id=7722576
+「斗鱼」跑跑卡丁车•手游,http://live.iill.top/douyu.php?id=
 
 
 
@@ -992,11 +1101,11 @@ UFC终极格斗,http://al.flv.huya.com/src/1099531627799-1099531627799-858994447
 🏆咪咕体育频道🏆,#genre#
 咪咕直播4K Ⅰ,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕直播4K Ⅱ,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-咪咕全民热练 (IPV6),https://stream1.freetv.fun/e58c39c146674076c7383dbb0cc52a3b727d297da480cfca7b154ead62af7245.m3u8
-咪咕直播 *「IPV6」 (IPV6),https://stream1.freetv.fun/4c1aa54800fb5d5f92c8a64fe47ee6b7e2f18d5c92f0b6d6ac254031faa4e5f3.m3u8
-咪咕直播 *「IPV6」 (IPV6) (BACKUP 1),https://stream1.freetv.fun/0eee1df5b489d4192c44aea658b3c5d94122e929e12b7bd6d7c72f4e100a7cae.m3u8
-咪咕直播 *「IPV6」 (IPV6) (BACKUP 2),https://stream1.freetv.fun/dacd51ccf34e461829b3356fb352e0d7e919ad87bff8302827aae96e6a39ef06.m3u8
-咪咕直播 *「IPV6」 (IPV6) (BACKUP 3),https://stream1.freetv.fun/027a50ef187ea75792fd372df3cbbc7a2e9cf23d3e504ff2d44c0af3816f47fa.m3u8
+咪咕运动「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+咪咕直播 𝟙「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕直播 𝟚「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕直播 𝟛「IPV6」,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕直播 𝟜「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕直播 𝟙,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 咪咕直播 𝟚,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
 咪咕直播 𝟛,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
