@@ -78,6 +78,16 @@
             "changeable": 1
         },
         {
+            "key": "新感觉",
+            "name": "新感觉✨蓝光影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://43.248.100.147:9891/api.php/app/"
+        },
+        {
             "key": "酷影",
             "name": "酷影✨蓝光影视",
             "type": 3,
@@ -92,6 +102,15 @@
             "name": "兔兔✨蓝光影视",
             "type": 3,
             "api": "csp_Zx1080",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "天天影视",
+            "name": "天天✨蓝光秒播",
+            "type": 3,
+            "api": "csp_AppTT",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -149,6 +168,25 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+          {
+            "key": "可可影视",
+            "name": "可可✨蓝光影视",
+            "type": 3,
+            "api": "csp_Keke",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+         {
+            "key": "奇趣影视",
+            "name": "奇趣✨蓝光影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/qqys.json"
         },
         {
             "key": "疯狗影视",
@@ -214,8 +252,8 @@
             "type": 3,
             "api": "csp_AppDaMi",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "铁剧影视",
@@ -223,8 +261,8 @@
             "type": 3,
             "api": "csp_AppBr",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "笙歌影视",
@@ -232,8 +270,8 @@
             "type": 3,
             "api": "csp_AppYY",
             "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0
+            "quickSearch": 1,
+            "changeable": 1
         },
       
         {
@@ -256,6 +294,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./lib/98影视.json"
+        },
+          {
+            "key": "追剧网",
+            "name": "追剧网✨蓝光无广",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "ext": "./lib/zjw.json"
         },
         {
             "key": "剧集",
@@ -841,7 +887,24 @@
             },
             "jar": "./9527.txt;md5;c7a97840bcbfa400c5ae9fcf6bc49d8e"
         },
-        
+        {
+            "key": "迅雷吧",
+            "name": "迅雷吧🧲磁力蓝光",
+            "type": 3,
+            "api": "csp_Xunlei8",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+         {
+            "key": "Mp4电影",
+            "name": "Mp4🧲磁力蓝光",
+            "type": 3,
+            "api": "csp_Mp4Mov",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "玩偶弹幕",
             "name": "💯4K玩偶丨臻享HDR",
@@ -1564,10 +1627,17 @@
             "type": 3,
             "url": "Demo"
         },
-        {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
+       
+         {
+            "name": "🌴林中小屋🏡新感觉NBY专线",
+            "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
+            "flag": [
+                "NBY"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
         },
          {
             "name": "🌴林中小屋🏡线路1",
