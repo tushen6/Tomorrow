@@ -19,7 +19,7 @@ var rule = {
     },
     timeout: 5000,
     limit: 20,
-    search_limit: 5,
+    search_limit: 10,
     searchable: 1,
     quickSearch: 0,
     filterable: 1,
