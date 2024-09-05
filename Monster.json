@@ -40,69 +40,7 @@
                 "cookie": ""
             }
         },
-
-   {
-            "key": "六六六",
-            "name": "666✨影视专属",
-            "playerType": 1,
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": " http://122.228.85.203:1000/api.php/app/"
-        },
-        {
-            "key": "丘丘影视",
-            "name": "球球✨影视专用",
-            "playerType": 1,
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": " http://111.173.115.204:2211/api.php/app/"
-        },
-         {
-      "key": "api_黑木耳",
-      "name": "黑木耳✨蓝光影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "./lib/api黑木耳.json"
-    },
-         {
-            "key": "骚火",
-            "name": "骚火✨蓝光影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/骚火.json"
-        },
-        {
-            "key": "采集之王",
-            "name": "菜鸡✨采集大全",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "order_num": 142,
-            "ext": "./JS/采集之王.js?type=url&params=./JS/采集静态.json$1$1"
-        },
-     {
-            "key": "華為8",
-            "name": "hw8✨蓝光秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playUrl": "https://player.hw8.lol/player?url=",
-            "ext": "./lib/huawei8.json"
-            
-        },
+     
         {
             "key": "南瓜影视",
             "name": "南瓜✨蓝光影视",
@@ -129,16 +67,7 @@
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "新感觉",
-            "name": "新感觉✨蓝光影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://43.248.100.147:9891/api.php/app/"
-        },
+       
         {
             "key": "酷影",
             "name": "酷影✨蓝光影视",
@@ -220,6 +149,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "華為8",
+            "name": "hw8✨蓝光秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playUrl": "https://player.hw8.lol/player?url=",
+            "ext": "./lib/huawei8.json"
+            
         },
           {
             "key": "可可影视",
@@ -325,7 +263,59 @@
             "quickSearch": 1,
             "changeable": 1
         },
-      
+      {
+            "key": "新感觉",
+            "name": "新感觉✨蓝光影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://43.248.100.147:9891/api.php/app/"
+        },
+        {
+            "key": "六六六",
+            "name": "666✨影视专属",
+            "playerType": 1,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://122.228.85.203:1000/api.php/app/"
+        },
+        {
+            "key": "丘丘影视",
+            "name": "球球✨影视专用",
+            "playerType": 1,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://111.173.115.204:2211/api.php/app/"
+        },
+         {
+      "key": "api_黑木耳",
+      "name": "黑木耳✨蓝光影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "./lib/api黑木耳.json"
+    },
+         {
+            "key": "骚火",
+            "name": "骚火✨蓝光影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/骚火.json"
+        },
         {
             "key": "厂厂",
             "name": "长长✨蓝光纯净",
