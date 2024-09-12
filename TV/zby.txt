@@ -2,7 +2,7 @@
 公众号:林中的小屋,https://vd3.bdstatic.com/mda-pcp5fx5bfrctx9pu/sc/cae_h264/1679635523924099179/mda-pcp5fx5bfrctx9pu.mp4
 Q群:14451629,http://mobi.kuwo.cn/tmevideo/tme1257697.mp4
 接口免费勿上当受骗,https://vd3.bdstatic.com/mda-pd369avvets19gch/sc/cae_h264/1680582897997490362/mda-pd369avvets19gch.mp4
-更新日期_2024-08-27,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
+更新日期_2024-09-12,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
 
 
 
@@ -939,7 +939,18 @@ NEWTV 精品大剧「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamob
 NEWTV 精品记录「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 
 
-
+🐉少儿动漫乐园🐉,#genre#
+熊出没,http://vip.cj116vip.xyz:88/iptv/index15.m3u8
+汪汪队,http://vip.cj116vip.xyz:88/iptv/index13.m3u8
+小猪佩奇,http://vip.cj116vip.xyz:88/iptv/index9.m3u8
+超级飞侠,http://vip.cj116vip.xyz:88/iptv/index18.m3u8
+萌鸡小队,http://vip.cj116vip.xyz:88/iptv/index12.m3u8#http://124.248.69.76:35455/yy/1382736904
+猫和老鼠,http://vip.cj116vip.xyz:88/iptv/index14.m3u8
+宝宝巴士,http://vip.cj116vip.xyz:88/iptv/index16.m3u8
+香肠派对,http://vip.cj116vip.xyz:88/iptv/index17.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+灌篮高手,http://124.248.69.76:35455/yy/1356243352
+熊熊探险日记,http://124.248.69.76:35455/yy/1354930977
 
 
 
@@ -1154,6 +1165,8 @@ UFC终极格斗,http://al.flv.huya.com/src/1099531627799-1099531627799-858994447
 
 
 
+
+
 ⚗️电影频道轮播⚗️,#genre#
 电影_星爷,http://159.75.85.63:35455/huya/11342412
 电影_英叔,http://159.75.85.63:35455/huya/11342421
@@ -1238,6 +1251,11 @@ UFC终极格斗,http://al.flv.huya.com/src/1099531627799-1099531627799-858994447
 剧集_武林外传,http://159.75.85.63:35455/huya/21059598
 剧集_地下交通站,http://159.75.85.63:35455/huya/11342433
 剧集_邻里一家亲,http://159.75.85.63:35455/huya/11342426
+火影忍者疾风传,http://mtw.so/5FCWPi
+
+
+
+
 
 ⚗️重温怀旧电影⚗️,#genre#
 星光视界频道,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
@@ -1259,6 +1277,12 @@ UFC终极格斗,http://al.flv.huya.com/src/1099531627799-1099531627799-858994447
 经典港片频道,http://live.dxms.top:80/dwy/jdgp.php
 经典喜剧频道,http://live.dxms.top:80/dwy/jdxj.php
 经典回忆频道,http://live.dxms.top:80/dwy/hyyy.php
+
+
+
+
+
+
 ⚗️虎牙影视轮播⚗️,#genre#
 player=2
 电影_贺岁,http://cfss.cc/cdn/hy/11601971.flv
@@ -1327,6 +1351,14 @@ player=2
 电影_洪金宝,https://live.metshop.top/huya/11279251
 电影_梁家辉,https://live.metshop.top/huya/11342429
 电影_刘德华,https://live.metshop.top/huya/11342424
+
+
+
+
+
+
+
+
 ⚗️斗鱼影视轮播⚗️,#genre#
 player=2
 林正英 1,http://zzy789.xyz/douyu1.php?id=7356023
@@ -1373,6 +1405,13 @@ player=2
 斗鱼电影158,http://zzy789.xyz/douyu1.php?id=8788687
 斗鱼电影165,http://zzy789.xyz/douyu1.php?id=8705754
 斗鱼电影169,http://zzy789.xyz/douyu1.php?id=7528160
+
+
+
+
+
+
+
 ⚗️堆堆影视轮播⚗️,#genre#
 player=2
 埋堆堆1,http://cfss.cc/cdn/hy/23749096.flv 
