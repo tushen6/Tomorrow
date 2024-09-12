@@ -951,7 +951,7 @@ NEWTV 精品记录「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamob
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 灌篮高手,http://124.248.69.76:35455/yy/1356243352
 熊熊探险日记,http://124.248.69.76:35455/yy/1354930977
-
+火影忍者疾风传,http://mtw.so/5FCWPi
 
 
 👑电竞游戏频道👑,#genre#
@@ -1028,9 +1028,7 @@ DOTA2,http://tc-tct.douyucdn2.cn/dyliveflv1a/288016rlols5_2000.m3u8
 
 🏆奥运体育频道🏆,#genre#
 咪咕奥运会 4K,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-实时奥运金牌榜,http://159.75.85.63:35455/douyin/855933386558
-巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
-TVB奥运开幕式,https://c1.rrcdnbf3.com/video/2024niandi33jiebaliaoyunhuikaimushi/HD/index.m3u8
+
 CCTV-16奥林匹克,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024083703.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024083703.m3u8?key=txiptv&playlive=1&authid=0#p3p://108.181.20.159:30168/632350a5000deee324e2a2bc22a37dd9#p3p://108.181.32.169:37861/642610a2000b33ebee0a7d6c26c160b2#P2p://generationnexxxt.com:19806/3bb4c4f6ec8d45db81ede1415820dba0
 CCTV-5+体育赛事,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078003.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8?key=txiptv&playlive=1&authid=0#p3p://108.181.20.159:30168/6323522b0000ad5c24e892c57ad041c7#p3p://108.181.32.169:37861/64260cbc00081417edfb42307c984dd4#P2p://generationnexxxt.com:19806/7ed1624a62004620bfecc83fe0b70935
 CCTV-5奥运体育,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078403.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8?key=txiptv&playlive=1&authid=0#p3p://108.181.20.159:30168/62c2e10a000954acac332b30611a0e9d#p3p://108.181.32.169:37861/64260cb0000afd53edfb140f10811127#P2p://generationnexxxt.com:19806/38c87f18f93c440594b45fd7de89a768
@@ -1038,21 +1036,11 @@ CCTV-5奥运体育,http://tptv1.mobaibox.com/alcdnbacksourceflag_223.110.243.201
 CCTV-4K超高清,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024081303.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081303.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8K超高清,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2020603421.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8?key=txiptv&playlive=1&authid=0
 
-
-
-实时奥运金牌榜,http://159.75.85.63:35455/douyin/855933386558
-巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
-TVB奥运开幕式,https://c1.rrcdnbf3.com/video/2024niandi33jiebaliaoyunhuikaimushi/HD/index.m3u8
 CCTV-16奥林匹克,http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024083703.m3u8?key=txiptv&playlive=1&authid=0#p3p://108.181.20.159:20358/632350a5000deee324e2a2bc22a37dd9#p3p://108.181.32.169:37861/642610a2000b33ebee0a7d6c26c160b2#P2p://generationnexxxt.com:19806/3bb4c4f6ec8d45db81ede1415820dba0
 CCTV-5+体育赛事,http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8?key=txiptv&playlive=1&authid=0#p3p://108.181.20.159:20358/6323522b0000ad5c24e892c57ad041c7#p3p://108.181.32.169:37861/64260cbc00081417edfb42307c984dd4#P2p://generationnexxxt.com:19806/7ed1624a62004620bfecc83fe0b70935
 CCTV-5奥运体育,http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8?key=txiptv&playlive=1&authid=0#p3p://108.181.20.159:20358/62c2e10a000954acac332b30611a0e9d#p3p://108.181.32.169:37861/64260cb0000afd53edfb140f10811127#P2p://generationnexxxt.com:19806/38c87f18f93c440594b45fd7de89a768
 CCTV-4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-8K超高清,http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
-巴黎奥运开幕式,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
-实时奥运金牌榜,https://pull-flv-f6.douyincdn.com/media/stream-692028292559012524.flv?abr_pts=-800&_session_id=037-202407291921458CA4EAA478C16011032F.1722252116805.55119
 
 
 CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
@@ -1078,6 +1066,24 @@ CCTV-16 奥林匹克,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006
 
 
 🏆体育运动频道🏆,#genre#
+CBA经典,http://120.77.28.4:8648/mgu.php?id=cbajd
+NBA经典,http://120.77.28.4:8648/mgu.php?id=nbajd
+UFC格斗精选,http://120.77.28.4:8648/mgu.php?id=ufcgdjx
+五大联赛经典,http://120.77.28.4:8648/mgu.php?id=wdlsjd
+纬来体育,rtmp://60.248.77.83/sat/tv721
+台湾体育,rtmp://60.248.77.83/sat/md011
+台湾体育2,rtmp://60.248.77.83/sat/md021
+
+ELEVEN1,rtmp://60.248.77.83/sat/tv731
+ELEVEN2,rtmp://60.248.77.83/sat/tv741
+MoMo综合,rtmp://60.248.77.83/sat/tv761
+CCTV-高尔夫网球,http://xuys.top:8888/udp/225.1.2.169:5002
+CCTV5+-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.18:4056
+CCTV5+[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.101:4056
+CCTV5-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.6:4056
+CCTV5体育[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.133:4056
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+美国摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 緯來體育,https://tv.iill.top/tv/wlty#https://z02.ubtvfans.com/live/rx1/338/43f031a4c6cbafd2ed47919a4cb84631/index.m3u8#https://fm1077.serv00.net/anbo/index.php?id=118
 超级体育「IPV6」,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -1090,20 +1096,7 @@ CCTV-16 奥林匹克,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006
 五星体育,http://22725y284r.yicp.fun:9902/tsfile/live/1003_1.m3u8#http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8#http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2#https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-晴彩竞技,http://dns.art2kn.win:7000/rtp/239.3.1.125:8001#http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.125:8001#http://drive.mxmy.net:8888/rtp/239.3.1.125:8001#http://114.254.185.206:9999/rtp/239.3.1.125:8001
-晴彩篮球,http://dns.art2kn.win:7000/rtp/239.3.1.126:8001#http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.126:8001#http://drive.mxmy.net:8888/rtp/239.3.1.126:8001#http://114.254.185.206:9999/rtp/239.3.1.126:8001
-晴彩羽球,http://dns.art2kn.win:7000/rtp/239.3.1.127:8001
-晴彩羽毛,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.127:8001#http://drive.mxmy.net:8888/rtp/239.3.1.127:8001#http://114.254.185.206:9999/rtp/239.3.1.127:8001
-麻辣体育,http://118.112.148.228:58888/udp/239.93.42.2:5140
-先锋乒羽,http://sunt.mycloudnas.com:18888/udp/239.21.2.98:5002#http://www.dsmcloud.top:8888/rtp/239.81.0.236:4056#http://nas.hssvm.com:8888/udp/225.1.1.219:5002#http://118.112.148.228:58888/udp/239.93.42.56:5140
-🏀路人王篮球,http://al.flv.huya.com/src/1859752418-1859752418-7987575813966921728-3719628292-10057-A-0-1.flv?wsSecret=3e6cfea78825c4d14f4c19ae4e4af0a3&wsTime=66bb9405&seqid=10900690374644&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=9177142816937&uuid=781617623&t=102&sv=2401310322
-🏀体育直播http://al.flv.huya.com/src/1099531728545-1099531728545-86332145479450624-2199063580546-10057-A-0-1-imgplus.flv?wsSecret=3fda33473e70e182f733df45fc603eb3&wsTime=66bb8f0d&seqid=3806396618855&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=2082850333048&uuid=3123153452&t=102&sv=2401310322
-台球斯诺克,http://al.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.flv?wsSecret=8ac2ad277132e1d04f95571cfcc81e84&wsTime=66bbd390&seqid=3994667780297&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=2271103955593&uuid=1994348848&t=102&sv=2401310322
-虎牙中式台球,http://al.flv.huya.com/src/1099531627955-1099531627955-85900114719145984-2199063379366-10057-A-0-1.flv?wsSecret=57c865428da61c871b687b484f67de84&wsTime=66bb953a&seqid=11201275385192&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=9477727518724&uuid=2265499864&t=102&sv=2401310322
-CCTV-台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8#http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2#http://doityoume.x3322.net:5100/rtp/239.69.1.98:10224
 
-美国摔跤,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
-UFC终极格斗,http://al.flv.huya.com/src/1099531627799-1099531627799-85899444704247808-2199063379054-10057-A-0-1.flv?wsSecret=681cef4c322304aef1def85135e8050d&wsTime=66bb8e11&seqid=11199571613554&ctype=tars_mp&ver=1&fs=bgct&sphdcdn&sphdDC&sphd&exsphd&uid=9476025580373&uuid=3942826413&t=102&sv=2401310322
 
 
 
