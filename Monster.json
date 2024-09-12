@@ -273,28 +273,7 @@
             "filterable": 1,
             "ext": "http://43.248.100.147:9891/api.php/app/"
         },
-        {
-            "key": "六六六",
-            "name": "666✨影视专属",
-            "playerType": 1,
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": " http://122.228.85.203:1000/api.php/app/"
-        },
-        {
-            "key": "丘丘影视",
-            "name": "球球✨影视专用",
-            "playerType": 1,
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": " http://111.173.115.204:2211/api.php/app/"
-        },
+      
          {
       "key": "api_黑木耳",
       "name": "黑木耳✨蓝光影视",
@@ -327,16 +306,7 @@
             "filterable": 1,
             "ext": "./lib/changzhang.json"
         },
-        {
-            "key": "csp_xBPQ_九八",
-            "name": "98✨蓝光秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/98影视.json"
-        },
+        
           {
             "key": "追剧网",
             "name": "追剧网✨蓝光无广",
@@ -1421,20 +1391,7 @@
             },
             "jar": "./9527.txt;md5;a09a003a8042a408ee30a05997526f56"
         },
-        {
-            "key": "斗鱼直播",
-            "name": "斗鱼🦜在线直播",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/斗鱼直播.js"
-        },
-        {
-            "key": "虎牙直播",
-            "name": "虎牙🦜在线直播",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/虎牙直播.js"
-        },
+      
         {
             "key": "哔哩直播",
             "name": "哔哩🦜在线直播",
@@ -1660,16 +1617,7 @@
             "type": 3,
             "url": "Demo"
         },
-       {
-            "name": "🌴林中小屋🏡666专线",
-            "url": "http://122.228.85.203:7979/api/?key=e5ef7605633990b8d99ee1bfae196786&url=",
-            "type": "1"
-        },
-         {
-            "name": "🌴林中小屋🏡球球专线",
-            "url": "http://122.228.85.203:6789/api/?key=2b1654027ff6d809cefbc6001166d35a&url=",
-            "type": "1"
-        },
+     
          {
             "name": "🌴林中小屋🏡新感觉NBY专线",
             "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
