@@ -45,6 +45,13 @@
                 "cookie": ""
             }
         },
+         {
+            "key": "4K影院",
+            "name": "👑林中小屋丨4K秒播",
+            "type": 3,
+            "api": "./JS/dz.min.js",
+            "ext": "./JS/4kav.js"
+        },
        {
             "key": "南瓜影视",
             "name": "南瓜✨蓝光秒播",
@@ -127,6 +134,20 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+         {
+            "key": "瓜子app",
+            "name": "1080✨蓝光秒播",
+            "type": 3,
+            "api": "./JS/dz.min.js",
+            "ext": "./JS/guazi.js"
+        },
+        {
+            "key": "素白秒播",
+            "name": "素白✨蓝光秒播",
+            "type": 3,
+            "api": "./JS/dz.min.js",
+            "ext": "./JS/subaibai.js"
         },
         {
             "key": "苹果影视",
@@ -325,14 +346,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://vidhub1.cc"
-        },
-        {
-            "key": "素白白",
-            "name": "素白白👿蓝光秒播",
-            "type": 3,
-            "api": "csp_Subaibai",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "新视觉",
@@ -589,6 +602,20 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "蓝莓短剧",
+            "name": "蓝莓⚗️短剧秒播",
+            "type": 3,
+            "api": "./JS/dz.min.js",
+            "ext": "./JS/lanmei.js"
+        },
+        {
+            "key": "你好帅",
+            "name": "好帅⚗️短剧秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./lib/好帅短剧.json"
         },
          {
             "key": "无忧短剧",
