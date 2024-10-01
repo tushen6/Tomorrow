@@ -2,7 +2,7 @@
 
 {
     "spider": "./lzxw.jar",
-    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "wallpaper": "https://t.alcy.cc/ys",
     "logo": "https://p0.meituan.net/csc/2a37e8f8c0e188948b5ddb81868e2c80224570.gif",
     "sites": [
         {
@@ -47,7 +47,7 @@
         },
        
        {
-            "key": "南瓜影视",
+            "key": "南瓜",
             "name": "南瓜✨蓝光秒播",
             "type": 3,
             "api": "csp_Nangua",
@@ -64,6 +64,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "农民",
+            "name": "老农✨影视秒播",
+            "type": 3,
+            "api": "csp_WexNmys",
+            "searchable": 1,
+            "jar": "https://8815.kstore.space/shentu.txt",
+            "changeable": 1
         },
         {
             "key": "酷影",
@@ -143,16 +152,6 @@
             "type": 3,
             "api": "./JS/dz.min.js",
             "ext": "./JS/subaibai.js"
-        },
-         {
-            "key": "骚火",
-            "name": "骚火✨蓝光影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/骚火.json"
         },
         {
             "key": "苹果影视",
@@ -1173,7 +1172,7 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "danmu": true,
-                "cookie": "satoken=60201207-5254-4d44-8ed9-db4ed5476163"
+                "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
             }
         },
         {
