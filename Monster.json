@@ -45,7 +45,15 @@
                 "cookie": ""
             }
         },
-       
+        {
+      "key": "央视剧场",
+      "name": "央视🇨🇳新闻回放",
+      "type": 3,
+      "api": "https://8815.kstore.space/lib/央视.js",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 10
+    },
        {
             "key": "南瓜",
             "name": "南瓜✨蓝光秒播",
@@ -228,6 +236,83 @@
             "playerType": 2,
             "ext": "./lib/api黑木耳.json"
         },
+         {
+      "key": " fxz好影",
+      "name": "好影✨蓝光影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/好影.json"
+    },
+    {
+      "key": "fxz欢视",
+      "name": "欢视✨蓝光影视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/jar/分享者c.jar",
+      "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+    },
+  
+    {
+      "key": "csp_Jpys",
+      "name": "金牌✨蓝光影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片地区": "🌲林中小屋🏡",
+        "搜索url": "https://www.diemi.cc/search/?wd={wd}",
+        "搜索链接": "href=\"&&\"",
+        "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
+        "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
+      }
+    },
+    {
+      "key": "ba秒播",
+      "name": "歪片✨蓝光秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/歪片.json"
+    },
+    {
+      "key": "o站影视",
+      "name": "O源✨蓝光影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "剧情介绍:+line-height: 20px;\">&&</div>",
+        "分类url": "https://www.omofun.site/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
+    {
+      "key": "木叶",
+      "name": "木叶✨蓝光影视",
+      "type": 3,
+      "api": "csp_Muye",
+      "playerType": 1,
+      "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4",
+      "jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享者j.jar"
+    },
+    {
+      "key": "hipy_js_fxzjz",
+      "name": "饺子✨蓝光影视",
+      "type": 3,
+      "ua": "okhttp/3.15",
+      "api": "./JS/dz.min.js",
+      "ext": "./JS/饺子.js"
+    },
         {
             "key": "骚火",
             "name": "骚火✨蓝光影视",
@@ -1578,6 +1663,13 @@
             "key": "csp_XiaoYa",
             "searchable": 1
         },
+         {
+      "key": "2400部恐怖电影📲",
+      "name": "影视🎬恐怖电影",
+      "type": 3,
+      "api": "http://zb.hys.cool/app/lib/16万hys.js",
+      "ext": "http://zb.hys.cool/app/lib/2400部恐怖电影.js"
+    },
         {
             "key": "直播转点播",
             "name": "🎥IPTV直播转点播",
@@ -1618,7 +1710,23 @@
             "type": 3,
             "url": "Demo"
         },
-       
+        {
+      "name": "🌲林中小屋🏡解析",
+      "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+      "flag": [
+        "youku",
+        "qq",
+        "qiyi",
+        "bilibili",
+        "mgtv",
+        "pptv",
+        "xigua"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      },
+      "type": "1"
+    },
         {
             "name": "🌴林中小屋🏡线路1",
             "type": 1,
