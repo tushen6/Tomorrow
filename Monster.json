@@ -54,6 +54,18 @@
       "changeable": 1,
       "timeout": 10
     },
+    {
+			"key": "ISZ自营666",
+			"name": "ST4K✨4K资源秒播",
+			"playerType": 1,
+			"type": 3,
+            "jar": "https://drive.almondcloud.cn/f/Grw1fn/ST4K.jar",
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": " http://122.228.85.203:1000/api.php/app/"
+		},
        {
             "key": "南瓜",
             "name": "南瓜✨蓝光秒播",
@@ -1710,6 +1722,19 @@
             "type": 3,
             "url": "Demo"
         },
+        {
+			"name": "🌲林中小屋🏡ST4K专用解析",
+			"type": 1,
+			"url": "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
+			"ext": {
+				"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果",
+					"tnmb", "seven", "bilibili", "1905"
+				],
+				"header": {
+					"User-Agent": "okhttp/4.9.1"
+				}
+			}
+		},
         {
       "name": "🌲林中小屋🏡解析",
       "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
