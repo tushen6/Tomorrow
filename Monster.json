@@ -55,11 +55,11 @@
       "timeout": 10
     },
     {
-			"key": "ISZ自营666",
+			"key": "🌲林中小屋🏡",
 			"name": "ST4K✨4K资源秒播",
 			"playerType": 1,
 			"type": 3,
-            "jar": "https://drive.almondcloud.cn/f/Grw1fn/ST4K.jar",
+            "jar": "./jar/ST4K.jar",
 			"api": "csp_AppYsV2",
 			"searchable": 1,
 			"quickSearch": 1,
