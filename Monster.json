@@ -1722,6 +1722,11 @@
             "type": 3,
             "url": "Demo"
         },
+	     {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
         {
 			"name": "🌲林中小屋🏡ST4K专用解析",
 			"type": 1,
