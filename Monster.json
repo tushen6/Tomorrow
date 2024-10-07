@@ -7,7 +7,7 @@
     "sites": [
         {
             "key": "豆瓣评分",
-            "name": "🌲林中小屋🏡公众号:林中的小屋",
+            "name": "🌴林中小屋🏡公众号:林中的小屋",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -54,9 +54,20 @@
       "changeable": 1,
       "timeout": 10
     },
+     {
+      "key": "4K腾官",
+      "name": "👹4K自营丨极致画质",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/林中小屋.js"
+    },
     {
 			"key": "🌲林中小屋🏡",
-			"name": "🌲林中小屋🏡4K资源秒播",
+			"name": "ST4K✨4K资源秒播",
 			"playerType": 1,
 			"type": 3,
             "jar": "./jar/ST4K.jar",
@@ -66,6 +77,7 @@
 			"filterable": 1,
 			"ext": " http://122.228.85.203:1000/api.php/app/"
 		},
+		
        {
             "key": "南瓜",
             "name": "南瓜✨蓝光秒播",
@@ -1722,10 +1734,18 @@
             "type": 3,
             "url": "Demo"
         },
-	     {
+    {
       "name": "Json轮询",
       "type": 2,
       "url": "Sequence"
+    },
+      {
+      "name": "🌲林中小屋🏡4K自营专用解析",
+      "url": "http://jx.jwl.icu/jx.php?url=",
+      "type": "1",
+      "status": "normal",
+      "type_text": "Type 1",
+      "status_text": "正常"
     },
         {
 			"name": "🌲林中小屋🏡ST4K专用解析",
