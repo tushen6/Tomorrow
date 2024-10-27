@@ -15,8 +15,8 @@
 	"jar": "./jar/ytb1027.jar",
         "timeout": 240,
         "ext": {
-          "token": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/tokenm.json",
-          "json": "https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/youtube.json",
+          "json":"./lib/tokenm.json",
+          "json":"./lib/youtube.json",
           "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
           "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
           "codecs": "",
@@ -24,7 +24,7 @@
           "danmu": true
         },
         "style": {"type": "rect", "ratio": 1.77}
-      },
+      }
               
     ]
 }
