@@ -11,7 +11,7 @@
         "api": "csp_Youtube",
         "searchable": 1,
         "quickSearch": 1,
-        "changeable": 0，
+        "changeable": 0,
 	"jar": "./jar/ytb1027.jar",
         "timeout": 240,
         "ext": {
