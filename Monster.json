@@ -64,7 +64,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        
+        {
+      "key": "神荼",
+      "name": "动漫✨4K秒播",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "http://tv.laohu.cool/laohujar.jar",
+      "playerType": 1,
+      "ext": "caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"
+    },
         {
             "key": "农民影视",
             "name": "农民✨蓝光秒播",
