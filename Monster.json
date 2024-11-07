@@ -156,20 +156,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
-            "key": "瓜子app",
-            "name": "1080✨蓝光秒播",
-            "type": 3,
-            "api": "./JS/dz.min.js",
-            "ext": "./JS/guazi.js"
-        },
-        {
-            "key": "素白秒播",
-            "name": "素白✨蓝光秒播",
-            "type": 3,
-            "api": "./JS/dz.min.js",
-            "ext": "./JS/subaibai.js"
-        },
+       
         {
             "key": "苹果影视",
             "name": "苹果✨蓝光影视",
@@ -215,24 +202,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "铁剧影视",
-            "name": "铁剧✨蓝光影视",
-            "type": 3,
-            "api": "csp_AppBr",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "笙歌影视",
-            "name": "笙歌✨蓝光影视",
-            "type": 3,
-            "api": "csp_AppYY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+       
         
         {
             "key": "api_黑木耳",
@@ -255,19 +225,7 @@
       "filterable": 1,
       "ext": "./lib/好影.json"
     },
-    {
-      "key": "fxz欢视",
-      "name": "欢视✨蓝光影视",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/jar/分享者c.jar",
-      "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
-    },
-  
+   
     {
       "key": "csp_Jpys",
       "name": "金牌✨蓝光影视",
@@ -305,23 +263,7 @@
         "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
       }
     },
-    {
-      "key": "木叶",
-      "name": "木叶✨蓝光影视",
-      "type": 3,
-      "api": "csp_Muye",
-      "playerType": 1,
-      "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4",
-      "jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享者j.jar"
-    },
-    {
-      "key": "hipy_js_fxzjz",
-      "name": "饺子✨蓝光影视",
-      "type": 3,
-      "ua": "okhttp/3.15",
-      "api": "./JS/dz.min.js",
-      "ext": "./JS/饺子.js"
-    },
+   
         {
             "key": "骚火",
             "name": "骚火✨蓝光影视",
@@ -361,26 +303,7 @@
             "filterable": 1,
             "ext": "./lib/juji.json"
         },
-        {
-            "key": "qimaoys",
-            "name": "七猫✨蓝光影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/七猫影视.json"
-        },
-        {
-            "key": "csp_星辰",
-            "name": "星辰✨蓝光秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/星辰.json"
-        },
+       
         {
             "key": "HDmoli",
             "name": "魔力✨蓝光秒播",
@@ -391,23 +314,7 @@
             "filterable": 1,
             "ext": "./lib/moli.json"
         },
-        {
-            "key": "策驰影院",
-            "name": "策驰✨蓝光秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/cechi.json"
-        },
-        {
-            "key": "皮皮虾影视",
-            "name": "皮皮虾✨蓝光影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/ppx.json"
-        },
+       
         {
             "key": "GimyTV",
             "name": "Gimy✨流畅影视",
@@ -436,158 +343,39 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "视频库",
-            "name": "视频库👿影视资源",
-            "type": 3,
-            "api": "csp_WebVidHub",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://vidhub1.cc"
-        },
-        {
-            "key": "新视觉",
-            "name": "新视觉👿蓝光高清",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/新视觉.json"
-        },
+       
         {
             "key": "剧圈圈",
-            "name": "剧圈圈👿蓝光影视",
+            "name": "剧圈圈✨蓝光影视",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/剧圈圈.js"
         },
         {
             "key": "追剧迷",
-            "name": "追剧迷👿采集资源",
+            "name": "追剧迷✨采集资源",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/追剧迷.js"
         },
         {
             "key": "茶杯狐",
-            "name": "茶杯狐👿采集资源",
+            "name": "茶杯狐✨采集资源",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/茶杯狐.js"
         },
         {
             "key": "魔力高清",
-            "name": "魔力👿高清资源",
+            "name": "魔力✨高清资源",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/魔力高清.js"
         },
-        {
-            "key": "银河",
-            "name": "银河👿蓝光采集",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "http://134.175.219.46/mogai_api.php/v1.vod"
-        },
-        {
-            "key": "蚂蚁资源",
-            "name": "蚂蚁👿资源采集",
-            "type": 1,
-            "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
-            "searchable": 1,
-            "changeable": 1,
-            "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="
-        },
-          {
-            "key": "优质资源",
-            "name": "神荼✨蓝光资源",
-            "type": 0,
-            "api": "https://api.1080zyku.com/inc/ldg_api.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playurl": "https://vip.zykbf.com/?url=",
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "国产剧",
-                "台湾片",
-                "韩国剧",
-                "欧美剧",
-                "香港剧",
-                "泰国剧",
-                "日本剧",
-                "福利",
-                "纪录片",
-                "动画片",
-                "海外剧",
-                "伦理片",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "搞笑",
-                "音乐",
-                "影视",
-                "汽车",
-                "短剧大全"
-            ]
-        },
-        {
-            "key": "牛牛资源",
-            "name": "老牛✨影视采集",
-            "type": 1,
-            "api": "https://niuniuzy6.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playurl": "https://jiexi.niuniuzy.org/m3u8/?url=",
-            "categories": [
-                "有声动漫",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "动画片",
-                "港台动漫",
-                "海外动漫",
-                "爽文短剧",
-                "女频恋爱",
-                "反转爽剧",
-                "古装仙侠",
-                "年代穿越",
-                "脑洞悬疑",
-                "现代都市",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "国产剧",
-                "欧美剧",
-                "韩剧",
-                "日剧",
-                "港剧",
-                "台剧",
-                "泰剧",
-                "演唱会",
-                "篮球",
-                "足球",
-                "预告片"
-            ]
-        },
+      
         {
             "key": "csp_xml_红牛",
-            "name": "红牛👿资源采集",
+            "name": "红牛✨资源采集",
             "type": 1,
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
             "searchable": 1,
@@ -632,104 +420,45 @@
                 "欧美综艺"
             ]
         },
-        {
-            "key": "光速资源",
-            "name": "光速👿资源采集",
-            "type": 1,
-            "api": "http://api.guangsuapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "剧情片",
-                "恐怖片",
-                "战争片",
-                "动漫电影",
-                "大陆剧",
-                "欧美剧",
-                "港澳剧",
-                "韩剧",
-                "日剧",
-                "台湾剧",
-                "泰剧",
-                "综艺",
-                "动漫",
-                "记录片"
-            ]
-        },
-        {
-            "key": "极速资源",
-            "name": "极速👿资源采集",
-            "type": 1,
-            "api": "https://jszyapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "日剧",
-                "马泰剧",
-                "内地剧",
-                "欧美剧",
-                "香港剧",
-                "韩剧",
-                "台湾剧",
-                "恐怖片",
-                "动画片",
-                "剧情片",
-                "战争片",
-                "动作片",
-                "记录片",
-                "爱情片",
-                "喜剧片",
-                "科幻片",
-                "灾难片",
-                "悬疑片",
-                "犯罪片",
-                "中国动漫",
-                "日本动漫",
-                "欧美动漫"
-            ]
-        },
+      
         {
             "key": "腾讯视频",
-            "name": "腾讯视频⚜️解析",
+            "name": "腾讯视频🌀解析",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/腾讯视频.js"
         },
         {
             "key": "爱奇艺",
-            "name": "爱奇艺⚜️解析",
+            "name": "爱奇艺🌀解析",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/爱奇艺.js"
         },
         {
             "key": "优酷视频",
-            "name": "优酷视频⚜️解析",
+            "name": "优酷视频🌀解析",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/优酷视频.js"
         },
         {
             "key": "芒果视频",
-            "name": "芒果视频⚜️解析",
+            "name": "芒果视频🌀解析",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/芒果视频.js"
         },
         {
             "key": "搜狗视频",
-            "name": "搜狗视频⚜️解析",
+            "name": "搜狗视频🌀解析",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/搜狗视频.js"
         },
         {
             "key": "哔哩视频",
-            "name": "哔哩视频⚜️解析",
+            "name": "哔哩视频🌀解析",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/哔哩视频.js"
@@ -879,16 +608,7 @@
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/怡萱动漫.js"
         },
-        {
-            "key": "暮暮动漫",
-            "name": "暮暮动漫🪅蓝光",
-            "type": 3,
-            "api": "csp_WebMuTeFun",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://www.mutean.com"
-        },
+    
         {
             "key": "南瓜弹幕",
             "name": "🌠南瓜弹幕丨蓝光",
@@ -1677,25 +1397,8 @@
             "jar": "./jar/duo.jar",
             "ext": "./lib/体育健身.json"
         },
-        {
-            "ext": "eyJhcGkiOiJodHRwOi8vMTI5LjE1NC4xOTQuMTc1OjQ1NjciLCJ0b2tlbiI6InhteGpkb3dPZGp3cHFMeG5zak5iSUhHViJ9",
-            "filterable": 1,
-            "quickSearch": 1,
-            "name": "丫仙女✨alist",
-            "changeable": 0,
-            "jar": "./jar/alist.jar",
-            "api": "csp_XiaoYa",
-            "type": 3,
-            "key": "csp_XiaoYa",
-            "searchable": 1
-        },
-         {
-      "key": "2400部恐怖电影📲",
-      "name": "影视🎬恐怖电影",
-      "type": 3,
-      "api": "http://zb.hys.cool/app/lib/16万hys.js",
-      "ext": "http://zb.hys.cool/app/lib/2400部恐怖电影.js"
-    },
+      
+        
         {
             "key": "直播转点播",
             "name": "🎥IPTV直播转点播",
