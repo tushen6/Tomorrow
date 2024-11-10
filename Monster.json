@@ -1,16 +1,19 @@
 //以下资源仅做测试、学习使用，请勿用于不正当用途
 
 {
-    "spider": "./lzxw.jar",
+    "spider": "./lzxw.php",
     "wallpaper": "https://t.alcy.cc/ys",
     "logo": "https://p0.meituan.net/csc/2a37e8f8c0e188948b5ddb81868e2c80224570.gif",
     "sites": [
         {
-            "key": "豆瓣评分",
-            "name": "🌴林中小屋🏡公众号:林中的小屋",
+            "key": "lzxw_豆瓣",
+            "name": "公众号:林中的小屋丨豆瓣影视推荐",
             "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0
+            "api": "./JS/lzxw.js",
+            "ext": "./JS/豆瓣.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
         },
         {
             "key": "配置中心",
@@ -82,15 +85,33 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "农民",
-            "name": "老农✨影视秒播",
-            "type": 3,
-            "api": "csp_WexNmys",
-            "searchable": 1,
-            "jar": "https://8815.kstore.space/shentu.txt",
-            "changeable": 1
-        },
+      {
+      "key": "看看",
+      "name": "看看✨蓝光秒播",
+      "type": 3,
+      "api": "csp_qiao3",
+      "jar": "./jar/laohu1030.jar",
+      "playerType": 2,
+      "ext": "caHR0cDovLzExMS4xNzMuMTA2LjIxOTo4ODUwfDlhOTI0Y2JmMzk2Y2Y1ZTd8OWE5MjRjYmYzOTZjZjVlNw"
+    },
+     {
+      "key": "雷电",
+      "name": "雷电✨蓝光秒播",
+      "type": 3,
+      "api": "csp_Slys",
+      "playerType": 1,
+     "jar": "./jar/laohu1030.jar",
+      "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
+    },
+    {
+      "key": "柠檬",
+      "name": "柠檬✨蓝光秒播",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "./jar/laohu1030.jar",
+      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    },
         {
             "key": "酷影",
             "name": "酷影✨蓝光影视",
