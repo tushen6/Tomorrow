@@ -48,15 +48,7 @@
                 "cookie": ""
             }
         },
-        {
-      "key": "央视剧场",
-      "name": "央视🇨🇳新闻回放",
-      "type": 3,
-      "api": "https://8815.kstore.space/lib/央视.js",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 10
-    },
+     
   
        {
             "key": "南瓜",
@@ -67,15 +59,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-      "key": "神荼",
-      "name": "动漫✨4K秒播",
-      "type": 3,
-      "api": "csp_Xdai",
-      "jar": "http://tv.laohu.cool/laohujar.jar",
-      "playerType": 1,
-      "ext": "caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"
-    },
+      
         {
             "key": "农民影视",
             "name": "农民✨蓝光秒播",
@@ -295,17 +279,7 @@
             "filterable": 1,
             "ext": "./lib/骚火.json"
         },
-        {
-            "key": "厂厂",
-            "name": "长长✨蓝光纯净",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/changzhang.json"
-        },
+       
         {
             "key": "追剧网",
             "name": "追剧网✨蓝光无广",
@@ -336,18 +310,7 @@
             "ext": "./lib/moli.json"
         },
        
-        {
-            "key": "GimyTV",
-            "name": "Gimy✨流畅影视",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60,
-            "api": "csp_XBPQ",
-            "ext": "./lib/gimy.json"
-        },
+       
         {
             "key": "55看",
             "name": "55看✨流畅影视",
@@ -576,13 +539,7 @@
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/58动漫.js"
         },
-        {
-            "key": "Anime1",
-            "name": "Anime动漫🪅蓝光",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/Anime1.js"
-        },
+      
         {
             "key": "动漫巴士",
             "name": "动漫巴士🪅蓝光",
@@ -642,7 +599,18 @@
                 "danmu": true
             }
         },
-      
+       {
+            "key": "糯米弹幕",
+            "name": "🌠糯米弹幕丨蓝光",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
         {
             "key": "文才弹幕",
             "name": "🌠文才弹幕丨蓝光",
@@ -1231,21 +1199,7 @@
             "quickSearch": 0,
             "changeable": 0
         },
-        {
-            "key": "快手直播",
-            "name": "🎦快手💫全站直播",
-            "type": 3,
-            "api": "csp_KsLive",
-            "jar": "./jar/kuaishou.jar",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "timeout": 10
-        },
+      
         {
             "key": "哔哩直播",
             "name": "🅱️哔哩🦜在线直播",
@@ -1747,7 +1701,7 @@
     ],
     "lives": [
         {
-            "name": "🌴林中小屋🏡①",
+            "name": "🌴林中小屋🏡直播源①",
             "type": 0,
             "url": "./TV/zby.txt",
             "playerType": 1,
@@ -1756,14 +1710,25 @@
             "logo": "https://8815.kstore.space/tczy/lzdxw.png"
         },
         {
-            "name": "🌴林中小屋🏡②",
+            "name": "🌲林中小屋🏡直播源②",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://tv.iill.top/m3u/Gather",
+            "playerType": 2
+        },
+        {
+            "name": "🔰范明明直播源",
             "type": 0,
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "https://live.fanmingming.com/e.xml",
+            "playerType": 2
+        },
+        {
+            "name": "🐏肥羊直播源",
+            "type": 3,
+            "api": "csp_Ysptp",
+            "ext": "./TV/live.txt",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         }
+       
     ],
     "flags": [
         "youku",
