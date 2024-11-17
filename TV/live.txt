@@ -1,0 +1,17 @@
+🇨🇳央视高清直播,#genre#
+CCTV1,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv1
+CCTV2,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv2
+CCTV4,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv4
+CCTV5,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv5
+CCTV5+,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv5+
+CCTV7,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv7
+CCTV8,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv8
+CCTV9,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv9
+CCTV10,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv10
+CCTV11,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv11
+CCTV12,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv12
+CCTV13,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv13
+CCTV14,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv14
+CCTV15,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv15
+CCTV16,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv16
+CCTV17,http://127.0.0.1:9978/proxy?do=ysptp&type=m3u8&id=cctv17
