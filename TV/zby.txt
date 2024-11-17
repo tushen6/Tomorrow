@@ -2,7 +2,7 @@
 公众号:林中的小屋,https://vd3.bdstatic.com/mda-pcp5fx5bfrctx9pu/sc/cae_h264/1679635523924099179/mda-pcp5fx5bfrctx9pu.mp4
 Q群:806706852,http://mobi.kuwo.cn/tmevideo/tme1257697.mp4
 接口免费勿上当受骗,https://vd3.bdstatic.com/mda-pd369avvets19gch/sc/cae_h264/1680582897997490362/mda-pd369avvets19gch.mp4
-更新日期_2024-11-10,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
+更新日期_2024-11-18,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
 
 
 
@@ -2930,13 +2930,18 @@ NEWTV 精品记录「IPV6」,http://[2409:8087:5e00:24::1e]:6060/200000001898/46
 
 
 💯4K超高清频道💯,#genre#
+4K修复 7M2160HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 纯享4K,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
 北京IPTV4K超高清,http://unraid.jimin.codetech.top:8888/udp/239.3.1.249:8001
 CCTV-4K超高清,http://159.75.85.63:5679/CCTV-4k.php#http://mtw.so/5VbDUV#https://tv.cry33.com/ys4k.php?id=4k#http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8#http://27.222.3.214/liveali-tp4K.cctv.cn/live/4K10M.stream/playlist.m3u8
 自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 CCTV-8K超高清,http://mtw.so/62HqYI#https://tv.cry33.com/ys4k.php?id=8k#https://tv.cry33.com/ys4k.php?id=8k25
-CCTV-16 4K,https://tv.cry33.com/ys4k.php?id=16-4k
+CCTV16-4K 18M2160,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+CCTV16-4K 25M2160,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
+CCTV16-4K 34M2160HDR,http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8#http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+江苏移动8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd#http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8#http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8#http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.flv#http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8?zjiangsd#http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
 北京纪实8K,https://epg.pw/stream/f48875235ce63399ced8a8f27167ceea2fda31675f2b15a967a49f1ec6bba9f7.m3u8
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
@@ -3121,6 +3126,7 @@ CCTV-5+[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.101:4056
 CCTV-5-HEVC-AAC[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.1.6:4056
 CCTV-5体育[1920*1080],http://www.dsmcloud.top:8888/udp/239.81.0.133:4056
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+美国摔跤,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
 美国摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 緯來體育,https://tv.iill.top/tv/wlty#https://z02.ubtvfans.com/live/rx1/338/43f031a4c6cbafd2ed47919a4cb84631/index.m3u8#https://fm1077.serv00.net/anbo/index.php?id=118
 超级体育「IPV6」,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -3246,9 +3252,193 @@ CCTV-5+,http://101.200.122.188/tv/migu085.php?id=CCTV-5p$咪咕代理
 
 
 ⚗️电影频道轮播⚗️,#genre#
-CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
-CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
-CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
+
+周星星,http://120.77.28.4:8648/huya.php?id=11336587
+小鬼头,http://120.77.28.4:8648/huya.php?id=11352963
+刘德华,http://120.77.28.4:8648/huya.php?id=11342424
+许冠英,http://120.77.28.4:8648/huya.php?id=11601972
+李连杰,http://120.77.28.4:8648/huya.php?id=11342390
+甄子丹,http://120.77.28.4:8648/huya.php?id=11352935
+星爷,http://120.77.28.4:8648/huya.php?id=11342412
+英叔,http://120.77.28.4:8648/huya.php?id=11342421
+成龙,http://120.77.28.4:8648/huya.php?id=11342386
+王晶,http://120.77.28.4:8648/huya.php?id=11602058
+沈腾,http://120.77.28.4:8648/huya.php?id=11601968
+黄渤,http://120.77.28.4:8648/huya.php?id=11352876
+吴京,http://120.77.28.4:8648/huya.php?id=11602041
+强森,http://120.77.28.4:8648/huya.php?id=21059581
+怪兽,http://120.77.28.4:8648/huya.php?id=21059577
+武侠,http://120.77.28.4:8648/huya.php?id=11342427
+罪犯,http://120.77.28.4:8648/huya.php?id=11352962
+枪战,http://120.77.28.4:8648/huya.php?id=21059579
+盗墓,http://120.77.28.4:8648/huya.php?id=21059552
+贺岁,http://120.77.28.4:8648/huya.php?id=11601971
+玄幻,http://120.77.28.4:8648/huya.php?id=11342414
+喜剧,http://120.77.28.4:8648/huya.php?id=11352877
+港片,http://120.77.28.4:8648/huya.php?id=11602043
+国产,http://120.77.28.4:8648/huya.php?id=11352973
+喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
+高分动作,http://120.77.28.4:8648/huya.php?id=11352884
+不挤影院,http://120.77.28.4:8648/huya.php?id=11352897
+黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
+嫣然影厅,http://120.77.28.4:8648/huya.php?id=11601977
+女神系列,http://120.77.28.4:8648/huya.php?id=11336571
+经典女神,http://120.77.28.4:8648/huya.php?id=11352909
+许氏三杰,http://120.77.28.4:8648/huya.php?id=11602033
+经典港片,http://120.77.28.4:8648/huya.php?id=11352965
+经典港片,http://120.77.28.4:8648/yy.php?id=1355263385
+镖行天下,http://120.77.28.4:8648/huya.php?id=11352969
+蘑菇影厅,http://120.77.28.4:8648/huya.php?id=11601981
+搞笑恐怖,http://120.77.28.4:8648/huya.php?id=11601960
+死神来了,http://120.77.28.4:8648/huya.php?id=11352903
+电影_发哥,http://120.77.28.4:8648/huya.php?id=11342387
+电影_发哥,http://120.77.28.4:8648/huya.php?id=11342387
+电影_发哥,http://120.77.28.4:8648/huya.php?id=11342387
+电影_漫威,http://120.77.28.4:8648/huya.php?id=11602034
+电影_漫威,http://120.77.28.4:8648/huya.php?id=11602034
+电影_漫威,http://120.77.28.4:8648/huya.php?id=11602034
+电影_宇宙,http://120.77.28.4:8648/huya.php?id=11342428
+电影_宇宙,http://120.77.28.4:8648/huya.php?id=11342428
+电影_宇宙,http://120.77.28.4:8648/huya.php?id=11342428
+电影_警匪,http://120.77.28.4:8648/huya.php?id=11352886
+电影_警匪,http://120.77.28.4:8648/huya.php?id=11352886
+电影_警匪,http://120.77.28.4:8648/huya.php?id=11352886
+电影_海盗,http://120.77.28.4:8648/huya.php?id=21059595
+电影_海盗,http://120.77.28.4:8648/huya.php?id=21059595
+电影_海盗,http://120.77.28.4:8648/huya.php?id=21059595
+电影_赛车,http://120.77.28.4:8648/huya.php?id=11279247
+电影_赛车,http://120.77.28.4:8648/huya.php?id=11279247
+电影_赛车,http://120.77.28.4:8648/huya.php?id=11279247
+电影_救援,http://120.77.28.4:8648/huya.php?id=21059594
+电影_救援,http://120.77.28.4:8648/huya.php?id=21059594
+电影_救援,http://120.77.28.4:8648/huya.php?id=21059594
+电影_热血,http://120.77.28.4:8648/huya.php?id=11352934
+电影_热血,http://120.77.28.4:8648/huya.php?id=11352934
+电影_热血,http://120.77.28.4:8648/huya.php?id=11352934
+电影_谍战,http://120.77.28.4:8648/huya.php?id=21059585
+电影_谍战,http://120.77.28.4:8648/huya.php?id=21059585
+电影_谍战,http://120.77.28.4:8648/huya.php?id=21059585
+电影_谍战,http://120.77.28.4:8648/huya.php?id=21059585
+电影_战争,http://120.77.28.4:8648/huya.php?id=21059592
+电影_战争,http://120.77.28.4:8648/huya.php?id=21059592
+电影_战争,http://120.77.28.4:8648/huya.php?id=21059592
+电影_战争,http://120.77.28.4:8648/huya.php?id=21059592
+电影_洪金宝,http://120.77.28.4:8648/huya.php?id=11279251
+电影_洪金宝,http://120.77.28.4:8648/huya.php?id=11279251
+电影_洪金宝,http://120.77.28.4:8648/huya.php?id=11279251
+电影_梁家辉,http://120.77.28.4:8648/huya.php?id=11342429
+电影_梁家辉,http://120.77.28.4:8648/huya.php?id=11342429
+电影_梁家辉,http://120.77.28.4:8648/huya.php?id=11342429
+电影_梁家辉,http://120.77.28.4:8648/huya.php?id=11342429
+电影_斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
+电影_斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
+电影_斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
+电影_斯坦森,http://120.77.28.4:8648/huya.php?id=21059588
+电影_八点档,http://120.77.28.4:8648/huya.php?id=880261
+电影_八点档,http://120.77.28.4:8648/huya.php?id=880261
+电影_八点档,http://120.77.28.4:8648/huya.php?id=880261
+电影_八点档,http://120.77.28.4:8648/huya.php?id=880261
+电影_蜘蛛侠,http://120.77.28.4:8648/huya.php?id=21059599
+电影_蜘蛛侠,http://120.77.28.4:8648/huya.php?id=21059599
+电影_蜘蛛侠,http://120.77.28.4:8648/huya.php?id=21059599
+电影_贺岁片,http://120.77.28.4:8648/huya.php?id=11601986
+电影_贺岁片,http://120.77.28.4:8648/huya.php?id=11601986
+电影_贺岁片,http://120.77.28.4:8648/huya.php?id=11601986
+电影_功夫片,http://120.77.28.4:8648/huya.php?id=11352941
+电影_功夫片,http://120.77.28.4:8648/huya.php?id=11352941
+电影_功夫片,http://120.77.28.4:8648/huya.php?id=11352941
+电影_黑帮片,http://120.77.28.4:8648/huya.php?id=11336719
+电影_黑帮片,http://120.77.28.4:8648/huya.php?id=11336719
+电影_黑帮片,http://120.77.28.4:8648/huya.php?id=11336719
+电影_丧尸片,http://120.77.28.4:8648/huya.php?id=21059578
+电影_丧尸片,http://120.77.28.4:8648/huya.php?id=21059578
+电影_丧尸片,http://120.77.28.4:8648/huya.php?id=21059578
+电影_灾难片,http://120.77.28.4:8648/huya.php?id=11602075
+电影_灾难片,http://120.77.28.4:8648/huya.php?id=11602075
+电影_灾难片,http://120.77.28.4:8648/huya.php?id=11602075
+电影_谍战片,http://120.77.28.4:8648/huya.php?id=21059587
+电影_谍战片,http://120.77.28.4:8648/huya.php?id=21059587
+电影_谍战片,http://120.77.28.4:8648/huya.php?id=21059587
+电影_战争片,http://120.77.28.4:8648/huya.php?id=21059574
+电影_战争片,http://120.77.28.4:8648/huya.php?id=21059574
+电影_战争片,http://120.77.28.4:8648/huya.php?id=21059574
+电影_犯罪片,http://120.77.28.4:8648/huya.php?id=11352974
+电影_犯罪片,http://120.77.28.4:8648/huya.php?id=11352974
+电影_犯罪片,http://120.77.28.4:8648/huya.php?id=11352974
+电影_古装片,http://120.77.28.4:8648/huya.php?id=11336590
+电影_古装片,http://120.77.28.4:8648/huya.php?id=11336590
+电影_古装片,http://120.77.28.4:8648/huya.php?id=11336590
+电影_动作电影,http://120.77.28.4:8648/huya.php?id=11602077
+电影_动作电影,http://120.77.28.4:8648/huya.php?id=11602077
+电影_动作电影,http://120.77.28.4:8648/huya.php?id=11602077
+电影_搞笑喜剧,http://120.77.28.4:8648/huya.php?id=11342423
+电影_搞笑喜剧,http://120.77.28.4:8648/huya.php?id=11342423
+电影_搞笑喜剧,http://120.77.28.4:8648/huya.php?id=11342423
+电影_欢笑影院,http://120.77.28.4:8648/huya.php?id=11352894
+电影_欢笑影院,http://120.77.28.4:8648/huya.php?id=11352894
+电影_欢笑影院,http://120.77.28.4:8648/huya.php?id=11352894
+电影_欢笑影院,http://120.77.28.4:8648/huya.php?id=11352894
+电影_国产悬疑,http://120.77.28.4:8648/huya.php?id=11342395
+电影_国产悬疑,http://120.77.28.4:8648/huya.php?id=11342395
+电影_国产悬疑,http://120.77.28.4:8648/huya.php?id=11342395
+电影_国产悬疑,http://120.77.28.4:8648/huya.php?id=11342395
+电影_快意江湖,http://120.77.28.4:8648/huya.php?id=11342435
+电影_快意江湖,http://120.77.28.4:8648/huya.php?id=11342435
+电影_快意江湖,http://120.77.28.4:8648/huya.php?id=11342435
+电影_高能反转,http://120.77.28.4:8648/huya.php?id=11352887
+电影_高能反转,http://120.77.28.4:8648/huya.php?id=11352887
+电影_高能反转,http://120.77.28.4:8648/huya.php?id=11352887
+电影_高能反转,http://120.77.28.4:8648/huya.php?id=11352887
+电影_变形金刚,http://120.77.28.4:8648/huya.php?id=21059596
+电影_变形金刚,http://120.77.28.4:8648/huya.php?id=21059596
+电影_变形金刚,http://120.77.28.4:8648/huya.php?id=21059596
+电影_怪兽系列,http://120.77.28.4:8648/huya.php?id=21059554
+电影_怪兽系列,http://120.77.28.4:8648/huya.php?id=21059554
+电影_怪兽系列,http://120.77.28.4:8648/huya.php?id=21059554
+电影_贺岁,http://120.77.28.4:8648/huya.php?id=11601971
+电影_贺岁,http://120.77.28.4:8648/huya.php?id=11601971
+电影_玄幻,http://120.77.28.4:8648/huya.php?id=11342414
+电影_玄幻,http://120.77.28.4:8648/huya.php?id=11342414
+电影_喜剧,http://120.77.28.4:8648/huya.php?id=11352877
+电影_喜剧,http://120.77.28.4:8648/huya.php?id=11352877
+电影_国产,http://120.77.28.4:8648/huya.php?id=11352973
+电影_国产,http://120.77.28.4:8648/huya.php?id=11602041
+电影_国产,http://120.77.28.4:8648/huya.php?id=11352973
+电影_周星星,http://120.77.28.4:8648/huya.php?id=11336587
+电影_周星星,http://120.77.28.4:8648/huya.php?id=11336587
+电影_喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
+电影_喜剧专场,http://120.77.28.4:8648/huya.php?id=11602044
+电影_不挤影院,http://120.77.28.4:8648/huya.php?id=11352897
+电影_不挤影院,http://120.77.28.4:8648/huya.php?id=11352897
+电影_黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
+电影_黑帮斗争,http://120.77.28.4:8648/huya.php?id=11342419
+电影_镖行天下,http://120.77.28.4:8648/huya.php?id=11352969
+电影_镖行天下,http://120.77.28.4:8648/huya.php?id=11352969
+电影_沈腾,http://120.77.28.4:8648/huya.php?id=11601968
+电影_黄渤,http://120.77.28.4:8648/huya.php?id=11352876
+电影_怪兽,http://120.77.28.4:8648/huya.php?id=21059577
+电影_罪犯,http://120.77.28.4:8648/huya.php?id=11352962
+电影_枪战,http://120.77.28.4:8648/huya.php?id=21059579
+电影_星爷,http://120.77.28.4:8648/huya.php?id=11342412
+电影_英叔,http://120.77.28.4:8648/huya.php?id=11342421
+电影_成龙,http://120.77.28.4:8648/huya.php?id=11342386
+电影_王晶,http://120.77.28.4:8648/huya.php?id=11602058
+电影_强森,http://120.77.28.4:8648/huya.php?id=21059581
+电影_武侠,http://120.77.28.4:8648/huya.php?id=11342427
+电影_盗墓,http://120.77.28.4:8648/huya.php?id=21059552
+电影_港片,http://120.77.28.4:8648/huya.php?id=11602043
+电影_李连杰,http://120.77.28.4:8648/huya.php?id=11342390
+电影_许冠英,http://120.77.28.4:8648/huya.php?id=11601972
+电影_刘德华,http://120.77.28.4:8648/huya.php?id=11342424
+电影_高分动作,http://120.77.28.4:8648/huya.php?id=11352884
+电影_古墓系列,http://120.77.28.4:8648/huya.php?id=11352913
+电影_嫣然影厅,http://120.77.28.4:8648/huya.php?id=11601977
+电影_女神系列,http://120.77.28.4:8648/huya.php?id=11336571
+电影_经典女神,http://120.77.28.4:8648/huya.php?id=11352909
+电影_许氏三杰,http://120.77.28.4:8648/huya.php?id=11602033
+电影_蘑菇影厅,http://120.77.28.4:8648/huya.php?id=11601981
+电影_死神来了,http://120.77.28.4:8648/huya.php?id=11352903
+
 电影_星爷,http://159.75.85.63:35455/huya/11342412
 电影_英叔,http://159.75.85.63:35455/huya/11342421
 电影_发哥,http://159.75.85.63:35455/huya/11342387
@@ -4636,6 +4826,28 @@ MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7n
 凤凰资讯频道,http://222.209.49.12:8088/rtp/239.93.1.4:2191
 凤凰资讯频道,http://112.19.171.156:9999/udp/239.93.0.118:2191
 
+
+
+
+Plus综合,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+pₒₚc电影,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+TVB新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+TVB翡翠,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+TVB明珠,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+TVB赛马,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+TVB亚洲剧集,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+TVB明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+TVBJ1综合美,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+TVB新闻频美,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$官源
+莲花卫视,http://php.jdshipin.com:8880/amlh.php
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 华视,http://37.27.111.214:8080/live/8/hls.m3u8
 中视,http://37.27.111.214:8080/live/7/hls.m3u8
