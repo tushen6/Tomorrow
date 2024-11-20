@@ -1,14 +1,37 @@
 [
     {
-        "name": "IPTV直播",
-        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/TV/zby.txt"
+        "name": "IPV6直播频道(每日自动更新，永不失效)",
+        "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/skddyj/iptv/refs/heads/main/IPTV.m3u"
+    },
+     {
+        "name": "IPV4直播频道(偶尔更新，不保证流畅)",
+        "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jiangnan1224/iptv_ipv4_live/refs/heads/main/live_ipv4.txt"
     },
     {
-        "name": "歌曲MV",
-        "url": "https://8815.kstore.space/TV/16W.txt"
+        "name": "江苏移动专用直播线路(每日自动更新，永不失效)",
+        "url": "https://d.kstore.dev/download/8815/zbfx/ydcj.txt"
     },
+     {
+        "name": "河南移动专用直播线路(每日自动更新，永不失效)",
+        "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lizanyang3/lizanyang3.github.io/refs/heads/main/hn.m3u"
+    },
+     {
+        "name": "IPV4直播频道(偶尔更新，不保证流畅)",
+        "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/ipv4.txt"
+    },
+     {
+        "name": "IPV4直播频道(偶尔更新，不保证流畅)",
+        "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/balala2oo8/iptv/refs/heads/main/o.m3u"
+    },
+    
+    
+    
+    
+    
+    
     {
-        "name": "移动高清采集",
-        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/TV/移动高清采集.txt"
+        "name": "16万首典藏歌曲mv",
+        "url": "https://d.kstore.dev/download/8815/TV/16W.txt"
     }
+    
 ]
