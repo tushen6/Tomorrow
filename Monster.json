@@ -48,7 +48,14 @@
                 "cookie": ""
             }
         },
-     
+     {
+            "key": "直播转点播",
+            "name": "📺IPTV直播丨超多线路",
+            "type": 3,
+            "searchable": 0,
+            "api": "./lib/zb.js",
+            "ext": "./lib/zb.json"
+        },
   
        {
             "key": "南瓜",
@@ -59,10 +66,19 @@
             "quickSearch": 1,
             "filterable": 1
         },
-      
+      {
+      "key": "nmys",
+      "name": "农民✨蓝光秒播",
+      "type": 3,
+      "api": "csp_Nongm",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
+    },
         {
-            "key": "农民影视",
-            "name": "农民✨蓝光秒播",
+            "key": "nn影视",
+            "name": "9527✨蓝光秒播",
             "type": 3,
             "api": "csp_Nongm",
             "searchable": 1,
@@ -1208,6 +1224,32 @@
             "ext": "./JS/哔哩直播.js"
         },
         {
+      "key": "88js",
+      "name": "⚽ 88┃看球┃直播",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./lib/88看球.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "Jrsjs",
+      "name": "⚽ lzxw┃球迷┃直播",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./lib/看球.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+        {
             "key": "csp_Bili_Meinvw",
             "name": "🅱️女团💖歌舞金曲",
             "type": 3,
@@ -1374,14 +1416,7 @@
         },
       
         
-        {
-            "key": "直播转点播",
-            "name": "🎥IPTV直播转点播",
-            "type": 3,
-            "searchable": 0,
-            "api": "./lib/zb.js",
-            "ext": "./lib/zb.json"
-        },
+      
         {
             "key": "c",
             "name": "请勿相信片中广告小心上当受骗！",
@@ -1704,7 +1739,7 @@
             "name": "🌴林中小屋🏡直播源①",
             "type": 0,
             "url": "./TV/zby.txt",
-            "playerType": 1,
+            "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://live.fanmingming.com/e.xml",
             "logo": "https://8815.kstore.space/tczy/lzdxw.png"
