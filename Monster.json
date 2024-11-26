@@ -5,16 +5,13 @@
     "wallpaper": "https://t.alcy.cc/ys",
     "logo": "https://p0.meituan.net/csc/2a37e8f8c0e188948b5ddb81868e2c80224570.gif",
     "sites": [
-        {
-            "key": "lzxw_豆瓣",
-            "name": "公众号:林中的小屋丨豆瓣影视推荐",
-            "type": 3,
-            "api": "./JS/lzxw.js",
-            "ext": "./JS/豆瓣.js",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0
-        },
+         {
+      "key": "lzxw_豆瓣",
+      "name": "公众号:林中的小屋丨豆瓣影视推荐",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
         {
             "key": "配置中心",
             "name": "网盘📥配置中心",
@@ -1534,6 +1531,11 @@
       },
       "type": "1"
     },
+    {
+      "name": "🌲林中的小屋🏡专用解析",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
         {
             "name": "🌴林中小屋🏡线路1",
             "type": 1,
@@ -1544,6 +1546,33 @@
                 }
             }
         },
+         {
+      "name": "🌲林中小屋🏡①",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ]
+      }
+    },
         {
             "name": "🌴林中小屋🏡线路2",
             "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
