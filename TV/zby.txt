@@ -3920,6 +3920,22 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 
 ⚗️电影频道轮播⚗️,#genre#
 player=2
+数位电影,https://litv.zapi.us.kg/?id=4gtv-4gtv011
+AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
+CAT电影,https://litv.zapi.us.kg/?id=4gtv-4gtv076
+
+AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
+AMC电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv017
+AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
+龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
+龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+龙华电影,http://211.72.65.236:8556/.m3u8
+
+
+美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+
+靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+靖天电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv061
 电影-星爷,http://159.75.85.63:35455/huya/11342412
 电影-英叔,http://159.75.85.63:35455/huya/11342421
 电影-发哥,http://159.75.85.63:35455/huya/11342387
@@ -4218,31 +4234,26 @@ player=2
 
 ⚗️埋堆堆影视轮播⚗️,#genre#
 player=2
-埋堆堆-楚汉骄雄,http://diyp.zxxoo.work/huya/23740156
-埋堆堆-封神榜,http://diyp.zxxoo.work/huya/23749096
-埋堆堆-西游记1,http://diyp.zxxoo.work/huya/23728660
-埋堆堆-西游记2,http://diyp.zxxoo.work/huya/23735126
-埋堆堆-天龙八部,http://diyp.zxxoo.work/huya/23903123
-埋堆堆-鹿鼎记,http://diyp.zxxoo.work/huya/23865080
-埋堆堆-寻秦记,http://diyp.zxxoo.work/huya/23864973
-埋堆堆-大唐双龙传,http://diyp.zxxoo.work/huya/23728674
-埋堆堆-神雕侠侣,http://diyp.zxxoo.work/huya/23865171
-埋堆堆-射雕英雄传,http://diyp.zxxoo.work/huya/23824164
-埋堆堆-倚天屠龙记,http://diyp.zxxoo.work/huya/23734246
-埋堆堆-笑傲江湖,http://diyp.zxxoo.work/huya/23865142
-埋堆堆-刑事侦缉档案,http://diyp.zxxoo.work/huya/23734169
-埋堆堆-法政先锋,http://diyp.zxxoo.work/huya/23863804
-埋堆堆-洗冤录,http://diyp.zxxoo.work/huya/23903130
-埋堆堆-陀枪师姐,http://diyp.zxxoo.work/huya/23860039
-埋堆堆-使徒行者,http://diyp.zxxoo.work/huya/23734256
-埋堆堆-鉴证实录,http://diyp.zxxoo.work/huya/23903183
-埋堆堆-金枝欲孽,http://diyp.zxxoo.work/huya/23865036
-埋堆堆-扫黄先锋,http://diyp.zxxoo.work/huya/23903196
-埋堆堆-创世纪,http://diyp.zxxoo.work/huya/23749083
-埋堆堆-妙手仁心,http://diyp.zxxoo.work/huya/23829543
-埋堆堆-大时代,http://diyp.zxxoo.work/huya/23865161
-埋堆堆-野蛮亲家,http://diyp.zxxoo.work/huya/23863796
-埋堆堆-笑看风云,http://diyp.zxxoo.work/huya/23865058
+埋堆堆1,https://live.metshop.top/huya/23749096
+埋堆堆2,https://live.metshop.top/huya/23735126
+埋堆堆3,https://live.metshop.top/huya/23865152
+埋堆堆4,https://live.metshop.top/huya/23903196
+埋堆堆5,https://live.metshop.top/huya/23740156
+埋堆堆6,https://live.metshop.top/huya/23728660
+埋堆堆7,https://live.metshop.top/huya/23734246
+埋堆堆8,https://live.metshop.top/huya/23863796
+埋堆堆9,https://live.metshop.top/huya/23863822
+埋堆堆10,https://live.metshop.top/huya/23749083
+埋堆堆11,http://159.75.85.63:35455/huya/23863804?cdn=txcdn
+埋堆堆12,http://159.75.85.63:35455/huya/23829543?cdn=txcdn
+埋堆堆13,http://159.75.85.63:35455/huya/23903130?cdn=hwcdn
+埋堆堆14,http://159.75.85.63:35455/huya/29465859?cdn=txcdn
+埋堆堆15,http://159.75.85.63:35455/yy/1352475619
+埋堆堆16,http://159.75.85.63:35455/yy/1382851591
+埋堆堆17,http://159.75.85.63:35455/huya/23749096
+埋堆堆18,http://159.75.85.63:35455/huya/23865080
+埋堆堆19,http://159.75.85.63:35455/yy/1354936155
+
 📺历年春晚回放📺,#genre#
 春晚1983,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
 春晚1984,https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
