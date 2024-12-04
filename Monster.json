@@ -3,7 +3,7 @@
 {
     "spider": "./lzxw.php",
     "wallpaper": "https://t.alcy.cc/ys",
-    "logo": "https://p0.meituan.net/csc/2a37e8f8c0e188948b5ddb81868e2c80224570.gif",
+    "logo": "https://img.sobot.com/56b093dec73c42dca06a96734ffa6258/chatres/56b093dec73c42dca06a96734ffa6258/msg/20241204/a1563905111d66f5033927df2f544f83/877590248a3e4fad90fb5f9faa52e70f.gif",
     "sites": [
          {
       "key": "lzxw_豆瓣",
@@ -21,7 +21,7 @@
             "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.987
+                "ratio": 1.511
             }
         },
          {
@@ -54,20 +54,43 @@
             "ext": "./lib/zb.json"
         },
          {
+            "key": "🌲林中小屋🏡",
+            "name": "4K秒播🐧极致画质",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/林中小屋.js"
+        },
+         {
             "key": "林中的小屋",
-            "name": "4K秒播🥭能看多久看运气",
+            "name": "4K秒播🥭极致画质",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/mgtv4K.js"
         },
+         {
+            "key": "瓜子｜影视",
+            "name": "瓜子✨蓝光秒播",
+            "type": 3,
+            "api": "csp_Gz360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
        {
-            "key": "南瓜",
+            "key": "南瓜弹幕",
             "name": "南瓜✨蓝光秒播",
             "type": 3,
             "api": "csp_Nangua",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
         },
       {
       "key": "nmys",
@@ -79,24 +102,24 @@
       "filterable": 1,
       "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
     },
-        {
-            "key": "nn影视",
-            "name": "9527✨蓝光秒播",
+       {
+            "key": "老农影视",
+            "name": "锄头✨蓝光影视",
             "type": 3,
-            "api": "csp_Nongm",
+            "api": "csp_Nmys",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
       {
-      "key": "看看",
-      "name": "看看✨蓝光秒播",
-      "type": 3,
-      "api": "csp_qiao3",
-      "jar": "./jar/laohu1030.jar",
-      "playerType": 2,
-      "ext": "caHR0cDovLzExMS4xNzMuMTA2LjIxOTo4ODUwfDlhOTI0Y2JmMzk2Y2Y1ZTd8OWE5MjRjYmYzOTZjZjVlNw"
-    },
+            "key": "瓜Z影视",
+            "name": "哈密瓜✨蓝光秒播",
+            "type": 3,
+            "api": "csp_AppGZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
      {
       "key": "雷电",
       "name": "雷电✨蓝光秒播",
@@ -116,6 +139,16 @@
       "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },
         {
+            "key": "素白白",
+            "name": "素白白✨蓝光影视",
+            "type": 3,
+            "api": "csp_Subaibai",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://subaibai.com"
+        },
+        {
             "key": "酷影",
             "name": "酷影✨蓝光影视",
             "type": 3,
@@ -125,15 +158,81 @@
             "filterable": 1,
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
-        {
-            "key": "天天影视",
-            "name": "天天✨蓝光秒播",
+        
+        
+       {
+            "key": "糯米弹幕",
+            "name": "饭团✨蓝光影视",
             "type": 3,
-            "api": "csp_AppTT",
+            "api": "csp_Nmys",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
         },
+        {
+            "key": "文才弹幕",
+            "name": "文才✨蓝光影视",
+            "type": 3,
+            "api": "csp_Jpys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "小苹果弹幕",
+            "name": "苹果✨蓝光影视",
+            "type": 3,
+            "api": "csp_Xpg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "厂长弹幕",
+            "name": "厂长✨蓝光影视",
+            "type": 3,
+            "api": "csp_Czzy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "天天弹幕",
+            "name": "天天✨蓝光秒播",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "三六零弹幕",
+            "name": "三六零✨蓝光影视",
+            "type": 3,
+            "api": "csp_Sp360",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        
         {
             "key": "热播影视",
             "name": "热播✨蓝光影视",
@@ -143,16 +242,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "追剧影视",
-            "name": "追剧✨蓝光影视",
-            "type": 3,
-            "api": "csp_AppZJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://z.kzjtv.com/"
-        },
+      
         {
             "key": "低端影视",
             "name": "低端✨蓝光影视",
@@ -171,34 +261,41 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
-            "key": "瓜子｜影视",
-            "name": "瓜子✨蓝光影视",
-            "type": 3,
-            "api": "csp_Gz360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-       
         {
-            "key": "苹果影视",
-            "name": "苹果✨蓝光影视",
+            "key": "西瓜视频",
+            "name": "西瓜✨短视频app",
             "type": 3,
-            "api": "csp_LiteApple",
+            "api": "csp_AmuXiguaV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "可可影视",
+            "name": "可可✨蓝光影视",
+            "type": 3,
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "./lib/可可影视.json"
         },
          {
-            "key": "厂长资源",
-            "name": "厂长✨蓝光资源",
+            "key": "全网影视",
+            "name": "神荼✨蓝光影视",
             "type": 3,
-            "api": "csp_Czzy",
+            "api": "csp_Quanwk",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.91qkw.com"
         },
+        
         {
             "key": "csp_xBPQ_九八",
             "name": "九八✨蓝光秒播",
@@ -217,17 +314,7 @@
             "playUrl": "https://player.hw8.lol/player?url=",
             "ext": "./lib/huawei8.json"
         },
-        {
-            "key": "大米星球",
-            "name": "大米✨星球影视",
-            "type": 3,
-            "api": "csp_AppDaMi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
        
-        
         {
             "key": "api_黑木耳",
             "name": "黑木耳✨蓝光影视",
@@ -287,7 +374,13 @@
         "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
       }
     },
-   
+   {
+            "key": "熊大",
+            "name": "熊大✨蓝光影视",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/熊大.js"
+        },
         {
             "key": "骚火",
             "name": "骚火✨蓝光影视",
@@ -328,7 +421,15 @@
             "filterable": 1,
             "ext": "./lib/moli.json"
         },
-       
+       {
+            "key": "1905",
+            "name": "1905✨经典影视",
+            "type": 3,
+            "api": "csp_Web1905",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
        
         {
             "key": "55看",
@@ -426,42 +527,42 @@
       
         {
             "key": "腾讯视频",
-            "name": "腾讯视频🌀解析",
+            "name": "腾腾视频🌀解析",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/腾讯视频.js"
         },
         {
             "key": "爱奇艺",
-            "name": "爱奇艺🌀解析",
+            "name": "奇奇视频🌀解析",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/爱奇艺.js"
         },
         {
             "key": "优酷视频",
-            "name": "优酷视频🌀解析",
+            "name": "优优视频🌀解析",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/优酷视频.js"
         },
         {
             "key": "芒果视频",
-            "name": "芒果视频🌀解析",
+            "name": "果果视频🌀解析",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/芒果视频.js"
         },
         {
             "key": "搜狗视频",
-            "name": "搜狗视频🌀解析",
+            "name": "狗狗视频🌀解析",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/搜狗视频.js"
         },
         {
             "key": "哔哩视频",
-            "name": "哔哩视频🌀解析",
+            "name": "哩哩视频🌀解析",
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/哔哩视频.js"
@@ -606,115 +707,6 @@
             "ext": "./JS/怡萱动漫.js"
         },
     
-        {
-            "key": "南瓜弹幕",
-            "name": "🌠南瓜弹幕丨蓝光",
-            "type": 3,
-            "api": "csp_Nangua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-       {
-            "key": "糯米弹幕",
-            "name": "🌠糯米弹幕丨蓝光",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "文才弹幕",
-            "name": "🌠文才弹幕丨蓝光",
-            "type": 3,
-            "api": "csp_Jpys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "小苹果弹幕",
-            "name": "🌠苹果弹幕丨蓝光",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "厂长弹幕",
-            "name": "🌠厂长弹幕丨蓝光",
-            "type": 3,
-            "api": "csp_Czzy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "天天弹幕",
-            "name": "🌠天天弹幕丨蓝光",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "三六零弹幕",
-            "name": "🌠三六零弹幕丨蓝光",
-            "type": 3,
-            "api": "csp_Sp360",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "一起看弹幕",
-            "name": "🌠一起看弹幕丨蓝光",
-            "type": 3,
-            "api": "csp_Yqk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "荐片弹幕",
-            "name": "🌠荐片弹幕丨蓝光",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
         {
             "key": "迅雷吧",
             "name": "迅雷吧🧲磁力蓝光",
@@ -1458,7 +1450,7 @@
       "url": "Sequence"
     },
      {
-            "name": "🌲林中小屋🏡mgtv④K",
+            "name": "公众号:林中的小屋",
             "type": 1,
             "url": "http://1.94.221.189:88/algorithm.php?url=",
             "ext": {
@@ -1475,7 +1467,7 @@
                     "搜狐",
                     "letv",
                     "乐视",
-                    
+                    "mgtv",
                     "芒果",
                     "tnmb",
                     "seven",
