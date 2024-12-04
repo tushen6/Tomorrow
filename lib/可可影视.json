@@ -1,0 +1,12 @@
+{
+    "简介": "detail-desc\">&&</div>",
+    "数组": "module-item\">&&</a></div>",
+    "标题": "title=\"&&\"",
+    "副标题": "可可影视提供*>&&</div>",
+    "图片": "https://vres.jxlfl.cn/vod1+data-original=\"/vod1&&\"",
+    "线路数组": "影视提供&&</a>",
+    "播放数组": "episode-list&&</div>",
+    "搜索url": "https://www.keke1.app/search?os=pc&k={wd}",
+    "分类url": "https://www.keke1.app/show/{cateId}-{class}-{area}--{year}-1-{catePg}.html;;d0",
+    "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$6"
+}
