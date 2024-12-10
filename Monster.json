@@ -45,6 +45,20 @@
                 "cookie": ""
             }
         },
+        {
+            "key": "西瓜视频",
+            "name": "🍉西瓜视频✨资源大全",
+            "type": 3,
+            "api": "csp_AmuXiguaV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
      {
             "key": "直播转点播",
             "name": "📺IPTV直播丨超多线路",
@@ -53,6 +67,7 @@
             "api": "./lib/zb.js",
             "ext": "./lib/zb.json"
         },
+      
          {
             "key": "🌲林中小屋🏡",
             "name": "4K秒播🐧极致画质",
@@ -80,18 +95,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-       {
-            "key": "南瓜弹幕",
-            "name": "南瓜✨蓝光秒播",
-            "type": 3,
-            "api": "csp_Nangua",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
+       
       {
       "key": "nmys",
       "name": "农民✨蓝光秒播",
@@ -261,20 +265,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "西瓜视频",
-            "name": "西瓜✨短视频app",
-            "type": 3,
-            "api": "csp_AmuXiguaV2",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
+        
         {
             "key": "可可影视",
             "name": "可可✨蓝光影视",
@@ -926,6 +917,16 @@
                 "danmu": true
             }
         },
+           {
+      "key": "Sso",
+      "name": "💯4K盘它┃网盘集合",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/盘他.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
         {
             "key": "影搜",
             "name": "💯4K影搜丨网盘搜索",
@@ -1129,26 +1130,7 @@
                 "type": "list"
             }
         },
-        {
-            "key": "云盘资源",
-            "name": "💯4K云盘｜阿里资源",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/云盘资源.json"
-        },
-        {
-            "key": "影搜",
-            "name": "💯4K影搜丨阿里资源",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/影搜.json"
-        },
+      
         {
             "key": "我的夸克",
             "name": "🌐我的｜夸克网盘",
