@@ -1,8 +1,8 @@
 🌴林中小屋🏡免费直播接口,#genre#
-公众号:林中的小屋,https://vd3.bdstatic.com/mda-pcp5fx5bfrctx9pu/sc/cae_h264/1679635523924099179/mda-pcp5fx5bfrctx9pu.mp4
-Q群:806706852,http://mobi.kuwo.cn/tmevideo/tme1257697.mp4
-接口免费勿上当受骗,https://vd3.bdstatic.com/mda-pd369avvets19gch/sc/cae_h264/1680582897997490362/mda-pd369avvets19gch.mp4
-更新日期_2024-11-26,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240245283772.mp4
+公众号:林中的小屋,https://8815.kstore.space/%E5%9B%BE%E5%BA%8A/20241202_041434.mp4
+Q群:806706852,https://8815.kstore.space/%E5%9B%BE%E5%BA%8A/20241211_003601.mp4
+接口免费勿上当受骗,https://8815.kstore.space/%E5%9B%BE%E5%BA%8A/20241202_041733.mp4
+更新日期_2024-12-11,https://8815.kstore.space/%E5%9B%BE%E5%BA%8A/20241202_041631.mp4
 
 
 
@@ -3251,25 +3251,40 @@ TRACE_SPORTS,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
 
 🏆咪咕直播频道🏆,#genre#
-CCTV1,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
-CCTV2,https://api.livednow.org/migu/631780532?sign=gAAAAABnJcJqr0fwyjCRZenumPiYq29AgCGZbexK2XyM9exSQfwePDL4rwLxMaYmUy5BI5tmZ3p5Opg3XGESQyj1Myyx8xlfa--CzghtRa5MzC5lgOOROQFokKNIjS1xgPhehkOToP6coFx9T1FJaYtv8R7vSMPYGiBtsqx-CdWfMNReSPjRaDJSSrjZ0WKCW5GajQiFiD1fOBTLjS-S7V-uzyIxCqKWiQ%3D%3D
-CCTV3,https://api.livednow.org/migu/624878271?sign=gAAAAABnJcJqBzuFtK_e-R8Y5zzuNWtH9dD5ErIUOw3PaGq-2cUt_ty4tVxaFlKDox0cB51jc5h1UbnYdWwVB34WOYuNc8lg2HAeZSq8eQxhLSx7-W74CNR6KtgxXvTUzW_5zsQ33PZEpqm7sIuxliL32bQtzxcIIdpid2Gub7vsNYzKJWuVjAicsjoVCenU41Q5dMi8XPDUfnmgkYYiwWzmBdMXqP4I5A%3D%3D
-CCTV4,https://api.livednow.org/migu/631780421?sign=gAAAAABnJcJqz7oNO-xridbK_3LKb0rcdjVs_WY_BR-BFoq8eOg8Qvn3RMaRgOohlrGPc3mJhNalk-OevwcUL7y3ObKzAeZuWtWBxqyoXyW34cmtmAnNx9EC9rXDbjauxADNT6Li789Xmb3ezb7EUlD91o2aUf1qh-cxlGyyOjS9aZEyU-1CBA-uJhURtKm5m9k2wQBuSTDlSq_X2EYHz1jXzPXsKoJ7eA%3D%3D
-CCTV5,https://api.livednow.org/migu/641886683?sign=gAAAAABnJcJq1zvWEm2fLwSljJPThpBYL_E8K7V3Vjqwa1MKKvqUi_E3bRWybwa_x3oX2iF9HH-wEJfMaE_5OvwPzGGu3NicPIuQA4yciDbKNZf7joK5ZUFzK0L36mvXUWWl9JorCKCXbQ62LAhIlbf2kzScSCcb9oUHPKWds9wWjWjam34gaFfwW7rHxvnvlcqRaj88yHfSrWqHJghFI-bLaFvNz1HoPw%3D%3D
-CCTV6,https://api.livednow.org/migu/624878396?sign=gAAAAABnJcJqCeZPI9pdAJI3zwOoz9SDiYBoZQL2_YxTBPm_gj4SRFhG652Dpip8x7O4oFhlJnHFS7Q4Kf_7eU_C9FrHiwmE9NDcuC5hEnGmyVWm8ntsvjsPsht86e15yA-OlkJj8m8OOe0qL_OVbjhSq3iySwkXSGvcKXQvvn6bYSRHZOe8Fc0EhG8AsW_DtSzMfG2-4VfItHk5oSqULRJ7DuT8Hr-neQ%3D%3D
-CCTV7,https://api.livednow.org/migu/673168121?sign=gAAAAABnJcJqjxuw5GDu1iojWpw4c-mjlefodslPuTvBI0grkKhdH8h_8I3xIavNltrXtbWMtHw2egHRBx-ciorem6WfS3xSWscFzvRmGcIdMlNJzhJ72fhC6f4jukCtJf6F79fYHQr5HfVJPSsBq9qCvVa1xZUsL40rtzOqtvaErO6BDEcA1JD4CyrNUboyvMBD11iNwc58nYXZiV-cubZaPaet8B6Xyg%3D%3D
-CCTV8,https://api.livednow.org/migu/624878356?sign=gAAAAABnJcJqw9dP6jwWUpKtifWTU97cE4kDpJmHWTbZD1ezcD3BLnqA4kJ_aSSQhe-ijrx2Z5Bm-wNBbguJ08avBolBe_yGvaJ1XKsKys_EAvx1QOauipvQfuKV15NrpBtQEMBADkCRzEwhHzbrcugddFVzwBFgmu7RrqSIIe848HA7b03yYseeTrXmOBJr1i1i99vgEUQOlaa1ismbhcTCecoRnyCfpQ%3D%3D
-CCTV9,https://api.livednow.org/migu/673168140?sign=gAAAAABnJcJqdqv3pFhYgBnmgGSIbZzHbX-DBJ-zNXsXFK68-5Wan9QqWYyKUxKv-XaTGYQIel_BUzZGYjzs5NPKiqPSXuul1GUOzl4VFlTGdyR6nNrAKB_lLRVjYzhVt6KX7j3DAzD44tiZocsNItrAhkJX7yIj6OGUq8s_mfXT_nlO_Xmgp4LUF7YnUnrICTc0LNBR-pQ1H2eiQcO2V6TCwrqhcHkABg%3D%3D
-CCTV10,https://api.livednow.org/migu/624878405?sign=gAAAAABnJcJqUD0VJHgW_jpi9fSEDhVqtVpgjlm5l2RFB5crphtq4Lgd1pE-Tc_n_qCmd9kwraXg4RZcc0KxzMy3Ef70prdHPMgkFbuJGwsobC29UUm_Kh7XbBVy-fqPer-IzPfc4oRJ10aPTq5_azxz8u2Qp6Ay2EYOLMg1O-EnQ79eNgaXc-2s1ccgdc5zllFwTrdP0XNkac4cX20eCWKPBULxodi6KQ%3D%3D
-CCTV11,https://api.livednow.org/migu/667987558?sign=gAAAAABnJcJq0uxG3wXdtrtqiIBCWRnKBVOa5nG_MrcR-XE_FxKhhSx7qj7d71b67HWtpFnV2yWlbi0DB4eVSBIi6y6ATRTRy-BAzHYzmANZxHCzKfrpNUunkDnLY0q7rIKTNSg3JuHII5wLmoBSDoeTzc8Tt6xXcUd5Hv-oHFU6L8gBAJjtBl6u0vGjL4NCXzTdg5rTNQf-Lx3S3ew-DiWy1XnrFEc26g%3D%3D
-CCTV12,https://api.livednow.org/migu/673168185?sign=gAAAAABnJcJqfs_3emdJIy9mYYyN6M29-FRfMp5HBvyku5jviEWtan66IU2XguJLoP7tu5be63y71Amc1LQKABsz3w4K4MYcVJZQ2FpXjnYoI80vaFeq2t-GfRY3n-XhzImihJvGiPd8fDG9pEIVWSneLNgmMkomXAfDlza_TggSrlVcSDkpi6DsXXNOBLsIpsHdWRSbJtzbhkX3j0w7KzFZhMevYAkEqg%3D%3D
-CCTV13,https://api.livednow.org/migu/608807423?sign=gAAAAABnJcJqWcv58U6OGzQabwzd_fRQdYIiL56pNYvWDLYx8OqIYIZTaT5ceZHRyt06wODism6P1aOwUkuZhiEfldQ55DPEyxVt51QPQHSDakx6DZ2ucwlxwe6nUNX83Y9VomRK3nxUdOy7T5XXGKyCDKucirezIa1eLScwKqq2ONtkQFwIsf7M2R3c5RDB5YQ6uMRY3eA0hSaiRTacGYQSjA_U1rUG5g%3D%3D
-CCTV14,https://api.livednow.org/migu/624878440?sign=gAAAAABnJcJqbiZjvH8WPpn2MSC9d1plZ1uK5RoepfZ6jSSLDNY5MEkVmC6AeWa4kDMXAhPgpPm331nzJkqByvIwyJ1nvMCSyjAqVA9m3RE7fIRDF80f2H3UCJLesDEifymvAsoH5oyavOgYS4KyiZ0tkA_xHI22m-bhjRbDPbkfrr9U1pLOLTTNKxCBVpne91De96PBMhcK7JpHMEqngGthOBNZS4YfMg%3D%3D
-CCTV15,https://api.livednow.org/migu/673168223?sign=gAAAAABnJcJqidnXewNhy-gri2ybb9iscI03y5nc62Syy1VqIhpbG4NsKVFHcgll52_xUKgwrWb5UR4xUTuxZnXcZ0qybFuneRF7vganvFXXcsbCxEG1p3RlEZw2hsCJ2G64570EsLkHymrjb0T7NBsJQyYJplJRLJFEd2gRpP40XLLJYTwJTmIC9b2eeLAZy4YEIn8-g7uBCctAPZtXqq8lS4vOcoHLSQ%3D%3D
-CCTV17,https://api.livednow.org/migu/673168256?sign=gAAAAABnJcJqaH7zxsZ2sHzgLIrp3fHULs5VLTwRm5kvc_YZnCZDZdFCwKXL_yaXA5nFcCZPD0omVJwDapyQUilo6R4kQgEmlWfnDyA0UbxOdEjCzJ9SHIiV_53r4aaArZ0IL_Aq0Mhm7cM6wcQ1EeLovgqiDPnCeUF2j3_KgX74Wh-ZpYuDKkQNsfBaJ1_P09_8SukvS2dsHXG-Tkr2RbVUU9z4qmS7iw%3D%3D
-CCTV5+,https://api.livednow.org/migu/641886773?sign=gAAAAABnJcJqTze6PuXdG9BEej5eW4BLImQigfoMaUf8uqVsrTWU2XPcpNAQkBcD0muMqEF9LzvxjIx7EBojiQbkHBD5j0Jhgf5-rBwl8jU3IJw5gsTQ2K6WngtWzyYcEmpoNgChlKkREdafyGUHTP8U4-G_ggVp1wP9_OuDXbCnXAQZKWP8e_nvjKVAHWsAfsrkcP2wHVy9aBq_REPOhp0w5W60Na3IcQ%3D%3D
-CCTV4欧洲,https://api.livednow.org/migu/608807419?sign=gAAAAABnJcJqqvN9kTkAiHC8GdaGGmmbLi62YsEYOIuOPI9Lac2D2d4KyQai_cbU9d1Blh-fo0li6MavI-f58Er_gvlCd7t5C35cmlxT7M-_SLOpCAeJgeSr4BD0t2Qt_Lrj7ZNsq8dCuNIPRnB-w0rJUjAiBMu0RFBQJ30fHcImYBrTGcTWrqXF53LpJSl0ymgtMaVrO9Y-HiqIUJkzyN8e6BTQQykZiQ%3D%3D
-CCTV4美洲,https://api.livednow.org/migu/608807416?sign=gAAAAABnJcJqws7IJW3h6BlGge9WIDW3Fy0FRiXV5z_xNzVGu8g8B-0qw7tvyNyCVut8pWQCvFvKbhe1hY8cYKFLnYEBy0nIPd9wQZ407ZVV5Ca7zzDKkBo_MoXzKATjpoRRMIpGgGGhNcq4KIeU-5Wtu25PoFpJqE2csWr4hhqYu1_-DhfSOhUE6aePTI8INh7crU01j-d217PMhlw6fqS0cRoIqdQ3Ww%3D%3D
+CCTV-01咪咕,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV-02咪咕,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV-03咪咕,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV-04咪咕,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-05咪咕,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV-5+咪咕,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV-06咪咕,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-07咪咕,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV-08咪咕,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV-09咪咕,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV-10咪咕,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV-11咪咕,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV-12咪咕,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV-13咪咕,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-14咪咕,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV-15咪咕,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-16咪咕,https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8
+CCTV-17咪咕,http://z.b.bkpcp.top/m.php?id=cctv17
+cct4欧洲咪咕,http://z.b.bkpcp.top/m.php?id=cctv4o
+cct4美洲咪咕,http://z.b.bkpcp.top/m.php?id=cctv4m
+家庭影院咪咕,http://z.b.bkpcp.top/m.php?id=jtyy
+东方影视咪咕,http://z.b.bkpcp.top/m.php?id=shys
+陕西卫视咪咕,http://z.b.bkpcp.top/m.php?id=sxws
+湖北卫视咪咕,http://z.b.bkpcp.top/m.php?id=hubws
+江西卫视咪咕,http://z.b.bkpcp.top/m.php?id=jxws
+江苏卫视咪咕,http://z.b.bkpcp.top/m.php?id=jsws
+广东卫视咪咕,http://z.b.bkpcp.top/m.php?id=gdws
+游戏风云咪咕,http://z.b.bkpcp.top/m.php?id=yxfy
+七彩戏剧咪咕,http://z.b.bkpcp.top/m.php?id=qcxj
+欢笑剧场咪咕,http://z.b.bkpcp.top/m.php?id=hxjc
+劲爆体育咪咕,http://z.b.bkpcp.top/m.php?id=jbty
+魅力足球咪咕,http://z.b.bkpcp.top/m.php?id=mlzq
+
+
 咪咕直播-1-4K,http://111.13.111.242/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕直播-2-4K,http://111.13.111.242/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕直播-1,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
@@ -3375,6 +3390,7 @@ CCTV4美洲,https://api.livednow.org/migu/608807416?sign=gAAAAABnJcJqws7IJW3h6Bl
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
+仙逆(试播),http://cdn.jdshipin.com:8880/huya.php?id=30080215
 
 
 
@@ -3385,188 +3401,14 @@ CCTV4美洲,https://api.livednow.org/migu/608807416?sign=gAAAAABnJcJqws7IJW3h6Bl
 
 
 
-🐉重温经典电视剧🐉,#genre#
+
+
+
+
+🐉重温经典影视🐉,#genre#
 
 ▶️琅琊榜电视剧,http://zby.xjqxz.top/lyb/live.m3u8
 ▶️三生三世轮播,http://zby.xjqxz.top/sssszss/live.m3u8
-▶️芈月传电视剧,http://159.75.85.63:35455/huya/11352975
-▶️芈月传电视剧,http://cfss.cc/cdn/hy/11352975.m3u8
-▶️与凤行电视剧,http://159.75.85.63:35455/huya/26355866
-▶️与凤行电视剧,http://cfss.cc/cdn/hy/26355866.m3u8
-▶️开端电视轮播,http://159.75.85.63:35455/huya/11342397
-▶️开端电视轮播,http://cfss.cc/cdn/hy/11342397.m3u8
-▶️雪豹电视轮播,http://159.75.85.63:35455/huya/29580970
-▶️雪豹电视轮播,http://cfss.cc/cdn/hy/29580970.m3u8
-▶️星光剧场,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-▶️新水浒传11版,http://159.75.85.63:35455/huya/11342384?cdn=hscdn
-▶️新水浒传11版,http://159.75.85.63:35455/huya/11342384?cdn=hwcdn
-▶️新水浒传11版,http://159.75.85.63:35455/huya/11342384?cdn=txcdn
-▶️笑傲江湖吕颂贤版,http://159.75.85.63:35455/huya/23865142?cdn=hwcdn
-▶️倚天屠龙记吴启华版,http://159.75.85.63:35455/huya/23734246?cdn=txcdn
-▶️倚天屠龙记吴启华版,http://159.75.85.63:35455/huya/23734246?cdn=hwcdn
-
-▶️老三国,http://cfss.cc/cdn/hy/11602081.flv
-▶️新三国,http://cfss.cc/cdn/hy/11352944.flv
-▶️新水浒,http://cfss.cc/cdn/hy/11342384.flv
-▶️纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
-▶️庆余年,http://cfss.cc/cdn/hy/11352960.flv
-▶️雍正王朝,http://cfss.cc/cdn/hy/11342439.flv
-▶️士兵突击,http://cfss.cc/cdn/hy/11342430.flv
-▶️爱情公寓,http://cfss.cc/cdn/hy/11336726.flv
-▶️家有儿女,http://cfss.cc/cdn/hy/11352872.flv
-▶️武林外传,http://cfss.cc/cdn/hy/21059598.flv
-▶️老三国,http://159.75.85.63:35455/huya/11602081?cdn=hwcdn
-▶️新三国,http://159.75.85.63:35455/huya/11352944?cdn=txcdn
-▶️新三国,http://159.75.85.63:35455/huya/11352944?cdn=hscdn
-▶️新三国,http://159.75.85.63:35455/huya/11352944?cdn=hwcdn
-▶️庆余年,http://159.75.85.63:35455/huya/11352960?cdn=txcdn
-▶️庆余年,http://159.75.85.63:35455/huya/11352960?cdn=hwcdn
-▶️雍正王朝,http://159.75.85.63:35455/huya/11342439?cdn=txcdn
-▶️雍正王朝,http://159.75.85.63:35455/huya/11342439?cdn=hwcdn
-▶️风云雄霸天下,http://159.75.85.63:35455/huya/21059612?cdn=txcdn
-▶️风云雄霸天下,http://159.75.85.63:35455/huya/21059612?cdn=hscdn
-▶️风云雄霸天下,http://159.75.85.63:35455/huya/21059612?cdn=hwcdn
-▶️封神榜陈浩民版,http://159.75.85.63:35455/huya/23749096?cdn=hwcdn
-▶️寻秦记,http://159.75.85.63:35455/yy/1382851591
-▶️封神榜,http://159.75.85.63:35455/huya/23749096
-▶️鹿鼎记,http://159.75.85.63:35455/huya/23865080
-▶️西游记Ⅰ,http://159.75.85.63:35455/yy/1354936155
-▶️西游记后传,http://159.75.85.63:35455/yy/1382736846
-▶️天下第一,http://159.75.85.63:35455/yy/1382736838
-▶️仙剑奇侠传Ⅰ,http://159.75.85.63:35455/yy/1382749903
-▶️大江大河,http://159.75.85.63:35455/yy/1382736797
-▶️新三国,http://159.75.85.63:35455/huya/11352944
-▶️新水浒,http://159.75.85.63:35455/huya/11342384
-▶️少年张三丰,http://159.75.85.63:35455/huya/26355824
-▶️少年包青天1,http://159.75.85.63:35455/yy/1356043677
-▶️少年包青天2,http://159.75.85.63:35455/yy/38498680
-▶️少年包青天3,http://159.75.85.63:35455/yy/1382851540
-▶️风云雄霸天下,http://159.75.85.63:35455/huya/21059612
-▶️倚天屠龙记,http://159.75.85.63:35455/huya/11342403
-▶️天龙八部,http://159.75.85.63:35455/yy/1351814644
-▶️笑傲江湖,http://159.75.85.63:35455/yy/1354930909
-▶️武林外传,http://159.75.85.63:35455/yy/21092633
-▶️大唐双龙传,http://159.75.85.63:35455/huya/s4k
-▶️隋唐英雄传,http://159.75.85.63:35455/yy/1352475619
-▶️忠烈杨家将,http://159.75.85.63:35455/yy/1382749909
-▶️雪中悍刀行,http://159.75.85.63:35455/yy/1382660835
-▶️哆啦A梦,http://159.75.85.63:35455/huya/11601963
-▶️蜡笔小新,http://159.75.85.63:35455/huya/11352970
-▶️海绵宝宝,http://159.75.85.63:35455/huya/11352919
-▶️火影忍者,http://159.75.85.63:35455/huya/11342385
-▶️中华小当家,http://159.75.85.63:35455/huya/24257300
-▶️与凤行,http://159.75.85.63:35455/huya/26355866
-▶️开端,http://159.75.85.63:35455/huya/11342397
-▶️芈月传,http://159.75.85.63:35455/huya/11352975
-▶️甄嬛传,http://159.75.85.63:35455/huya/30145009
-▶️庆余年,http://159.75.85.63:35455/huya/11352960
-▶️雪中悍刀行,http://159.75.85.63:35455/huya/11336592
-▶️七龙珠,https://live.iill.top/huya/11601966
-▶️海贼王,https://live.iill.top/huya/16913382
-▶️灌篮高手,https://live.iill.top/yy/1382735626
-▶️少年张三丰,http://159.75.85.63:35455/huya/26355824?cdn=hwcdn
-▶️倚天屠龙记,http://159.75.85.63:35455/huya/11342403?cdn=txcdn
-▶️地下交通站,http://159.75.85.63:35455/huya/11342433?cdn=hwcdn
-▶️游击队,http://159.75.85.63:35455/huya/11352936?cdn=txcdn
-▶️狼毒花,http://159.75.85.63:35455/huya/11602042?cdn=txcdn
-▶️老农民,http://159.75.85.63:35455/huya/29580971?cdn=txcdn
-▶️笑傲江湖吕颂贤版,http://cfss.cc/cdn/hy/23865142.flv
-▶️鹿鼎记陈小春版,http://cfss.cc/cdn/hy/23865080.flv
-▶️铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
-▶️康熙王朝,http://cfss.cc/cdn/hy/11352940.flv
-▶️雍正王朝,http://cfss.cc/cdn/hy/11342439.flv
-▶️庆余年,http://cfss.cc/cdn/hy/11352960.flv
-▶️爱情公寓,http://cfss.cc/cdn/hy/11336726.flv
-▶️繁花,http://cfss.cc/cdn/hy/21059580.flv
-▶️鬼吹灯之龙岭迷窟,http://cfss.cc/cdn/hy/29465863.flv
-▶️鬼吹灯之昆仑神宫,http://cfss.cc/cdn/hy/11601957.flv
-▶️刑事侦缉档案,http://cfss.cc/cdn/hy/23734169.flv
-▶️鉴证实录,http://cfss.cc/cdn/hy/23903183.flv
-▶️扫黄先锋,http://cfss.cc/cdn/hy/23903196.flv
-▶️陀枪师姐,http://cfss.cc/cdn/hy/23860039.flv
-▶️创世纪,http://cfss.cc/cdn/hy/23749083.flv
-▶️楚汉骄雄,http://cfss.cc/cdn/hy/23740156.flv
-▶️大唐双龙传,http://cfss.cc/cdn/hy/23728674.flv
-▶️法证先锋Ⅳ,http://cfss.cc/cdn/hy/23829543.flv
-▶️中华小当家,http://159.75.85.63:35455/huya/24257300?cdn=hwcdn
-▶️网球王子,http://159.75.85.63:35455/huya/11352882?cdn=txcdn
-▶️斗罗大陆,http://159.75.85.63:35455/huya/11352906?cdn=hscdn
-▶️斗罗大陆,http://159.75.85.63:35455/huya/11352906?cdn=hwcdn
-▶️康熙王朝,http://159.75.85.63:35455/huya/11352940?cdn=hwcdn
-▶️花千骨hy,http://159.75.85.63:35455/huya/26355839?cdn=txcdn
-▶️神探狄仁杰hy,http://159.75.85.63:35455/huya/11342425?cdn=hwcdn
-▶️李卫当官,http://159.75.85.63:35455/huya/26355788?cdn=hwcdn
-▶️大宋提刑官,http://159.75.85.63:35455/huya/26355856?cdn=txcdn
-▶️宝莲灯前传HY,http://159.75.85.63:35455/huya/21059563?cdn=txcdn
-▶️西游记,http://159.75.85.63:35455/huya/26355861?cdn=txcdn
-▶️西游记2,http://159.75.85.63:35455/huya/29465859?cdn=txcdn
-▶️楚汉骄雄,http://159.75.85.63:35455/huya/23740156?cdn=hwcdn
-▶️洗冤录,http://159.75.85.63:35455/huya/23903130?cdn=hwcdn
-▶️延禧攻略,http://159.75.85.63:35455/huya/26355864?cdn=txcdn
-▶️延禧攻略,http://159.75.85.63:35455/huya/26355864?cdn=hwcdn
-
-▶️爱情公寓,http://159.75.85.63:35455/huya/11336726?cdn=txcdn
-▶️爱情公寓,http://159.75.85.63:35455/huya/11336726?cdn=hwcdn
-▶️爱情公寓dy,http://tv.wuzhij.com/douyu/6863367
-
-▶️欢乐颂,http://tv.wuzhij.com/douyu/3756989
-▶️好先生,http://tv.wuzhij.com/douyu/9650792
-▶️生逢灿烂的日子,http://live.iill.top/yy.php?id=1382745085
-
-▶️士兵突击,http://159.75.85.63:35455/huya/11342430?cdn=hwcdn
-
-▶️邻里一家亲,http://159.75.85.63:35455/huya/11342426?cdn=txcdn
-▶️邻里一家亲,http://159.75.85.63:35455/huya/11342426?cdn=hwcdn
-▶️鬼吹灯之怒晴湘西,http://159.75.85.63:35455/huya/11602075?cdn=txcdn
-▶️鬼吹灯之怒晴湘西,http://159.75.85.63:35455/huya/11602075?cdn=hwcdn
-▶️鬼吹灯之龙岭迷窟,http://159.75.85.63:35455/huya/29465863?cdn=hscdn
-▶️鬼吹灯之龙岭迷窟,http://159.75.85.63:35455/huya/29465863?cdn=hwcdn
-▶️鬼吹灯之昆仑神宫,http://159.75.85.63:35455/huya/11601957?cdn=txcdn
-▶️鬼吹灯之昆仑神宫,http://159.75.85.63:35455/huya/11601957?cdn=hwcdn
-▶️鬼吹灯之云南虫谷,http://159.75.85.63:35455/huya/11352898?cdn=txcdn
-▶️鬼吹灯之南海归墟,http://159.75.85.63:35455/huya/11352883?cdn=txcdn
-▶️鬼吹灯之南海归墟,http://159.75.85.63:35455/huya/11352883?cdn=hwcdn
-▶️使徒行者,http://159.75.85.63:35455/huya/23734256?cdn=txcdn
-
-▶️法证先锋Ⅲ,http://159.75.85.63:35455/huya/23863804?cdn=txcdn
-▶️法证先锋Ⅳ,http://159.75.85.63:35455/huya/23829543?cdn=txcdn
-▶️刑事侦缉档案,http://m.wuzhij.com/huya.php?id=23734169&cdn=txcdn
-▶️刑事侦缉档案,http://159.75.85.63:35455/huya/23734169?cdn=txcdn
-▶️刑事侦缉档案,http://159.75.85.63:35455/huya/23734169?cdn=hwcdn
-▶️鉴证实录,http://m.wuzhij.com/huya.php?id=23903183
-▶️鉴证实录,http://159.75.85.63:35455/huya/23903183?cdn=hwcdn
-▶️扫黄先锋,http://m.wuzhij.com/huya.php?id=23903196
-▶️扫黄先锋,http://159.75.85.63:35455/huya/23903196?cdn=hwcdn
-▶️陀枪师姐,http://m.wuzhij.com/huya.php?id=23860039
-▶️陀枪师姐,http://159.75.85.63:35455/huya/23860039?cdn=txcdn
-▶️陀枪师姐,http://159.75.85.63:35455/huya/23860039?cdn=hwcdn
-▶️创世纪,http://m.wuzhij.com/huya.php?id=23749083
-▶️创世纪,http://159.75.85.63:35455/huya/23749083?cdn=hwcdn
-▶️大时代,http://159.75.85.63:35455/huya/23865161?cdn=hwcdn
-▶️新水浒传11版,https://live.metshop.top/huya/11342384?cdn=txcdn
-▶️笑傲江湖吕颂贤版,https://live.metshop.top/huya/23865142?cdn=txcdn
-▶️倚天屠龙记吴启华版,https://live.metshop.top/huya/23734246?cdn=txcdn
-▶️新三国,https://live.metshop.top/huya/11352944?cdn=txcdn
-▶️雍正王朝,https://live.metshop.top/huya/11342439?cdn=txcdn
-▶️封神榜陈浩民版,https://live.metshop.top/huya/23749096?cdn=txcdn
-▶️少年张三丰,https://live.metshop.top/huya/26355824?cdn=txcdn
-▶️倚天屠龙记,https://live.metshop.top/huya/11342403?cdn=txcdn
-▶️花千骨,https://live.metshop.top/huya/26355839?cdn=txcdn
-▶️延禧攻略,https://live.metshop.top/huya/26355864?cdn=txcdn
-▶️爱情公寓,https://live.metshop.top/huya/11336726?cdn=txcdn
-▶️邻里一家亲,https://live.metshop.top/huya/11342426?cdn=txcdn
-▶️鬼吹灯之云南虫谷,https://live.metshop.top/huya/11352898?cdn=txcdn
-▶️鬼吹灯之南海归墟,https://live.metshop.top/huya/11352883?cdn=txcdn
-▶️鉴证实录,https://live.metshop.top/huya/23903183?cdn=txcdn
-▶️陀枪师姐,https://live.metshop.top/huya/23860039?cdn=txcdn
-▶️创世纪,https://live.metshop.top/huya/23749083?cdn=txcdn
-
-
-
-
-
-
-🐉重温经典电影🐉,#genre#
 醉拳,https://txmov2.a.kwimgs.com/upic/2021/09/30/18/BMjAyMTA5MzAxODM1NTFfMTI0MzE0NjMyOF81ODEwNDc3MzAzOF8yXzM=_b_B1b01bbe5b567f842b3de0b78109d1907.mp4
 醉拳,https://vip.ffzy-play7.com/20230202/13070_b42acba9/index.m3u8
 双龙会,https://alimov2.a.kwimgs.com/upic/2021/10/01/19/BMjAyMTEwMDExOTA1MDVfMTI0MzE0NjMyOF81ODE5NzY0NzAyOF8yXzM=_b_B6eb284159f267349ab21b64feb3d48ce.mp4
@@ -3936,76 +3778,80 @@ AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 靖天电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv061
-电影-星爷,http://159.75.85.63:35455/huya/11342412
-电影-英叔,http://159.75.85.63:35455/huya/11342421
-电影-发哥,http://159.75.85.63:35455/huya/11342387
-电影-成龙,http://159.75.85.63:35455/huya/11342386
-电影-王晶,http://159.75.85.63:35455/huya/11602058
-电影-沈腾,http://159.75.85.63:35455/huya/11601968
-电影-黄渤,http://159.75.85.63:35455/huya/11352876
-电影-强森,http://159.75.85.63:35455/huya/21059581
-电影-漫威,http://159.75.85.63:35455/huya/11602034
-电影-宇宙,http://159.75.85.63:35455/huya/11342428
-电影-怪兽,http://159.75.85.63:35455/huya/21059577
-电影-武侠,http://159.75.85.63:35455/huya/11342427
-电影-警匪,http://159.75.85.63:35455/huya/11352886
-电影-罪犯,http://159.75.85.63:35455/huya/11352962
-电影-枪战,http://159.75.85.63:35455/huya/21059579
-电影-海盗,http://159.75.85.63:35455/huya/21059595
-电影-赛车,http://159.75.85.63:35455/huya/11279247
-电影-推荐,http://159.75.85.63:35455/huya/11602041
-电影-救援,http://159.75.85.63:35455/huya/21059594
-电影-热血,http://159.75.85.63:35455/huya/11352934
-电影-盗墓,http://159.75.85.63:35455/huya/21059552
-电影-贺岁,http://159.75.85.63:35455/huya/11601971
-电影-玄幻,http://159.75.85.63:35455/huya/11342414
-电影-谍战,http://159.75.85.63:35455/huya/21059585
-电影-战争,http://159.75.85.63:35455/huya/21059592
-电影-喜剧,http://159.75.85.63:35455/huya/11352877
-电影-港片,http://159.75.85.63:35455/huya/11602043
-电影-国产,http://159.75.85.63:35455/huya/11352973
-电影-周星星,http://159.75.85.63:35455/huya/11336587
-电影-李连杰,http://159.75.85.63:35455/huya/11342390
-电影-洪金宝,http://159.75.85.63:35455/huya/11279251
-电影-梁家辉,http://159.75.85.63:35455/huya/11342429
-电影-许冠英,http://159.75.85.63:35455/huya/11601972
-电影-刘德华,http://159.75.85.63:35455/huya/11342424
-电影-斯坦森,http://159.75.85.63:35455/huya/21059588
-电影-小鬼头,http://159.75.85.63:35455/huya/11352963
-电影-八点档,http://159.75.85.63:35455/huya/880261
-电影-蜘蛛侠,http://159.75.85.63:35455/huya/21059599
-电影-贺岁片,http://159.75.85.63:35455/huya/11601986
-电影-功夫片,http://159.75.85.63:35455/huya/11352941
-电影-黑帮片,http://159.75.85.63:35455/huya/11336719
-电影-丧尸片,http://159.75.85.63:35455/huya/21059578
-电影-灾难片,http://159.75.85.63:35455/huya/11602075
-电影-谍战片,http://159.75.85.63:35455/huya/21059587
-电影-战争片,http://159.75.85.63:35455/huya/21059574
-电影-犯罪片,http://159.75.85.63:35455/huya/11352974
-电影-古装片,http://159.75.85.63:35455/huya/11336590
-电影-高分动作,http://159.75.85.63:35455/huya/11352884
-电影-动作电影,http://159.75.85.63:35455/huya/11602077
-电影-搞笑喜剧,http://159.75.85.63:35455/huya/11342423
-电影-喜剧专场,http://159.75.85.63:35455/huya/11602044
-电影-欢笑影院,http://159.75.85.63:35455/huya/11352894
-电影-不挤影院,http://159.75.85.63:35455/huya/11352897
-电影-国产悬疑,http://159.75.85.63:35455/huya/11342395
-电影-快意江湖,http://159.75.85.63:35455/huya/11342435
-电影-黑帮斗争,http://159.75.85.63:35455/huya/11342419
-电影-古墓系列,http://159.75.85.63:35455/huya/11352913
-电影-嫣然影厅,http://159.75.85.63:35455/huya/11601977
-电影-女神系列,http://159.75.85.63:35455/huya/11336571
-电影-经典女神,http://159.75.85.63:35455/huya/11352909
-电影-许氏三杰,http://159.75.85.63:35455/huya/11602033
-电影-经典港片,http://159.75.85.63:35455/huya/11352965
-电影-镖行天下,http://159.75.85.63:35455/huya/11352969
-电影-高能反转,http://159.75.85.63:35455/huya/11352887
-电影-喜乐影院,http://159.75.85.63:35455/huya/21059580
-电影-蘑菇影厅,http://159.75.85.63:35455/huya/11601981
-电影-搞笑恐怖,http://159.75.85.63:35455/huya/11601960
-电影-死神来了,http://159.75.85.63:35455/huya/11352903
-电影-变形金刚,http://159.75.85.63:35455/huya/21059596
-电影-怪兽系列,http://159.75.85.63:35455/huya/21059554
+周星驰,https://live.metshop.top/huya/11342412
+李连杰,https://live.metshop.top/huya/11342390
+甄子丹,https://live.metshop.top/huya/11352935
+刘德华,https://live.metshop.top/huya/11342424
+邱淑贞,https://live.metshop.top/huya/11352949
+女神系列,https://live.metshop.top/huya/11336571
+赌片,https://live.metshop.top/huya/11342399
+bang派,https://live.metshop.top/huya/11336719
+科幻动作,https://live.metshop.top/huya/11352964
+国产喜剧,https://live.metshop.top/huya/11602044
+五福星,https://live.metshop.top/huya/11282233
+古墓系列,https://live.metshop.top/huya/11352913
+灾难电影,https://live.metshop.top/huya/11352871
+港片,https://live.metshop.top/huya/11602043
+灾难片,https://live.metshop.top/huya/11602075
+奇幻片,https://live.metshop.top/huya/16149609
+悬疑片,https://live.metshop.top/huya/16099968
+香港贺岁,https://live.metshop.top/huya/11601971
+贺岁合家欢剧场,https://live.metshop.top/huya/11602067
+恐怖片,https://live.metshop.top/huya/16741179
+历年贺岁档,https://live.metshop.top/huya/11601986
+李世民,https://live.metshop.top/huya/11336572
+港产搞笑,https://live.metshop.top/huya/11342423
+滇军抗战,https://live.metshop.top/huya/11342388
+经典女神,https://live.metshop.top/huya/11352909
+爱情公寓,https://live.metshop.top/huya/11336726
+士兵突击,https://live.metshop.top/huya/11342430
+玄幻剧场,https://live.metshop.top/huya/11342414
+联合抗日,https://live.metshop.top/huya/11352910
+三国演义,https://live.metshop.top/huya/11602081
+三国,https://live.metshop.top/huya/11352944
+新水浒传,https://live.metshop.top/huya/11342384
+神探狄仁杰2,https://live.metshop.top/huya/11342425
+神雕侠侣,https://live.metshop.top/huya/11352964
+笑傲江湖,https://live.metshop.top/huya/23865142
+埋堆堆布衣神相,https://live.metshop.top/huya/23865036
+纪晓岚,https://live.metshop.top/huya/11342396
+雍正皇帝,https://live.metshop.top/huya/11342439
+许冠英合集,https://live.metshop.top/huya/11601972
+经典港剧笑嘻嘻,https://live.metshop.top/huya/11352965
+电影_强森,https://live.metshop.top/huya/21059581
+电影_怪兽,https://live.metshop.top/huya/21059577
+电影_救援,https://live.metshop.top/huya/21059594
+电影_盗墓,https://live.metshop.top/huya/21059552
+电影_谍战,https://live.metshop.top/huya/21059585
+电影_梁家辉,https://live.metshop.top/huya/11342429
+电影_斯坦森,https://live.metshop.top/huya/21059588
+电影_小鬼头,https://live.metshop.top/huya/11352963
+电影_八点档,https://live.metshop.top/huya/880261
+电影_丧尸片,https://live.metshop.top/huya/21059578
+电影_战争片,https://live.metshop.top/huya/21059574
+电影_犯罪片,https://live.metshop.top/huya/11352974
+电影_古装片,https://live.metshop.top/huya/11336590
+电影_国产悬疑,https://live.metshop.top/huya/11342395
+电影_喜乐影院,https://live.metshop.top/huya/21059580
+电影_蘑菇影厅,https://live.metshop.top/huya/11601981
+电影_死神来了,https://live.metshop.top/huya/11352903
+电影_怪兽系列,https://live.metshop.top/huya/21059554
+鹿鼎记小春版,https://live.metshop.top/huya/23865080
+陀枪师姐,https://live.metshop.top/huya/23860039
+倚天屠龙记,https://live.metshop.top/huya/23734246
+使徒行者,https://live.metshop.top/huya/23734256
+扫黄先锋,https://live.metshop.top/huya/23903196
+电影_强森,https://live.metshop.top/huya/21059581
+电影_怪兽,https://live.metshop.top/huya/21059577
+电影_救援,https://live.metshop.top/huya/21059594
+电影_盗墓,https://live.metshop.top/huya/21059552
+电影_贺岁,https://live.metshop.top/huya/11601971
+电影_玄幻,https://live.metshop.top/huya/11342414
+电影_谍战,https://live.metshop.top/huya/21059585
+电影_港片,https://live.metshop.top/huya/11602043
+电影_李连杰,https://live.metshop.top/huya/11342390
+电影_梁家辉,https://live.metshop.top/huya/11342429
+电影_刘德华,https://live.metshop.top/huya/11342424
 
 CIBN情感影院,http://zby.xjqxz.top/zh09/live.m3u8
 CIBN动作影院,http://zby.xjqxz.top/zh04/live.m3u8
