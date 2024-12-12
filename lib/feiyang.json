@@ -1,0 +1,39 @@
+
+[
+  {
+    
+        "name": "肥羊直播源专用",
+        "list": [
+            {
+                "name": "v7-32",
+                "url": "https://8815.kstore.space/tczy/%E8%82%A5%E7%BE%8A/v7a/allinone",
+                "icon": "https://8815.kstore.space/tczy/lzxwo.jpg",
+                "version": "电视专用"
+            },
+            {
+                "name": "v8-64",
+                "url": "https://8815.kstore.space/tczy/%E8%82%A5%E7%BE%8A/v8a/allinone",
+                "icon": "https://8815.kstore.space/tczy/lzxwo.jpg",
+                "version": "手机专用"
+            }
+    ]
+  },
+  {
+    
+        "name": "肥羊直播源专用",
+        "list": [
+            {
+                "name": "v7-32",
+                "url": "https://8815.kstore.space/tczy/%E8%82%A5%E7%BE%8A/v7a/allinone",
+                "icon": "https://8815.kstore.space/tczy/lzxwo.jpg",
+                "version": "电视专用"
+            },
+            {
+                "name": "v8-64",
+                "url": "https://8815.kstore.space/tczy/%E8%82%A5%E7%BE%8A/v8a/allinone",
+                "icon": "https://8815.kstore.space/tczy/lzxwo.jpg",
+                "version": "手机专用"
+            }
+    ]
+  }
+]
