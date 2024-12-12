@@ -32,7 +32,7 @@
             "searchable": 0,
             "changeable": 0,
             "ext": "./lib/feiyang.json",
-            "jar": "./lib/app.jar"
+            "jar": "./lib/feiyang.jar"
         },
          {
             "key": "预告",
