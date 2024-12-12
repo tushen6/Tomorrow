@@ -24,6 +24,16 @@
                 "ratio": 1.511
             }
         },
+        {
+            "key": "APP商店",
+            "name": "🐏肥羊直播必备文件✅",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "./lib/feiyang.json",
+            "jar": "./lib/app.jar"
+        },
          {
             "key": "预告",
             "name": "🌴林中小屋🏡预告片",
@@ -1795,14 +1805,63 @@
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "playerType": 2
         },
-        {
-            "name": "🐏肥羊直播源",
-            "type": 3,
-            "api": "csp_Ysptp",
-            "ext": "./TV/live.txt",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
-        }
        
+       {
+      "name": "肥羊国内直播",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/tv.m3u",
+      "jar": "./lib/feiyang.jar"
+    },
+    {
+      "name": "肥羊咪咕电视直播",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/migu.m3u",
+      "jar": "./lib/feiyang.jar"
+    },
+    {
+      "name": "肥羊咪咕赛事直播",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/miguevent.m3u",
+      "jar": "./lib/feiyang.jar"
+    },
+    {
+      "name": "肥羊TPTV",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/tptv.m3u",
+      "jar": "./lib/feiyang.jar"
+    },
+    {
+      "name": "肥羊虎牙一起看",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/huyayqk.m3u?url=http://127.0.0.1:35345",
+      "jar": "./lib/feiyang.jar"
+    },
+    {
+      "name": "肥羊B站直播",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/bililive.m3u?url=http://127.0.0.1:35345",
+      "jar": "./lib/feiyang.jar"
+    },
+    {
+      "name": "肥羊斗鱼一起看",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/douyuyqk.m3u?url=http://127.0.0.1:35345",
+      "jar": "./lib/feiyang.jar"
+    },
+    {
+      "name": "肥羊YY轮播",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/yylunbo.m3u?url=http://127.0.0.1:35345",
+      "jar": "./lib/feiyang.jar"
+    }
     ],
     "flags": [
         "youku",
