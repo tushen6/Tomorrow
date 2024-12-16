@@ -324,21 +324,49 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
-    },
+    },{
+			"key": "林中的小屋6699",
+			"name": "锄头✨蓝光影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": {
+				"分类url": "https://www.6699z.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+				"分类": "电影&剧集&综艺&动漫&短剧",
+				"分类值": "1&2&3&4&58",
+				"类型": "动作片$6#喜剧片$7#爱情片$8#高分经典科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#香港剧$28#恋爱不分国度$29#台湾剧$27#美国剧$31#泰国剧$33#其它剧$35||无||无||无"
+			}
+		},
+        {
+			"key": "高清剧场",
+			"name": "高清✨蓝光影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./lib/高清剧场.json"
+		},
        {
-            "key": "老农影视",
-            "name": "锄头✨蓝光影视",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+			"key": "Movies",
+			"name": "Movies✨蓝光影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"ext": "./lib/Movies.json"
+		},
       {
             "key": "瓜Z影视",
             "name": "哈密瓜✨蓝光秒播",
             "type": 3,
             "api": "csp_AppGZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+         {
+            "key": "饺子影视",
+            "name": "蒸饺✨蓝光影视",
+            "type": 3,
+            "api": "csp_Jiaozi",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -382,19 +410,6 @@
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         
-        
-       {
-            "key": "糯米弹幕",
-            "name": "饭团✨蓝光影视",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
         {
             "key": "文才弹幕",
             "name": "文才✨蓝光影视",
