@@ -353,6 +353,36 @@
 			"api": "csp_XBPQ",
 			"ext": "./lib/Movies.json"
 		},
+		{
+			"key": "鸭奈飞",
+			"name": "鸭奈飞✨蓝光资源",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./JS/鸭奈飞.js"
+		},
+		 {
+			"key": "网飞猫影视",
+			"name": "网飞猫✨蓝光影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+            "searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/网飞猫影视.json"
+		},
+		{
+			"key": "XBPQ_里里影院",
+			"name": "一起看✨蓝光影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			 "searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "./lib/一起看.json"
+		},
       {
             "key": "瓜Z影视",
             "name": "哈密瓜✨蓝光秒播",
@@ -1527,41 +1557,14 @@
                 }
             }
         },
+        {
+      "name": "🌲林中小屋🏡4k解析",
+      "type": 1,
+      "url": "http://110.40.85.39:81/jxxx/api.php?url="
+    },
+        
          {
-            "name": "🌲林中小屋🏡推荐①",
-            "type": "1",
-            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=",
-            "ext": {
-                "flag": [
-                    "youku",
-                    "qq",
-                    "qiyi",
-                    "bilibili",
-                    "mgtv",
-                    "pptv",
-                    "xigua",
-                    "NBY",
-                    "ETH-",
-                    "BBA",
-                    "TX",
-                    "MXTV",
-                    "mytv",
-                    "nmys",
-                    "yhdm",
-                    "BNNB",
-                    "letu",
-                    "DJWB",
-                    "DJWX",
-                    "DJWT",
-                    "duanju"
-                ],
-                "header": {
-                    "User-Agent": "Dalvik/2.1.0"
-                }
-            }
-        },
-         {
-            "name": "🌲林中小屋🏡推荐②",
+            "name": "🌲林中小屋🏡解析线路①",
             "type": 1,
             "url": "https://jxjson.icu/neibu.php?url=",
             "ext": {
@@ -1590,40 +1593,44 @@
             }
         },
       
-        {
-      "name": "🌲林中小屋🏡解析",
-      "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
-      "flag": [
-        "youku",
-        "qq",
-        "qiyi",
-        "bilibili",
-        "mgtv",
-        "pptv",
-        "xigua"
-      ],
-      "header": {
-        "User-Agent": "Dalvik/2.1.0"
-      },
-      "type": "1"
-    },
+     
     {
-      "name": "🌲林中的小屋🏡专用解析",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
-        {
-            "name": "🌴林中小屋🏡线路1",
-            "type": 1,
+            "name": "🌲林中小屋🏡解析线路②",
+            "type": 0,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "imgo",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
                 "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                    "User-Agent": "okhttp/4.1.0"
                 }
             }
         },
+      {
+			"name": "🌲林中小屋🏡解析线路③",
+			"type": 1,
+			"url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+		},
          {
-      "name": "🌲林中小屋🏡①",
+      "name": "🌲林中小屋🏡解析线路④",
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
       "ext": {
@@ -1648,48 +1655,8 @@
           "NetFilx"
         ]
       }
-    },
-        {
-            "name": "🌴林中小屋🏡线路2",
-            "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
-            "flag": [
-                "mgtv"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            },
-            "type": "1"
-        },
-        {
-            "name": "🌴林中小屋🏡线路3",
-            "type": 1,
-            "url": "https://jx.quankan.app/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
-        },
-        {
-            "name": "🌴林中小屋🏡线路4",
-            "type": 1,
-            "url": "https://jx.yparse.com/index.php?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
-        },
-        {
-            "name": "🌴林中小屋🏡线路5",
-            "type": 1,
-            "url": "https://jx.jsonplayer.com/player/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
-        }
+    }
+       
     ],
     "rules": [
         {
