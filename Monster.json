@@ -1496,75 +1496,8 @@
       "type": 2,
       "url": "Sequence"
     },
-     {
-            "name": "公众号:林中的小屋",
-            "type": 1,
-            "url": "http://1.94.221.189:88/algorithm.php?url=",
-            "ext": {
-                "flag": [
-                    "公众号:林中的小屋",
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
-        {
-      "name": "🌲林中小屋🏡4k解析",
-      "type": 1,
-      "url": "http://110.40.85.39:81/jxxx/api.php?url="
-    },
-        
-         {
-            "name": "🌲林中小屋🏡解析线路①",
-            "type": 1,
-            "url": "https://jxjson.icu/neibu.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
-      
-     
     {
-            "name": "🌲林中小屋🏡解析线路②",
+            "name": "🌲林中小屋🏡解析线路①",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
@@ -1589,17 +1522,14 @@
                     "哔哩"
                 ],
                 "header": {
-                    "User-Agent": "okhttp/4.1.0"
+                    "User-Agent": "okhttp/4.9.1"
                 }
             }
         },
-      {
-			"name": "🌲林中小屋🏡解析线路③",
-			"type": 1,
-			"url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
-		},
+       
+   
          {
-      "name": "🌲林中小屋🏡解析线路④",
+      "name": "🌲林中小屋🏡解析线路②",
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
       "ext": {
