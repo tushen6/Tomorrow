@@ -306,7 +306,17 @@
             "quickSearch": 1,
             "filterable": 1
         },
-     
+     {
+			"key": "视觉",
+			"name": "视觉🎋蓝光秒播",
+			"type": 3,
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"api": "./py/shijue.py",
+			"playerType": 2,
+			"filterable": 1
+		},
   
         {
 			"key": "高清剧场",
@@ -1707,7 +1717,7 @@
     ],
     "lives": [
         {
-            "name": "🌴林中小屋🏡直播源①",
+            "name": "🌴林中小屋🏡直播源",
             "type": 0,
             "url": "./TV/zby.txt",
             "playerType": 2,
@@ -1716,20 +1726,20 @@
             "logo": "https://8815.kstore.space/tczy/lzdxw.png"
         },
         {
-            "name": "🌲林中小屋🏡直播源②",
+            "name": "🎓各平台直播合集",
             "type": 0,
             "url": "https://tv.iill.top/m3u/Gather",
             "playerType": 2
         },
         {
-            "name": "🔰范明明直播源",
+            "name": "🔰范明明IPV6直播",
             "type": 0,
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "playerType": 2
         },
        
        {
-      "name": "肥羊国内直播",
+      "name": "🐏肥羊国内直播",
       "type": 3,
       "api": "csp_Feiyang",
       "ext": "http://127.0.0.1:35345/tv.m3u",
@@ -1737,28 +1747,28 @@
     },
    
     {
-      "name": "肥羊虎牙一起看",
+      "name": "🐏肥羊虎牙一起看",
       "type": 3,
       "api": "csp_Feiyang",
       "ext": "http://127.0.0.1:35345/huyayqk.m3u?url=http://127.0.0.1:35345",
       "jar": "./lib/feiyang.jar"
     },
     {
-      "name": "肥羊B站直播",
+      "name": "🐏肥羊B站直播",
       "type": 3,
       "api": "csp_Feiyang",
       "ext": "http://127.0.0.1:35345/bililive.m3u?url=http://127.0.0.1:35345",
       "jar": "./lib/feiyang.jar"
     },
     {
-      "name": "肥羊斗鱼一起看",
+      "name": "🐏肥羊斗鱼一起看",
       "type": 3,
       "api": "csp_Feiyang",
       "ext": "http://127.0.0.1:35345/douyuyqk.m3u?url=http://127.0.0.1:35345",
       "jar": "./lib/feiyang.jar"
     },
     {
-      "name": "肥羊YY轮播",
+      "name": "🐏肥羊YY轮播",
       "type": 3,
       "api": "csp_Feiyang",
       "ext": "http://127.0.0.1:35345/yylunbo.m3u?url=http://127.0.0.1:35345",
