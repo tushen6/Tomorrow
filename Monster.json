@@ -7,7 +7,7 @@
     "sites": [
          {
       "key": "lzxw_豆瓣",
-      "name": "💯豆瓣影视推荐",
+      "name": "💢豆瓣影视推荐💢",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -24,17 +24,7 @@
                 "ratio": 1.511
             }
         },
-        {
-            "key": "APP商店",
-            "name": "🐏肥羊直播必备文件✅",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./lib/feiyang.json",
-            "jar": "./lib/feiyang.jar"
-            
-        },
+       
          {
             "key": "预告",
             "name": "🌴林中小屋🏡预告片",
@@ -42,19 +32,13 @@
             "api": "csp_YGP",
             "searchable": 0
         },
-        {
-            "key": "B站",
+       
+          {
+            "key": " bili_哔哩",
             "name": "🅱️哔哩哔哩✨资源大全",
             "type": 3,
-            "api": "csp_Bili",
-            "jar": "./lib/pg.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "json": "./lib/B站.json",
-                "cookie": ""
-            }
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/我的哔哩.js"
         },
         {
             "key": "西瓜视频",
@@ -62,24 +46,56 @@
             "type": 3,
             "api": "csp_AmuXiguaV2",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 0,
-            "changeable": 0,
+            "changeable": 1,
             "style": {
                 "type": "rect",
                 "ratio": 1.597
             }
         },
-     {
-            "key": "直播转点播",
-            "name": "📺IPTV直播丨超多线路",
+    {
+            "key": "菜狗",
+            "name": "🐻‍❄️影视大全🐻‍❄️蓝光秒播",
             "type": 3,
-            "searchable": 0,
-            "api": "./lib/zb.js",
-            "ext": "./lib/zb.json"
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/sogou.js"
         },
       
-         
+         {
+      "key": "ppx4k",
+      "name": "🦐皮皮虾✨4K资源",
+      "type": 3,
+      "playerType":2,
+      "api": "./JS/AppYsV2.js",
+      "ext": {
+      "host": "http://38.55.250.149:1314/api.php/app/",
+         "*": [
+            "http://45.207.215.101:5423/index.php?url="
+              ],
+       "header": {
+            "User-Agent": "okhttp/3.12.11"
+             }
+           }       
+    },     
+     {
+            "key": "🌲林中小屋🏡",
+            "name": "🌈4K秒播🐧极致画质",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/林中小屋.js"
+        },
+         {
+            "key": "林中的小屋",
+            "name": "🌈4K秒播🥭极致画质",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/mgtv4K.js"
+        },
         {
             "key": "玩偶弹幕",
             "name": "💯4K玩偶丨臻享HDR",
@@ -288,6 +304,7 @@
                 "danmu": true
             }
         },
+        
          {
             "key": "瓜子｜影视",
             "name": "瓜子✨蓝光秒播",
@@ -317,7 +334,27 @@
 			"playerType": 2,
 			"filterable": 1
 		},
-  
+		   {
+            "key": "骚火",
+            "name": "骚火✨蓝光影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/骚火.json"
+        },
+        
+  {
+            "key": "1905",
+            "name": "1905✨经典影视",
+            "type": 3,
+            "api": "csp_Web1905",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+       
         {
 			"key": "高清剧场",
 			"name": "高清✨蓝光影视",
@@ -332,6 +369,29 @@
 			"api": "csp_XBPQ",
 			"ext": "./lib/Movies.json"
 		},
+		
+          {
+            "key": "布蕾",
+            "name": "布蕾✨蓝光影视",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 1,
+            "ext": "./JS/bulei.js"
+        },
+         {
+            "key": "可可影视",
+            "name": "可可✨蓝光影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/可可影视.json"
+        },
 		{
 			"key": "鸭奈飞",
 			"name": "鸭奈飞✨蓝光资源",
@@ -509,16 +569,7 @@
             "filterable": 1
         },
         
-        {
-            "key": "可可影视",
-            "name": "可可✨蓝光影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/可可影视.json"
-        },
+       
          {
             "key": "全网影视",
             "name": "神荼✨蓝光影视",
@@ -615,16 +666,7 @@
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/熊大.js"
         },
-        {
-            "key": "骚火",
-            "name": "骚火✨蓝光影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/骚火.json"
-        },
+     
        
         {
             "key": "追剧网",
@@ -655,15 +697,7 @@
             "filterable": 1,
             "ext": "./lib/moli.json"
         },
-       {
-            "key": "1905",
-            "name": "1905✨经典影视",
-            "type": 3,
-            "api": "csp_Web1905",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },
+       
        
         {
             "key": "55看",
@@ -1506,29 +1540,142 @@
       "type": 2,
       "url": "Sequence"
     },
-    {
-            "name": "🌲林中小屋🏡解析线路①",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
+            {
+            "name": "🌲林中小屋🏡推荐",
+            "type": 1,
+            "url": "http://1.94.221.189:88/algorithm.php?url=",
             "ext": {
                 "flag": [
                     "qq",
                     "腾讯",
+                    "公众号:林中的小屋",
                     "qiyi",
                     "爱奇艺",
                     "奇艺",
                     "youku",
                     "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
                     "mgtv",
                     "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+     {
+      "name": "🌲林中小屋🏡解析线路①",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+      "ext": {
+        "flag": [
+                    "qq",
+                    "腾讯",
+                    "腾 讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "爱 奇 艺", 
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "优 酷",
+                    "mgtv",
+                    "芒果",
+                    "芒 果T V",
                     "imgo",
                     "letv",
                     "乐视",
+                    "乐 视",
+                    "咪 咕 视 频",
                     "pptv",
                     "PPTV",
+                    "C N T V",
                     "sohu",
                     "bilibili",
                     "哔哩哔哩",
+                    "哔 哩 哔 哩",
+                    "哔哩"
+                ]
+      }
+    },
+    {
+            "name": "🌲林中小屋🏡解析线路②",
+            "type": 1,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "腾 讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "爱 奇 艺", 
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "优 酷",
+                    "mgtv",
+                    "芒果",
+                    "芒 果T V",
+                    "imgo",
+                    "letv",
+                    "leshi",
+                    "乐视",
+                    "乐 视",
+                    "咪 咕 视 频",
+                    "pptv",
+                    "PPTV",
+                    "C N T V",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔 哩 哔 哩",
+                    "哔哩"
+            
+                ],
+                "header": {
+                    "User-Agent": "okhttp/5.1.0"
+                }
+            }
+        },
+        {
+            "name": "🌲林中小屋🏡解析线路③",
+            "type": 1,
+            "url": "https://jxjson.icu/neibu.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "腾 讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "爱 奇 艺", 
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "优 酷",
+                    "mgtv",
+                    "芒果",
+                    "芒 果T V",
+                    "imgo",
+                    "letv",
+                    "乐视",
+                    "乐 视",
+                    "咪 咕 视 频",
+                    "pptv",
+                    "PPTV",
+                    "C N T V",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔 哩 哔 哩",
                     "哔哩"
                 ],
                 "header": {
@@ -1536,35 +1683,45 @@
                 }
             }
         },
-       
-   
-         {
-      "name": "🌲林中小屋🏡解析线路②",
-      "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905",
-          "NetFilx"
-        ]
-      }
-    }
+       {
+      "name": "🌲林中小屋🏡解析线路④",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jx/jx.php?url="
+    },
+   {
+      "name": "🌲林中小屋🏡解析线路⑤",
+      "type": 0,
+      "url": "https://www.8090g.cn/jiexi/?url="
+    },
+        {
+			"name": "🌲林中小屋🏡解析线路⑥",
+			"type": 0,
+			"url": "https://jx.hls.one/?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"tnmb",
+					"seven",
+					"bilibili",
+					"1905"
+				],
+				"header": {
+					"User-Agent": "User-Agent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36"
+				}
+			}
+		}
        
     ],
     "rules": [
@@ -1716,64 +1873,36 @@
         }
     ],
     "lives": [
-        {
+           {
             "name": "🌴林中小屋🏡直播源",
             "type": 0,
             "url": "./TV/zby.txt",
-            "playerType": 2,
+            "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "https://live.fanmingming.com/e.xml",
             "logo": "https://8815.kstore.space/tczy/lzdxw.png"
         },
-        {
-            "name": "🎓各平台直播合集",
+    {
+            "name": "🐻‍❄️IPV6直播源",
             "type": 0,
-            "url": "https://tv.iill.top/m3u/Gather",
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/IPTV.m3u",
             "playerType": 2
         },
-        {
-            "name": "🔰范明明IPV6直播",
+       {
+            "name": "🦜范明明IPV6ZB",
             "type": 0,
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "playerType": 2
         },
+        {
+            "name": "🎓各平台ZB合集",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/Live",
+            "playerType": 2
+        }
+        
        
-       {
-      "name": "🐏肥羊国内直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "ext": "http://127.0.0.1:35345/tv.m3u",
-      "jar": "./lib/feiyang.jar"
-    },
-   
-    {
-      "name": "🐏肥羊虎牙一起看",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "ext": "http://127.0.0.1:35345/huyayqk.m3u?url=http://127.0.0.1:35345",
-      "jar": "./lib/feiyang.jar"
-    },
-    {
-      "name": "🐏肥羊B站直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "ext": "http://127.0.0.1:35345/bililive.m3u?url=http://127.0.0.1:35345",
-      "jar": "./lib/feiyang.jar"
-    },
-    {
-      "name": "🐏肥羊斗鱼一起看",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "ext": "http://127.0.0.1:35345/douyuyqk.m3u?url=http://127.0.0.1:35345",
-      "jar": "./lib/feiyang.jar"
-    },
-    {
-      "name": "🐏肥羊YY轮播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "ext": "http://127.0.0.1:35345/yylunbo.m3u?url=http://127.0.0.1:35345",
-      "jar": "./lib/feiyang.jar"
-    }
+    
     ],
     "flags": [
         "youku",
@@ -1806,6 +1935,25 @@
         "imgo",
         "芒果TV",
         "芒 果 T V",
+            "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "migu",
+    "migo",
+    "alivc",
+    "1905",
+    "douyin",
+    "xigua",
+    "leshi",
+    "bilibili",
+    "renrenmi",
         "bilibili",
         "哔 哩",
         "哔 哩 哔 哩"
