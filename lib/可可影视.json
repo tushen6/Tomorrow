@@ -1,12 +1,8 @@
 {
-    "简介": "detail-desc\">&&</div>",
-    "数组": "module-item\">&&</a></div>",
-    "标题": "title=\"&&\"",
-    "副标题": "可可影视提供*>&&</div>",
-    "图片": "https://vres.jxlfl.cn/vod1+data-original=\"/vod1&&\"",
-    "线路数组": "影视提供&&</a>",
-    "播放数组": "episode-list&&</div>",
-    "搜索url": "https://www.keke1.app/search?os=pc&k={wd}",
-    "分类url": "https://www.keke1.app/show/{cateId}-{class}-{area}--{year}-1-{catePg}.html;;d0",
-    "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$6"
+    "简介": "detail-content\" style=*>&&</span>",
+    "数组": "stui-vodlist__box\">&&</div></div>",
+    "副标题": "pic-text text-right\">&&</span>",
+    "播放列表": "<a&&</a>",
+    "分类url": "https://www.kmxibanyayu.com/vs/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+    "分类": "短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"
 }
