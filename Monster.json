@@ -7,7 +7,7 @@
     "sites": [
          {
       "key": "lzxw_豆瓣",
-      "name": "💢豆瓣影视推荐💢",
+      "name": "🌳公众号:林中的小屋丨豆瓣影视推荐",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -1877,7 +1877,7 @@
             "name": "🌴林中小屋🏡直播源",
             "type": 0,
             "url": "./TV/zby.txt",
-            "playerType": 1,
+            "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://live.fanmingming.com/e.xml",
             "logo": "https://8815.kstore.space/tczy/lzdxw.png"
@@ -1891,7 +1891,7 @@
        {
             "name": "🦜范明明IPV6ZB",
             "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
             "playerType": 2
         },
         {
