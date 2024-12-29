@@ -3,7 +3,7 @@
 # TVBox自用资源
 
 自用多仓订阅地址：此资源需软件支持多仓
-https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/dc.json
+https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json
 
 自用单仓订阅地址：
 https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/Monster.json
