@@ -1,4 +1,17 @@
-//以下资源仅做测试、学习使用，请勿用于不正当用途
+//searchable:搜索开关	0:关闭；1:启用
+//filterable:筛选开关		0:关闭；1:启用
+//changeable:换源开关	0:关闭；1:启用
+//playerType:播放器类型	1:IJK；2:EXO
+//采集接口类型		0:xml；1:json
+//parses解析类型		0，嗅探，自带播放器；1，解析，返回直链
+//其他说明ua:用户代理,epg:节目网址,logo:台标网址,boot:是否自动开启
+//以下资源不能保证内容的合法性、准确性、完整性和有效性，请根据情况自行判断。
+//仅用于测试和学习研究，禁止用于商业用途，不得将其用于违反国家、地区、组织等的法律法规或相关规定的其他用途。
+//使用任何第三方硬件、软件、所造成的一切后果由使用的个人或组织承担，与本文内容无关。
+//所有直接或间接使用本内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本文内容。
+//所有基于本内容的源代码，进行的任何修改，为其他个人或组织的自发行为，与本内容没有任何直接或间接的关系，所造成的一切后果亦与本内容和本管理者无关。
+//本管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、转载、发布、修改了本文内容，则视为您已接受此免责声明。否则后果自负。
+
 
 {
     "spider": "./lzxw.php",
@@ -7,7 +20,7 @@
     "sites": [
          {
       "key": "lzxw_豆瓣",
-      "name": "🌳公众号:林中的小屋丨豆瓣影视推荐",
+      "name": "⁽⁽ଘ😇ଓ⁾⁾公众号:林中的小屋丨豆瓣影视推荐",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -27,7 +40,7 @@
        
          {
             "key": "预告",
-            "name": "🌴林中小屋🏡预告片",
+            "name": "即将上映💞预告片",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0
@@ -55,7 +68,7 @@
             }
         },
     
-      
+       
          {
       "key": "ppx4k",
       "name": "🦐皮皮虾✨4K资源",
@@ -90,6 +103,15 @@
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/mgtv4K.js"
         },
+           {
+      "key": "逸动",
+      "name": "⚗️4K逸动✨极速秒播",
+      "type": 3,
+      "jar": "./jar/YD.jar",
+      "api": "csp_YDjisu",
+      "searchable": 1,
+      "changeable": 1
+    },
         {
             "key": "玩偶弹幕",
             "name": "💯4K玩偶丨臻享HDR",
@@ -348,7 +370,19 @@
             "quickSearch": 1,
             "filterable": 1
         },
-       
+             {
+            "key": "浪ku",
+            "name": "L酷✨蓝光影视",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "site": "aHR0cDovL3YubGt1eXMuY24="
+            }
+        },
         {
 			"key": "高清剧场",
 			"name": "高清✨蓝光影视",
@@ -363,7 +397,23 @@
 			"api": "csp_XBPQ",
 			"ext": "./lib/Movies.json"
 		},
-		
+		{
+      "key": "ikanbot",
+      "name": "ikanbot✨蓝光影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/ik.js"
+    },
+		{
+            "key": "韩小圈",
+            "name": "韩小圈✨资源大全",
+            "type": 3,
+            "api": "csp_HanXiaoQuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
           {
             "key": "布蕾",
             "name": "布蕾✨蓝光影视",
@@ -416,6 +466,23 @@
 			"filterable": 1,
 			"ext": "./lib/一起看.json"
 		},
+         {
+            "key": "红狐狸影视",
+            "name": "红狐狸✨蓝光影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+            }
+        },
+         {
+            "key": "爱电影",
+            "name": "爱电影✨蓝光影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext":"./lib/爱电影.json"
+        },
       {
             "key": "瓜Z影视",
             "name": "哈密瓜✨蓝光秒播",
@@ -434,24 +501,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-     {
-      "key": "雷电",
-      "name": "雷电✨蓝光秒播",
-      "type": 3,
-      "api": "csp_Slys",
-      "playerType": 1,
-     "jar": "./jar/laohu1030.jar",
-      "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="
-    },
-    {
-      "key": "柠檬",
-      "name": "柠檬✨蓝光秒播",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "./jar/laohu1030.jar",
-      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
-    },
+    
         {
             "key": "素白白",
             "name": "素白白✨蓝光影视",
@@ -509,16 +559,17 @@
                 "danmu": true
             }
         },
-        {
-            "key": "天天弹幕",
-            "name": "天天✨蓝光秒播",
+       {
+            "key": "天天",
+            "name": "天天✨蓝光影视",
             "type": 3,
             "api": "csp_TianTian",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "danmu": true
+                "danmu": true,
+                "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
             }
         },
         {
@@ -662,24 +713,7 @@
         },
      
        
-        {
-            "key": "追剧网",
-            "name": "追剧网✨蓝光无广",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
-            "ext": "./lib/zjw.json"
-        },
-        {
-            "key": "剧集",
-            "name": "剧集✨蓝光影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/juji.json"
-        },
+        
        
         {
             "key": "HDmoli",
@@ -706,6 +740,7 @@
             "type": 3,
             "api": "csp_HanXiaoQuan",
             "searchable": 1,
+            "jar": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt",
             "quickSearch": 1,
             "filterable": 1
         },
@@ -724,13 +759,7 @@
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/追剧迷.js"
         },
-        {
-            "key": "茶杯狐",
-            "name": "茶杯狐✨采集资源",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/茶杯狐.js"
-        },
+       
         {
             "key": "魔力高清",
             "name": "魔力✨高清资源",
@@ -845,13 +874,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "蓝莓短剧",
-            "name": "蓝莓⚗️短剧秒播",
-            "type": 3,
-            "api": "./JS/dz.min.js",
-            "ext": "./JS/lanmei.js"
-        },
+       
         {
             "key": "你好帅",
             "name": "好帅⚗️短剧秒播",
@@ -859,37 +882,8 @@
             "api": "csp_XBPQ",
             "ext": "./lib/好帅短剧.json"
         },
-         {
-            "key": "无忧短剧",
-            "name": "无忧⚗️短剧资源",
-            "type": 3,
-            "api": "csp_Duanj",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            }
-        },
-        {
-            "key": "在线短剧",
-            "name": "在线⚗️短剧资源",
-            "type": 3,
-            "api": "csp_Duanju",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            }
-        },
-        {
-            "key": "天堂短剧",
-            "name": "天堂⚗️短剧资源",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/天堂短剧.js"
-        },
+       
+       
         {
             "key": "爱你短剧",
             "name": "爱你⚗️短剧资源",
@@ -910,30 +904,14 @@
             "filterable": 1,
             "ext": "./lib/河马短剧.json"
         },
-        {
-            "key": "短剧屋",
-            "name": "剧屋⚗️短剧资源",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/短剧屋.json"
-        },
-        {
-            "key": "58动漫",
-            "name": "58动漫🪅蓝光",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/58动漫.js"
-        },
       
+       
         {
             "key": "动漫巴士",
             "name": "动漫巴士🪅蓝光",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
+         
             "ext": {
                 "主页url": "https://dm84.tv/",
                 "数组": "class=\"item\"&&</div>",
@@ -946,27 +924,8 @@
                 "分类": "国产动漫$1#日本动漫$2#欧美动漫$3#电影$4"
             }
         },
-        {
-            "key": "动漫岛",
-            "name": "动漫岛岛🪅蓝光",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/动漫岛.js"
-        },
-        {
-            "key": "去看吧",
-            "name": "去看看吧🪅蓝光",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/去看吧.js"
-        },
-        {
-            "key": "奇米动漫",
-            "name": "奇米动漫🪅蓝光",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/奇米动漫.js"
-        },
+        
+      
         {
             "key": "怡萱动漫",
             "name": "怡萱动漫🪅蓝光",
@@ -1034,7 +993,7 @@
       "ext": "./JS/盘他.js",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
         {
             "key": "影搜",
@@ -1287,6 +1246,55 @@
             }
         },
          {
+            "key": "csp_Kanqiu",
+            "name": "🏀看球⚽直播汇总",
+            "type": 3,
+            "api": "csp_Kanqiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+          
+            "gridview": 3,
+            "style": {
+                "type": "list"
+            }
+        },
+         {
+            "key": "JRKAN直播",
+            "name": "🏀JRKAN球⚽直播汇总",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./JS/JRKAN直播.js"
+        },
+        {
+            "key": "88看球",
+            "name": "⚽88看球🏀直播汇总",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./JS/88看球.js"
+        },
+          {
+            "key": "csp_Kugou",
+            "name": "🐶酷狗音乐🎵免费畅听",
+            "type": 3,
+            "api": "csp_Kugou",
+            "playerType": 2,
+            "ext": {
+                "classes": [
+                    {
+                        "type_name": "酷狗",
+                        "type_id": "kugou"
+                    }
+                ]
+            }
+        },
+         {
             "key": "虎牙直播js",
             "name": "🐯虎牙💫全站直播",
             "type": 3,
@@ -1309,32 +1317,7 @@
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/哔哩直播.js"
         },
-        {
-      "key": "88js",
-      "name": "⚽ 88┃看球┃直播",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./lib/88看球.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "Jrsjs",
-      "name": "⚽ lzxw┃球迷┃直播",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./lib/看球.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+      
         {
             "key": "csp_Bili_Meinvw",
             "name": "🅱️女团💖歌舞金曲",
@@ -1505,7 +1488,7 @@
       
         {
             "key": "c",
-            "name": "请勿相信片中广告小心上当受骗！",
+            "name": "🚫请勿相信片中广告小心上当受骗！",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -1516,7 +1499,7 @@
         },
         {
             "key": "push_agent",
-            "name": "🌐推送",
+            "name": "🚫防失联关注公众号:林中的小屋",
             "type": 3,
             "api": "csp_Push",
             "searchable": 0,
@@ -1605,43 +1588,13 @@
                 ]
       }
     },
-    {
-            "name": "🌲林中小屋🏡解析线路②",
-            "type": 1,
+      {
+            "name": "🌴林中小屋🏡解析线路②",
+            "type": 0,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "腾 讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "爱 奇 艺", 
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "优 酷",
-                    "mgtv",
-                    "芒果",
-                    "芒 果T V",
-                    "imgo",
-                    "letv",
-                    "leshi",
-                    "乐视",
-                    "乐 视",
-                    "咪 咕 视 频",
-                    "pptv",
-                    "PPTV",
-                    "C N T V",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔 哩 哔 哩",
-                    "哔哩"
-            
-                ],
                 "header": {
-                    "User-Agent": "okhttp/5.1.0"
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
                 }
             }
         },
@@ -1895,9 +1848,9 @@
             "playerType": 2
         },
         {
-            "name": "🎓各平台ZB合集",
+            "name": "🔰YanG-Gather",
             "type": 0,
-            "url": "https://tv.iill.top/m3u/Live",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
             "playerType": 2
         }
         
@@ -1934,6 +1887,7 @@
         "芒果",
         "imgo",
         "芒果TV",
+        "芒 果T V",
         "芒 果 T V",
             "youku",
     "qq",
