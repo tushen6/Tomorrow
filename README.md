@@ -1,11 +1,11 @@
 ## ​<p align="center">一个开源免费无广告的TVBox配置源🏅 <p align="center">
 
-## 🔰影视自用资源
+## 🔰本仓库订阅地址
 
-自用多仓订阅地址：
+多仓订阅地址：
 https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json
 
-自用单仓订阅地址：
+单仓订阅地址：
 https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lzxw.json
 
 ## ⚙️GitHub加速站 
