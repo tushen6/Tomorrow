@@ -25,6 +25,25 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/mast
 - https://gitpr.xmcom.us.kg/
 - https://ghproxy.cn/
 
+## ✨热门(TVBox、影视仓、OK影视)配置接口
+- （1）OK ： http://ok321.top/tv
+- （2）短剧接口：http://74.120.175.78/JK/XYQTVBox/dj.json 
+- （3）俊于：http://home.jundie.top:81/top98.json 
+- （4）饭太硬：https://www.饭太硬.com/tv 
+- （5）肥猫：http://肥猫.com 
+- （6）天天开心：http://rihou.cc:55/天天开心 
+- （7）小米：https://mi.mpanso.me/DEMO.json
+- （8）摸鱼儿：http://我不是.摸鱼儿.com 
+- （9）菜妮丝：https://tvbox.cainisi.cf 
+- （10）盒子迷： https://盒子迷.top/春盈天下
+- （11）多多：https://yydsys.top/duo 
+- （12）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json 
+- （13）王二小： http://tvbox.王二小放牛娃.top
+- （14）巧技：http://pandown.pro/tvbox/tvbox.json 
+- （15）星辰：https://fmbox.cc 
+- （16）拾光：https://4708.kstore.space/omg/hollo.json 
+- （17）潇洒： https://tv.pppk.us.kg/api.json
+
 
 ## 📡LIVE直播源
 | 源名        | 链接   |
