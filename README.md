@@ -42,7 +42,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/mast
 - （14）巧技：http://pandown.pro/tvbox/tvbox.json 
 - （15）星辰：https://fmbox.cc 
 - （16）拾光：https://4708.kstore.space/omg/hollo.json 
-- （17）潇洒： https://tv.pppk.us.kg/api.json
+- （17）潇洒：https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json
 
 
 ## 📡LIVE直播源
