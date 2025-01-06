@@ -1,4 +1,4 @@
-## ​<p align="center">一个开源免费无广告的TVBox配置源🏅 <p align="center">(https://8815.kstore.space/tczy/lzxwo.jpg) ![] 
+## ​<p align="center">一个开源免费无广告的TVBox配置源🏅 <p align="center">
 
 ## 🔰影视自用资源
 
