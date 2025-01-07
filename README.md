@@ -1,4 +1,4 @@
-## ​<p align="center">一个开源免费无广告的TVBox配置源🏅 <p align="center">
+## ​<p align="center">OK影视、TVBox、影视仓配置文件，资源均来自于各路大神无私分享，如有侵权，请联系删除。🏅 <p align="center">
 
 ## 🔰本仓库订阅地址
 
