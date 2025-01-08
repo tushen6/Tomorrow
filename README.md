@@ -45,13 +45,13 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/mast
 - （17）潇洒：https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json
 
 ## 🔰影视软件下载地址
-[OK影视下载地址](https://pan.quark.cn/s/b9c8dbab0c1c)
-[蜂蜜影视下载地址](https://pan.quark.cn/s/ea748a0c876a)
-[影视仓下载地址](https://pan.quark.cn/s/b60069257e46)
-[Easybox下载地址](https://pan.quark.cn/s/44f404ca76ea)
-[Mbox下载地址](https://pan.quark.cn/s/4bece5289dce)
-[TVBox_takagen99下载地址](https://pan.quark.cn/s/8e405b3d3937)
-[影迷下载地址](https://pan.quark.cn/s/cc82f32fbca1)
+- [OK影视下载地址](https://pan.quark.cn/s/b9c8dbab0c1c)
+- [蜂蜜影视下载地址](https://pan.quark.cn/s/ea748a0c876a)
+- [影视仓下载地址](https://pan.quark.cn/s/b60069257e46)
+- [Easybox下载地址](https://pan.quark.cn/s/44f404ca76ea)
+- [Mbox下载地址](https://pan.quark.cn/s/4bece5289dce)
+- [TVBox_takagen99下载地址](https://pan.quark.cn/s/8e405b3d3937)
+- [影迷下载地址](https://pan.quark.cn/s/cc82f32fbca1)
 
 ## 📡LIVE直播源
 | 源名        | 链接   |
