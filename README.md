@@ -44,6 +44,9 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/mast
 - （16）拾光：https://4708.kstore.space/omg/hollo.json 
 - （17）潇洒：https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json
 
+## 🔰影视软件下载地址
+-[OK影视下载地址](https://pan.quark.cn/s/b9c8dbab0c1c)
+
 
 ## 📡LIVE直播源
 | 源名        | 链接   |
