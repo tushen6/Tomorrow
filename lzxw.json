@@ -68,23 +68,6 @@
             }
         },
     
-       
-         {
-      "key": "ppx4k",
-      "name": "🦐皮皮虾✨4K资源",
-      "type": 3,
-      "playerType":2,
-      "api": "./JS/AppYsV2.js",
-      "ext": {
-      "host": "http://38.55.250.149:1314/api.php/app/",
-         "*": [
-            "http://45.207.215.101:5423/index.php?url="
-              ],
-       "header": {
-            "User-Agent": "okhttp/3.12.11"
-             }
-           }       
-    },     
      {
             "key": "🌲林中小屋🏡",
             "name": "🌈4K秒播🐧极致画质",
@@ -1829,7 +1812,7 @@
            {
             "name": "🌴林中小屋🏡直播源",
             "type": 0,
-            "url": "./TV/zby.txt",
+            "url": "./TV/移动.txt",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://live.fanmingming.com/e.xml",
