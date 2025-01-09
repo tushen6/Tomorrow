@@ -56,9 +56,9 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/mast
 ## 📡LIVE直播源
 | 源名        | 链接   |
 | --------   | -----  |
-| 🌏Global直播源      | https://live.fanmingming.com/tv/m3u/global.m3u   |
-| 📺IPTV(IPV6)       |  https://live.fanmingming.com/tv/m3u/ipv6.m3u   |
-| 📻Radio电台源        |   https://live.fanmingming.com/radio/m3u/index.m3u   | 
+| 🌏Global直播源      | https://live.fanmingming.cn/tv/m3u/global.m3u   |
+| 📺IPTV(IPV6)       |  https://live.fanmingming.cn/tv/m3u/ipv6.m3u   |
+| 📻Radio电台源        |   https://live.fanmingming.cn/radio/m3u/index.m3u   | 
 
 
 ## 🫶使用说明
