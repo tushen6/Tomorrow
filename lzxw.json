@@ -1784,11 +1784,11 @@
            {
             "name": "🌴林中小屋🏡直播源",
             "type": 0,
-            "url": "./TV/移动.txt",
+            "url": "./TV/live.m3u",
             "playerType": 2,
             "ua": "okhttp/3.15",
-            "epg": "https://live.fanmingming.com/e.xml",
-            "logo": "https://8815.kstore.space/tczy/lzdxw.png"
+            "epg": "https://live.fanmingming.cn/e.xml",
+            "logo": "https://live.fanmingming.cn/tv/{name}.png"
         },
     {
             "name": "🐻‍❄️IPV6直播源",
