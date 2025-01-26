@@ -3,10 +3,10 @@
 ## 🔰本仓库订阅地址
 
 多仓订阅地址：
-https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json
 
 单仓订阅地址：
-https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lzxw.json
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lzxw.json
 
 ## ⚙️GitHub加速站 
 - https://githubraw.com/ 
