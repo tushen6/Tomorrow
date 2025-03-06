@@ -1440,45 +1440,8 @@
       "type": 2,
       "url": "Sequence"
     },
-            
-     {
-      "name": "🌲林中小屋🏡解析线路①",
-      "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
-      "ext": {
-        "flag": [
-                    "qq",
-                    "腾讯",
-                    "腾 讯",
-		 "公众号:林中的小屋",
-                    "qiyi",
-                    "爱奇艺",
-                    "爱 奇 艺", 
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "优 酷",
-                    "mgtv",
-                    "芒果",
-                    "芒 果T V",
-                    "imgo",
-                    "letv",
-                    "乐视",
-                    "乐 视",
-                    "咪 咕 视 频",
-                    "pptv",
-                    "PPTV",
-                    "C N T V",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔 哩 哔 哩",
-                    "哔哩"
-                ]
-      }
-    },
       {
-            "name": "🌴林中小屋🏡解析线路②",
+            "name": "虾米",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
@@ -1486,85 +1449,7 @@
                     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
                 }
             }
-        },
-        {
-            "name": "🌲林中小屋🏡解析线路③",
-            "type": 1,
-            "url": "https://jxjson.icu/neibu.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "腾 讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "爱 奇 艺", 
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "优 酷",
-                    "mgtv",
-                    "芒果",
-                    "芒 果T V",
-                    "imgo",
-                    "letv",
-                    "乐视",
-                    "乐 视",
-                    "咪 咕 视 频",
-                    "pptv",
-                    "PPTV",
-                    "C N T V",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔 哩 哔 哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
-       {
-      "name": "🌲林中小屋🏡解析线路④",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jx/jx.php?url="
-    },
-   {
-      "name": "🌲林中小屋🏡解析线路⑤",
-      "type": 0,
-      "url": "https://www.8090g.cn/jiexi/?url="
-    },
-        {
-			"name": "🌲林中小屋🏡解析线路⑥",
-			"type": 0,
-			"url": "https://jx.hls.one/?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "User-Agent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36"
-				}
-			}
-		}
-       
+      }
     ],
     "rules": [
         {
@@ -1715,23 +1600,8 @@
         }
     ],
     "lives": [
-           {
-            "name": "🌴林中小屋🏡直播源",
-            "type": 0,
-            "url": "./TV/live.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://live.fanmingming.cn/e.xml",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png"
-        },
-    {
-            "name": "🐻‍❄️IPV6直播源",
-            "type": 0,
-            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/IPTV.m3u",
-            "playerType": 2
-        },
        {
-            "name": "🦜范明明IPV6ZB",
+            "name": "🦜范明明",
             "type": 0,
             "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
             "playerType": 2
@@ -1742,9 +1612,6 @@
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
             "playerType": 2
         }
-        
-       
-    
     ],
     "flags": [
         "youku",
