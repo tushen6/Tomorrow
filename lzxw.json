@@ -219,7 +219,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://mogg.小胡.top",
+                "site": "https://wogg.banye.tech:7086",
                 "danmu": true
             }
         },
