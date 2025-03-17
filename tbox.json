@@ -1,0 +1,581 @@
+{
+	"sites": [{
+		"key": "douban",
+		"name": "👍豆瓣┃推荐",
+		"type": 5,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/douban.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+        "recommend": "1"
+	},{
+		"key": "ouge",
+		"name": "🏰欧歌┃网盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "夸克网盘,夸克网盘2",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/ouge.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "mogg",
+		"name": "🤹‍♂️木偶┃UC盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/mogg.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "labi",
+		"name": "🖍蜡笔┃网盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "夸克网盘,夸克网盘2",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/labi.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "mihdr",
+		"name": "💯至臻┃夸克",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "夸克网盘,夸克网盘2",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/mihdr.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "duoduo",
+		"name": "🐚多多┃网盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "夸克网盘,夸克网盘2",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/duoduo.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "xiaomi",
+		"name": "🍚小米┃UC盘",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/xiaomi.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "nanf",
+		"name": "🀁南风短剧┃夸克",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/nanf.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "cloud189",
+		"name": "🐋雷鲸┃天翼",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/189.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "bilimv",
+		"name": "🎙MV┃哔哩",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/bili.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "jcyjcy",
+		"name": "🍰囧次元┃直链",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/jcy.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+        "selectedPlayer":"0"
+	},{
+		"key": "cfkj86",
+		"name": "🥇金牌┃直链",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/jinpai.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+        "selectedPlayer":"0"
+	},{
+		"key": "kuyun",
+		"name": "☁️酷云┃直链",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "酷云APP下载:ky1080.top",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/kuyun.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+        "selectedPlayer":"0"
+	},{
+		"key": "zhuifan",
+		"name": "🚗追饭┃直链",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "SVIP4K专线2160P",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/zhuifan.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+        "selectedPlayer":"0"
+	},{
+		"key": "xiaopingguo",
+		"name": "🍎苹果┃直链",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "直播",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/xiaopingguo.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+        "selectedPlayer":"1"
+	},{
+		"key": "gzys",
+		"name": "🍉瓜子┃直链",
+		"type": 5,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/gzys.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "qiyou",
+		"name": "🌞奇优┃直链",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/qiyou.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "subaibai",
+		"name": "🌥素白白┃直链",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "国产剧,番剧",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/subaibai.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "zhenbuka",
+		"name": "🚀真不卡┃嗅探",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/soup/zhenbuka_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "6huo",
+		"name": "⌚预告片┃嗅探",
+		"type": 6,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/soup/6huo_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "zxzja",
+		"name": "🌎在线之家┃嗅探",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "百度网盘,迅雷云盘,夸克网盘",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/soup/zxzja_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "czzy",
+		"name": "🏭厂长┃嗅探",
+		"type": 3,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "国产剧",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/xbiu/czzy_xbiu.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "1"
+	},{
+		"key": "laowang",
+		"name": "🃏老王┃嗅探",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/soup/laowang_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "qnmp4",
+		"name": "7️⃣七味┃嗅探",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/soup/qnmp4_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "ysgc",
+		"name": "🏭影视工厂┃嗅探",
+		"type": 6,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/soup/ysgc_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "auete",
+		"name": "🎐auete影视┃嗅探",
+		"type": 4,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/xbiubiu/auete_xbiubiu.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "shdy2",
+		"name": "💥骚火┃嗅探",
+		"type": 4,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/xbiubiu/shdy2_xbiubiu.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "tvby02",
+		"name": "☁tvb云播┃嗅探",
+		"type": 3,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/xbiu/hktv03_XBiu.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "ntdm9",
+		"name": "🌴NT动漫┃嗅探",
+		"type": 4,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/xbiubiu/ntdm_xbiubiu.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "dm84",
+		"name": "🚌动漫巴士┃嗅探",
+		"type": 2,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/xpath/dm84_xpath.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "1"
+	},{
+		"key": "qimiqimi",
+		"name": "🍘奇米动漫┃嗅探",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/soup/qimi_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "dmand5",
+		"name": "🏝动漫岛┃嗅探",
+		"type": 6,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/soup/dmand_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "360ys",
+		"name": "3️⃣360影视┃嗅探",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "qq,youku,imgo,qiyi,bilibili1",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/360.js",
+		"flagable": 1,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "ruyizy",
+		"name": "😄如意┃资源",
+		"type": 0,
+		"searchable": 1,
+		"filterClass": "电影片,连续剧,综艺片,动漫片,伦理片,预告片",
+		"firstClass": "国产剧,香港剧,韩国剧,欧美剧,日本剧,台湾剧,国产动漫,日韩动漫,大陆综艺,港台综艺,日韩综艺,欧美综艺",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "heimuer",
+		"name": "🖤木耳┃资源",
+		"type": 1,
+		"searchable": 1,
+		"filterClass": "电影,电视剧,动漫,综艺,其它片,新马泰综艺,新马泰动漫,合集短剧,其它动漫,韩国动漫,短剧,同性片",
+		"firstClass": "国产剧,港剧,国产动漫",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://json02.heimuer.xyz/api.php/provide/vod/",
+		"flagable": 1,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
+		"key": "yunpan",
+		"name": "夸克云盘┃仅搜索",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/yunpan.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "pansou",
+		"name": "夸克盘搜┃仅搜索",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/pansou.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
+		"key": "yunpansou",
+		"name": "夸克云盘搜┃仅搜索",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.cn/https://raw.githubusercontent.com/ouhaibo1980/tBox/refs/heads/main/newjs/yunpansou.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	}],
+	"parses": [{
+		"name": "解析1",
+		"type": 0,
+		"url": "https://jx.xmflv.com/?url=",
+		"ext": {
+			"flag": ["bilibili1","qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "imgo", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+			"header": {
+				"User-Agent": "okhttp/4.1.0"
+			}
+		}
+	},{
+		"name": "解析2",
+		"type": 0,
+		"url": "https://yparse.ik9.cc/index.php?url=",
+		"ext": {
+			"flag": ["bilibili1","qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "imgo", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+			"header": {
+				"User-Agent": "okhttp/4.1.0"
+			}
+		}
+	},{
+		"name": "解析3",
+		"type": 1,
+		"url": "https://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+		"ext": {
+			"flag": ["bilibili1","qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "imgo", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+			"header": {
+				"User-Agent": "okhttp/4.1.0"
+			}
+		}
+	},{
+		"name": "mytv解析",
+		"type": 0,
+		"url": "https://pl.qcheng.cc/hktvpc.php?url=",
+		"ext": {
+			"flag": ["mytv", "mytvb"],
+			"header": {
+				"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+                "Referer": "http://www.hktv03.com/"
+			}
+		}
+	},{
+		"name": "iKun解析",
+		"type": 0,
+		"url": "https://www.ikdmjx.com/?url=",
+		"ext": {
+			"flag": ["ikm3u8"],
+			"header": {
+				"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+			}
+		}
+	},{
+		"name": "黑木耳解析",
+		"type": 0,
+		"url": "https://hoplayer.com/index.html?url=",
+		"ext": {
+			"flag": ["heimuer"],
+			"header": {
+				"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+			}
+		}
+	}],
+	"flags": ["heimuer","bilibili1","ikm3u8", "mytvb", "mytv", "youku", "优酷", "优酷视频", "qq", "腾讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "m1905", "xigua", "letv", "leshi", "乐视", "sohu", "搜狐", "搜狐视频", "tudou", "pptv", "mgtv", "芒果", "imgo", "芒果TV", "bilibili", "哔哩", "哔哩哔哩", "B站", "renrenmi", "wasu", "ltnb", "rx", "SLYS4k", "BYGA", "BYGB", "luanzi", "dxzy", "QEYSS", "aliyun", "AliS", "122", "chuangying", "CL4K", "xfyun", "wuduzy", "xmm", "xigua", "m1905", "funshion"]
+}
