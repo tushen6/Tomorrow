@@ -380,48 +380,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-          {
-            "key": "布蕾",
-            "name": "布蕾✨蓝光影视",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 1,
-            "ext": "./JS/bulei.js"
-        },
-         {
-            "key": "可可影视",
-            "name": "可可✨蓝光影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/可可影视.json"
-        },
-		{
-			"key": "鸭奈飞",
-			"name": "鸭奈飞✨蓝光资源",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./JS/鸭奈飞.js"
-		},
-		 {
-			"key": "网飞猫影视",
-			"name": "网飞猫✨蓝光影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-            "searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./lib/网飞猫影视.json"
-		},
+          
 		{
 			"key": "XBPQ_里里影院",
 			"name": "一起看✨蓝光影视",
