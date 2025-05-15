@@ -6,7 +6,7 @@
 https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json
 
 单仓订阅地址：
-https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lzxw.json
+https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json
 
 ## ⚙️GitHub加速站 
 - https://githubraw.com/ 
