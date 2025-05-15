@@ -1,0 +1,237 @@
+{
+    "spider": "./tvbox.jar",
+    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747208555707/20250514_154147.gif",
+    "wallpaper": "https://t.alcy.cc/acg",
+    "warningText": "学习使用，请勿贩卖，请加载24小时后删除，出现其他问题与作者无关，请知悉！",
+    "sites": [
+        {
+            "key": "豆瓣",
+            "name": "🍒豆瓣┃推荐",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "ext": "./lib/douban.json"
+        },
+        {
+            "key": "配置",
+            "name": "📥配置┃中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+              "style": {
+                "type": "rect",
+                "ratio": 1.537
+            }
+        },
+        {
+            "key": "低端影视",
+            "name": "🔅低端┃影视",
+            "type": 3,
+            "api": "csp_Ddys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://ddys.pro"
+            }
+        },
+        {
+            "key": "新芽短剧",
+            "name": "🌱星芽┃短剧",
+            "type": 3,
+            "api": "csp_Xydj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "巴士",
+            "name": "🚌巴士┃动漫",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "樱花",
+            "name": "🌸樱花┃动漫",
+            "type": 3,
+            "api": "csp_Yhdm",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "玩偶哥哥",
+            "name": "👽玩偶┃4K",
+            "type": 3,
+            "api": "csp_Wogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "duoduo",
+            "name": "🍓多多┃4K",
+            "type": 3,
+            "api": "csp_wozz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://tv.214521.xyz"
+            }
+        },
+        {
+            "key": "百家",
+            "name": "🍅百家┃4K",
+            "type": 3,
+            "api": "csp_wozz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "http://cj.jiexi.news"
+            }
+        },
+        {
+            "key": "奥秘",
+            "name": "🍆奥秘┃4K",
+            "type": 3,
+            "api": "csp_wozz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://vip.omii.top"
+            }
+        },
+        {
+            "key": "表哥",
+            "name": "🍉表哥┃4K",
+            "type": 3,
+            "api": "csp_wozz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "http://149.88.87.18:6688"
+            }
+        },
+        {
+            "key": "闪电",
+            "name": "⚡闪电┃4K",
+            "type": 3,
+            "api": "csp_wozz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "http://1.95.79.193"
+            }
+        },
+        {
+            "key": "二小",
+            "name": "🐮二小┃4K",
+            "type": 3,
+            "api": "csp_wozz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://erxiaofn.click"
+            }
+        },
+        {
+            "key": "下饭",
+            "name": "🍚下饭┃4K",
+            "type": 3,
+            "api": "csp_wozz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "http://154.204.177.231"
+            }
+        },
+        {
+            "key": "蜡笔",
+            "name": "🖍️蜡笔┃4K",
+            "type": 3,
+            "api": "csp_wozz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://feimaoai.site"
+            }
+        },
+        {
+            "key": "至臻",
+            "name": "💢至臻┃4K",
+            "type": 3,
+            "api": "csp_wozz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://xiaomiai.site"
+            }
+        },
+        {
+            "key": "虎斑",
+            "name": "🐯虎斑┃4K",
+            "type": 3,
+            "api": "csp_wozz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "http://103.45.162.207:20720"
+            }
+        },
+        {
+            "key": "木偶哥哥",
+            "name": "🧸木偶┃4K",
+            "type": 3,
+            "api": "csp_wozz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "http://123.666291.xyz"
+            }
+        },
+        {
+            "key": "欧哥APP",
+            "name": "🎩欧哥┃4K",
+            "type": 3,
+            "api": "csp_wozz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://woog.nxog.eu.org"
+            }
+        },
+        {
+            "key": "TianYi",
+            "name": "🌐天翼┃网盘",
+            "type": 3,
+            "api": "csp_TianYiSo",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "push_agent",
+            "name": "⛽手机┃推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "quickSearch": 0
+        }
+    ]
+}
