@@ -20,7 +20,6 @@
             "changeable": 1,
             "ext": "./lib/douban.json"
         },
-      
         {
             "key": "配置",
             "name": "📥配置┃中心",
@@ -34,19 +33,17 @@
             }
         },
         {
-      "key": "MV演唱会",
-      "name": "🎵歌曲┃MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "json": "./lib/song.json"
-      }
-    },
-      
-  
+            "key": "MV演唱会",
+            "name": "🎵歌曲┃MV",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "./lib/song.json"
+            }
+        },
         {
             "key": "低端影视",
             "name": "🌊低端┃蓝光",
@@ -60,7 +57,6 @@
                 "site": "https://ddys.pro"
             }
         },
-     
         {
             "key": "新芽",
             "name": "🌱星芽┃短剧",
