@@ -1,18 +1,26 @@
 {
     "spider": "./tvbox.jar",
-    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747208555707/20250514_154147.gif",
+    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747813141071/20250521_153801.gif",
     "wallpaper": "https://t.alcy.cc/acg",
     "warningText": "学习使用，请勿贩卖，请加载24小时后删除，出现其他问题与作者无关，请知悉！",
+    "lives": [
+        {
+            "name": "✨范明明✨",
+            "type": 0,
+            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
+        }
+    ],
     "sites": [
         {
             "key": "豆瓣",
-            "name": "😎豆瓣┃推荐",
+            "name": "🍒豆瓣┃推荐",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
             "ext": "./lib/douban.json"
         },
+      
         {
             "key": "配置",
             "name": "📥配置┃中心",
@@ -20,14 +28,28 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-              "style": {
+            "style": {
                 "type": "rect",
                 "ratio": 1.537
             }
         },
         {
+      "key": "MV演唱会",
+      "name": "🎵歌曲┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "json": "./lib/song.json"
+      }
+    },
+      
+  
+        {
             "key": "低端影视",
-            "name": "🔅低端┃影视",
+            "name": "🌊低端┃蓝光",
             "type": 3,
             "api": "csp_Ddys",
             "playerType": 2,
@@ -38,14 +60,25 @@
                 "site": "https://ddys.pro"
             }
         },
+     
         {
-            "key": "新芽短剧",
+            "key": "新芽",
             "name": "🌱星芽┃短剧",
             "type": 3,
             "api": "csp_Xydj",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "短剧库",
+            "name": "🌈短剧┃大全",
+            "type": 3,
+            "api": "csp_Djku",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 10
         },
         {
             "key": "巴士",
@@ -219,7 +252,7 @@
         },
         {
             "key": "TianYi",
-            "name": "🌐天翼┃网盘",
+            "name": "🌐天翼┃盘搜",
             "type": 3,
             "api": "csp_TianYiSo",
             "searchable": 1,
