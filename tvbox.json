@@ -37,9 +37,9 @@
             "name": "🅱️哔哩┃合集",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "ext": {
                 "json": "./lib/bili.json"
             }
