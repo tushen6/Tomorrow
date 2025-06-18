@@ -45,6 +45,49 @@
             }
         },
         {
+            "key": "企鹅体育",
+            "name": "🏆企鹅丨体育",
+            "type": 4,
+            "api": "https://catbox.n13.club/t9/qietiyu.php",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+      
+        {
+            "key": "腾",
+            "name": "🐧藤迅┃TV",
+            "type": 3,
+            "api": "./lib/腾.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+        {
+            "key": "爱",
+            "name": "🥝奇异┃TV",
+            "type": 3,
+            "api": "./lib/爱.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+        {
+            "key": "优",
+            "name": "▶️忧库┃TV",
+            "type": 3,
+            "api": "./lib/优.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+      
+        {
             "key": "低端影视",
             "name": "🌊低端┃蓝光",
             "type": 3,
@@ -58,30 +101,126 @@
             }
         },
         {
+            "key": "木耳",
+            "name": "😎木耳丨影院",
+            "type": 1,
+            "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "timeout": 15,
+            "categories": [
+                "国产剧",
+                "国产综艺",
+                "国产动漫",
+                "韩剧",
+                "日本动漫",
+                "剧情片",
+                "动作片",
+                "冒险片",
+                "喜剧片",
+                "奇幻片",
+                "恐怖片",
+                "悬疑片",
+                "惊悚片",
+                "灾难片",
+                "爱情片",
+                "犯罪片",
+                "科幻片",
+                "歌舞片",
+                "战争片",
+                "经典片",
+                "动画电影",
+                "网络电影",
+                "港剧",
+                "日剧",
+                "泰剧",
+                "台剧",
+                "欧美剧",
+                "新马剧",
+                "其他剧",
+                "港台综艺",
+                "韩国综艺",
+                "日本综艺",
+                "欧美综艺",
+                "新马泰综艺",
+                "其他综艺",
+                "古装短剧",
+                "虐恋短剧",
+                "逆袭短剧",
+                "神豪短剧",
+                "重生短剧",
+                "复仇短剧",
+                "穿越短剧",
+                "甜宠短剧",
+                "强者短剧",
+                "欧美动漫",
+                "韩国动漫",
+                "港台动漫"
+            ]
+        },
+        {
+            "key": "猎手",
+            "name": "🦅猎手丨影视",
+            "type": 3,
+            "api": "./lib/电影猎手.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+        {
+            "key": "柯南",
+            "name": "😎柯南丨影视",
+            "type": 3,
+            "api": "./lib/柯南影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+        {
+            "key": "若惜",
+            "name": "🥰若惜丨追剧",
+            "type": 3,
+            "api": "./lib/若惜追剧.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+        {
+            "key": "热播",
+            "name": "🔥热播丨影视",
+            "type": 3,
+            "api": "./lib/热播.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+        {
+            "key": "海马",
+            "name": "🐴海马丨影视",
+            "type": 3,
+            "api": "./lib/海马影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+        {
             "key": "新芽",
             "name": "🌱星芽┃短剧",
             "type": 3,
             "api": "csp_Xydj",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "短剧库",
-            "name": "🌈短剧┃大全",
-            "type": 3,
-            "api": "csp_Djku",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "timeout": 10
-        },
-        {
-            "key": "巴士",
-            "name": "🚌巴士┃动漫",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
             "changeable": 1
         },
         {
@@ -261,6 +400,28 @@
             "api": "csp_Push",
             "searchable": 0,
             "quickSearch": 0
+        }
+    ],
+    "parses": [
+        {
+            "name": "自动解析",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "超人解析",
+            "type": 3,
+            "url": "Web"
+        },
+        {
+            "name": "🦐虾米🦐",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
+                }
+            }
         }
     ]
 }
