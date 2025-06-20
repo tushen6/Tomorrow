@@ -52,7 +52,6 @@
             "searchable": 0,
             "quickSearch": 0
         },
-      
         {
             "key": "腾",
             "name": "🐧藤迅┃TV",
@@ -86,10 +85,42 @@
             "filterable": 1,
             "timeout": 60
         },
-      
+        {
+            "key": "热播",
+            "name": "🔥热播丨影视",
+            "type": 3,
+            "api": "./lib/热播.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+        {
+            "key": "天天",
+            "name": "🌤️天天丨影视",
+            "type": 3,
+            "api": "./lib/天天.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+        {
+            "key": "浪酷",
+            "name": "🌊浪酷丨影视",
+            "type": 3,
+            "api": "./lib/浪酷.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
         {
             "key": "低端影视",
-            "name": "🌊低端┃蓝光",
+            "name": "🌈低端┃蓝光",
             "type": 3,
             "api": "csp_Ddys",
             "playerType": 2,
@@ -186,17 +217,6 @@
             "name": "🥰若惜丨追剧",
             "type": 3,
             "api": "./lib/若惜追剧.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60
-        },
-        {
-            "key": "热播",
-            "name": "🔥热播丨影视",
-            "type": 3,
-            "api": "./lib/热播.py",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
