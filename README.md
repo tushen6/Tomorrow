@@ -9,9 +9,6 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/mast
 https://github.moeyy.xyz/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json
 
 ## ⚙️GitHub加速站 
-- https://githubraw.com/ 
-- https://ghproxy.com/
-- https://github.qlkj.asia/
 - https://gh-proxy.com/
 - https://mirror.ghproxy.com/
 - https://github.moeyy.xyz/      
