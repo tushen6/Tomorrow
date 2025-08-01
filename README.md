@@ -8,7 +8,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/l
 
 单仓订阅地址：
 
-https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json
+https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tv.json
 
 ## ⚙️GitHub加速站 
 - https://gh-proxy.com/
