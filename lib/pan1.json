@@ -1,0 +1,28 @@
+{
+    "SiteUrl": "http://123panfx.com,https://pan1.me",
+  
+    "Classes": [
+        {
+            "type_name": "4K电影",
+            "type_id": "2"
+        },
+        {
+            "type_name": "4K剧集",
+            "type_id": "48"
+        },
+        {
+            "type_name": "4K原盘",
+            "type_id": "56"
+        },
+         {
+            "type_name": "4K动漫",
+            "type_id": "37"
+        },
+        {
+            "type_name": "综艺",
+            "type_id": "52"
+        }
+       
+    ],
+    "Cookie": "bbs_sid=icpt77h5mtmufabqk8r0jl6ib2"
+}
