@@ -1,10 +1,5 @@
 {
-    "SiteUrl": "",
-    "Domains": [
-        "http://xsayang.fun:12512"
-    ],
-    "SiteWord": "xbky",
-    "SiteName": "小斑快映",
+    "SiteUrl": "https://www.kuafuzy.com,https://www.kfzy.cc,www.kuafuzys.com,www.kuafuzys.vip",
     "Classes": [
         {
             "type_name": "电影",
@@ -15,20 +10,21 @@
             "type_id": "2"
         },
         {
-            "type_name": "综艺",
+            "type_name": "4K电影",
             "type_id": "3"
         },
         {
-            "type_name": "动漫",
+            "type_name": "4K剧集",
             "type_id": "4"
         },
         {
-            "type_name": "精品",
+            "type_name": "动漫",
             "type_id": "5"
         },
         {
             "type_name": "短剧",
             "type_id": "6"
         }
-    ]
+    ],
+    "Cookie": "bbs_token=zNQpYs_2BmC2e_2FcUM_2BmuihZ33Jswh_2Fj7sPtelqcw_3D_3D; bbs_sid=65idikju2chtl9sv5or02qlpjj"
 }

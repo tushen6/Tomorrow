@@ -1,41 +1,40 @@
 {
-    "SiteUrl": "https://xiaomiai.site",
+    "SiteUrl": "",
     "Domains": [
         "https://mihdr.top",
         "http://xiaomi666.fun",
         "http://www.miqk.cc",
-        "https://zhizhen.banye.tech:7086",
         "https://xiaomiai.site"
     ],
     "SiteWord": "zz",
     "SiteName": "至臻",
     "Classes": [
         {
-            "type_name": "至臻电影",
+            "type_name": "电影",
             "type_id": "1"
         },
         {
-            "type_name": "至臻剧集",
+            "type_name": "剧集",
             "type_id": "2"
         },
         {
-            "type_name": "至臻臻彩",
+            "type_name": "臻彩",
             "type_id": "26"
         },
         {
-            "type_name": "至臻老剧",
+            "type_name": "老剧",
             "type_id": "24"
         },
         {
-            "type_name": "至臻综艺",
+            "type_name": "综艺",
             "type_id": "4"
         },
         {
-            "type_name": "至臻动漫",
+            "type_name": "动漫",
             "type_id": "3"
         },
         {
-            "type_name": "至臻短剧",
+            "type_name": "短剧",
             "type_id": "5"
         }
     ],

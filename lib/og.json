@@ -1,29 +1,29 @@
 {
-    "SiteUrl": "https://woog.nxog.eu.org",
+    "SiteUrl": "",
     "Domains": [
-    "https://ouge.banye.tech:7086"
+        "https://woog.nxog.eu.org"
     ],
     "SiteWord": "og",
     "SiteName": "欧歌",
     "Classes": [
         {
-            "type_name": "讴歌电影",
+            "type_name": "电影",
             "type_id": "1"
         },
         {
-            "type_name": "讴歌剧集",
+            "type_name": "剧集",
             "type_id": "2"
         },
         {
-            "type_name": "讴歌动漫",
+            "type_name": "动漫",
             "type_id": "3"
         },
         {
-            "type_name": "讴歌综艺",
+            "type_name": "综艺",
             "type_id": "4"
         },
         {
-            "type_name": "讴歌短剧",
+            "type_name": "短剧",
             "type_id": "5"
         }
     ],

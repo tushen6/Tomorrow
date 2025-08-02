@@ -1,5 +1,5 @@
 {
-    "SiteUrl": "https://123.91muou.icu",
+    "SiteUrl": "",
     "Domains": [
         "http://123.666291.xyz",
         "https://123.91muou.icu",
@@ -10,15 +10,15 @@
     "SiteName": "木偶",
     "Classes": [
         {
-            "type_name": "4K电影",
+            "type_name": "电影",
             "type_id": "1"
         },
         {
-            "type_name": "4K剧集",
+            "type_name": "剧集",
             "type_id": "2"
         },
         {
-            "type_name": "4K动漫",
+            "type_name": "动漫",
             "type_id": "3"
         },
         {

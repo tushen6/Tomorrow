@@ -1,22 +1,23 @@
 {
-    "SiteUrl": "https://www.wogg.lol",
+    "SiteUrl": "",
     "Domains": [
+        "http://woggpan.wogg.lol",
         "https://wogg.xxooo.cf",
-        "https://www.wogg.one",
-        "https://www.wogg.lol",
         "https://wogg.333232.xyz",
         "https://woggpan.333232.xyz",
-        "https://wogg.heshiheng.top"
+        "https://wogg.heshiheng.top",
+        "https://www.wogg.one",
+        "https://www.wogg.lol"
     ],
     "SiteWord": "wogg",
     "SiteName": "玩偶",
     "Classes": [
         {
-            "type_name": "玩偶电影",
+            "type_name": "电影",
             "type_id": "1"
         },
         {
-            "type_name": "玩偶剧集",
+            "type_name": "剧集",
             "type_id": "2"
         },
         {
@@ -24,19 +25,19 @@
             "type_id": "44"
         },
         {
-            "type_name": "玩偶综艺",
+            "type_name": "综艺",
             "type_id": "4"
         },
         {
-            "type_name": "玩偶动漫",
+            "type_name": "动漫",
             "type_id": "3"
         },
         {
-            "type_name": "玩偶音乐",
+            "type_name": "音乐",
             "type_id": "5"
         },
         {
-            "type_name": "玩偶短剧",
+            "type_name": "短剧",
             "type_id": "6"
         }
     ],
@@ -205,6 +206,10 @@
             {
                 "name": "时间",
                 "value": [
+                    {
+                        "v": "2025",
+                        "n": "2025"
+                    },
                     {
                         "v": "2024",
                         "n": "2024"
@@ -566,6 +571,10 @@
                 "name": "时间",
                 "value": [
                     {
+                        "v": "2025",
+                        "n": "2025"
+                    },
+                    {
                         "v": "2024",
                         "n": "2024"
                     },
@@ -918,6 +927,10 @@
                 "name": "时间",
                 "value": [
                     {
+                        "v": "2025",
+                        "n": "2025"
+                    },
+                    {
                         "v": "2024",
                         "n": "2024"
                     },
@@ -1155,6 +1168,10 @@
             {
                 "name": "时间",
                 "value": [
+                    {
+                        "v": "2025",
+                        "n": "2025"
+                    },
                     {
                         "v": "2024",
                         "n": "2024"
@@ -1560,6 +1577,10 @@
                 "name": "时间",
                 "value": [
                     {
+                        "v": "2025",
+                        "n": "2025"
+                    },
+                    {
                         "v": "2024",
                         "n": "2024"
                     },
@@ -1915,6 +1936,10 @@
             {
                 "name": "时间",
                 "value": [
+                    {
+                        "v": "2025",
+                        "n": "2025"
+                    },
                     {
                         "v": "2024",
                         "n": "2024"

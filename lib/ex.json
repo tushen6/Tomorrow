@@ -1,5 +1,5 @@
 {
-    "SiteUrl": "https://erxiaofn.site",
+    "SiteUrl": "",
     "Domains": [
         "https://xhww.net",
         "http://2xiaopan.fun",
@@ -14,15 +14,15 @@
     "SiteName": "二小",
     "Classes": [
         {
-            "type_name": "4K电影",
+            "type_name": "电影",
             "type_id": "1"
         },
         {
-            "type_name": "4K剧集",
+            "type_name": "剧集",
             "type_id": "2"
         },
         {
-            "type_name": "4K动漫",
+            "type_name": "动漫",
             "type_id": "3"
         },
         {

@@ -1,38 +1,36 @@
 {
-    "SiteUrl": "https://feimao666.fun",
+    "SiteUrl": "",
     "Domains": [
-        "https://feimao666.fun",
-        "https://duopan.fun",
+        "http://feimaoai.site",
         "http://www.labi88.sbs",
-        "http://labipan.com",
-        "https://feimaoai.site",
-        "https://labi.deno.dev"
+        "https://feimao666.fun",
+        "http://feimao888.fun"
     ],
     "SiteWord": "labi",
     "SiteName": "蜡笔",
     "Classes": [
         {
-            "type_name": "4K电影",
+            "type_name": "电影",
             "type_id": "1"
         },
         {
-            "type_name": "4K剧集",
+            "type_name": "剧集",
             "type_id": "2"
         },
         {
-            "type_name": "4K臻享",
+            "type_name": "4K",
             "type_id": "24"
         },
         {
-            "type_name": "🖍️综艺",
+            "type_name": "综艺",
             "type_id": "4"
         },
         {
-            "type_name": "4K动漫",
+            "type_name": "动漫",
             "type_id": "3"
         },
         {
-            "type_name": "🖍️短剧",
+            "type_name": "短剧",
             "type_id": "5"
         }
     ],

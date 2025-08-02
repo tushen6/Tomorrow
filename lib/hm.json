@@ -1,24 +1,22 @@
 {
-    "SiteUrl": "http://haimian.eu.org,https://www.haimianxz.com,https://www.hmxz.org,https://www.5536806.xyz",
+    "SiteUrl": "https://www.hmxz.org",
     "Classes": [
         {
-            "type_name": "4K电影",
+            "type_name": "电影",
             "type_id": "1"
         },
         {
-            "type_name": "4K剧集",
+            "type_name": "剧集",
             "type_id": "2"
         },
         {
-            "type_name": "4K综艺",
+            "type_name": "综艺",
             "type_id": "5"
         },
         {
-            "type_name": "4K动漫",
+            "type_name": "动漫",
             "type_id": "3"
         }
     ],
-     "Cookie": "bbs_token=EfppUCZbdI_2B4Iz7iu9ezTv3IGEkQsAYdhrViEQ_3D_3D; bbs_sid=4kmtu43j3djfk4h00hof61nndf; _xn_accesscount_visited=1"
+    "Cookie": "bbs_token=EfppUCZbdI_2B4Iz7iu9ezTv3IGEkQsAYdhrViEQ_3D_3D; bbs_sid=4kmtu43j3djfk4h00hof61nndf; _xn_accesscount_visited=1"
 }
-
-
