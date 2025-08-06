@@ -13,7 +13,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🍒免费┃接口",
+            "name": "😎免费┃接口",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
