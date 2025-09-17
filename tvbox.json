@@ -135,7 +135,7 @@
         },
         {
             "key": "Tgsoukk",
-            "name": "🔍TG┃夸克",
+            "name": "✈️TG┃夸克",
             "type": 3,
             "api": "csp_Tgsoukk",
             "searchable": 1,
@@ -143,7 +143,7 @@
         },
         {
             "key": "Tgsouuc",
-            "name": "🔍TG┃UC",
+            "name": "✈️TG┃UC",
             "type": 3,
             "api": "csp_Tgsouuc",
             "searchable": 1,
@@ -151,7 +151,7 @@
         },
         {
             "key": "Tgsoubd",
-            "name": "🔍TG┃百度",
+            "name": "✈️TG┃百度",
             "type": 3,
             "api": "csp_Tgsoubd",
             "searchable": 1,
@@ -159,7 +159,7 @@
         },
         {
             "key": "Tgsou",
-            "name": "🔍TG┃聚合",
+            "name": "✈️TG┃聚合",
             "type": 3,
             "api": "csp_Tgsou",
             "searchable": 1,
