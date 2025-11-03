@@ -2,7 +2,7 @@
     "SiteUrl": "http://xsayang.fun:12512",
     "Domains": [],
     "SiteWord": "xbky",
-    "SiteName": "虎斑",
+    "SiteName": "小斑",
     "Classes": [
         {
             "type_name": "电影",
@@ -19,10 +19,6 @@
         {
             "type_name": "动漫",
             "type_id": "4"
-        },
-        {
-            "type_name": "精品",
-            "type_id": "5"
         },
         {
             "type_name": "短剧",

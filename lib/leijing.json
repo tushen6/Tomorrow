@@ -1,0 +1,34 @@
+{
+    "SiteUrl": "https://www.leijing1.com,https://leijing.xyz,https://leijing1.com",
+    "Classes": [
+        {
+            "type_name": "电影",
+            "type_id": "42204681950354"
+        },
+        {
+            "type_name": "剧集",
+            "type_id": "42204684250355"
+        },
+        {
+            "type_name": "影视原盘",
+            "type_id": "42212287587456"
+        },
+        {
+            "type_name": "综艺",
+            "type_id": "42210356650363"
+        },
+        {
+            "type_name": "动漫",
+            "type_id": "42204792950357"
+        },
+        {
+            "type_name": "纪录片",
+            "type_id": "42204697150356"
+        },
+        {
+            "type_name": "演唱会",
+            "type_id": "42317879720298"
+        }
+    ],
+    "Cookie": "JSESSIONID=E1DB8AC0F708B4E282B9998F371F9E3B; cms_token=2e714955704148f99268eaa976de09ce; cms_accessToken=6272a9e68faa49c4a73c684df0c44eee; cms_refreshToken=4908d2845de044d7bcde237f66092415"
+}
