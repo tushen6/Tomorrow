@@ -1,5 +1,5 @@
 {
-  "urls": [
+  "urls": [ 
      {
       "url": "https://9877.kstore.space/AnotherD/api.json",
       "name": "😎潇洒😎🚦"
@@ -8,10 +8,7 @@
       "url": "https://mi.mpanso.me/DEMO.json",
       "name": "💫小米💫🚦"
     }, 
-  {
-      "url": "https://7337.kstore.space/twvip/自用测试.json",
-      "name": "🌼天微🌼🚦"
-    },
+  
      {
       "url": "http://肥猫.com",
       "name": "🐼肥猫🐼🚦"
