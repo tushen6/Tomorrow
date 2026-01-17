@@ -98,10 +98,10 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
+        }，
         {
             "key": "奥秘",
-            "name": "🔴奥秘┃4K",
+            "name": "🔴闪电┃4K",
             "type": 3,
             "api": "csp_Mogg",
             "searchable": 1,
@@ -109,7 +109,7 @@
             "changeable": 1,
             "timeout": 30,
             "ext": {
-                "site": "https://vip.omii.top"
+                "site": "https://sd.sduc.site"
             }
         },
         {
@@ -161,7 +161,7 @@
             "ext": {
                 "site": "http://1.95.79.193,http://1.95.79.193:666"
             }
-        },
+        }，
         {
             "key": "至臻网盘",
             "name": "🔴至臻┃4K",
@@ -177,8 +177,8 @@
         {
             "key": "木偶哥哥",
             "name": "🔴木偶┃4K",
-            "type": 3,
-            "api": "csp_Mogg",
+            "type": 3，
+            "api": "csp_Mogg"，
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
