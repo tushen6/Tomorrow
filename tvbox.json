@@ -50,13 +50,20 @@
             }
         },
         {
-            "key": "采集",
-            "name": "🌀采集┃线路",
+            "key": "热播",
+            "name": "🔥热播┃秒播",
             "type": 3,
-            "api": "csp_Ptt",
+            "api": "csp_TianTian",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "filterable": 1,
+            "ext": "http://v.rbotv.cn"
+        },
+        {
+            "key": "新荐片",
+            "name": "🧲新荐片丨磁力",
+            "type": 3,
+            "api": "./lib/新荐片.py"
         },
         {
             "key": "Tgsoukk",
@@ -197,6 +204,30 @@
             "ext": {
                 "site": "http://www.labi88.sbs,http://feimaoai.site,https://feimao666.fun,http://feimao888.fun"
             }
+        },
+        {
+            "key": "夸搜",
+            "name": "🌀夸克丨搜索",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=quark&wd="
+        },
+        {
+            "key": "uc搜",
+            "name": "🌀UC丨搜索",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=uc&wd="
+        },
+        {
+            "key": "baidu搜",
+            "name": "🌀百度丨搜索",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=baidu&wd="
+        },
+        {
+            "key": "tianyi搜",
+            "name": "🌀天翼丨搜索",
+            "type": 4,
+            "api": "https://so.yinpai.xyz/api.php?type=tianyi&wd="
         },
         {
             "key": "push_agent",
