@@ -2,7 +2,7 @@
     "spider": "./tvbox.jar",
     "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747813141071/20250521_153801.gif",
     "wallpaper": "https://t.alcy.cc/acg",
-    "warningText": "学习使用，资源来源于网络，请勿贩卖，请加载24小时后删除，出现其他问题与作者无关，请知悉！",
+    "warningText": "学习使用,资源来源于网络,请勿贩卖,请加载24小时后删除,出现其他问题与作者无关,请知悉！",
     "lives": [
         {
             "name": "✨范明明✨",
@@ -84,7 +84,7 @@
         },
         {
             "key": "Tgsou",
-            "name": "✈️TG搜┃聚合",
+            "name": "✈️TG搜┃聚合"，
             "type": 3,
             "api": "csp_Tgsou",
             "searchable": 1,
@@ -98,19 +98,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        }，
-        {
-            "key": "闪电",
-            "name": "🔴闪电┃4K",
-            "type": 3,
-            "api": "csp_Mogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "timeout": 30,
-            "ext": {
-                "site": "https://sd.sduc.site"
-            }
         },
         {
             "key": "虎斑",
@@ -161,7 +148,7 @@
             "ext": {
                 "site": "http://xhban.xyz"
             }
-        }，
+        },
         {
             "key": "至臻网盘",
             "name": "🔴至臻┃4K",
@@ -175,10 +162,23 @@
             }
         },
         {
+            "key": "闪电",
+            "name": "🔴闪电┃4K",
+            "type": 3,
+            "api": "csp_Mogg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "timeout": 30,
+            "ext": {
+                "site": "https://sd.sduc.site"
+            }
+        },
+        {
             "key": "木偶哥哥",
             "name": "🔴木偶┃4K",
-            "type": 3，
-            "api": "csp_Mogg"，
+            "type": 3,
+            "api": "csp_Mogg",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -198,7 +198,6 @@
                 "site": "http://www.labi88.sbs,http://feimaoai.site,https://feimao666.fun,http://feimao888.fun"
             }
         },
-        
         {
             "key": "push_agent",
             "name": "⛽手机┃推送",
