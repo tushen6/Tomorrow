@@ -100,7 +100,7 @@
             "changeable": 1
         }，
         {
-            "key": "奥秘",
+            "key": "闪电",
             "name": "🔴闪电┃4K",
             "type": 3,
             "api": "csp_Mogg",
@@ -151,15 +151,15 @@
             }
         },
         {
-            "key": "闪电网盘",
-            "name": "🔴闪电┃4K",
+            "key": "小斑网盘",
+            "name": "🔴小斑┃4K",
             "type": 3,
             "api": "csp_Mogg",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-                "site": "http://1.95.79.193,http://1.95.79.193:666"
+                "site": "http://xhban.xyz"
             }
         }，
         {
