@@ -10,6 +10,13 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw
 
 https://gh.llkk.cc/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json
 
+## 🔰Tg资源频道
+- 服务于tg搜
+- https://t.me/kkuc9
+- https://t.me/uclzxw
+- https://t.me/BDzyz6
+
+
 ## ⚙️GitHub加速站 
 - https://gh-proxy.com/
 - https://mirror.ghproxy.com/
