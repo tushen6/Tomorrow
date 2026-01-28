@@ -38,13 +38,13 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvb
 - （4）饭太硬：https://www.饭太硬.com/tv 
 - （5）肥猫：http://肥猫.com 
 - （6）天天开心：http://rihou.cc:55/天天开心 
-- （7）小米：https://mi.mpanso.me/DEMO.json
+- （7）小米：https://mitvbox.xyz/小米/DEMO.json
 - （8）摸鱼儿：http://我不是.摸鱼儿.com 
 - （9）菜妮丝：https://tvbox.cainisi.cf 
 - （10）盒子迷： https://盒子迷.top/春盈天下
 - （11）多多：https://yydsys.top/duo 
 - （12）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json 
-- （13）王二小： https://9280.kstore.space/wex.json
+- （13）王二小：https://9280.kstore.vip/newwex.json
 - （14）巧技：http://cdn.qiaoji8.com/tvbox.json 
 - （15）星辰：https://fmbox.cc 
 - （16）林中小屋：https://8815.kstore.vip/tvbox/Ace
