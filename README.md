@@ -19,7 +19,6 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvb
 
 ## ⚙️GitHub加速站 
 - https://gh-proxy.com/
-- https://mirror.ghproxy.com/
 - https://github.moeyy.xyz/      
 - https://gh.xxooo.cf/
 - https://gh.llkk.cc/
@@ -43,7 +42,7 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvb
 - （9）菜妮丝：https://tvbox.cainisi.cf 
 - （10）盒子迷： https://盒子迷.top/春盈天下
 - （11）多多：https://yydsys.top/duo 
-- （12）南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json 
+- （12）南风：https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json
 - （13）王二小：https://9280.kstore.vip/newwex.json
 - （14）巧技：http://cdn.qiaoji8.com/tvbox.json 
 - （15）星辰：https://fmbox.cc 
