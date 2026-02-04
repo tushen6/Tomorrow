@@ -32,6 +32,7 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvb
 
 ## ✨热门(TVBox、影视仓、OK影视)配置接口
 - （1）OK ： http://ok321.top/tv
+-   OK备用接口: https://10352.kstore.vip/tv
 - （2）短剧接口：http://74.120.175.78/JK/XYQTVBox/dj.json 
 - （3）俊于：http://home.jundie.top:81/top98.json 
 - （4）饭太硬：https://www.饭太硬.com/tv 
