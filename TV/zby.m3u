@@ -1,4 +1,12 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://hk.gh-proxy.org/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://develop202.github.io/migu_video/playback.xml,https://raw.githubusercontents.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-id="" tvg-name="公众号:林中的小屋" tvg-logo="" group-title="🌁免费直播接口🌁",公众号:林中的小屋
+http://sns-video-hw.xhscdn.com/stream/79/110/258/01e84e835c7ddff84f0370019772b143af_258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="加入交流群:1033117958" tvg-logo="" group-title="🌁免费直播接口🌁",加入交流群:1033117958
+https://sns-video-hw.xhscdn.com/stream/79/110/258/01e84e83077d04eb4f0370019772b00e16_258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="接口免费勿上当受骗" tvg-logo="" group-title="🌁免费直播接口🌁",接口免费勿上当受骗
+https://sns-video-hw.xhscdn.com/stream/79/110/258/01e84e831f7e1b644f0370019772b0652f_258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="请勿相信任何充值活动" tvg-logo="" group-title="🌁免费直播接口🌁",请勿相信任何充值活动
+https://sns-video-hw.xhscdn.com/stream/79/110/258/01e84e832e7e1f114f0370019772b08990_258.mp4
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",更新日期: 2026-2-9 12:01:42
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202602091142173958100f2a4e4778a4af55767821bbc9&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260209114217&Channel_ID=0116_2600036500-99000-201600010014642&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=219.151.28.153&SecurityKey=20260209114217&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5911c41af492337315e6b4afce9f46ee&sv=10004&ct=android
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",CCTV1综合
