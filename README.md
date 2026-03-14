@@ -31,17 +31,17 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvb
 - https://ghproxy.cn/
 
 ## ✨热门(TVBox、影视仓、OK影视)配置接口
-- （1）OK ： http://ok321.top/tv
+- （1）OK ： http://ok213.top/tv
 -   OK备用接口: https://10352.kstore.vip/tv
 - （2）短剧接口：http://74.120.175.78/JK/XYQTVBox/dj.json 
-- （3）俊于：http://home.jundie.top:81/top98.json 
+- （3）虎斑：http://hb.小虎斑.site:25252/仅供测试
 - （4）饭太硬：https://www.饭太硬.com/tv 
 - （5）肥猫：http://肥猫.com 
 - （6）天天开心：http://rihou.cc:55/天天开心 
 - （7）小米：https://mitvbox.xyz/小米/DEMO.json
 - （8）摸鱼儿：http://我不是.摸鱼儿.com 
-- （9）菜妮丝：https://tvbox.cainisi.cf 
-- （10）盒子迷： https://盒子迷.top/春盈天下
+- （9）讴歌：https://欧歌.v.nxog.top/m
+- （10）PG： https://tvbox.catvod.com/jsm.json
 - （11）多多：https://yydsys.top/duo 
 - （12）南风：https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json
 - （13）王二小：https://9280.kstore.vip/newwex.json
