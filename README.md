@@ -51,14 +51,14 @@ https://gh.llkk.cc/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvb
 - （17）潇洒：https://9877.kstore.space/AnotherD/api.json
 
 ## 🔰影视软件下载地址
-- [OK影视下载地址](https://pan.quark.cn/s/98112b510599)
-- [蜂蜜影视下载地址](https://pan.quark.cn/s/f82e0b821ca3)
-- [影视仓下载地址](https://pan.quark.cn/s/9a2e6f812b44)
-- [Easybox下载地址](https://pan.quark.cn/s/e6fed8d4a909)
-- [Mbox下载地址](https://pan.quark.cn/s/b89e98bb074d)
-- [TVBox_黑盒和白盒下载地址](https://pan.quark.cn/s/1b3f61b2ce03)
-- [影迷下载地址](https://pan.quark.cn/s/f1fd660ee727)
-- [宝盒下载地址](https://pan.quark.cn/s/f59fa5a65305)
+- [OK影视下载地址](https://pan.quark.cn/s/de15b29d06ab)
+- [蜂蜜影视下载地址](https://pan.quark.cn/s/dbb8599d1a0d)
+- [影视仓下载地址](https://pan.quark.cn/s/5b22c647669d)
+- [Easybox下载地址](https://pan.quark.cn/s/e26f04897443)
+- [peekpili下载地址](https://pan.quark.cn/s/fac3791a0c24)
+- [TVBox_黑盒和白盒下载地址](https://pan.quark.cn/s/4670b8ee41a0)
+- [影視+下载地址](https://pan.quark.cn/s/d004fc6d8d36)
+- [宝盒下载地址](https://pan.quark.cn/s/6eef2fa1b59a)
 
 ## 📡LIVE直播源
 | 源名        | 链接   |
