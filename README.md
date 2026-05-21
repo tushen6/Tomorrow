@@ -4,11 +4,11 @@
 
 多仓订阅地址：
 
-https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json
+https://github.catvod.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json
 
 单仓订阅地址：
 
-https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json
+https://github.catvod.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json
 
 ## 🔰Tg资源频道
 - 服务于tg搜
@@ -19,7 +19,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/t
 
 ## ⚙️GitHub加速站 
 - https://gh-proxy.com/
-- https://github.moeyy.xyz/      
+- https://github.catvod.com/      
 - https://gh.xxooo.cf/
 - https://gh.llkk.cc/
 - https://github.ednovas.xyz/
