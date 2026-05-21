@@ -4,11 +4,11 @@
 
 多仓订阅地址：
 
-https://gh.llkk.cc/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json
+https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json
 
 单仓订阅地址：
 
-https://gh.llkk.cc/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json
+https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json
 
 ## 🔰Tg资源频道
 - 服务于tg搜
