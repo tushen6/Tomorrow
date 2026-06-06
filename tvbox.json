@@ -27,46 +27,6 @@
             }
         },
         {
-            "key": "tjKK",
-            "name": "🔍夸克丨4K",
-            "type": 3,
-            "api": "csp_TGSouKK",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "tjBD",
-            "name": "🔍百度丨4K",
-            "type": 3,
-            "api": "csp_TGSouBD",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "tjUC",
-            "name": "🔍UC丨4K",
-            "type": 3,
-            "api": "csp_TGSouUC",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "tjTY",
-            "name": "🔍天翼丨4K",
-            "type": 3,
-            "api": "csp_TGSouTY",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "tj综合",
-            "name": "🔍网盘丨搜索",
-            "type": 3,
-            "api": "csp_TGSou",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
             "key": "玩偶",
             "name": "🤪玩偶｜4K",
             "type": 3,
