@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />
+<title>枫叶影院 WebHome</title>
+<style>
+  :root{--panel-rgb:42,50,58;--panel:rgba(var(--panel-rgb),.62);--panel-soft:rgba(var(--panel-rgb),.44);--panel-strong:rgba(var(--panel-rgb),.86);--line:rgba(255,255,255,.16);--text:#f7fbff;--muted:rgba(247,251,255,.68);--accent:#ff6b35;--accent2:#ffb86b;--bad:#ff5c7a;--ok:#68e39a;--radius:18px;--shadow:0 18px 50px rgba(0,0,0,.28)}
+  *{box-sizing:border-box} html,body{margin:0;min-height:100%;background:transparent;color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif} html:not(.fm-native),html:not(.fm-native) body{background:#222a32}.app{min-height:100vh;background:transparent;padding:10px 10px 28px}.top{position:relative;z-index:1;background:transparent;backdrop-filter:none;padding:8px 0 10px;border-bottom:0}.bar{display:flex;align-items:center;gap:8px}.brand{flex:0 0 auto;font-size:21px;font-weight:900;letter-spacing:.5px;text-shadow:0 2px 14px rgba(0,0,0,.35)}.brand b{color:var(--accent2)}.search{flex:1;display:flex;gap:8px;align-items:center;background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.14);border-radius:999px;padding:6px 7px 6px 13px;box-shadow:inset 0 1px 0 rgba(255,255,255,.05)}.search input{flex:1;min-width:0;background:transparent;border:0;outline:0;color:var(--text);font-size:15px}.search input::placeholder{color:var(--muted)}button,.btn{border:1px solid var(--line);background:var(--panel-soft);color:var(--text);border-radius:999px;padding:8px 12px;font-size:14px;cursor:pointer}.btn.primary,button.primary{border-color:rgba(255,107,53,.45);background:linear-gradient(135deg,rgba(255,107,53,.90),rgba(255,184,107,.72));color:#17110d;font-weight:800}.tabs{display:flex;gap:8px;overflow:auto;padding:10px 2px 0;scrollbar-width:none}.tabs::-webkit-scrollbar{display:none}.tab{white-space:nowrap;border-radius:999px;padding:8px 14px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.12);color:var(--muted)}.tab.active{background:linear-gradient(135deg,rgba(255,107,53,.55),rgba(255,184,107,.30));color:var(--text);border-color:rgba(255,184,107,.58);font-weight:800}.hero{margin:10px 0 16px;padding:18px;border-radius:var(--radius);background:linear-gradient(135deg,rgba(255,107,53,.28),rgba(42,50,58,.54));border:1px solid var(--line);box-shadow:var(--shadow)}.hero h1{margin:0 0 8px;font-size:24px}.hero p{margin:0;color:var(--muted);line-height:1.6}.status{margin:10px 2px;color:var(--muted);font-size:14px}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.card{position:relative;min-width:0;border-radius:15px;overflow:hidden;background:linear-gradient(180deg,rgba(255,255,255,.09),rgba(255,255,255,.045));border:1px solid rgba(255,255,255,.12);box-shadow:0 10px 28px rgba(0,0,0,.22);cursor:pointer}.poster{aspect-ratio:3/4;background:rgba(255,255,255,.08);overflow:hidden;position:relative}.poster img{width:100%;height:100%;object-fit:cover;display:block;filter:saturate(1.04) contrast(1.03)}.poster .noimg{height:100%;display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:28px}.meta{padding:8px 8px 10px;background:linear-gradient(180deg,rgba(18,24,30,.15),rgba(18,24,30,.44))}.name{font-weight:800;font-size:13.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.remark{margin-top:4px;color:var(--muted);font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.section{margin:16px 0}.section-title{display:flex;align-items:center;justify-content:space-between;margin:0 2px 10px}.section-title h2{margin:0;font-size:17px;letter-spacing:.3px}.rank{display:grid;gap:8px}.rank-item{display:flex;gap:10px;align-items:center;padding:11px 12px;border-radius:14px;background:var(--panel-soft);border:1px solid var(--line);cursor:pointer}.rank-no{width:32px;height:32px;display:grid;place-items:center;border-radius:10px;background:rgba(255,107,53,.22);font-weight:900;color:var(--accent2)}.rank-title{flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.sheet{position:fixed;inset:0;z-index:40;display:none;background:transparent;overflow:hidden}.sheet.active{display:block}.sheet-inner{height:100vh;min-height:100vh;padding:12px;background:transparent;overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain;touch-action:pan-y}.detail-panel{background:linear-gradient(135deg,rgba(64,35,30,.68),rgba(30,24,24,.54));border:1px solid rgba(255,255,255,.10);border-radius:22px;box-shadow:var(--shadow);padding:18px 14px 22px;margin-bottom:42px;touch-action:pan-y}.detail-head{display:grid;grid-template-columns:38% 1fr;gap:16px;align-items:start}.detail-pic{width:100%;aspect-ratio:3/4;border-radius:16px;object-fit:cover;background:rgba(255,255,255,.08);box-shadow:0 12px 30px rgba(0,0,0,.32)}.detail-title{font-size:25px;font-weight:500;margin:0 0 9px;line-height:1.25;color:rgba(255,255,255,.94)}.detail-info{color:rgba(255,255,255,.76);line-height:1.85;font-size:18px;font-weight:500}.detail-info b{color:rgba(255,255,255,.68);font-weight:800;margin-right:8px}.detail-date{font-size:20px;color:rgba(255,255,255,.88);margin:2px 0 14px}.intro-pill{display:inline-flex;margin:28px 0 18px;padding:11px 25px;border-radius:999px;background:#25b86b;color:white;font-size:18px;font-weight:700;box-shadow:0 8px 24px rgba(37,184,107,.22)}.desc{margin:0 4px 18px;color:rgba(255,255,255,.66);font-size:20px;line-height:1.95;max-height:none;overflow:visible}.play-title{margin:18px 2px 8px;font-size:18px;font-weight:800;color:rgba(255,255,255,.9)}.line-tabs{display:flex;gap:8px;overflow-x:auto;margin:8px 0 8px;padding-bottom:2px}.line-tab{border-radius:999px;padding:8px 12px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.14);white-space:nowrap;color:rgba(255,255,255,.82)}.line-tab.active{background:rgba(255,107,53,.36);border-color:rgba(255,184,107,.55);font-weight:800}.episodes{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px;max-height:none;overflow:visible;touch-action:pan-y}.ep{border-radius:12px;padding:9px 11px;background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.14);cursor:pointer;min-width:68px;color:rgba(255,255,255,.86)}.empty{padding:30px 18px;text-align:center;color:var(--muted);background:var(--panel-soft);border:1px dashed var(--line);border-radius:var(--radius)}.loading{opacity:.75}.focusable:focus,.card:focus,.rank-item:focus,.ep:focus,button:focus,.tab:focus,input:focus{outline:2px solid rgba(255,184,107,.76);outline-offset:2px;transform:translateY(-1px)}
+  body.detail-active .app{visibility:hidden;pointer-events:none}@media (min-width:720px){.grid{grid-template-columns:repeat(5,minmax(0,1fr))}.app{padding:18px 28px 44px}.hero h1{font-size:30px}.detail-head{grid-template-columns:160px 1fr}.detail-pic{width:160px}}@media (min-width:1100px){.grid{grid-template-columns:repeat(7,minmax(0,1fr))}.app{max-width:1380px;margin:0 auto}.sheet-inner{max-width:1180px;margin:0 auto}}
+  @media (max-width:480px){.app{padding:8px 9px 24px}.brand{font-size:20px}.search input{font-size:14px}.search button{padding:7px 10px}.grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:9px}.meta{padding:7px 7px 9px}.name{font-size:13px}.remark{font-size:11px}.detail-head{grid-template-columns:38% 1fr;gap:14px}.detail-title{font-size:24px}.detail-date{font-size:20px}.detail-info{font-size:18px;line-height:1.9}.desc{font-size:20px;line-height:1.92}.sheet-inner{padding:10px}.detail-panel{border-radius:20px;padding:16px 12px}.ep{min-width:64px;padding:8px 9px}}
+
+  /* detail refine overrides */
+  #closeDetail{margin:0 0 18px 0;padding:10px 20px;border-radius:999px;background:rgba(255,255,255,.10);border:1px solid rgba(255,184,107,.55)}
+  .detail-head{align-items:start!important;grid-template-columns:38% 1fr!important;gap:16px!important}
+  .detail-title{font-size:24px!important;font-weight:600!important;line-height:1.25!important;margin:0 0 10px!important;word-break:break-all}
+  .detail-info:empty{display:none!important}
+  .detail-info div{margin:4px 0}
+  .intro-pill{margin-top:26px!important}
+  .episodes{display:grid!important;grid-template-columns:repeat(4,minmax(0,1fr))!important;gap:12px!important;width:100%!important}
+  .ep{width:100%!important;min-width:0!important;text-align:center!important;padding:10px 4px!important;border-radius:14px!important}
+   @media(max-width:480px){.episodes{grid-template-columns:repeat(4,minmax(0,1fr))!important;gap:10px!important}.ep{font-size:15px!important;padding:9px 2px!important}.detail-title{font-size:23px!important}}
+
+   /* pager */
+   .pager-wrap{display:flex;align-items:center;flex-wrap:nowrap;gap:4px;margin:12px 0}
+   .pager-btn{flex:1 1 0;min-width:0;padding:6px 2px;font-size:12px;border-radius:10px;border:1px solid var(--line);background:rgba(255,255,255,.06);color:var(--text);white-space:nowrap}
+   .pager-text{flex:1 1 0;min-width:0;text-align:center;font-size:12px;white-space:nowrap;color:var(--accent2)}
+
+  /* detail final tune */
+  .detail-side{max-height:100%;overflow:hidden}
+  .detail-info{font-size:15px!important;line-height:1.55!important;font-weight:500!important;max-height:calc((100vw - 44px) * .38 * 1.333 - 44px);overflow:hidden}
+  .detail-info b{font-size:15px!important;margin-right:3px!important}
+  .detail-title{font-size:22px!important;margin-bottom:8px!important;font-weight:650!important}
+  .desc{font-size:17px!important;line-height:1.75!important;color:rgba(255,255,255,.68)!important}
+  .intro-pill{background:rgba(255,255,255,.10)!important;border:1px solid rgba(255,184,107,.55)!important;color:rgba(255,255,255,.94)!important;box-shadow:none!important;padding:10px 22px!important;font-size:17px!important}
+  @media(max-width:480px){.detail-info{font-size:15px!important;line-height:1.55!important;max-height:calc((100vw - 44px) * .38 * 1.333 - 42px)}.detail-info b{font-size:15px!important}.detail-title{font-size:22px!important}.desc{font-size:17px!important;line-height:1.75!important}}
+
+</style>
+</head>
+<body>
+<div class="app" id="app">
+  <div class="top">
+    <div class="bar">
+      <div class="brand">枫叶<b>影院</b></div>
+      <form class="search" id="searchForm">
+        <input id="kw" class="focusable" type="text" placeholder="搜索影片、动漫、短剧…" autocomplete="off" />
+        <button class="primary focusable" type="submit">搜索</button>
+      </form>
+    </div>
+    <div class="tabs" id="tabs"></div>
+  </div>
+  <div class="status" id="status">准备加载…</div>
+  <main id="content"></main>
+</div>
+<div class="sheet" id="detailSheet"><div class="sheet-inner"><div class="detail-panel" id="detailPanel"></div></div></div>
+<script>
+(function(){
+'use strict';
+setTimeout(()=>{try{var el=document.getElementById('status');if(el&&el.textContent==='准备加载…')el.textContent='脚本已启动，正在等待 SDK/加载首页…'}catch(e){}},100);
+const BASE='https://www.ht10010.com';
+const CATS=[['首页','/'],['电视剧','/type/2.html'],['电影','/type/1.html'],['动漫','/type/4.html'],['综艺','/type/3.html'],['短剧','/type/5.html'],['腾讯','/label/qq.html'],['优酷','/label/youku.html'],['B站','/label/bli.html']];
+const UA='Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 Chrome/120 Mobile Safari/537.36';
+let fmReady=false,currentUrl=BASE+'/',lastFocus=null;
+let activeCard='';
+let pageInfo={prev:'',next:'',current:1,total:1};
+const $=s=>document.querySelector(s), content=$('#content'), status=$('#status'), tabs=$('#tabs');
+function markNative(){ if(window.fongmiBridge||window.fm||window.fongmi) document.documentElement.classList.add('fm-native'); }
+function waitFm(ms=1600){ markNative(); if(window.fm){fmReady=true;return Promise.resolve(window.fm)} return new Promise(r=>{let done=false;const ok=()=>{if(done)return;done=true;markNative();fmReady=!!window.fm;r(window.fm||null)};window.addEventListener('fmsdk',ok,{once:true});setTimeout(ok,ms);});}
+function abs(u){try{return new URL(u,BASE+'/').href}catch(e){return u||''}}
+function esc(s){return String(s||'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]))}
+function clean(s){return String(s||'').replace(/\s+/g,' ').replace(/[]/g,'').trim()}
+function htmlDecode(s){if(!s) return '';const d=document.createElement('textarea');d.innerHTML=s;return d.value}
+function imgUrl(u){u=abs(u||''); if(!u) return ''; try{return window.fm&&fm.res?fm.res(u,{headers:{Referer:BASE+'/'}}):u}catch(e){return u}}
+async function reqText(url){url=abs(url);status.textContent='加载：'+url;try{if(window.fm&&fm.req){const r=await fm.req(url,{method:'GET',headers:{'User-Agent':UA,'Referer':BASE+'/'},responseType:'text',timeout:25,credentials:'include'});if(!r.ok)throw new Error(r.error||('HTTP '+r.status));return r.body||'';}const r=await fetch(url,{headers:{'Referer':BASE+'/'}});return await r.text();}catch(e){status.textContent='加载失败：'+e.message;throw e}}
+function doc(html){return new DOMParser().parseFromString(html,'text/html')}
+function cardFromA(a){const href=abs(a.getAttribute('href')||'');let img=a.querySelector('img');let image='';if(img){let src=img.getAttribute('data-src')||img.getAttribute('data-original')||img.getAttribute('src')||'';if(src){src=htmlDecode(src);image=abs(src)}}let title=a.getAttribute('title')||img?.getAttribute('alt')||'';let text=clean(a.textContent); if(!title) title=text.replace(/^(4K)?(今日更新)?(更新至|已完结|HD|全).*?/,'').slice(0,24)||text;let remark=text.replace(title,'').slice(0,40);return {title:clean(title),remark:clean(remark),href,image}}
+function unique(arr){const m=new Map();arr.forEach(x=>{if(x&&x.href&&x.title&&!m.has(x.href))m.set(x.href,x)});return [...m.values()]}
+function parsePager(html){const d=doc(html);const box=d.querySelector('#page')||d.querySelector('.page')||d.querySelector('.pagination');if(!box){return{home:'',prev:'',next:'',last:'',current:1,total:1}}const get=(sel,attr='href')=>{const el=box.querySelector(sel);return el?abs(el.getAttribute(attr)):''};const currentEl=d.querySelector('.page-current')||d.querySelector('.active');return{home:get('a[title="首页"]'),prev:get('a[title="上一页"]'),next:get('a[title="下一页"]'),last:get('a[title="尾页"]'),current:currentEl?parseInt(currentEl.textContent)||1:1,total:1}}
+function renderPager(){document.querySelectorAll('.pager-wrap').forEach(e=>e.remove());const wrap=document.createElement('div');wrap.className='pager-wrap';wrap.innerHTML=`<button class="pager-btn" id="homePage">首页</button><button class="pager-btn" id="prevPage">上一页</button><span class="pager-text">第 ${pageInfo.current||1} 页</span><button class="pager-btn" id="nextPage">下一页</button><button class="pager-btn" id="lastPage">尾页</button>`;content.appendChild(wrap);const markActive=(btn)=>{if(btn)btn.style.border="1px solid #c084fc"};const home=wrap.querySelector('#homePage'),prev=wrap.querySelector('#prevPage'),next=wrap.querySelector('#nextPage'),last=wrap.querySelector('#lastPage');home.onclick=()=>pageInfo.home&&loadPage(pageInfo.home);prev.onclick=()=>pageInfo.prev&&loadPage(pageInfo.prev);next.onclick=()=>pageInfo.next&&loadPage(pageInfo.next);last.onclick=()=>pageInfo.last&&loadPage(pageInfo.last);if(!pageInfo.prev)prev.style.opacity=0.4;if(!pageInfo.next)next.style.opacity=0.4;if(pageInfo.home)markActive(home);if(pageInfo.last)markActive(last)}
+function getCatId(u){const m=abs(u).match(/type\/(\d+)/)||abs(u).match(/label\/(new|hot|qq|youku|bli)/);return m?m[1]:''}
+function parseList(html,keyword=''){
+const d=doc(html), sections=[];
+const badHost=el=>!!el.closest('.pop-list-body,.search-hot,.history,.footer,.head-more,.slide-time,.banner,.swiper,.large-swiper,.popup');
+const isGood=x=>x&&x.href&&x.title&&x.image&&!/^点击观看$/.test(x.title);
+let heads=[...d.querySelectorAll('.title-a,.module-title,.title')].map(h=>({el:h,title:clean(h.textContent).replace('更多','')})).filter(x=>x.title&&!/搜索|播放记录|搜索历史|热门搜索|更多/.test(x.title));
+for(const h of heads){
+ let box=h.el.closest('.box-width,.module,.module-main,.layout-box,.box')||h.el.parentElement;
+ let items=[];
+ for(let i=0;i<4&&box;i++,box=box.parentElement){
+  items=unique([...box.querySelectorAll('a[href*="/detail/"]')].filter(a=>!badHost(a)).map(cardFromA)).filter(isGood).slice(0,24);
+  if(items.length>=3)break;
+ }
+ if(items.length)sections.push({title:h.title,items});
+}
+if(!sections.length){
+ let items=unique([...d.querySelectorAll('a[href*="/detail/"]')].filter(a=>!badHost(a)).map(cardFromA)).filter(isGood);
+ if(keyword) items=items.filter(x=>x.title.includes(keyword)||x.remark.includes(keyword));
+ items=items.slice(0,60);
+ sections.push({title:keyword?('搜索：'+keyword):'影片列表',items});
+}
+return sections.filter(s=>s.items.length)
+}
+function parseDetail(html,url){
+const d=doc(html);
+const title=clean(d.querySelector('h1')?.textContent||d.title.replace(/《|》|免费观看.*$/g,'')).replace(/(电视剧|电影|动漫|综艺|短剧|连续剧|国产剧|动画)$/,'');
+let pic=d.querySelector('.detail-pic img,.vod-pic img,.poster img,img[alt]');
+let image=pic?(pic.getAttribute('data-src')||pic.getAttribute('src')):'';
+const raw=(d.body?.innerText||'').replace(/\r/g,'');
+const lines=raw.split('\n').map(x=>clean(x)).filter(Boolean);
+function pickLine(label){
+ const labels=['类型','导演','演员','语言','连载','更新'];
+ const re=new RegExp('^'+label+'\\s*[：:]?\\s*(.*)$');
+ const line=lines.find(x=>re.test(x));
+ if(!line) return '';
+ let v=(line.match(re)||[])[1]||'';
+ v=v.replace(/^(：|:)/,'').trim();
+ const others=labels.filter(x=>x!==label).join('|');
+ v=v.replace(new RegExp('\\s*(?:'+others+')\\s*[：:].*$'), '').trim();
+ return v.length>120?v.slice(0,120)+'…':v;
+}
+const fields=[
+ ['类型',pickLine('类型')],
+ ['导演',pickLine('导演')],
+ ['演员',pickLine('演员')],
+ ['连载',pickLine('连载')],
+ ['更新',pickLine('更新')]
+].filter(x=>x[1]);
+if(!fields.length){
+ const text=raw.replace(/\s+/g,' ');
+ function pickAny(label,next){const re=new RegExp(label+'\\s*[：:]\\s*(.*?)(?='+next+'|简介|播放线路|$)');const m=text.match(re);return m?clean(m[1]).slice(0,120):''}
+ const fs=[['类型',pickAny('类型','导演')],['导演',pickAny('导演','演员')],['演员',pickAny('演员','连载')],['连载',pickAny('连载','更新')],['更新',pickAny('更新','简介')]].filter(x=>x[1]);
+ fields.push(...fs);
+}
+let desc='';
+let i=lines.findIndex(x=>x==='简介'||x.startsWith('简介'));
+if(i>=0){
+ let arr=[];
+ for(let j=i+1;j<lines.length;j++){
+  if(/^(播放线路|资源列表|热播推荐|⚠️|重要提醒|排序|至臻|蓝光|自营)/.test(lines[j])) break;
+  if(lines[j] && lines[j] !== '展开') arr.push(lines[j]);
+ }
+ desc=clean(arr.join(' ')).replace(/展开$/,'');
+}
+if(!desc){
+ let m=raw.match(/简介\s*([\s\S]*?)(?:播放线路|资源列表|热播推荐|⚠️)/);
+ desc=m?clean(m[1]).replace(/展开$/,''):'暂无简介';
+}
+desc=desc.replace(/\s*展开\s*$/,''); if(desc.length>360) desc=desc.slice(0,360)+'…';
+let eps=unique([...d.querySelectorAll('a[href*="/play/"]')].map(a=>({title:clean(a.textContent)||'播放',href:abs(a.getAttribute('href')),remark:'',image:''}))).slice(0,260);
+let lineNames=[...raw.matchAll(/([^\s\n()]{2,12})\((\d+)\)/g)].map(m=>clean(m[1])).filter(x=>!/提醒|搜索|播放|记录/.test(x));
+lineNames=[...new Set(lineNames)];
+const groups={}, lineOrder=[];
+function epNo(ep){let m=(ep.href||'').match(/\/play\/\d+-\d+-(\d+)\.html/); if(m) return parseInt(m[1],10)||0; let t=(ep.title||'').match(/(\d+)/); return t?parseInt(t[1],10):0;}
+eps.forEach(ep=>{
+ let m=ep.href.match(/\/play\/\d+-(\d+)-\d+\.html/);
+ let sid=m?m[1]:'1';
+ if(!groups[sid]){groups[sid]=[];lineOrder.push(sid)}
+ groups[sid].push(ep)
+});
+lineOrder.forEach(sid=>groups[sid].sort((a,b)=>epNo(a)-epNo(b)));
+let linesGroup=lineOrder.map((sid,i)=>({sid,name:lineNames[i]||('线路'+sid),eps:groups[sid]}));
+return {title,image:abs(image),fields,desc,eps,lines:linesGroup,url}
+}
+function parsePlay(html,playPage){let p=null;const m=html.match(/var\s+player_aaaa\s*=\s*(\{[\s\S]*?\})\s*<\/script>/);if(m){try{p=JSON.parse(m[1].replace(/\\\//g,'/'))}catch(e){}}const d=doc(html);let iframe=d.querySelector('iframe[src*="url="]');let src=iframe?abs(iframe.getAttribute('src')):'';if(!src&&p&&p.url) src='https://fgsrg.hzqingshan.com/player/?url='+encodeURIComponent(p.url);return {src,token:p&&p.url,title:p?.vod_data?.vod_name||document.title||'枫叶播放',from:p?.from||'',page:playPage}}
+function setStatus(t){status.textContent=t||''}
+function renderTabs(active){const aid=getCatId(active);tabs.innerHTML=CATS.map(([n,p])=>{const catUrl=p.startsWith('/')?BASE+p:p;const pid=getCatId(catUrl);const match=pid===aid;return`<button class="tab focusable ${match?'active':''}" data-url="${esc(catUrl)}">${esc(n)}</button>`}).join('');tabs.querySelectorAll('.tab').forEach(b=>b.onclick=()=>loadPage(b.dataset.url))}
+function renderSections(sections){content.innerHTML=sections.map(sec=>`<section class="section"><div class="section-title"><h2>${esc(sec.title)}</h2></div><div class="grid">${sec.items.map(it=>`<article class="card focusable ${it.href===activeCard?'active':''}" tabindex="0" data-href="${esc(it.href)}"><div class="poster">${it.image?`<img loading="lazy" referrerpolicy="no-referrer" src="${esc(imgUrl(it.image))}" alt="${esc(it.title)}">`:`<div class="noimg">枫</div>`}</div><div class="meta"><div class="name">${esc(it.title)}</div><div class="remark">${esc(it.remark||'点击查看详情')}</div></div></article>`).join('')}</div></section>`).join('');content.querySelectorAll('.card').forEach(c=>{c.onclick=()=>{activeCard=c.dataset.href;document.querySelectorAll('.card.active').forEach(x=>x.classList.remove('active'));c.classList.add('active');openDetail(c.dataset.href)};c.onkeydown=e=>{if(e.key==='Enter')c.click()}})}
+async function loadPage(url){currentUrl=abs(url);renderTabs(currentUrl);content.innerHTML='<div class="empty loading">正在加载内容…</div>';try{const html=await reqText(currentUrl);pageInfo=parsePager(html);const sections=parseList(html);renderSections(sections);if(pageInfo&&(pageInfo.prev||pageInfo.next||pageInfo.home||pageInfo.last)){renderPager()}setStatus('已加载 '+sections.reduce((n,s)=>n+s.items.length,0)+' 条内容');restoreFocus()}catch(e){content.innerHTML='<div class="empty">加载失败：'+esc(e.message)+'</div>'}}
+async function search(q){
+q=clean(q);if(!q)return;
+history.pushState({route:'search',q},'', '#search='+encodeURIComponent(q));
+renderTabs('');
+content.innerHTML='<div class="empty loading">搜索中…</div>';
+try{
+ const urls=[
+   BASE+'/cupfox-search/-------------.html?wd='+encodeURIComponent(q),
+   BASE+'/cupfox-search/-'+encodeURIComponent(q)+'------------.html'
+ ];
+ let sections=[];
+  for(const url of urls){
+    const html=await reqText(url);
+    pageInfo=parsePager(html);
+    sections=parseList(html,q);
+    if(sections.length&&sections[0].items.length) break;
+  }
+  if(!sections.length||!sections[0].items.length){
+    content.innerHTML='<div class="empty">没有找到相关结果</div>';
+    setStatus('无搜索结果：'+q);
+    return;
+  }
+  sections[0].title='搜索：'+q;
+  renderSections(sections);
+  if(pageInfo&&(pageInfo.prev||pageInfo.next||pageInfo.home||pageInfo.last)){renderPager()}
+  setStatus('搜索完成：'+q);
+}catch(e){
+ content.innerHTML='<div class="empty">搜索失败，请换个关键词重试。</div>';
+ setStatus('搜索失败：'+e.message);
+}
+}
+async function openDetail(url){lastFocus=document.activeElement;document.body.classList.add('detail-active');$('#detailSheet').classList.add('active');$('#detailPanel').innerHTML='<div class="empty loading">正在读取详情…</div>';history.pushState({route:'detail',url},'', '#detail='+encodeURIComponent(url));try{const html=await reqText(url);const d=parseDetail(html,url);let firstLine=d.lines[0]||{sid:'1',name:'默认线路',eps:d.eps};
+function trimFieldValue(label,value){
+ const labels=['类型','导演','演员','语言','连载','更新'].filter(x=>x!==label).join('|');
+ return String(value||'').replace(new RegExp('\\s*(?:'+labels+')\\s*[：:].*$'),'').trim();
+}
+const shownFields=d.fields.filter(x=>x[0]!=='更新').map(x=>[x[0],trimFieldValue(x[0],x[1])]).filter(x=>x[1]);
+$('#detailPanel').innerHTML=`<button class="focusable" id="closeDetail">返回</button><div class="detail-head"><img class="detail-pic" referrerpolicy="no-referrer" src="${esc(imgUrl(d.image))}" onerror="this.style.display='none'"><div class="detail-side"><div class="detail-title">${esc(d.title)}</div><div class="detail-info">${shownFields.map(x=>`<div><b>${esc(x[0])}：</b>${esc(x[1])}</div>`).join('')||''}</div></div></div><div class="intro-pill">简介</div><p class="desc">${esc(d.desc||'暂无简介')}</p><div class="play-title">播放线路</div><div class="line-tabs">${(d.lines.length?d.lines:[firstLine]).map((ln,i)=>`<button class="line-tab focusable ${i===0?'active':''}" data-sid="${esc(ln.sid)}">${esc(ln.name)}(${ln.eps.length})</button>`).join('')}</div><div class="episodes" id="episodeBox"></div>`;
+function renderLine(sid){const ln=d.lines.find(x=>x.sid==sid)||firstLine;$('#episodeBox').innerHTML=ln.eps.map(ep=>`<button class="ep focusable" data-href="${esc(ep.href)}">${esc(ep.title)}</button>`).join('')||'<div class="empty">暂无分集</div>';$('#episodeBox').querySelectorAll('.ep').forEach(b=>b.onclick=()=>playEpisode(b.dataset.href,d.title,b.textContent,ln.name,ln.eps,d));}
+$('#closeDetail').onclick=closeDetail;$('#detailPanel').querySelectorAll('.line-tab').forEach(b=>b.onclick=()=>{$('#detailPanel').querySelectorAll('.line-tab').forEach(x=>x.classList.remove('active'));b.classList.add('active');renderLine(b.dataset.sid)});renderLine(firstLine.sid);$('#closeDetail').focus({preventScroll:true})}catch(e){$('#detailPanel').innerHTML='<button class="focusable" onclick="window.__fyClose()">返回</button><div class="empty">详情加载失败：'+esc(e.message)+'</div>'}}
+  async function playEpisode(url, vodName, epName, flagName, epsList, detailObj) {
+                let playUrl = abs(url);
+                if (playUrl && !playUrl.startsWith('video://')) {
+                    playUrl = 'video://' + playUrl;
+                }
+                try {
+                    if (window.fm) {
+                        if (typeof window.fm.vodInline === "function") {
+                            var nativeEps = epsList.map(function (e) {
+                                return { name: e.title, url: 'video://' + abs(e.href) };
+                            });
+        
+                            var allLines = detailObj.lines && detailObj.lines.length ? detailObj.lines : [{ name: flagName, eps: epsList }];
+                            var fromArray = [];
+                            var urlArray = [];
+        
+                            allLines.forEach(function (ln) {
+                                fromArray.push(ln.name);
+                                var epStrings = ln.eps.map(function (e) {
+                                    return e.title + '$video://' + abs(e.href);
+                                });
+                                urlArray.push(epStrings.join('#'));
+                            });
+        
+                            await window.fm.vodInline({
+                                vod_id: String(detailObj.url || ""),
+                                vod_name: vodName,
+                                vod_pic: detailObj.image || "",
+                                vod_play_from: fromArray.join('$$$'),
+                                vod_play_url: urlArray.join('$$$'),
+                                play_from: flagName,
+                                mark: epName,
+                                episodes: nativeEps,
+                                url: playUrl
+                            });
+                            return;
+                        }
+                        if (fm.play) {
+                            await fm.play(playUrl, vodName + " " + epName);
+                            return;
+                        }
+                    }
+                    location.href = playUrl;
+                } catch (e) {
+                    console.error("Play error:", e);
+                    location.href = playUrl;
+                }
+            }
+
+function closeDetail(){document.body.classList.remove('detail-active');$('#detailSheet').classList.remove('active');if(location.hash.startsWith('#detail=')) history.back(); if(lastFocus&&lastFocus.focus) setTimeout(()=>lastFocus.focus({preventScroll:true}),50)}window.__fyClose=closeDetail;
+async function nativeSearch(q){q=q||clean($('#kw').value);if(!q)return;if(window.fm&&fm.search){try{await fm.search(q,{direct:true});return}catch(e){}}search(q)}
+function restoreFocus(){setTimeout(()=>{const el=document.querySelector('.card')||document.querySelector('.tab.active'); if(el) el.focus({preventScroll:true})},30)}
+function handleKeys(e){if(e.key==='Escape'||e.key==='Backspace'){if($('#detailSheet').classList.contains('active')){e.preventDefault();closeDetail();return}}if(e.key==='Enter'&&document.activeElement?.classList.contains('focusable')&&document.activeElement.tagName!=='INPUT'){document.activeElement.click();}}
+function boot(){setStatus('正在初始化…');renderTabs(BASE+'/');$('#searchForm').onsubmit=e=>{e.preventDefault();search($('#kw').value)};const ns=$('#nativeSearch'); if(ns) ns.onclick=()=>nativeSearch();document.addEventListener('keydown',handleKeys,true);window.addEventListener('popstate',()=>{if($('#detailSheet').classList.contains('active')){document.body.classList.remove('detail-active');$('#detailSheet').classList.remove('active')}else loadPage(currentUrl)});loadPage(BASE+'/')}
+setTimeout(()=>{try{if(status&&status.textContent==='准备加载…')status.textContent='正在初始化 WebHome…'}catch(e){}},800);
+waitFm().then(()=>{try{boot()}catch(e){status.textContent='启动失败：'+e.message;console.error(e)}});
+})();
+</script>
+</body>
+</html>
