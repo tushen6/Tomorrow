@@ -27,6 +27,90 @@
             }
         },
         {
+            "key": "MiFunP",
+            "name": "🍒MiFun丨动漫",
+            "type": 3,
+            "api": "./py/MiFun动漫.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "热播",
+            "name": "🌞热播丨影视",
+            "type": 3,
+            "api": "./py/热播.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+        {
+            "key": "枫叶",
+            "name": "🍁枫叶丨影视",
+            "type": 3,
+            "api": "./py/枫叶.py",
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "爱剧",
+            "name": "❤️爱剧丨影视",
+            "type": 3,
+            "api": "./py/ppx.py",
+            "ext": "http://43.248.117.123:4680"
+        },
+        {
+            "key": "蓝鹰",
+            "name": "🦅蓝鹰丨影视",
+            "type": 3,
+            "api": "./JS/AppGet.js",
+            "searchable": 1,
+            "ext": {
+                "host": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+                "key": "ca94b06ca359d80e",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "葫芦",
+            "name": "🍡葫芦丨影视",
+            "type": 3,
+            "api": "./JS/AppGet.js",
+            "ext": {
+                "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
+                "key": "8R33VQSxzmCaHpEX",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "四叶草",
+            "name": "🍀叶草丨影视",
+            "type": 3,
+            "api": "./JS/AppGet.js",
+            "ext": {
+                "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/sss.txt",
+                "key": "wNCwbXzr0Bm6cS2C",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "火云",
+            "name": "🔥火云丨影视",
+            "type": 3,
+            "api": "./JS/火云.js"
+        },
+        {
             "key": "玩偶",
             "name": "🤪玩偶｜4K",
             "type": 3,
