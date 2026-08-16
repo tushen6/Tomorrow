@@ -40,17 +40,6 @@ https://github.catvod.com/https://raw.githubusercontent.com/tushen6/Tomorrow/mas
 - （14）东篱：https://16151.kstore.space
 - （15）嗷呜：http://www.英格里希嗷呜.top/tv
 - （16）潇洒：https://9877.kstore.space/single.json
-
-## 🔰影视软件下载地址
-- [OK影视下载地址](https://pan.quark.cn/s/de15b29d06ab)
-- [蜂蜜影视下载地址](https://pan.quark.cn/s/dbb8599d1a0d)
-- [影视仓下载地址](https://pan.quark.cn/s/5b22c647669d)
-- [Easybox下载地址](https://pan.quark.cn/s/e26f04897443)
-- [peekpili下载地址](https://pan.quark.cn/s/fac3791a0c24)
-- [TVBox_黑盒和白盒下载地址](https://pan.quark.cn/s/4670b8ee41a0)
-- [影視+下载地址](https://pan.quark.cn/s/d004fc6d8d36)
-- [宝盒下载地址](https://pan.quark.cn/s/6eef2fa1b59a)
-
  
 ## 🫶使用说明
 - 所有资源均收集于互联网，仅供测试研究使用，切勿商用；
