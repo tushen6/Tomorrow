@@ -10,14 +10,12 @@ https://github.catvod.com/https://raw.githubusercontent.com/tushen6/Tomorrow/mas
 
 https://github.catvod.com/https://raw.githubusercontent.com/tushen6/Tomorrow/master/tvbox.json
 
-## ⚙️GitHub加速站 
+## ⚙️GitHub镜像加速站 
 - https://gh-proxy.com/
 - https://github.catvod.com/      
 - https://gh.xxooo.cf/
 - https://gh.llkk.cc/
 - https://github.ednovas.xyz/
-- https://gitdl.cn/         
-- https://cf.ghproxy.cc/
 - https://ghproxy.net/
 - https://gh.aptv.app/
 - https://gitpr.xmcom.us.kg/
