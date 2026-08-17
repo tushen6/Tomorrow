@@ -2,63 +2,67 @@
     "urls": [
         {
             "url": "https://8815.kstore.vip/tvbox/wmz",
-            "name": "🤓网络接口🤓🚦"
-        },
-        {
-            "url": "http://肥猫.net/tv",
-            "name": "🐼肥猫🐼🚦"
-        },
-        {
-            "url": "https://9280.kstore.vip/newwex.json",
-            "name": "🐂王二小🐮🚦"
-        },
-        {
-            "url": "https://9877.kstore.space/ONE/one.json",
-            "name": "💫潇洒💫🚦"
-        },
-        {
-            "url": "http://www.小不点.com",
-            "name": "🐟摸鱼🐟🚦"
+            "name": "🤓网络🤓"
         },
         {
             "url": "https://www.饭太硬.cc/tv",
-            "name": "👽饭太硬👿🚦"
+            "name": "👽饭太硬👿"
+        },
+        {
+            "url": "http://肥猫.net/tv",
+            "name": "🐼肥猫🐼"
+        },
+        {
+            "url": "https://9280.kstore.vip/aiwex.json",
+            "name": "🐂王二小🐮"
+        },
+          {
+            "url": "http://www.英格里希嗷呜.top/tv",
+            "name": "🐿️嗷呜🐿️"
+        },
+        {
+            "url": "https://9877.kstore.space/one.json",
+            "name": "💫潇洒💫"
+        },
+        {
+            "url": "http://www.小不点.com",
+            "name": "🐟摸鱼🐟"
         },
         {
             "url": "https://16151.kstore.space",
-            "name": "🤓东篱🤓🚦"
+            "name": "🤓东篱🤓"
         },
         {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json",
-            "name": "👿小米👿🚦"
+            "url": "https://www.tangsan.fun/tv",
+            "name": "👿小米👿"
         },
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "🔮巧记🔮🚦"
+            "name": "🔮巧记🔮"
         },
         {
             "url": "http://hb.小虎斑.site:25252/仅供测试",
-            "name": "🐯小虎斑🐯🚦"
+            "name": "🐯虎斑🐯"
         },
         {
             "url": "https://欧歌.v.nxog.top/m/",
-            "name": "🌈欧歌🌈🚦"
+            "name": "🌈欧歌🌈"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-            "name": "🍎南风🍎🚦"
+            "name": "🍎南风🍎"
         },
         {
             "url": "https://www.252035.xyz/p/jsm.json",
-            "name": "⚪PG⚪🚦"
+            "name": "⚪PG⚪"
         },
         {
             "url": "https://www.252035.xyz/z/FongMi.json",
-            "name": "🌱真心🌱🚦"
+            "name": "🌱真心🌱"
         },
         {
             "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-            "name": "📚道长📚🚦"
+            "name": "📚道长📚"
         }
     ]
 }
