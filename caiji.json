@@ -1,9 +1,9 @@
 {
-    "logo": "./assets/logo2025121201.png",
+    "logo": "https://img.meituan.net/portalweb/2d4b59b4fe3ab8c5fbe1150a68f52448586638.gif",
     "sites": [
      {
             "key": "采集影视",
-            "name": "采集丨影视",
+            "name": "采集影视",
             "type": 1,
             "api": "https://dy.7772888.xyz/api.php/tvbox",
             "searchable": 1,
@@ -12,7 +12,7 @@
         },
         {
             "key": "dyttzy",
-            "name": "电影丨天堂",
+            "name": "电影天堂",
             "type": 1,
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
             "searchable": 1,
@@ -514,91 +514,6 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 10
-        }
-    ],
-    "headers": [
-        {
-            "host": "mgtv.ottiptv.cc",
-            "header": {
-                "User-Agent": "okHttp/Mod-1.4.0.0",
-                "Referer": "https://mgtv.ottiptv.cc/"
-            }
-        }
-    ],
-    "lives": [
-        {
-            "name": "冰茶",
-            "type": 0,
-            "playerType": 2,
-            "url": "https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true",
-            "ua": "bingcha/1.1(mianfeifenxiang)"
-        }
-    ],
-    "parses": [
-        {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Web"
-        },
-        {
-            "name": "777",
-            "type": 0,
-            "url": "https://www.huaqi.live/?url="
-        },
-        {
-            "name": "jsonplayer",
-            "type": 0,
-            "url": "https://jx.jsonplayer.com/player/?url="
-        },
-        {
-            "name": "xmflv",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url="
-        }
-    ],
-   
-    "doh": [
-        {
-            "name": "Google",
-            "url": "https://dns.google/dns-query",
-            "ips": [
-                "8.8.4.4",
-                "8.8.8.8"
-            ]
-        },
-        {
-            "name": "Cloudflare",
-            "url": "https://cloudflare-dns.com/dns-query",
-            "ips": [
-                "1.1.1.1",
-                "1.0.0.1",
-                "2606:4700:4700::1111",
-                "2606:4700:4700::1001"
-            ]
-        },
-        {
-            "name": "AdGuard",
-            "url": "https://dns.adguard.com/dns-query",
-            "ips": [
-                "94.140.14.140",
-                "94.140.14.141"
-            ]
-        },
-        {
-            "name": "DNSWatch",
-            "url": "https://resolver2.dns.watch/dns-query",
-            "ips": [
-                "84.200.69.80",
-                "84.200.70.40"
-            ]
-        },
-        {
-            "name": "Quad9",
-            "url": "https://dns.quad9.net/dns-query",
-            "ips": [
-                "9.9.9.9",
-                "149.112.112.112"
-            ]
         }
     ]
 }
