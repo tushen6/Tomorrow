@@ -22,7 +22,7 @@ https://github.catvod.com/https://raw.githubusercontent.com/tushen6/Tomorrow/mas
 - https://ghproxy.cn/
 
 ## ✨热门(TVBox、影视仓、OK影视)配置接口
-- （1）网络接口 ： https://8815.kstore.vip/tvbox/wmz
+- （1）网络接口 ： `https://8815.kstore.vip/tvbox/wmz`
 - （2）真心：https://tvbox.catvod.com/FongMi.json
 - （3）虎斑：http://hb.小虎斑.site:25252/仅供测试
 - （4）饭太硬：https://www.饭太硬.cc/tv
